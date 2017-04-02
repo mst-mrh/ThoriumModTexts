@@ -2,8 +2,8 @@
   {
     "TypeName": "SickThrow",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "The Sick Throw",
-    "ToolTip": "Attacks blast enemies with elemental energy",
+    "Name": "乾坤一掷",
+    "ToolTip": "用元素之力摧毁敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,11 +12,11 @@
   {
     "TypeName": "TerrariumBomber",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Bomber",
-    "ToolTip": "Rapidly fires compact rockets that explode violently",
+    "Name": "元素雷发射器",
+    "ToolTip": "快速击发会产生大爆炸的密集火箭弹",
     "ToolTip2": "",
     "AddToolTip": [
-      "Should only be used with Rocket I ammunition..."
+      "只应配合火箭1号弹药使用..."
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,14 +24,14 @@
   {
     "TypeName": "TerrariumBoots",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Particle Sprinters",
+    "Name": "元素粒子加速鞋",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Provides the enhanced ability to walk on water, ice, fire blocks and lava",
-      "Allows flight",
-      "Increased flight time",
-      "The wearer can run impossibly fast"
+      "提供在水，冰，灼热方块和岩浆上行走的能力",
+      "能够飞行",
+      "增加飞行时间",
+      "穿戴者可以跑的比香港记者还快"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,15 +39,15 @@
   {
     "TypeName": "TerrariumBreastPlate",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Breastplate",
-    "ToolTip": "'All will fall before your might...'",
+    "Name": "元素之灵护胸",
+    "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 20",
-      "Life regeneration increased by 3",
-      "Maximum mana increased by 20",
-      "15% increased damage",
-      "10% increased critical strike chance"
+      "最大生命值增加 20",
+      "增加3生命恢复量",
+      "最大魔法上限增加 20",
+      "增加15%伤害",
+      "增加10%暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,7 +55,7 @@
   {
     "TypeName": "TerrariumCanyonSplitter",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Canyon Splitter",
+    "Name": "元素解离者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -65,11 +65,11 @@
   {
     "TypeName": "TerrariumCore",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Core",
+    "Name": "元素核心",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Unimaginable power rests within...'"
+      "'里面息居着不可想象的力量...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,25 +77,25 @@
   {
     "TypeName": "TerrariumDefender",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Defender",
-    "ToolTip": "-Omni Shield-",
+    "Name": "元素守护者",
+    "ToolTip": "-最终之盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Grants immunity to most debuffs",
-      "Grants immunity to knockback and fire blocks",
-      "Life increased by 20",
-      "Prolonged after hit invincibility",
-      "Absorbs 25% of damage done to nearby players on your team when above 25% life",
-      "When below 75 life, the shield will rapidly regenerate your life",
-      "Increases defense greatly when below 100 life"
+      "免疫大多数debuff",
+      "免疫击退和灼热方块",
+      "增加20生命",
+      "延长无敌时间",
+      "为周围高于25%血量的队友吸收25%的伤害",
+      "当生命低于75时，这面盾牌会快速回复你的生命",
+      "在生命值少于100时极大的增加防御力"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TerrariumFisher",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Whale Catcher",
+    "Name": "元灵捕鲸者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -105,15 +105,15 @@
   {
     "TypeName": "TerrariumGreaves",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Greaves",
-    "ToolTip": "'All will fall before your might...'",
+    "Name": "元素之灵腿甲",
+    "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 15",
-      "Life regeneration increased by 2",
-      "Maximum mana increased by 20",
-      "5% increased damage",
-      "20% increased movement speed"
+      "增加15点最大生命",
+      "增加生命恢复量2",
+      "最大魔法上限增加 20",
+      "增加5%伤害",
+      "增加20%移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -121,15 +121,15 @@
   {
     "TypeName": "TerrariumHelmet",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Helmet",
-    "ToolTip": "'All will fall before your might...'",
+    "Name": "元素之灵头盔",
+    "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 15",
-      "Life regeneration increased by 1",
-      "Maximum mana increased by 20",
-      "5% increased damage",
-      "Sight in the dark is improved"
+      "增加15点最大生命",
+      "增加生命恢复量1",
+      "最大魔法上限增加 20",
+      "增加5%伤害",
+      "增加暗处的视野"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -137,13 +137,13 @@
   {
     "TypeName": "TerrariumHolyScythe",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Holy Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "元素圣镰",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a prismatic scythe all around you",
-      "Releases damaging terrarium orbs all around you on use"
+      "快速旋转一柄七彩之镰",
+      "用时在你周围释放能造成伤害的元素之球"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -153,8 +153,8 @@
   {
     "TypeName": "TerrariumHyperDisc",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Hyper Disc",
-    "ToolTip": "'Holds devastating power'",
+    "Name": "元素飞盘",
+    "ToolTip": "'拥有压倒性的力量'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -163,8 +163,8 @@
   {
     "TypeName": "TerrariumKnife",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Ripple Knife",
-    "ToolTip": "Throws a limitless supply of elementally infused energy knives",
+    "Name": "元素波纹飞刀",
+    "ToolTip": "掷出无数灌输了元素之力的小刀",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -176,9 +176,9 @@
   {
     "TypeName": "TerrariumLongbow",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Longbow",
-    "ToolTip": "Does not consume fired arrows",
-    "ToolTip2": "Fires two additional terrarium arrows",
+    "Name": "元素长弓",
+    "ToolTip": "不消耗燃烧箭",
+    "ToolTip2": "额外射出两支元素之箭",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -186,11 +186,11 @@
   {
     "TypeName": "TerrariumPulseRifle",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Pulse Rifle",
+    "Name": "元素冲锋来福枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% chance to not consume ammo"
+      "15%的概率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -198,7 +198,7 @@
   {
     "TypeName": "TerrariumSaber",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Saber",
+    "Name": "元素誓约之剑",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -208,8 +208,8 @@
   {
     "TypeName": "TerrariumSageStaff",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Sage Staff",
-    "ToolTip": "Fires an unstable globule of chromatic energy",
+    "Name": "大元素圣使法杖",
+    "ToolTip": "释放海啸般的能量波涛",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -218,8 +218,8 @@
   {
     "TypeName": "TerrariumShotPro",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Pulser Shot",
-    "ToolTip": "Hit enemies are sundered by elemental energy",
+    "Name": "元素脉冲弹",
+    "ToolTip": "集合元素之力切断敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -228,8 +228,8 @@
   {
     "TypeName": "TerrariumSpear",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Spear",
-    "ToolTip": "Sends out a volatile after image",
+    "Name": "元素长矛",
+    "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -238,8 +238,8 @@
   {
     "TypeName": "TerrariumSummon",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Enigma Rift Staff",
-    "ToolTip": "Tears a rift into reality, bringing forth a volatile Enigma",
+    "Name": "谜团法杖",
+    "ToolTip": "制造一道空间裂缝，召唤出一只 谜团",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -248,7 +248,7 @@
   {
     "TypeName": "TerrariumTerrarformer",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Terrarformer",
+    "Name": "元素大地熔炼者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -258,12 +258,12 @@
   {
     "TypeName": "TerrariumWings",
     "Namespace": "ThoriumMod.Items.Terrarium",
-    "Name": "Terrarium Wings",
-    "ToolTip": "Allows heightened flight and slow fall",
+    "Name": "元素之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases jump height",
-      "You give off a rainbow glow"
+      "增加跳跃高度",
+      "你释放出彩虹般的鲜艳色彩"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

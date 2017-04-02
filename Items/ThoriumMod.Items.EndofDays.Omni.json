@@ -2,11 +2,11 @@
   {
     "TypeName": "DeathEssence",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Death Essence",
+    "Name": "死亡精华",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Mote of the next life'"
+      "'来世之尘埃'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,13 +14,13 @@
   {
     "TypeName": "OmniArablastHood",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Master Arbalest Hood",
-    "ToolTip": "'Block out the sky...'",
+    "Name": "弓弩大师兜帽",
+    "ToolTip": "'日月无光...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "24% increased arrow damage",
-      "Decreases chance to consume ammo by 25%",
-      "Your ranged damage applies ichor to hit enemies"
+      "提升24%箭矢伤害",
+      "25%几率不消耗弹药",
+      "你的远程伤害会对敌人附着腐脓"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -28,13 +28,13 @@
   {
     "TypeName": "OmniBody",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Assassin's Guard",
-    "ToolTip": "'Once you've picked a target, they don't survive...'",
+    "Name": "刺客盔甲",
+    "ToolTip": "'当你选定一个目标的时候，他就已经死了...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "16% increased ranged damage",
-      "20% increased firing speed",
-      "25% increased ranged critical strike chance"
+      "提升16%远程伤害",
+      "提升20%开火速度",
+      "提升25%的远程暴击概率"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -42,8 +42,8 @@
   {
     "TypeName": "OmniBow",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Omni-Bow",
-    "ToolTip": "Unleashes a barrage of death arrows",
+    "Name": "枯萎之弓",
+    "ToolTip": "释放出一排死亡箭矢",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -52,11 +52,11 @@
   {
     "TypeName": "OmniCannon",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Omni-Cannon",
-    "ToolTip": "Left Click - Shoots three high speed energy pulses",
+    "Name": "枯萎加农",
+    "ToolTip": "左键：发射三束死亡射波动",
     "ToolTip2": "",
     "AddToolTip": [
-      "Right Click - Unleashes a powerful, high knockback, burst of energy"
+      "右键-释放一团强力的，高击退的能量爆破"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -64,12 +64,12 @@
   {
     "TypeName": "OmniGreaves",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Assassin's Walkers",
-    "ToolTip": "'Once you've picked a target, they don't survive...'",
+    "Name": "刺客行足",
+    "ToolTip": "'当你选定一个目标的时候，他就已经死了...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased ranged damage",
-      "20% increased movement speed"
+      "提升15%远程伤害",
+      "增加20%移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,13 +77,13 @@
   {
     "TypeName": "OmniMarkHead",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Master Marksman's Scouter Set",
-    "ToolTip": "'The living should be culled...'",
+    "Name": "神枪手套装",
+    "ToolTip": "'生命将被剔除...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "24% increased bullet and rocket damage",
-      "Decreases chance to consume ammo by 25%",
-      "Your ranged damage applies cursed flames to enemies"
+      "提升24%子弹和火箭伤害",
+      "25%几率不消耗弹药",
+      "你的远程伤害对敌人施加咒焰效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -91,8 +91,8 @@
   {
     "TypeName": "TheJavelin",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "The Javelin",
-    "ToolTip": "Launches an additional homing rocket fuelled by death itself",
+    "Name": "投标者",
+    "ToolTip": "额外发射一个代表死亡的火箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -101,8 +101,8 @@
   {
     "TypeName": "WyrmDecimator",
     "Namespace": "ThoriumMod.Items.EndofDays.Omni",
-    "Name": "Wyrm Decimator",
-    "ToolTip": "Turns arrows into pulses of ricocheting Wyrm breath",
+    "Name": "屠龙者",
+    "ToolTip": "将箭转化为不断弹射的龙息波动",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

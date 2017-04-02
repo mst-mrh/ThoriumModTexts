@@ -2,8 +2,8 @@
   {
     "TypeName": "BeholderBag",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "BeholderMask",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Beholder Mask",
-    "ToolTip": "'Peer into the abyss'",
+    "Name": "注视者面具",
+    "ToolTip": "向深渊凝视'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,12 +22,12 @@
   {
     "TypeName": "BeholderStaff",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Beholder Staff",
-    "ToolTip": "Summons a beholder to lay waste to your foes",
+    "Name": "注视者权杖",
+    "ToolTip": "召唤一只注视者向你的敌人倾泻虚空中的能量",
     "ToolTip2": "",
     "AddToolTip": [
-      "Beholders occupy 2 minion slots",
-      "Beholders will grant you sight of nearby enemies"
+      "小注视者占用2个召唤栏位",
+      "注视者会提供你附近敌人的位置"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,7 +35,7 @@
   {
     "TypeName": "BeholderTrophy",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Fallen Beholder Trophy",
+    "Name": "堕落注视者荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -45,11 +45,11 @@
   {
     "TypeName": "CarKey",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Tome of the Void Gazer's Chariot",
-    "ToolTip": "'Become the harbinger of the void'",
+    "Name": "虚空凝视者战车之书",
+    "ToolTip": "'成为窥视虚空的先知'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summons a mountable Beholder"
+      "召唤一个可骑乘的注视者"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,8 +57,8 @@
   {
     "TypeName": "DemonFireBlastWand",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Demon Fire Blast-Wand",
-    "ToolTip": "Rapidly fires molten explosions",
+    "Name": "魔炎爆破法杖",
+    "ToolTip": "快速射出岩浆爆弹",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -67,23 +67,23 @@
   {
     "TypeName": "DevilPauldron",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Devil's Carapace",
-    "ToolTip": "-Soul Storage-",
+    "Name": "邪恶甲壳",
+    "ToolTip": "-灵魂容器-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Infused with evil forces beyond your comprehension'",
-      "Life regeneration increased by 2",
-      "While worn, taking fatal damage will instead return you to 100 life",
-      "This effect will recharge every two minutes"
+      "'注入了超乎想象的邪恶力量'",
+      "增加生命恢复量2",
+      "穿戴时，收到致命伤害后复活100生命",
+      "2分钟cd"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EyeofBeholder",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Eye of the Beholder",
-    "ToolTip": "While equipped, the eye will give vision of your cursors current position",
+    "Name": "注视者之眼",
+    "ToolTip": "装备上时，这只眼睛将会照亮鼠标所在的位置",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -92,8 +92,8 @@
   {
     "TypeName": "Obliterator",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Obliterator",
-    "ToolTip": "The fired bullet will multi-hit enemies",
+    "Name": "抹除者",
+    "ToolTip": "发射的子弹会多次打击敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -102,12 +102,12 @@
   {
     "TypeName": "ThermogenicImpaler",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Thermogenic Impaler",
+    "Name": "热炎刺",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Left Click - Swings the blade, igniting hit enemies",
-      "Right Click - Thrusts the blade, singing hit enemies"
+      "左键 - 挥动剑刃，点燃敌人",
+      "右键 - 刺出剑刃，灼烧击中的敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -115,11 +115,11 @@
   {
     "TypeName": "VoidLens",
     "Namespace": "ThoriumMod.Items.FallenBeholder",
-    "Name": "Void Lens",
-    "ToolTip": "Summons an entity from another dimension",
+    "Name": "虚空透镜",
+    "ToolTip": "召唤一个来自其他位面的生物",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only usable within the underworld"
+      "只能在地狱使用"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

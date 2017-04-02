@@ -2,11 +2,11 @@
   {
     "TypeName": "ArcaneDust",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Arcane Dust",
+    "Name": "奥术粉尘",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It shimmers with magical capabilities'"
+      "'它据有十分强大的魔法潜能'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,8 +14,8 @@
   {
     "TypeName": "Confuse",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Confuse",
-    "ToolTip": "Creates a bolt of confusing magic",
+    "Name": "迷惑",
+    "ToolTip": "制造一束混乱魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -24,8 +24,8 @@
   {
     "TypeName": "Dissolve",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Dissolve",
-    "ToolTip": "Creates a bolt of defense melting magic",
+    "Name": "溶解",
+    "ToolTip": "制造一束熔穿护甲的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,8 +34,8 @@
   {
     "TypeName": "Freeze",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Freeze",
-    "ToolTip": "Creates a bolt of deep-freezing magic",
+    "Name": "冻结",
+    "ToolTip": "制造一束冻结敌人的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -44,8 +44,8 @@
   {
     "TypeName": "Ignite",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Ignite",
-    "ToolTip": "Creates a bolt of fiery magic",
+    "Name": "点燃",
+    "ToolTip": "制造一束剧烈燃烧的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -54,8 +54,8 @@
   {
     "TypeName": "MagikStaff",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Magik Staff",
-    "ToolTip": "Creates a bolt of fluctuating elements",
+    "Name": "梅吉克法杖",
+    "ToolTip": "召唤一团波动的元素",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -64,8 +64,8 @@
   {
     "TypeName": "MagikStaffAmber",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Amber-Augmented Magik Staff",
-    "ToolTip": "Creates a bolt of fluctuating elements",
+    "Name": "元素灵法杖",
+    "ToolTip": "召唤一团波动的元素",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -74,11 +74,11 @@
   {
     "TypeName": "ManaBauble",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Mana Bauble",
-    "ToolTip": "'An orb of coalesced magical energy'",
+    "Name": "魔力球",
+    "ToolTip": "'一颗魔力凝聚成的宝珠'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum mana increased by 10"
+      "最大生命值提升10"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -86,8 +86,8 @@
   {
     "TypeName": "Pierce",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Pierce",
-    "ToolTip": "Creates a bolt of heavy, piercing magic",
+    "Name": "穿透",
+    "ToolTip": "制造一束沉重且具有穿透性的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -96,8 +96,8 @@
   {
     "TypeName": "Poison",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Poison",
-    "ToolTip": "Creates a bolt of poisonous magic",
+    "Name": "剧毒",
+    "ToolTip": "制造一束剧毒的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -106,9 +106,9 @@
   {
     "TypeName": "SilkCap",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Silk Cap",
-    "ToolTip": "Magical critical strike chance increased by 2%",
-    "ToolTip2": "Maximum mana increased by 20",
+    "Name": "丝绸帽子",
+    "ToolTip": "提升2%的魔法暴击率",
+    "ToolTip2": "最大魔法上限增加 20",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -116,9 +116,9 @@
   {
     "TypeName": "SilkHat",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Silk Hat",
-    "ToolTip": "Magical critical strike chance increased by 2%",
-    "ToolTip2": "Magic damage increased by 2",
+    "Name": "丝绸帽子",
+    "ToolTip": "提升2%的魔法暴击率",
+    "ToolTip2": "魔法伤害增加 2",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -126,11 +126,11 @@
   {
     "TypeName": "SilkLeggings",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Silk Leggings",
+    "Name": "丝绸腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Magical critical strike chance increased by 2%"
+      "提升2%的魔法暴击率"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -138,11 +138,11 @@
   {
     "TypeName": "SilkTabard",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Silk Tabard",
+    "Name": "丝绸战袍",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Magical critical strike chance increased by 2%"
+      "提升2%的魔法暴击率"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -150,9 +150,9 @@
   {
     "TypeName": "SilkTurban",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Silk Turban",
-    "ToolTip": "5% increased minion knockback",
-    "ToolTip2": "Summon damage increased by 2",
+    "Name": "丝绸缠巾",
+    "ToolTip": "提升5%召唤物的击退",
+    "ToolTip2": "召唤伤害增加 2",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -160,8 +160,8 @@
   {
     "TypeName": "Siphon",
     "Namespace": "ThoriumMod.Items.EarlyMagic",
-    "Name": "Siphon",
-    "ToolTip": "Creates a bolt of life-force stealing magic",
+    "Name": "虹吸",
+    "ToolTip": "制造一束吸取生命的魔法",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

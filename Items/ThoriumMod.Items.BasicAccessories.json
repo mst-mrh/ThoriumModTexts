@@ -2,20 +2,20 @@
   {
     "TypeName": "AmberRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Amber Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "琥珀戒指",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Minion damage increased by 2"
+      "召唤物伤害提升2"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "AmethystRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Amethyst Ring",
-    "ToolTip": "Damage taken is reduced by 2",
+    "Name": "紫水晶戒指",
+    "ToolTip": "减少2点所受伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -24,8 +24,8 @@
   {
     "TypeName": "AquaticSonarDevice",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "High-tech Sonar Device",
-    "ToolTip": "Allows you to see what's biting your hook",
+    "Name": "高科技声呐仪",
+    "ToolTip": "使你能够知道是什么咬住了你的鱼钩",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,8 +34,8 @@
   {
     "TypeName": "AzureGauntlet",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Azure Gauntlet",
-    "ToolTip": "7% increased magic damage",
+    "Name": "蔚蓝手套",
+    "ToolTip": "提升7%的魔法伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -44,11 +44,11 @@
   {
     "TypeName": "Band",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Band",
+    "Name": "箍",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Looks like a simple ring'"
+      "'看起来很普通的戒指'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -56,20 +56,20 @@
   {
     "TypeName": "BoneGrip",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Bone Grip",
-    "ToolTip": "-Throwing Grip-",
+    "Name": "骨手套",
+    "ToolTip": "-投掷手套-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Throwing speed increased by 15%"
+      "'投掷速度增加15%'"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "BoomerangBonus",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Boomerang Bonus",
-    "ToolTip": "You may throw one additional boomerang",
+    "Name": "额外回旋镖",
+    "ToolTip": "有几率扔出一个额外的回旋镖",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -78,12 +78,12 @@
   {
     "TypeName": "Boots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Traveler's Boots",
+    "Name": "旅行者之靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "Your dash will reach its peak faster"
+      "增加5%移速",
+      "你的冲刺速度更快"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -91,26 +91,26 @@
   {
     "TypeName": "CopperBuckler",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Copper Buckler",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "铜制圆盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 1",
-      "Maximum life increased by 5"
+      "防御下降1",
+      "最大生命值提升5"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CrashBoots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Crash Boots",
+    "Name": "震地靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased movement speed",
-      "Landing on the ground releases a powerful shockwave",
-      "The damage of the shockwave is increased by the fall distance"
+      "增加8%移速",
+      "英雄式下落后会在周身释放一道强烈的冲击波",
+      "冲击波伤害更你的坠落高度有关"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,8 +118,8 @@
   {
     "TypeName": "CrimsonGauntlet",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Crimson Gauntlet",
-    "ToolTip": "7% increased melee damage",
+    "Name": "血腥手套",
+    "ToolTip": "提升7%的近战伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -128,26 +128,26 @@
   {
     "TypeName": "CrystalArcanum",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Crystal Arcanite",
-    "ToolTip": "-Healer Class-",
+    "Name": "奥术水晶石",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Maximum life increased by 20",
-      "Maximum mana increased by 20",
-      "Healing spells will heal an additional 1 life"
+      "最大生命值增加 20",
+      "最大魔法上限增加 20",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CrystalEyeMask",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Mask of the Crystal Eye",
+    "Name": "晶体眼面具",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "16% Increased critical strike chance",
-      "Critical strikes deal 15% more damage"
+      "增加16%暴击率",
+      "增加15%暴击伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -155,20 +155,20 @@
   {
     "TypeName": "CrystalSpearTip",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Crystal Spear Tip",
-    "ToolTip": "-Spear Tip-",
+    "Name": "水晶枪尖",
+    "ToolTip": "-枪尖-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Spear weapons will release a shattering spear tip"
+      "长枪类武器会释放出一道枪气"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CursedCore",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Cursed Flail-Core",
-    "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit that apply cursed flames to damaged enemies",
+    "Name": "咒炎链锤核心",
+    "ToolTip": "链球武器有几率在攻击时释放尖钉球并给附近敌人施加咒火",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -177,8 +177,8 @@
   {
     "TypeName": "DiamondRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Diamond Ring",
-    "ToolTip": "2% Increased critical strike chance",
+    "Name": "钻石戒指",
+    "ToolTip": "提升2%的暴击率",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -187,32 +187,32 @@
   {
     "TypeName": "EmeraldRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Emerald Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "绿宝石戒指",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Ranged damage increased by 2"
+      "远程伤害提升2"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EnchantedAmberRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Amber Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "强化琥珀戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Minion damage increased by 4"
+      "召唤物伤害提升4"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EnchantedAmethystRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Amethyst Ring",
-    "ToolTip": "Damage taken is reduced by 5",
+    "Name": "强化紫水晶戒",
+    "ToolTip": "减少5点所受伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -221,9 +221,9 @@
   {
     "TypeName": "EnchantedDiamondRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Diamond Ring",
-    "ToolTip": "3% Increased critical strike chance",
-    "ToolTip2": "4% increased critical strike damage",
+    "Name": "强化钻石戒",
+    "ToolTip": "增加3%的暴击率",
+    "ToolTip2": "增加 4% 暴击伤害",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -231,48 +231,48 @@
   {
     "TypeName": "EnchantedEmeraldRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Emerald Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "强化绿宝石戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Ranged damage increased by 4"
+      "远程伤害提升4"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EnchantedRubyRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Ruby Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "强化红宝石戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Melee damage increased by 4"
+      "近战伤害提升4"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EnchantedSapphireRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Sapphire Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "强化蓝宝石戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Magic damage increased by 4"
+      "魔法伤害提升4"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "EnchantedShield",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Shield",
-    "ToolTip": "While above 20 mana, Defense is increased by 6",
+    "Name": "注魔护盾",
+    "ToolTip": "当魔力在20以上的时候，防御会增加6点",
     "ToolTip2": "",
     "AddToolTip": [
-      "Grants immunity to knockback",
-      "Mana is sapped when struck in combat"
+      "免疫击退",
+      "20蓝以上时，收到伤害会消耗蓝量"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,24 +280,24 @@
   {
     "TypeName": "EnchantedTopazRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Enchanted Topaz Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "强化黄玉戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Throwing damage increased by 4"
+      "投掷伤害提升4"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "FearMonger",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Fear Monger",
+    "Name": "恐惧驱散者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% reduced damage taken",
-      "Enemies are less likely to target you"
+      "5%伤害减免",
+      "敌人不太可能优先攻击你了"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -305,12 +305,12 @@
   {
     "TypeName": "Firestormboots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Firestorm Boots",
+    "Name": "火焰风暴靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Provides the enhanced ability to walk on water, ice, Fire blocks and lava",
-      "Allows flight & the wearer can run incredibly fast"
+      "在冰，水，灼烧砖块和岩浆上提供额外移动能力",
+      "可以飞行，穿戴者可以跑得超级快"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -318,39 +318,39 @@
   {
     "TypeName": "ForgottenCrossNecklace",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Forgotten Cross Necklace",
-    "ToolTip": "-Healer Class-",
+    "Name": "失落的十字项链",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Reminds you of an old friend...'",
-      "Healing spells will increase the healed targets defense by 20 for 15 seconds",
-      "Increases length of invincibility after taking damage "
+      "'让你回想起了一个老朋友...'",
+      "治疗法术会增加接受治疗的友军20防御，持续15秒",
+      "增加受伤后的无敌时间"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "GoldAegis",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Gold Aegis",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "黄金盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "Maximum life increased by 11"
+      "提升2防御",
+      "增加11最大生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HealthyBoots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Healthy Boots",
+    "Name": "生命恢复靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "While running, your life regeneration is increased"
+      "增加5%移速",
+      "跑动时，你的生命恢复量增加"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -358,26 +358,13 @@
   {
     "TypeName": "HolyAegis",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Holy Aegis",
+    "Name": "神圣庇护",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 20",
-      "Increases length of invincibility after taking damage",
-      "Absorbs 25% of damage done to nearby players on your team when above 25% life"
-    ],
-    "AddToolTip2": [],
-    "ModifyTooltips": []
-  },
-  {
-    "TypeName": "HoverBoots",
-    "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Hover Boots",
-    "ToolTip": "",
-    "ToolTip2": "",
-    "AddToolTip": [
-      "6% increased movement speed",
-      "Allows you to briefly hover after walking off a tile"
+      "最大生命值增加 20",
+      "延长受伤后的无敌时间",
+      "为周围高于25%血量的队友吸收25%的伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -385,8 +372,8 @@
   {
     "TypeName": "IronCore",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Iron Flail-Core",
-    "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit",
+    "Name": "铁链球核心",
+    "ToolTip": "链球武器有几率在攻击时释放尖钉球",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -395,21 +382,21 @@
   {
     "TypeName": "IronShield",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Iron Shield",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "铁盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 1",
-      "Maximum life increased by 7"
+      "防御下降1",
+      "提升7最大生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "JadeGauntlet",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Jade Gauntlet",
-    "ToolTip": "7% increased ranged damage",
+    "Name": "翡翠手套",
+    "ToolTip": "提升7%的远程伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -418,21 +405,21 @@
   {
     "TypeName": "LeadShield",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Lead Shield",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "铅盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 1",
-      "Maximum life increased by 8"
+      "防御下降1",
+      "提升8最大生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LeatherGlove",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Leather Gauntlet",
-    "ToolTip": "'Fits nice and snug'",
+    "Name": "皮革手套",
+    "ToolTip": "'尺寸刚刚好'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -441,12 +428,12 @@
   {
     "TypeName": "ManaChargedRocketeers",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Mana-Charged Rocketeers",
+    "Name": "回魔火箭鞋",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Allows flight at the cost of mana",
-      "Increases mana regeneration"
+      "允许飞行，飞行中消耗蓝量",
+      "提升魔法恢复速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -454,8 +441,8 @@
   {
     "TypeName": "MeteorHand",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Meteor Hand",
-    "ToolTip": "15% increased melee speed",
+    "Name": "陨石手套",
+    "ToolTip": "提升15%的近战速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -464,9 +451,9 @@
   {
     "TypeName": "MoltenScale",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Molten Scale",
-    "ToolTip": "Defense increased by 4",
-    "ToolTip2": "Enemies that directly attack you will be burned",
+    "Name": "熔岩鳞片",
+    "ToolTip": "提升4点防御",
+    "ToolTip2": "直接攻击你的敌人会被点燃",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -474,24 +461,24 @@
   {
     "TypeName": "MoltenSpearTip",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Molten Spear Tip",
-    "ToolTip": "-Spear Tip-",
+    "Name": "炽热枪尖",
+    "ToolTip": "-枪尖-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Spear weapons will release a flaming spear tip"
+      "长枪类武器会释放灼烧着的枪气"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "NecromancerSoul",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Necromancer's Soul",
-    "ToolTip": "'Great evil has been committed to create this...'",
+    "Name": "死灵法师之魂",
+    "ToolTip": "'倾注了强大的邪恶之力才创造了它...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased minion damage",
-      "10% increased minion knockback"
+      "提升10%召唤伤害",
+      "提升10%召唤击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -499,8 +486,8 @@
   {
     "TypeName": "NinjaEmblem",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Ninja Emblem",
-    "ToolTip": "15% increased throwing damage",
+    "Name": "忍者纹章",
+    "ToolTip": "提升15%投掷伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -509,12 +496,12 @@
   {
     "TypeName": "ObsidianScale",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Obsidian Scale",
-    "ToolTip": "Defense increased by 3",
-    "ToolTip2": "Enemies that directly attack you will be burned",
+    "Name": "黑曜石片",
+    "ToolTip": "提升3点防御",
+    "ToolTip2": "直接攻击你的敌人会被点燃",
     "AddToolTip": [
-      "Grants immunity to knockback",
-      "Grants immunity to fire blocks "
+      "免疫击退",
+      "不会被灼烧砖块烧到"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -522,15 +509,15 @@
   {
     "TypeName": "Phylactery",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Phylactery",
-    "ToolTip": "'An artifact fit for a true necromancer...'",
+    "Name": "魂匣",
+    "ToolTip": "'一位真正的死灵法师的杰作...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions by 1",
-      "10% increased minion damage",
-      "15% increased minion knockback",
-      "While worn, taking fatal damage will instead return you to 20 life",
-      "This effect will recharge every five minutes"
+      "增加1召唤栏",
+      "提升10%召唤伤害",
+      "提升15%召唤击退",
+      "穿戴时，收到致死伤害后会复活20血量",
+      "5分钟cd"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -538,74 +525,74 @@
   {
     "TypeName": "PlatinumAegis",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Platinum Aegis",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "铂金盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "Maximum life increased by 12"
+      "提升2防御",
+      "最大生命提升12"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "RubyRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Ruby Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "红宝石戒指",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Melee damage increased by 2"
+      "近战伤害提升2"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SapphireRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Sapphire Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "蓝宝石戒指",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Magic damage increased by 2"
+      "魔法伤害增加 2"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SilverBulwark",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Silver Bulwark",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "银壁垒",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "Maximum life increased by 9"
+      "提升2防御",
+      "最大生命提升9"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SilverSpearTip",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Silver Spear Tip",
-    "ToolTip": "-Spear Tip-",
+    "Name": "银枪尖",
+    "ToolTip": "-枪尖-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Spear weapons will release a damaging spear tip"
+      "长枪类武器会释放一道枪气"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SlagStompers",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Slag Stompers",
+    "Name": "熔渣重踏",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased movement speed",
-      "Damaging slag drops from below your boots"
+      "增加10%的移动速度",
+      "你的鞋子会释放有伤害的熔渣"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -613,12 +600,12 @@
   {
     "TypeName": "SlowFallBoots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Drift Boots",
+    "Name": "浮流靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "Slows your descent while falling"
+      "增加5%移速",
+      "减缓降落速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -626,12 +613,12 @@
   {
     "TypeName": "SoulStone",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Soul Stone",
-    "ToolTip": "'A part of your soul is stored within'",
+    "Name": "灵魂石",
+    "ToolTip": "'你的一部分灵魂储纳于其中'",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased minion damage",
-      "Maximum life decreased by 20"
+      "提升8%召唤伤害",
+      "最大生命提升20"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -639,8 +626,8 @@
   {
     "TypeName": "SpikedBracer",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Spiked Bracer",
-    "ToolTip": "25% of the damage you take is returned back to the enemy",
+    "Name": "尖刺锁",
+    "ToolTip": "你所受到的25%的伤害会反弹给敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -649,11 +636,11 @@
   {
     "TypeName": "SpikedStompers",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Spiked Stompers",
-    "ToolTip": "10% increased movement speed",
+    "Name": "尖刺践踏者",
+    "ToolTip": "增加10%的移动速度",
     "ToolTip2": "",
     "AddToolTip": [
-      "35% of the damage you take is returned back to the enemy"
+      "收到的35%伤害会反弹给敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -661,12 +648,12 @@
   {
     "TypeName": "SteelToedBoots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Steel Toed Boots",
+    "Name": "钢钉靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "Falling speed increased moderately"
+      "增加5%移速",
+      "下落速度提升"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -674,49 +661,49 @@
   {
     "TypeName": "TheCompleteSet",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "The Complete Set",
-    "ToolTip": "-Throwing Guide-",
+    "Name": "全套投掷者指引书",
+    "ToolTip": "-投掷指导-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Knowledge is power'",
-      "Throwing damage will duplicate itself for 1/2 of the damage"
+      "'只是就是力量'",
+      "投掷伤害会复制自己造成50%的原本伤害"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TheRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "The Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "魔戒",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Damage increased by 4",
-      "3% increased critical strike chance",
-      "4% increased critical strike damage",
-      "Damage taken is reduced by 5"
+      "伤害提升4",
+      "暴击率提升3%",
+      "增加 4% 暴击伤害",
+      "减少5点所受伤害"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TinBuckler",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Tin Buckler",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "锡制圆盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 1",
-      "Maximum life increased by 6"
+      "防御下降1",
+      "最大生命提升6"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TopazGauntlet",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Bright Gauntlet",
-    "ToolTip": "7% increased thrown damage",
+    "Name": "亮色手套",
+    "ToolTip": "增加7%的投掷伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -725,37 +712,37 @@
   {
     "TypeName": "TopazRing",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Topaz Ring",
-    "ToolTip": "-Bonus is not listed, but is in effect-",
+    "Name": "黄玉戒指",
+    "ToolTip": "-效果不显示，但的确有效果-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Throwing damage increased by 2"
+      "提升2投掷伤害"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TungstenBulwark",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Tungsten Bulwark",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "钨壁垒",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "Maximum life increased by 10"
+      "提升2防御",
+      "最大生命值提升10"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TurboBoots",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Turbo Boots",
+    "Name": "涡轮动力靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "Increases jump height greatly"
+      "增加5%移速",
+      "增加跳跃高度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -763,21 +750,21 @@
   {
     "TypeName": "TurnUndead",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Turn Undead",
-    "ToolTip": "-Healer Class-",
+    "Name": "死伤转化盾",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "You and nearby allies will take 8% reduced damage",
-      "Enemies are less likely to target you"
+      "你和周围队友会增加8%伤害减免",
+      "敌人不太可能优先攻击你了"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "VileCore",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "Vile Flail-Core",
-    "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit that apply ichor to damaged enemies",
+    "Name": "邪恶链锤核心",
+    "ToolTip": "链球武器有几率在攻击时释放尖钉球并给附近敌人施加脓血debuff",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -786,11 +773,11 @@
   {
     "TypeName": "WarpCore",
     "Namespace": "ThoriumMod.Items.BasicAccessories",
-    "Name": "The Warp Core",
+    "Name": "翘曲核心",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases movement speed beyond comprehension"
+      "获得了超越尝试的速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

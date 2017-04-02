@@ -2,8 +2,8 @@
   {
     "TypeName": "BloodThirster",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "Blood Thirster",
-    "ToolTip": "'Made from the corrupted elements'",
+    "Name": "饮血",
+    "ToolTip": "'由腐化的元素制作而成'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "DoomFireAxe",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "Doom Fire Axe",
-    "ToolTip": "Releases an explosion on enemy impact",
+    "Name": "毁灭之火",
+    "ToolTip": "撞到敌人后爆炸",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,9 +22,9 @@
   {
     "TypeName": "Nocturnal",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "Nocturnal",
-    "ToolTip": "Upon hitting an enemy, homing 'black light' might be released",
-    "ToolTip2": "This yo-yo can be held mid-air forever",
+    "Name": "梦魇",
+    "ToolTip": "在击中敌人之后有几率射出回旋的黑暗之光",
+    "ToolTip2": "这个悠悠球可以永久空转",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -32,9 +32,9 @@
   {
     "TypeName": "Sanguine",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "Sanguine",
-    "ToolTip": "Upon hitting an enemy, homing 'life light' might be released",
-    "ToolTip2": "This yo-yo can be held mid-air forever",
+    "Name": "血色之护",
+    "ToolTip": "在击中敌人之后有几率射出回旋的生命之光",
+    "ToolTip2": "这个悠悠球可以永久空转",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -42,8 +42,8 @@
   {
     "TypeName": "SearingBlade",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "Searing Blade",
-    "ToolTip": "'The blade of this masterly forged sword will burn the hit enemy for the rest of their days...'",
+    "Name": "灼烧之刃",
+    "ToolTip": "'这把由大师铸造的剑的剑刃能够将敌人焚烧殆尽...'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -52,8 +52,8 @@
   {
     "TypeName": "TrueBloodThirster",
     "Namespace": "ThoriumMod.Items.MeleeItems",
-    "Name": "True Blood Thirster",
-    "ToolTip": "Unleashes blood energy on every swing",
+    "Name": "真·饮血",
+    "ToolTip": "每次挥动都能射出血红剑气",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

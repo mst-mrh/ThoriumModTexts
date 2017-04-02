@@ -2,9 +2,9 @@
   {
     "TypeName": "BandofReplenishment",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Band of Replenishment",
-    "ToolTip": "Increased Health and Mana regeneration",
-    "ToolTip2": "Taking more than three damage will replenish some Health and Mana",
+    "Name": "大恢复戒指",
+    "ToolTip": "增加生命和魔力回复速度",
+    "ToolTip2": "攻击超过三次将会恢复一些血量和魔力",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -12,11 +12,11 @@
   {
     "TypeName": "ConcentratedThorium",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Concentrated Thorium",
+    "Name": "浓缩瑟银",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Far more powerful than a simple bar'"
+      "'远比一个普通的金属锭强大'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,8 +24,8 @@
   {
     "TypeName": "Crietz",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Crietz",
-    "ToolTip": "5% Increased critical strike chance",
+    "Name": "精准项链",
+    "ToolTip": "提升5%的暴击率",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,8 +34,8 @@
   {
     "TypeName": "EnforcedThoriumPax",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Enforced Thorium Pax",
-    "ToolTip": "Can mine hellstone",
+    "Name": "重铸瑟银斧镐",
+    "ToolTip": "能够挖掘狱岩石",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -44,8 +44,8 @@
   {
     "TypeName": "MagicThorHammer",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thor's Hammer: Magic",
-    "ToolTip": "Right clicking will activate Melee Mode",
+    "Name": "索尔魔锤",
+    "ToolTip": "右键单击以激活至近战模式",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -54,8 +54,8 @@
   {
     "TypeName": "MeleeThorHammer",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thor's Hammer: Melee",
-    "ToolTip": "Right clicking will activate Ranged Mode",
+    "Name": "索尔战锤",
+    "ToolTip": "右键单击以激活至射手模式",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -64,8 +64,8 @@
   {
     "TypeName": "MiningCharm",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Mining Charm",
-    "ToolTip": "10% Increased pickaxe mining speed",
+    "Name": "挖掘护符",
+    "ToolTip": "提升10%的挖掘速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -74,11 +74,11 @@
   {
     "TypeName": "PulseLure",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Pulse Lure",
+    "Name": "能量诱饵",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Fish love a good pulse'"
+      "'鱼儿喜欢这震动'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -86,8 +86,8 @@
   {
     "TypeName": "Purify",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Spell Book: Purify",
-    "ToolTip": "'Purifies corruption and crimson blocks'",
+    "Name": "咒书：净化",
+    "ToolTip": "'净化腐化和血腥物块'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -96,8 +96,8 @@
   {
     "TypeName": "RangedThorHammer",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thor's Hammer: Ranged",
-    "ToolTip": "Right clicking will activate Magic Mode",
+    "Name": "索尔飞锤",
+    "ToolTip": "右键单击以切换至魔法模式",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -106,11 +106,11 @@
   {
     "TypeName": "StrangeCrate",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Strange Crate",
+    "Name": "奇特板条箱",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Right click to open"
+      "右键单击以打开"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,9 +118,9 @@
   {
     "TypeName": "ThoriumAnvil",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Anvil",
-    "ToolTip": "Allows you to craft Thorium items",
-    "ToolTip2": "Operates like a regular Anvil",
+    "Name": "瑟银砧",
+    "ToolTip": "使你能够制作与雷电有关的物品",
+    "ToolTip2": "和普通的铁砧一样",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -128,12 +128,12 @@
   {
     "TypeName": "ThoriumBag",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Bag of Potential",
+    "Name": "潜能包",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'What could be inside?'",
-      "Can be used at the Extractinator"
+      "'里面有什么呢?'",
+      "可以放入精炼机中"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -141,11 +141,11 @@
   {
     "TypeName": "ThoriumBar",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Bar",
+    "Name": "瑟银锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It pulses with energy'"
+      "'有能量在其上涌动'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -153,7 +153,7 @@
   {
     "TypeName": "ThoriumBlade",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Blade",
+    "Name": "瑟银长刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -163,7 +163,7 @@
   {
     "TypeName": "ThoriumBoomerang",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Boomerang",
+    "Name": "瑟银回力镖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -173,7 +173,7 @@
   {
     "TypeName": "ThoriumBow",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Bow",
+    "Name": "瑟银弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -183,7 +183,7 @@
   {
     "TypeName": "ThoriumDagger",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Dagger",
+    "Name": "瑟银匕",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -193,23 +193,23 @@
   {
     "TypeName": "ThoriumGreaves",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Greaves",
+    "Name": "瑟银护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It pulses with energy'"
+      "'有能量在其上涌动'"
     ],
     "AddToolTip2": [
-      "5% increased movement speed"
+      "增加5%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ThoriumHelmet",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Helmet",
-    "ToolTip": "'It pulses with energy'",
-    "ToolTip2": "4% increased critical strike chance",
+    "Name": "瑟银头盔",
+    "ToolTip": "'有能量在其上涌动'",
+    "ToolTip2": "增加 4% 暴击率",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,25 +217,25 @@
   {
     "TypeName": "ThoriumMail",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Mail",
+    "Name": "瑟银盔甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It pulses with energy'"
+      "'有能量在其上涌动'"
     ],
     "AddToolTip2": [
-      "Damage taken is reduced by 5%"
+      "增加5%伤害减免"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ThoriumOre",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Ore",
+    "Name": "瑟银矿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'This is truly an unnatural ore'"
+      "'这真的是非自然的矿石'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -243,7 +243,7 @@
   {
     "TypeName": "ThoriumPax",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Pax",
+    "Name": "瑟银斧镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -253,7 +253,7 @@
   {
     "TypeName": "ThoriumRevolver",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Revolver",
+    "Name": "瑟银手枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -263,20 +263,20 @@
   {
     "TypeName": "ThoriumShield",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Shield",
-    "ToolTip": "-Metallurgy Shield-",
+    "Name": "瑟银盾",
+    "ToolTip": "-金属盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 3",
-      "Maximum life increased by 15"
+      "提升3点防御",
+      "增加15点最大生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ThoriumSpear",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Spear",
+    "Name": "瑟银长矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -286,8 +286,8 @@
   {
     "TypeName": "ThoriumStaff",
     "Namespace": "ThoriumMod.Items.Thorium",
-    "Name": "Thorium Staff",
-    "ToolTip": "Fires out a bolt of magic, that will send out additional sparks at nearby enemies",
+    "Name": "瑟银法杖",
+    "ToolTip": "射出一团球形闪电，击中敌人后会分裂",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

@@ -2,289 +2,289 @@
   {
     "TypeName": "AegisAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Protective Energy",
-    "Tip": "Damage reduction increased by 8%"
+    "Name": "守护",
+    "Tip": "伤害减免增加8%"
   },
   {
     "TypeName": "AngelBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Lil' Cherub",
-    "Tip": "From your shoulder to the back line!"
+    "Name": "小天使",
+    "Tip": "从你的肩膀飞向后方阵地!"
   },
   {
     "TypeName": "Awake",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Awake",
-    "Tip": "Cannot enter the dream..."
+    "Name": "苏醒",
+    "Tip": "睡不着哇，无法修仙"
   },
   {
     "TypeName": "BloodBoost",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Blood Boost",
-    "Tip": "An ally is augmenting your on-hit effects"
+    "Name": "鲜花强化",
+    "Tip": "盟友获得了额外攻击效果"
   },
   {
     "TypeName": "BloomBoost",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Bloom Boost",
-    "Tip": "Your defense and life regeneration are increased"
+    "Name": "鲜花强化",
+    "Tip": "你的防御和生命回复速度增加"
   },
   {
     "TypeName": "CelestialDamage",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Radiant Nova",
-    "Tip": "Radiant damage increased by 30%"
+    "Name": "辐射新星",
+    "Tip": "辐射伤害增加30%"
   },
   {
     "TypeName": "CelestialHeal",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Healing Nova",
-    "Tip": "Healing spells will heal an additional 1 life"
+    "Name": "治愈新星",
+    "Tip": "治愈法术会治疗额外1血"
   },
   {
     "TypeName": "Cured",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Cured",
-    "Tip": "All damage inflicting debuffs have been dispelled"
+    "Name": "治疗",
+    "Tip": "所有造成伤害的debuff被移除了"
   },
   {
     "TypeName": "DevilBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Lil' Devil",
-    "Tip": "From your shoulder to the front line!"
+    "Name": "小恶魔",
+    "Tip": "从你的肩膀到前线!"
   },
   {
     "TypeName": "DistortedTime",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Distorted Reality",
-    "Tip": "The flow of time is being heavily influenced"
+    "Name": "歪曲之现实",
+    "Tip": "时间的流动被严重阻碍了"
   },
   {
     "TypeName": "DistortedTimeBoost",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Distorted Time",
-    "Tip": "The flow of time is being heavily influenced"
+    "Name": "歪曲时刻",
+    "Tip": "时间的流动被严重阻碍了"
   },
   {
     "TypeName": "DistortedTimeEnemy",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Distorted Time",
-    "Tip": "Time is slowing this enemy down"
+    "Name": "歪曲时刻",
+    "Tip": "时间减缓了这个敌人"
   },
   {
     "TypeName": "DragonHeart",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Dragon Heart",
-    "Tip": "Damage increased by 15%"
+    "Name": "巨龙之心",
+    "Tip": "伤害增加15%"
   },
   {
     "TypeName": "DreamBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Dreaming",
-    "Tip": "Immune to all threats"
+    "Name": "入梦",
+    "Tip": "无视一切威胁"
   },
   {
     "TypeName": "DreamCatcherBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Dream Catcher",
-    "Tip": "Taking fatal damage will instead return you to max life"
+    "Name": "梦境捕捉者",
+    "Tip": "受到的致命打击会转而返还你大量生命值"
   },
   {
     "TypeName": "DreamCatcherDebuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Dream Caught",
-    "Tip": "You cannot be revived from the dream"
+    "Name": "清醒",
+    "Tip": "你无法在梦境中重生"
   },
   {
     "TypeName": "GraniteAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Granite Energy",
-    "Tip": "An ally is augmenting your damage and on-hit effects"
+    "Name": "花岗岩能量光环",
+    "Tip": "盟友获得了额外伤害以及攻击效果"
   },
   {
     "TypeName": "HealerDamageAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Damage",
-    "Tip": "Your ally is increasing your damage by 12%"
+    "Name": "伤害光环",
+    "Tip": "你的盟友增加了12%伤害"
   },
   {
     "TypeName": "HealerDefenseAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Defense",
-    "Tip": "Your ally is increasing your damage reduction by 12%"
+    "Name": "守御光环",
+    "Tip": "你的盟友过的了12%伤害减免"
   },
   {
     "TypeName": "HealerManaAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Mana Regeneration",
-    "Tip": "Your ally is increasing your mana regeneration"
+    "Name": "辉煌光环",
+    "Tip": "你的盟友的魔法恢复速度提升了"
   },
   {
     "TypeName": "HealerRegenAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Life Regeneration",
-    "Tip": "Your ally is increasing your life regeneration by 8"
+    "Name": "回血光环",
+    "Tip": "你的盟友获得了额外8点生命恢复"
   },
   {
     "TypeName": "HealerSpeedAura",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Frenzy",
-    "Tip": "Your ally is increasing your melee, firing, casting, throwing and movement speed"
+    "Name": "嗜血光环",
+    "Tip": "盟友的近战，射击，施法和移动速速提升了"
   },
   {
     "TypeName": "HealingLoss",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Out of Touch",
-    "Tip": "Your bonus healing is nullified"
+    "Name": "恢复免疫",
+    "Tip": "你的额外治疗无效了"
   },
   {
     "TypeName": "HealingMastery",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Healing Mastery",
-    "Tip": "Mana regeneration, healing bonus and movement speed increased"
+    "Name": "妙手医师",
+    "Tip": "魔法恢复，额外治疗量和移速提升"
   },
   {
     "TypeName": "HolyAuraTired",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Holy Aura",
-    "Tip": "A protective aura surrounds your cursor"
+    "Name": "神圣光环",
+    "Tip": "一个保护性的光环围绕着你的鼠标"
   },
   {
     "TypeName": "HolyBonus",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Holy Power",
-    "Tip": "Healing spells will heal an additional 1 life"
+    "Name": "神圣力量",
+    "Tip": "治愈法术会治疗额外1血"
   },
   {
     "TypeName": "HolyDefense",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Holy Defense",
-    "Tip": "Your defense has been increased by 20"
+    "Name": "神圣防护",
+    "Tip": "你提升了20防御"
   },
   {
     "TypeName": "HolyGlare",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Holy Glare",
-    "Tip": "Holy light purges the unclean!"
+    "Name": "圣神之光",
+    "Tip": "神圣之光净化了不洁之力!"
   },
   {
     "TypeName": "HolyGlareD",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Dark Glare",
-    "Tip": "Dark light purges the unworthy!"
+    "Name": "黑暗之光",
+    "Tip": "黑暗之光侵蚀了光明!"
   },
   {
     "TypeName": "HolyShine",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Aura : Holy Shine",
-    "Tip": "Your offensive and defensive attributes are increased greatly"
+    "Name": "辉耀光环",
+    "Tip": "你的进攻和方式能力大幅提升"
   },
   {
     "TypeName": "LifeEssence",
     "Namespace": "ThoriumMod.Buffs.Healer",
     "Name": "Life Essence",
-    "Tip": "Life energy surrounds your cursor"
+    "Tip": "生命能量在你的鼠标周围环绕"
   },
   {
     "TypeName": "LifeSpiritBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Life Spirit",
-    "Tip": "Its too bright to look at directly"
+    "Name": "生命之灵",
+    "Tip": "闪瞎了你的氪金狗眼以至于无法直视"
   },
   {
     "TypeName": "MartyrLoss",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Martyr",
-    "Tip": "Your sacrifice wont be in vain..."
+    "Name": "烈士",
+    "Tip": "你的牺牲不会白费..."
   },
   {
     "TypeName": "MistBulwark",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Mist Fuelled Bulwark",
-    "Tip": "Your maximum life has been increased by 50"
+    "Name": "迷惑光盾",
+    "Tip": "你的生命上限提升50"
   },
   {
     "TypeName": "NullZoneBuff",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Null-Zone",
-    "Tip": "Projectile damage taken reduced by 30%"
+    "Name": "沉默领域",
+    "Tip": "抛射物伤害减少30%"
   },
   {
     "TypeName": "Ointment",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Ointment",
-    "Tip": "No longer poisoned or engulfed in flames"
+    "Name": "药膏",
+    "Tip": "不再中毒或着火"
   },
   {
     "TypeName": "PurifiedRegen",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Purified Regeneration",
-    "Tip": "An ally has increased your life regeneration"
+    "Name": "净化恢复",
+    "Tip": "盟友的生命恢复提升"
   },
   {
     "TypeName": "RadiantBoost",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Illustrious Energy",
-    "Tip": "Radiant damage increased by 12%"
+    "Name": "闪耀能量",
+    "Tip": "辐射伤害提升12%"
   },
   {
     "TypeName": "Rebirth",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Rebirth",
-    "Tip": "Taking fatal damage will instead return you to 150 life"
+    "Name": "重生",
+    "Tip": "受到致死伤害会回复150血而非死亡"
   },
   {
     "TypeName": "RebirthTired",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Ancient Exhaustion",
-    "Tip": "Attempting to cast revival wont do much..."
+    "Name": "疲惫",
+    "Tip": "尝试复活法术然并无卵用..."
   },
   {
     "TypeName": "Rebound",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Rebound",
-    "Tip": "Time is attempting to catch up with itself"
+    "Name": "契合",
+    "Tip": "时间证尝试着追上自己"
   },
   {
     "TypeName": "Savior",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Liberated",
-    "Tip": "Your speed is enhanced and you cant take damage"
+    "Name": "自由",
+    "Tip": "你的速度提升并无法受到伤害"
   },
   {
     "TypeName": "SpeedBurst",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Speed Burst",
-    "Tip": "Healing an ally has increased your movement speed significantly"
+    "Name": "速度爆发",
+    "Tip": "治疗盟友后你会大幅度提升你的速度"
   },
   {
     "TypeName": "SpiritualConnection",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Spiritual Connection",
-    "Tip": "Your healing spells will heal additional life"
+    "Name": "灵魂链接",
+    "Tip": "你的治疗会回复额外的1点生命"
   },
   {
     "TypeName": "Stabilized",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Stabilized",
-    "Tip": "The molecular stabilizer's beam wont bounce to you"
+    "Name": "稳固",
+    "Tip": "分子稳固射线对你并无卵用"
   },
   {
     "TypeName": "TangyHeal",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Tangy Heal",
-    "Tip": "Life regeneration rate increased"
+    "Name": "刺激性治愈",
+    "Tip": "生命回复速度增加"
   },
   {
     "TypeName": "TheDream",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "The Dream",
-    "Tip": "The world is a lucid reality..."
+    "Name": "梦",
+    "Tip": "这个令人清醒的世界洗脱了污浊"
   },
   {
     "TypeName": "TwilightBoost",
     "Namespace": "ThoriumMod.Buffs.Healer",
-    "Name": "Twilight Boost",
-    "Tip": "An ally is augmenting your on-hit effects"
+    "Name": "星光加持",
+    "Tip": "盟友获得了额外攻击效果"
   }
 ]

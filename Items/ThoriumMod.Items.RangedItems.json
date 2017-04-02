@@ -2,7 +2,7 @@
   {
     "TypeName": "AdamantiteCarbine",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Adamantite Carbine",
+    "Name": "精金卡宾枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "Buckshot",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Buckshot",
-    "ToolTip": "Functions as a bullet",
+    "Name": "铅弹",
+    "ToolTip": "可以充当弹药",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,8 +22,8 @@
   {
     "TypeName": "CinderString",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Cinder String",
-    "ToolTip": "Turns wooden arrows into a blast of flames",
+    "Name": "灰烬",
+    "ToolTip": "将木箭转换成爆炎",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -32,7 +32,7 @@
   {
     "TypeName": "CobaltPopper",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Cobalt Popper",
+    "Name": "钴蓝手枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -42,8 +42,8 @@
   {
     "TypeName": "CometCrossfire",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Comet Crossfire",
-    "ToolTip": "The bow itself can critically strike, unleashing a powerful arrow",
+    "Name": "流星十字火",
+    "ToolTip": "此弓可暴击，释放强大的弓箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -52,9 +52,9 @@
   {
     "TypeName": "EternalNight",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Eternal Night",
-    "ToolTip": "Does not require ammunition",
-    "ToolTip2": "Shoots night arrows, which eats away at enemies it hits",
+    "Name": "永夜",
+    "ToolTip": "不需要弹药",
+    "ToolTip2": "射出吞噬敌人的永夜箭矢",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -62,11 +62,11 @@
   {
     "TypeName": "GrassStringBow",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Bramble Shot",
-    "ToolTip": "Turns wooden arrows into 'Verdant Arrows'",
+    "Name": "荆棘",
+    "ToolTip": "将木箭转换成翡翠箭",
     "ToolTip2": "",
     "AddToolTip": [
-      "Verdant Arrows have a chance to poison the hit enemy"
+      "翡翠箭有几率使击中的敌人中毒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -74,9 +74,9 @@
   {
     "TypeName": "Hemorrhage",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Hemorrhage",
-    "ToolTip": "Does not require ammunition",
-    "ToolTip2": "Shoots blood arrows, which heal you when they impact an enemy",
+    "Name": "血溢",
+    "ToolTip": "不需要弹药",
+    "ToolTip2": "射出击中敌人后可恢复生命的染血箭矢",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -84,11 +84,11 @@
   {
     "TypeName": "MyceliumGattlingPulser",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Mycelium Gattling Gun",
+    "Name": "真菌加特林",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% chance to not consume ammo"
+      "10%的概率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -96,7 +96,7 @@
   {
     "TypeName": "MythrilPelter",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Mythril Pelter",
+    "Name": "秘银冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -106,7 +106,7 @@
   {
     "TypeName": "OrichPelter",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Orichalcum Pelter",
+    "Name": "奥刚冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -116,7 +116,7 @@
   {
     "TypeName": "PalladiumSub",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Palladium Sub-machine Gun",
+    "Name": "钯金机关枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -126,8 +126,8 @@
   {
     "TypeName": "PhaseLauncher",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Burst Launcher",
-    "ToolTip": "Shoots an additional multi-hit rocket",
+    "Name": "爆破发射器",
+    "ToolTip": "发射一个额外多重打击的火箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -136,12 +136,12 @@
   {
     "TypeName": "RailGun",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Rail Gun",
+    "Name": "轨道枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Killing enemies has a chance to set your gun into overdrive",
-      "15% chance to not consume ammo"
+      "杀死敌人有几率使你的枪超频",
+      "15%的概率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -149,11 +149,11 @@
   {
     "TypeName": "Slugger",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Slugger",
-    "ToolTip": "Unleashes a burst of bullets",
+    "Name": "重炮枪",
+    "ToolTip": "射出一簇子弹",
     "ToolTip2": "",
     "AddToolTip": [
-      "Has an incredibly high recoil, which sends you backwards"
+      "有着极强的后坐力，会使你后退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -161,7 +161,7 @@
   {
     "TypeName": "StreamSting",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Stream Sting",
+    "Name": "激流",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -171,7 +171,7 @@
   {
     "TypeName": "TerraBow",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Terra Bow",
+    "Name": "泰拉弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -181,7 +181,7 @@
   {
     "TypeName": "TitaniumRifle",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Titanium Rifle",
+    "Name": "钛金来福枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -191,12 +191,12 @@
   {
     "TypeName": "Trigun",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "Trigun",
-    "ToolTip": "'Unleash the stampede'",
+    "Name": "圣发条枪",
+    "ToolTip": "'发射一团子弹'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Shoots in three round bursts",
-      "25% chance to not consume ammo"
+      "一次射出三发子弹",
+      "25%的概率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -204,8 +204,8 @@
   {
     "TypeName": "TrueEternalNight",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "True Eternal Night",
-    "ToolTip": "Shoots a burst of arrows, with the central one being a night arrow",
+    "Name": "真·永夜",
+    "ToolTip": "射出一簇箭矢，中间那支将会变成永夜之箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -214,7 +214,7 @@
   {
     "TypeName": "TrueHallowedRepeater",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "True Hallowed Repeater",
+    "Name": "真·圣弩",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -224,8 +224,8 @@
   {
     "TypeName": "TrueHemmorage",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "True Hemorrhage",
-    "ToolTip": "Shoots a burst of arrows, with the central one being a blood arrow",
+    "Name": "真·血溢",
+    "ToolTip": "射出一簇箭矢，中间那支将会变成鲜血之箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -234,8 +234,8 @@
   {
     "TypeName": "Zapper",
     "Namespace": "ThoriumMod.Items.RangedItems",
-    "Name": "The Zapper",
-    "ToolTip": "Shoots a short ranged pulse of lightning that can pierce infinitely",
+    "Name": "电束枪",
+    "ToolTip": "射出一道无限穿透的短程脉冲电流",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

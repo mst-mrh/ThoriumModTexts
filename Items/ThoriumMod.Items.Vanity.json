@@ -2,12 +2,12 @@
   {
     "TypeName": "AncientDragonBreastplate",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Dragon Breastplate",
-    "ToolTip": "'Made from ancient dragon scales'",
+    "Name": "古龙胸甲",
+    "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased non-melee damage",
-      "10% increased melee damage"
+      "提升8%非近战伤害",
+      "增加10%的近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,11 +15,11 @@
   {
     "TypeName": "AncientDragonGreaves",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Dragon Greaves",
-    "ToolTip": "'Made from ancient dragon scales'",
+    "Name": "古龙腿甲",
+    "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased movement speed"
+      "增加12%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,11 +27,11 @@
   {
     "TypeName": "AncientDragonMask",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Dragon Mask",
-    "ToolTip": "'Made from ancient dragon scales'",
+    "Name": "古龙面具",
+    "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "7% increased critical strike chance"
+      "增加7%暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,12 +39,12 @@
   {
     "TypeName": "AncientDragonScale",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Dragon Scale",
+    "Name": "古龙鳞",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A material of an age long passed'",
-      "Allows you to visually transmute Dragon Armor into Ancient Dragon Armor"
+      "'年代久远的材料'",
+      "能使巨龙护甲在视觉上转变成远古巨龙护甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,11 +52,11 @@
   {
     "TypeName": "aObsidianHelmet",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Obsidian Helmet",
+    "Name": "古代黑曜盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Tougher than any natural material'"
+      "'比任何自然的物质都要坚硬'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -64,11 +64,11 @@
   {
     "TypeName": "bObsidianChestGuard",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Obsidian Chestguard",
+    "Name": "古代黑曜甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Tougher than any natural material'"
+      "'比任何自然的物质都要坚硬'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -76,11 +76,11 @@
   {
     "TypeName": "cObsidianGreaves",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Ancient Obsidian Greaves",
+    "Name": "古代黑曜腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Tougher than any natural material'"
+      "'比任何自然的物质都要坚硬'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,12 +88,12 @@
   {
     "TypeName": "ObsidianIngot",
     "Namespace": "ThoriumMod.Items.Vanity",
-    "Name": "Obsidian Ingot",
+    "Name": "黑曜石精华",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A material of an age long passed'",
-      "Allows you to visually transmute Granite Armor into Obsidian Armor"
+      "'年代久远的材料'",
+      "能使花岗岩护甲在视觉上转变成黑曜石护甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

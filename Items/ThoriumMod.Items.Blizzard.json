@@ -2,8 +2,8 @@
   {
     "TypeName": "BoreanBag",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,7 +12,7 @@
   {
     "TypeName": "BoreanTrophy",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Borean Strider Trophy",
+    "Name": "极地行者荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -22,13 +22,13 @@
   {
     "TypeName": "CryoFang",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "The Cryo-Fang",
+    "Name": "极寒之牙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Causes an icy burst upon hitting an enemy or tile",
-      "Attacks might significantly hinder the hit enemies movement",
-      "Boss monsters cannot suffer from this effect"
+      "击中敌人或碰到砖块后造成冰爆",
+      "攻击可能会大幅降低敌人移速",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -39,12 +39,12 @@
   {
     "TypeName": "FreezeRay",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Freeze Ray",
-    "ToolTip": "Turns musket balls into beams of frost",
+    "Name": "霜冻射线",
+    "ToolTip": "将普通子弹转换成寒冰射线",
     "ToolTip2": "",
     "AddToolTip": [
-      "Frost Beams might significantly hinder the hit enemies movement",
-      "Boss monsters cannot suffer from this effect"
+      "冰冻射线几率大幅降低敌人速度",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,12 +52,12 @@
   {
     "TypeName": "FrostBurntTongue",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Frost Burnt Tongue",
-    "ToolTip": "'Those lost within the blizzard suffer a gruesome fate...'",
+    "Name": "霜火之舌",
+    "ToolTip": "'那些在暴风雪中迷失的人们将迎来可怕的命运...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Significantly hinders the hit enemies movement",
-      "Boss monsters cannot suffer from this effect"
+      "大幅降低受伤敌人速度",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -68,11 +68,11 @@
   {
     "TypeName": "FrostFang",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Borean Fang Staff",
-    "ToolTip": "Rapidly shoots frozen spider teeth that might significantly hinder the enemies movement",
+    "Name": "极牙法杖",
+    "ToolTip": "快速射出有几率能使敌人速度显著降低的寒冰蛛牙",
     "ToolTip2": "",
     "AddToolTip": [
-      "Boss monsters cannot suffer from this effect"
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,12 +80,12 @@
   {
     "TypeName": "GlacialSting",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Glacial Sting",
-    "ToolTip": "Turns wooden arrows into 'Glacial Arrows'",
+    "Name": "冰蛰",
+    "ToolTip": "将木箭转换成冰川箭",
     "ToolTip2": "",
     "AddToolTip": [
-      "Glacial Arrows might significantly hinder the hit enemies movement",
-      "Boss monsters cannot suffer from this effect"
+      "冰川箭几率大幅降低敌人速度",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -93,12 +93,12 @@
   {
     "TypeName": "GlacierFang",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Glacier",
+    "Name": "冰冻者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks have a chance to significantly hinder the enemies movement",
-      "Boss monsters cannot suffer from this effect"
+      "攻击几率大幅降低敌人速度",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -106,12 +106,12 @@
   {
     "TypeName": "IceBoundStriderHide",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Ice Bound Strider Hide",
-    "ToolTip": "'Few things can survive the heart of a Terrarian Blizzard'",
+    "Name": "冰隐行者之契约",
+    "ToolTip": "'很少有生物能在泰拉瑞亚暴风雪中心生存下来'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Damage done against slowed targets is increased by 15%",
-      "Damage done against slowed targets has a chance to heal you lightly"
+      "对减速的敌人造成额外15%伤害",
+      "对减速的敌人造成伤害有几率治疗自己"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,8 +119,8 @@
   {
     "TypeName": "IceFairyStaff",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Ice Fairy Staff",
-    "ToolTip": "Summons an icy fairy to freeze your foes",
+    "Name": "霜冻精灵法杖",
+    "ToolTip": "召唤一个冰精灵冰封你的敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -129,8 +129,8 @@
   {
     "TypeName": "LostMail",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Forgotten Letter",
-    "ToolTip": "Summons a Snowy Owl to watch over you",
+    "Name": "失落之信",
+    "ToolTip": "召唤一个雪鸮监督你",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -139,13 +139,13 @@
   {
     "TypeName": "StriderTear",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Strider's Tear",
+    "Name": "行者之泪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'One of the coldest things you've ever held...'",
-      "Greatly increases the chance that a Borean Strider will appear",
-      "Can only be used during a blizzard"
+      "'你所捧过最寒冷的东西...'",
+      "大幅增加极地行者出现几率",
+      "只能在暴风雪中使用"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -153,7 +153,7 @@
   {
     "TypeName": "TundraLordCrown",
     "Namespace": "ThoriumMod.Items.Blizzard",
-    "Name": "Tundra Lord's Crash Helmet",
+    "Name": "冻原之主的破碎王冠",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],

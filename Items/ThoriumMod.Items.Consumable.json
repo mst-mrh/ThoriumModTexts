@@ -2,8 +2,8 @@
   {
     "TypeName": "AccuracyPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Accuracy Potion",
-    "ToolTip": "Increases critical strike chance slightly",
+    "Name": "精准药剂",
+    "ToolTip": "轻微增加暴击率",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,13 +12,13 @@
   {
     "TypeName": "ApplePie",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Apple Pie",
-    "ToolTip": "Heals 65 life",
+    "Name": "苹果派",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Home-made and just asking to be eaten!'",
-      "Will increase life regeneration for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'美味家常菜'",
+      "食用后提升生命恢复量",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,8 +26,8 @@
   {
     "TypeName": "BloodPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Blood Potion",
-    "ToolTip": "Increases melee, mining and movement speed",
+    "Name": "嗜血药剂",
+    "ToolTip": "增加近战，挖掘以及移动速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -36,14 +36,14 @@
   {
     "TypeName": "BloodRootGoop",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Blood Root Goop",
-    "ToolTip": "Heals 85 life",
+    "Name": "血液根汁",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Note: Does not actually contain root goop'",
-      "Will increase danger detection for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'注意：不包含粘性根茎'",
+      "一分钟危险感知",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -51,13 +51,13 @@
   {
     "TypeName": "CalciumShake",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Calcium Shake",
-    "ToolTip": "Heals 65 life",
+    "Name": "摇摇钙",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Not very tasty, but is effective!'",
-      "Will increase defense for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'不是很好吃，但很有效'",
+      "铁皮一分钟",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,13 +65,13 @@
   {
     "TypeName": "CarrotSalad",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Carrot Salad",
-    "ToolTip": "Heals 65 life",
+    "Name": "萝卜沙拉",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Fresh vegetables and some nice dressing!'",
-      "Will increase vision for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'新鲜的蔬菜和美味的调料'",
+      "夜视buff一分钟",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -79,8 +79,8 @@
   {
     "TypeName": "CombatPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Combat Potion",
-    "ToolTip": "Increases some melee capabilities",
+    "Name": "近战药剂",
+    "ToolTip": "提升些许近战能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -89,8 +89,8 @@
   {
     "TypeName": "ConflagrationPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Conflagration Potion",
-    "ToolTip": "You are set ablaze, but damage is increased moderately",
+    "Name": "燃炎药剂",
+    "ToolTip": "你会被点燃，但是伤害会适当增加",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -99,8 +99,8 @@
   {
     "TypeName": "ExplosiveCoatingItem",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Explosive Coating",
-    "ToolTip": "Throwing attacks will have a chance to detonate, hitting nearby enemies",
+    "Name": "爆炸涂层",
+    "ToolTip": "投掷攻击有几率爆炸，波及附近敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -109,8 +109,8 @@
   {
     "TypeName": "FrostCoatingItem",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Deep Freeze Coating",
-    "ToolTip": "Throwing attacks will have a chance to significantly hinder the hit enemies movement",
+    "Name": "深寒涂层",
+    "ToolTip": "投掷攻击有几率显著降低敌人的速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -119,8 +119,8 @@
   {
     "TypeName": "FrostHeartPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Frost-Heart Elixir",
-    "ToolTip": "Freezes you in place, but massively increases health regeneration and defense",
+    "Name": "霜心神药",
+    "ToolTip": "将你冻在原地，但是能大幅增加生命回复速度和防御",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -129,14 +129,14 @@
   {
     "TypeName": "FruitSalad",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Blueberry Salad",
-    "ToolTip": "Heals 85 life",
+    "Name": "蓝莓沙拉",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Made with fresh lettuce and locally picked blueberries!'",
-      "Will increase mana regeneration for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'由新鲜生菜和土产蓝莓制成'",
+      "生命再生1分钟",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -144,14 +144,14 @@
   {
     "TypeName": "GlowingSouffle",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Glowing Souffle",
-    "ToolTip": "Heals 85 life",
+    "Name": "莹光蛋奶酥",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Even after eating them, their glow doesn't go away'",
-      "Will increase light emission for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'即便吃了他们，发出的荧光仍未消失'",
+      "闪光一分钟",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -159,8 +159,8 @@
   {
     "TypeName": "GorganCoatingItem",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Gorgan Coating",
-    "ToolTip": "Throwing attacks will have a chance to petrify enemies",
+    "Name": "戈尔丹涂层",
+    "ToolTip": "投掷攻击将有几率石化敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -169,8 +169,8 @@
   {
     "TypeName": "GustyLeaf",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Gusty Leaf",
-    "ToolTip": "Increases jump height and negates fall damage",
+    "Name": "随风拂叶",
+    "ToolTip": "增加跳跃高度并减少摔落伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -179,13 +179,13 @@
   {
     "TypeName": "Hamburger",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Hamburger",
-    "ToolTip": "Heals 65 life",
+    "Name": "汉堡",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Grilled to perfection!'",
-      "Will increase knockback for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'烤制恰到好处'",
+      "泰坦一分钟",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -193,25 +193,25 @@
   {
     "TypeName": "HolyPotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Holy Potion",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣洁药剂",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Increases the potency of healing spells"
+      "增加治疗法术的潜能"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "IceCream",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Ice Cream",
-    "ToolTip": "Heals 65 life",
+    "Name": "冰激凌",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A nice cold, sweet treat!'",
-      "Will increase magic damage for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'一个美味的冰激凌'",
+      "魔法力量30秒",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -219,11 +219,11 @@
   {
     "TypeName": "Jelly",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Jelly",
-    "ToolTip": "'Should you really eat this stuff?'",
+    "Name": "果酱",
+    "ToolTip": "你真的要吃掉这坨东西嘛？",
     "ToolTip2": "",
     "AddToolTip": [
-      "Heals some additional health afterwards"
+      "食用后获得额外治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -231,11 +231,11 @@
   {
     "TypeName": "LesserLifeWater",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Lesser Life Water",
-    "ToolTip": "'Fuelled with life giving properties'",
+    "Name": "小杯生命之水",
+    "ToolTip": "'生命质量的保障！'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Grants bonus life regeneration and maximum life"
+      "获得额外生命恢复量和最大生命值"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -243,14 +243,14 @@
   {
     "TypeName": "LifeFruitPlatter",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Life Fruit Platter",
-    "ToolTip": "Heals 100 life",
+    "Name": "大盘生命果",
+    "ToolTip": "回复100生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'One of the few actually edible things in Terraria...'",
-      "Will increase maximum life for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'泰拉瑞亚大陆里仅有的可食用的东西'",
+      "短时间增加最大生命值",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -258,8 +258,8 @@
   {
     "TypeName": "LifeLeechCoatingItem",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Life Leech Coating",
-    "ToolTip": "Throwing attacks will have a chance to heal you",
+    "Name": "汲血涂层",
+    "ToolTip": "投掷攻击将有几率治愈你",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -268,11 +268,11 @@
   {
     "TypeName": "LifeWater",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Life Water",
-    "ToolTip": "'Fuelled with intense life giving properties'",
+    "Name": "生命之水",
+    "ToolTip": "'由庞大的生命之力驱动'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Grants bonus life regeneration and maximum life"
+      "获得额外生命恢复量和最大生命值"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,8 +280,8 @@
   {
     "TypeName": "ManaBerry",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Mana Berry",
-    "ToolTip": "The cook might be interested in this",
+    "Name": "魔力浆果",
+    "ToolTip": "厨师可能对这个感兴趣",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -290,13 +290,13 @@
   {
     "TypeName": "ManaDelight",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Mana Delight",
-    "ToolTip": "Heals 125 mana",
+    "Name": "魔力的喜悦",
+    "ToolTip": "回复125点法力",
     "ToolTip2": "",
     "AddToolTip": [
-      "'You can taste the energy in every bite'",
-      "Does not inflict mana sickness",
-      "Eating the Cook's food will make you full for 20 seconds"
+      "'每一口都能品尝到能量'",
+      "不会受到魔力病的影响",
+      "厨师的食物会让你有20分钟的饱食buff"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -304,14 +304,14 @@
   {
     "TypeName": "MeanGreenStew",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Mean n' Green Stew",
-    "ToolTip": "Heals 85 life",
+    "Name": "绿色健康蔬菜",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Multiple green things in a bowl, how can you go wrong?'",
-      "Will increase critical strike chance for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'在碗里混合了各种绿色蔬菜，还有什么可担心的？'",
+      "短期增加暴击率",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -319,14 +319,14 @@
   {
     "TypeName": "MistakeStew",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "The Mistake",
-    "ToolTip": "Heals 85 life",
+    "Name": "黑暗料理大锅饭",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'The dish itself is not a mistake, eating it however...'",
-      "Will increase enemy spawn rates for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'这道菜看起来没啥问题，但是吃掉它...'",
+      "短期增加刷怪率",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -334,14 +334,14 @@
   {
     "TypeName": "PricklyJam",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Prickly Jam",
-    "ToolTip": "Heals 85 life",
+    "Name": "多刺果酱",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'When prepared correctly, the pink pear wont induce hallucinations!'",
-      "Will increase attack speed for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'只要有正确的准备，这粉梨应该不会给你幻觉'",
+      "短期增加攻击速度",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -349,14 +349,14 @@
   {
     "TypeName": "QuestionableRack",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Questionable Rib Rack",
-    "ToolTip": "Heals 85 life",
+    "Name": "可疑的肋排",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'How the cook made this edible is beyond you'",
-      "Will increase enemy spawn rates for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'厨师如何制作这道菜已经让你尽收眼底'",
+      "短期增加刷怪率",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -364,14 +364,14 @@
   {
     "TypeName": "SauteedShroom",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Sauteed Shroom",
-    "ToolTip": "Heals 85 life",
+    "Name": "快炒蘑菇",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Just a little heat and a little fat can go a long way'",
-      "Will increase minion capacity for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'仅需一些热量和脂肪就能持续很久'",
+      "短期增加召唤量",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -379,14 +379,14 @@
   {
     "TypeName": "SeaSpaghetti",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Sea Spaghetti",
-    "ToolTip": "Heals 85 life",
+    "Name": "海鲜意大利面",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Kelp is about as close to noodles as you're gonna get here'",
-      "Will increase water movement for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'海藻在熬煮前好像跟面条差不多'",
+      "短期增加水中移速",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -394,8 +394,8 @@
   {
     "TypeName": "SilverTonguePotion",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Silver Tongue Potion",
-    "ToolTip": "With a silver tongue, bought items will be cheaper",
+    "Name": "银舌药剂",
+    "ToolTip": "有一条三寸不烂之舌就能疯狂砍价（并释放内心的火焰）",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -404,14 +404,14 @@
   {
     "TypeName": "SkyBloomCocktail",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Sky Bloom Cocktail",
-    "ToolTip": "Heals 85 life",
+    "Name": "天绽鸡尾酒",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'The bright blue flower serves as a perfect umbrella for the drink!'",
-      "Will decrease fall speed for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'这朵蓝花放在饮料上当小雨伞棒极了'",
+      "短期减少降落速度",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -419,13 +419,13 @@
   {
     "TypeName": "SliceofCake",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Slice of Cake",
-    "ToolTip": "Heals 65 life",
+    "Name": "一片蛋糕",
+    "ToolTip": "回复65生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Sweet frosting with a cherry on top!'",
-      "Will increase movement speed for a time if eaten directly",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'美味的樱桃冰沙'",
+      "短期增加移动速度",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -433,14 +433,14 @@
   {
     "TypeName": "SunnyLemonade",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Sunny Day Lemonade",
-    "ToolTip": "Heals 85 life",
+    "Name": "晴空柠檬汁",
+    "ToolTip": "回复85点生命",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Nothing beats an ice cold glass of lemonade'",
-      "Will increase your happiness for a time",
-      "Grants minor improvements to all stats",
-      "Eating the Cook's food will make you full for 45 seconds"
+      "'内有饮料能比得过这杯冰冻柠檬了'",
+      "一段时间内变得更快乐了",
+      "所有属性获得小幅增幅",
+      "食用厨师的美味会让你饱腹45秒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -448,8 +448,8 @@
   {
     "TypeName": "ToxicCoatingItem",
     "Namespace": "ThoriumMod.Items.Consumable",
-    "Name": "Toxic Coating",
-    "ToolTip": "Throwing attacks will have a chance to poison enemies",
+    "Name": "剧毒涂层",
+    "ToolTip": "投掷攻击将有几率使敌人中毒",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

@@ -2,49 +2,49 @@
   {
     "TypeName": "CarMount",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Void Chariot",
-    "Tip": "Who knew it was tameable?"
+    "Name": "虚空战车",
+    "Tip": "鬼知道这是可被驯服的?"
   },
   {
     "TypeName": "EnemyCrabBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Enemy Crab",
-    "Tip": "Aquatic dwellers beware!"
+    "Name": "超级大螃蟹",
+    "Tip": "水中居民前方高能!"
   },
   {
     "TypeName": "InfernalHoundBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Infernal Hound",
-    "Tip": "Run with the fury of Hell!"
+    "Name": "地狱犬",
+    "Tip": "带着地狱的怒火狂奔吧!"
   },
   {
     "TypeName": "RagMountBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Apocalypse",
-    "Tip": "You bring the end of the world..."
+    "Name": "毁灭战车",
+    "Tip": "你驾驭着世界末日..."
   },
   {
     "TypeName": "StarvedMountBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Starving Beast",
-    "Tip": "This beast slobbers in endless hunger"
+    "Name": "饥饿野兽",
+    "Tip": "这货撑不死"
   },
   {
     "TypeName": "WargMountBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Battle Warg",
-    "Tip": "Charge into battle upon your ebony warg!"
+    "Name": "战争恐狼",
+    "Tip": "骑在恐狼上向战场冲锋！!"
   },
   {
     "TypeName": "WhaleMountBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "The Whale",
-    "Tip": "Was it really worth it?"
+    "Name": "鲸鱼",
+    "Tip": "这真的值得吗?"
   },
   {
     "TypeName": "WyvernMountBuff",
     "Namespace": "ThoriumMod.Buffs.Mount",
-    "Name": "Wyvern",
-    "Tip": "Feel the wind in your hair!"
+    "Name": "白龙",
+    "Tip": "感受拂过脸颊的狂风吧!"
   }
 ]

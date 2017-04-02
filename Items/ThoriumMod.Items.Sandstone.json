@@ -2,8 +2,8 @@
   {
     "TypeName": "aSandstonePickaxe",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Pickaxe",
-    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "Name": "砂石镐",
+    "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "bSandstoneAxe",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Axe",
-    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "Name": "砂石斧",
+    "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,8 +22,8 @@
   {
     "TypeName": "cSandstoneHammer",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Hammer",
-    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "Name": "砂石锤",
+    "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -32,7 +32,7 @@
   {
     "TypeName": "dSandStoneScimtar",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Scimitar",
+    "Name": "砂石弯刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -42,7 +42,7 @@
   {
     "TypeName": "eSandStoneBow",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Bow",
+    "Name": "砂石弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -52,7 +52,7 @@
   {
     "TypeName": "fSandStoneSpear",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Spear",
+    "Name": "砂石矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -62,7 +62,7 @@
   {
     "TypeName": "gSandStoneThrowingKnife",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Throwing Knife",
+    "Name": "砂石飞刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -72,12 +72,12 @@
   {
     "TypeName": "hSandStoneHelmet",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Helmet",
-    "ToolTip": "'Enveloped by desert winds'",
+    "Name": "砂石头盔",
+    "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% increased movement speed",
-      "5% increased thrown damage"
+      "增加2%移速",
+      "增加5%投掷伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,12 +85,12 @@
   {
     "TypeName": "iSandStoneMail",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Mail",
-    "ToolTip": "'Enveloped by desert winds'",
+    "Name": "砂石盔甲",
+    "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased movement speed",
-      "5% increased thrown damage"
+      "增加5%移速",
+      "增加5%投掷伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -98,12 +98,12 @@
   {
     "TypeName": "jSandStoneGreaves",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Greaves",
-    "ToolTip": "'Enveloped by desert winds'",
+    "Name": "砂石护腿",
+    "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "3% increased movement speed",
-      "5% increased thrown damage"
+      "增加3%移速",
+      "增加5%投掷伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -111,11 +111,11 @@
   {
     "TypeName": "SandStone",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sandstone Ingot",
+    "Name": "砂石核心",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Free of all moisture and very warm'"
+      "'免受潮湿并且非常保暖'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,7 +123,7 @@
   {
     "TypeName": "SandStormClaymore",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Sand Storm Claymore",
+    "Name": "沙暴重剑",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -133,8 +133,8 @@
   {
     "TypeName": "WindGust",
     "Namespace": "ThoriumMod.Items.Sandstone",
-    "Name": "Spell Book: Wind Gust",
-    "ToolTip": "'Unleashes a forceful burst of wind'",
+    "Name": "咒书：沙旋风",
+    "ToolTip": "'解放强大的风之力量'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

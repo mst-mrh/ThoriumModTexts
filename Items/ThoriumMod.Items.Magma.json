@@ -2,7 +2,7 @@
   {
     "TypeName": "MagmaAxe",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Axe",
+    "Name": "熔岩斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "MagmaBlade",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Blade",
-    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "Name": "熔岩剑",
+    "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,12 +22,12 @@
   {
     "TypeName": "MagmaChestGuard",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Chestguard",
+    "Name": "熔岩护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Bursting with heat'",
-      "5% increased melee damage"
+      "'爆发巨大的热能'",
+      "增加5%的近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,11 +35,11 @@
   {
     "TypeName": "MagmaCore",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Slab",
+    "Name": "熔岩石板",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It's molten to the touch'"
+      "'触摸之后它就会融化'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,8 +47,8 @@
   {
     "TypeName": "MagmaFlail",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Flail",
-    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "Name": "熔岩链锤",
+    "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -57,12 +57,12 @@
   {
     "TypeName": "MagmaGreaves",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Greaves",
+    "Name": "熔岩腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Bursting with heat'",
-      "4% increased melee damage"
+      "'爆发巨大的热能'",
+      "增加4%的近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,7 +70,7 @@
   {
     "TypeName": "MagmaHammer",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Hammer",
+    "Name": "熔岩锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -80,12 +80,12 @@
   {
     "TypeName": "MagmaHelmet",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Helmet",
+    "Name": "熔岩头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Bursting with heat'",
-      "3% increased melee damage"
+      "'爆发巨大的热能'",
+      "增加3%的近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -93,11 +93,11 @@
   {
     "TypeName": "MagmaOre",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Ore",
+    "Name": "熔岩矿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It's rather hot'"
+      "'它好热'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,7 +105,7 @@
   {
     "TypeName": "MagmaPickAxe",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Pickaxe",
+    "Name": "熔岩镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -115,8 +115,8 @@
   {
     "TypeName": "MagmaPolearm",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Polearm",
-    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "Name": "熔岩长戟",
+    "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -125,8 +125,8 @@
   {
     "TypeName": "MagmaShiv",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magma Shiv",
-    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "Name": "熔岩匕",
+    "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -135,8 +135,8 @@
   {
     "TypeName": "MagmaticRicochet",
     "Namespace": "ThoriumMod.Items.Magma",
-    "Name": "Magmatic Ricochet",
-    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "Name": "熔岩弹射",
+    "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

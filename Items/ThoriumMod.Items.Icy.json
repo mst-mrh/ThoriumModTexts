@@ -2,9 +2,9 @@
   {
     "TypeName": "Blizzard",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Spell Book: Blizzard",
-    "ToolTip": "'Unleash a flurry of ice!'",
-    "ToolTip2": "Attacks might frostburn the target briefly",
+    "Name": "咒书：暴风雪",
+    "ToolTip": "'释放冰雪!'",
+    "ToolTip2": "攻击有机率短暂地冻住敌人",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -12,8 +12,8 @@
   {
     "TypeName": "ColdFront",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Cold Front",
-    "ToolTip": "Attacks might frostburn the target briefly",
+    "Name": "冷锋",
+    "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,8 +22,8 @@
   {
     "TypeName": "FrostFireKatana",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Frost Fire Katana",
-    "ToolTip": "Attacks might frostburn the target briefly",
+    "Name": "霜火刃",
+    "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -32,7 +32,7 @@
   {
     "TypeName": "FrostFury",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Frost Fury",
+    "Name": "霜怒",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -42,7 +42,7 @@
   {
     "TypeName": "FrostPelter",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Frost Pelter",
+    "Name": "碎冰",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -52,11 +52,11 @@
   {
     "TypeName": "IceBall",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Ice Ball",
-    "ToolTip": "Functions as a bullet",
+    "Name": "冰球",
+    "ToolTip": "可以充当弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Might frostburn the hit target briefly"
+      "攻击有几率冻伤敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -64,11 +64,11 @@
   {
     "TypeName": "IceCube",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Ice Cube",
-    "ToolTip": "Sends out a cube ice that slides on tiles",
+    "Name": "冰块",
+    "ToolTip": "射出一块能滑动的冰块",
     "ToolTip2": "",
     "AddToolTip": [
-      "Ice cubes frostburn the target briefly"
+      "冰块可能冻伤目标"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -76,8 +76,8 @@
   {
     "TypeName": "IceShard",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Ice Lance",
-    "ToolTip": "Attacks might frostburn the target briefly",
+    "Name": "冰矛",
+    "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -86,8 +86,8 @@
   {
     "TypeName": "IcyArrow",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Arrow",
-    "ToolTip": "Has a chance to significantly hinder the hit enemies movement",
+    "Name": "冰箭",
+    "ToolTip": "有几率大幅降低敌人的移动速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -96,7 +96,7 @@
   {
     "TypeName": "IcyAxe",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Axe",
+    "Name": "冰斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -106,8 +106,8 @@
   {
     "TypeName": "IcyBandana",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Bandana",
-    "ToolTip": "'Gives your hair some frosty tips too'",
+    "Name": "碎冰头盔",
+    "ToolTip": "'让你的头发美丽'冻'人'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -116,11 +116,11 @@
   {
     "TypeName": "IcyGreaves",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Greaves",
+    "Name": "碎冰护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Chilled to the core'"
+      "'核心散发寒意'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -128,11 +128,11 @@
   {
     "TypeName": "IcyMail",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Mail",
+    "Name": "碎冰头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Chilled to the core'"
+      "'核心散发寒意'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -140,7 +140,7 @@
   {
     "TypeName": "IcyPickaxe",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Pickaxe",
+    "Name": "冰镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -150,11 +150,11 @@
   {
     "TypeName": "IcyShard",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Icy Shard",
+    "Name": "冰碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Cold to the touch'"
+      "'冰冷的触摸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -162,8 +162,8 @@
   {
     "TypeName": "Slicicle",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "Slicicle",
-    "ToolTip": "Attacks might frostburn the target briefly",
+    "Name": "碎冰刃",
+    "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -172,8 +172,8 @@
   {
     "TypeName": "SnowBall",
     "Namespace": "ThoriumMod.Items.Icy",
-    "Name": "The Snowball",
-    "ToolTip": "Attacks might frostburn the target briefly",
+    "Name": "雪锤",
+    "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

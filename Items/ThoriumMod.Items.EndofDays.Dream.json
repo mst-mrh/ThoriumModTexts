@@ -2,91 +2,91 @@
   {
     "TypeName": "DreamCatcher",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Dream Catcher",
-    "ToolTip": "-Healer Class-",
+    "Name": "梦境捕捉者",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a dream catcher at the cursor's location",
-      "Staying within the dream catcher will completely heal you if you take fatal damage",
-      "Only one dream catcher can exist at once"
+      "在鼠标处召唤梦境捕捉器",
+      "在梦境中收到致死伤害会转而满血重生",
+      "梦境捕捉器一次只能有一个"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DreamWeaversHelmet",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Dream Weaver's Helmet",
-    "ToolTip": "-Healer Class-",
+    "Name": "织梦者头盔",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Corrupts your radiant powers",
-      "45% decreased non-radiant damage",
-      "45% increased radiant damage",
-      "16% increased radiant critical strike chance",
-      "Maximum mana increased by 20"
+      "污染你的光辉力量",
+      "减少45%非光辉伤害",
+      "增加45%光辉伤害",
+      "增加16%光辉暴击",
+      "最大魔法上限增加 20"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DreamWeaversHood",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Dream Weaver's Hood",
-    "ToolTip": "-Healer Class-",
+    "Name": "织梦者兜帽",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "35% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Maximum mana increased by 60",
-      "Healing spells will heal an additional 3 life"
+      "减少25%非光辉伤害",
+      "减少35%蓝耗",
+      "大幅提升魔法恢复值",
+      "增加60魔法值",
+      "治疗法术会治疗额外3点"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DreamWeaversTabard",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Dream Weaver's Tabard",
-    "ToolTip": "-Healer Class-",
+    "Name": "织梦者战袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "25% increased radiant damage",
-      "20% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Healing spells will heal an additional 1 life"
+      "减少25%非光辉伤害",
+      "增加25%光辉伤害",
+      "减少20%蓝耗",
+      "大幅提升魔法恢复值",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DreamWeaversTreads",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Dream Weaver's Treads",
-    "ToolTip": "-Healer Class-",
+    "Name": "织梦者腿袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "20% increased radiant damage",
-      "20% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Healing spells will heal an additional 1 life",
-      "20% increased movement speed"
+      "减少20%非光辉伤害",
+      "增加20%光辉伤害",
+      "减少20%蓝耗",
+      "大幅提升魔法恢复值",
+      "治愈法术会治疗额外1血",
+      "增加20%移动速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Lucidity",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Lucidity",
-    "ToolTip": "-Healer Class-",
+    "Name": "洞察之月",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Releases a crescent tear in reality"
+      "释放新月撕扯真实"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -96,13 +96,13 @@
   {
     "TypeName": "RealitySlasher",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Reality Slasher",
-    "ToolTip": "-Healer Class-",
+    "Name": "真实碾碎者",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a reality slicing scythe all around you",
-      "Nearby enemies are rapidly torn from reality"
+      "快速挥动切割现实的镰刀",
+      "附近的敌人会在现实中被切碎剥离"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -112,15 +112,15 @@
   {
     "TypeName": "UnboundFantasy",
     "Namespace": "ThoriumMod.Items.EndofDays.Dream",
-    "Name": "Unbound Fantasy",
-    "ToolTip": "-Healer Class-",
+    "Name": "无限幻想",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 5% of their maximum life per empower level",
-      "Channels a growing globule of unexplainable energy",
-      "While channelling, the orb will empower itself every 2 seconds",
-      "The orb can empower itself a maximum of three times"
+      "每一次增强增加相当于友军的5%最大生命值的治疗量",
+      "导出一团难以言明不断增长的能量",
+      "施法时，这个球会每两秒增强一次",
+      "球体最多增强3次"
     ],
     "ModifyTooltips": []
   }

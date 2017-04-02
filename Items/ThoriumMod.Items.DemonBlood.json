@@ -2,12 +2,12 @@
   {
     "TypeName": "DemonBloodBow",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Bow",
+    "Name": "魔血弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
-      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+      "由这把弓发射出的箭可能会暂时给你鲜血充能buff",
+      "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,13 +15,13 @@
   {
     "TypeName": "DemonBloodBreastPlate",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Breastplate",
+    "Name": "魔血胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with Corrupt Blood'",
-      "10% chance to neutralize incoming, non-lethal damage",
-      "Maximum life increased by 10"
+      "'感受污染之血的鼓舞吧'",
+      "10%几率中和即将到来的伤害",
+      "最大生命值提升10"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -29,7 +29,7 @@
   {
     "TypeName": "DemonBloodChainSaw",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Chainsaw",
+    "Name": "魔血链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -39,12 +39,12 @@
   {
     "TypeName": "DemonBloodCrossBow",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Crossbow",
+    "Name": "魔血弩",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
-      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+      "由这把弓发射出的箭可能会暂时给你鲜血充能buff",
+      "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,7 +52,7 @@
   {
     "TypeName": "DemonBloodDrill",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Drill",
+    "Name": "魔血钻",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -62,13 +62,13 @@
   {
     "TypeName": "DemonBloodGreaves",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Greaves",
+    "Name": "魔血护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with Corrupt Blood'",
-      "15% increased movement speed",
-      "Maximum life increased by 10"
+      "'感受污染之血的鼓舞吧'",
+      "提升15%移速",
+      "最大生命值提升10"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -76,7 +76,7 @@
   {
     "TypeName": "DemonBloodHamaxe",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Hamaxe",
+    "Name": "魔血锤斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -86,13 +86,13 @@
   {
     "TypeName": "DemonBloodHelmet",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Helmet",
+    "Name": "魔血头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with Corrupt Blood'",
-      "10% increased critical strike chance",
-      "Maximum life increased by 10"
+      "'感受污染之血的鼓舞吧'",
+      "增加10%暴击",
+      "最大生命值提升10"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -100,7 +100,7 @@
   {
     "TypeName": "DemonBloodJack",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Jackhammer",
+    "Name": "魔血冲击锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -110,7 +110,7 @@
   {
     "TypeName": "DemonBloodPickAxe",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Pickaxe",
+    "Name": "魔血镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -120,11 +120,11 @@
   {
     "TypeName": "DemonBloodShard",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Shard",
+    "Name": "魔血晶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Complex amalgam of life blood and darkness'"
+      "'血与黑暗的复杂混合物'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,12 +132,12 @@
   {
     "TypeName": "DemonBloodSpear",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Spear",
-    "ToolTip": "Sends out a volatile after image",
+    "Name": "魔血长矛",
+    "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
     "AddToolTip": [
-      "Dealing damage will grant you a 'Blood Charge'",
-      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+      "造成伤害后获得鲜血充能buff",
+      "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -145,12 +145,12 @@
   {
     "TypeName": "DemonBloodStaff",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Staff",
-    "ToolTip": "Unleashes a highly concentrated globule of blood, that can hit the same enemy multiple times",
+    "Name": "魔血法杖",
+    "ToolTip": "释放一滴高密度的血团，能攻击同一个敌人数次",
     "ToolTip2": "",
     "AddToolTip": [
-      "Dealing damage will grant you a 'Blood Charge'",
-      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+      "造成伤害后获得鲜血充能buff",
+      "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,12 +158,12 @@
   {
     "TypeName": "DemonBloodSword",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Sword",
-    "ToolTip": "Unleashes a blood bolt on swing",
+    "Name": "魔血剑",
+    "ToolTip": "挥动时释放一道血波",
     "ToolTip2": "",
     "AddToolTip": [
-      "Dealing damage will grant you a 'Blood Charge'",
-      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+      "造成伤害后获得鲜血充能buff",
+      "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -171,8 +171,8 @@
   {
     "TypeName": "DemonBloodWings",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Wings",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "恶魔血翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -181,8 +181,8 @@
   {
     "TypeName": "DemonRageBadge",
     "Namespace": "ThoriumMod.Items.DemonBlood",
-    "Name": "Demon Blood Badge",
-    "ToolTip": "Taking damage will increase defensive abilities briefly",
+    "Name": "魔血徽章",
+    "ToolTip": "受到伤害的时候会暂时提高防御能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

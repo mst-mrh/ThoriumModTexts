@@ -54,14 +54,14 @@
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": [
-      "The short one, ",
-      " gives me an ample supply of ore. I wonder where he gets it...",
-      "That old con man, ",
-      ", keeps trying to sell me trashy tools. As if I couldn't make my own!",
-      "Even a broken clock is right every week! or was it a day...?",
-      "Always strike while the iron is hot! Don't let a good opportunity pass you by...",
-      "You wont find a better blacksmith in all of Terraria. What's that, you're a smith too? Oh...",
-      "I'm always trying to make the perfect armor. Perhaps you can help me out?"
+      "那个矮子, ",
+      "给了我一大堆矿物.我想知道他是哪里弄来的...",
+      "那个老头, ",
+      ",总是试着向我推销一些没用的东西.搞得好像我做不出来一样!",
+      "就算是一个坏钟，也不会差一个星期!或者一天就够多了...?",
+      "一定要趁热打铁!不要失去大好机会...",
+      "泰拉瑞亚世界里没有比我更好的铁匠了. 什么, 你也是个铁匠? 噢...",
+      "我一直在尝试打造出一套完美的盔甲.也许你能帮我的忙?"
     ]
   },
   {
@@ -135,16 +135,16 @@
     "ShopButton1": "",
     "ShopButton2": "Shine Shoes",
     "ChatTexts": [
-      "That poor girl, ",
-      ", needs to wear some more clothes!",
-      "I wish ",
-      " would make some better decisions. You only have one life!",
-      "Ah, so ",
-      " has been giving you advise this whole time...? I wonder if he still hasn't forgiven himself for what happened...",
-      "In my younger years, I myself was a hero. My allies and I faced a trio of entities I shudder to remember. We lost someone special that day... Ah, but worry not friend, we were able to seal them away. Only the defeat of something cataclysmic could possibly bring them back!",
-      "Worry not young hero. While the journey may be tough, I have full confidence in your ability!",
-      "You can learn a lot by walking a mile in someone else's boots. If only some of these townsfolk would walk a mile in yours, then they could understand...",
-      "How are you doing young one? Are you staying safe out there in the wilds?"
+      "那个可怜的女孩, ",
+      ",连衣服都穿不起!",
+      "我希望",
+      "三思而后行. 一个人只有一条命!",
+      "啊, 那么",
+      "一直在给你提供帮助...?我想他应该还没有原谅他曾对你做过的事...",
+      "我年轻的时候,我是个英雄.依稀记得我的伙伴和我有一天遇见了一个三人组. 那天我们失去了一个伙伴... 噢,别伤心我的朋友,我们一定能够封印它们的.只有击败一些可怕的东西才能将他带回来!",
+      "年轻的勇者不要担心.虽然旅途艰难,我依然对你充满信心!",
+      "穿别人的鞋子走走，你会学到很多.如果你的房客也穿着你的走走,那他们也会明白这个道理...",
+      "年轻人你在做什么呢?你在远离危险的野外吗?"
     ]
   },
   {
@@ -186,13 +186,13 @@
     "ShopButton1": "",
     "ShopButton2": "Enemy Repellent (2 Gold)",
     "ChatTexts": [
-      "I bet ",
-      " has a big juicy brain... Not that I would wanna... uh... Did you need something?",
-      "'s brain would surely taste like candy... Oh uh, hello there!",
-      "I cant remember much about my past life... Chemicals and the like were my passion I think; I only get fragments and pieces of the truth. Its saddening at times...",
-      "Why am I not like the others...? Oh, I'm sorry, did you need something friend?",
-      "Most people don't have the stomach to handle the things I sell. The trick is to not have a stomach at all!",
-      "I gotta thank you for letting me stick around. Only coming out at night is pretty boring..."
+      "我敢打赌",
+      "一定有一个鲜美多汁的大脑...要不是... 啊啊...你需要什么东西吗?",
+      "的大脑一定像糖一样甜...噢 额,你好啊!",
+      "我对于过去已经记不太清了... Chemicals and the like were my passion I think; I only get fragments and pieces of the truth. Its saddening at times...",
+      "为什么我和其他人不一样呢...?噢,对不起朋友,你需要什么吗?",
+      "大多数人看了我的东西都会反胃.最好的解决办法就是把胃切掉!",
+      "感谢你让我留下.只能在夜晚出去有些无聊..."
     ]
   },
   {
@@ -202,17 +202,17 @@
     "ShopButton1": "Shop",
     "ShopButton2": "Supply Ingredients",
     "ChatTexts": [
-      "That kid ",
-      " is so stingy with his fish. He has a million of them and he cant spare a single one for some fish fillet?",
-      "Cooking for ",
-      " is no easy task. She simply refuses to eat any form of meat!",
-      "The last time ",
-      " asked me to cook for him, he requested bugs! This truly is a strange place...",
-      "I've got a lot of orders from the other towns folk right now, make it quick!",
-      "How did any of you survive before I arrived? What could you have possibly been eating, dirt?",
-      "I'm stuck with dull knives while you wield weapons of unimaginable power? Give me a break...",
-      "No one should go adventuring on an empty stomach. Eat well hero!",
-      "Supply me with the proper ingredients, and I can make some truly powerful foods for you, hero!"
+      "那个小孩",
+      "居然这么珍惜他的鱼.他有一百万条鱼为什么却不肯拿出一条做鱼片呢?",
+      "给",
+      "做菜可真麻烦.她拒绝吃任何肉类食品!",
+      "上次",
+      "要我给他做饭时,他要了一份虫子!这真是个奇怪的地方...",
+      "我刚刚接到了好多人的订单，我得快点动手!",
+      "在我来之前你们是怎么活下来的?难道你们吃泥土吗?",
+      "你已经在用强大的神器了而我却还在用着普通菜刀?让我静静...",
+      "没有人会饿着肚子出去冒险.多吃点，我的勇士!",
+      "给我买菜的钱,我能给你做出能量大餐,勇士!"
     ]
   },
   {
@@ -262,13 +262,13 @@
     "ShopButton1": "",
     "ShopButton2": "Sandstorm (1 Gold)",
     "ChatTexts": [
-      " was interested in dying my attire, but his choice of plant dye was 'strange' to say the least.",
-      "Look at ",
-      " over there! He's got an entire arsenal of guns, is that really safe?",
-      "We certainly have some strange people around this town, don't we...?",
-      "You didn't see any giant bird shadows while you were out in the desert, did you?",
-      "I had originally stopped just to refill my canteen, but you seem like someone who can deal with a real threat!",
-      "I have seen so much evil in my travels... I only hope someone can put a stop to them!"
+      "很想给我的衣服染色,但是他用的植物染料只能说非常奇异.",
+      "看那里的",
+      "!他刚刚拿到了一个军火库的武器,那真的安全吗?",
+      "这个小镇有很多奇怪的人,不是吗...?",
+      "你走出沙漠的时候有没有看见过巨大的鸟类的影子?",
+      "我本来只是想停下来填饱肚子,但是你看起来像是能够解决大危机的人!",
+      "我旅行的时候见过许多邪恶的存在...我希望有人能够消灭他们!"
     ]
   },
   {
@@ -278,16 +278,16 @@
     "ShopButton1": "",
     "ShopButton2": "Air Tank",
     "ChatTexts": [
-      "Visiting that sea rift again wasn't my best idea... That mutant jellyfish almost ate me whole!",
-      "Yuck... That vile creature almost got away with eating me! Thank you for saving me, hero.",
-      "You wouldn't believe it, but ",
-      " and me go way back. He wasn't always a salt water scourge yunno'.",
-      "That little twerp, ",
-      ", thinks he knows so much about the sea...",
-      "Have you adventured into the aquatic depths yet...? It's choking atmosphere prevents most explorers from entering, but I'm confident you'll find a way around it...",
-      "I've collected many marine items in my travels, hero. Would you like to purchase one?",
-      "Being at the bottom of the ocean for long periods of time has taught me one thing. Always come prepared!",
-      "You ever try to drink a bottle of water, while drowning, to save yourself? I know I have!"
+      "我再也不想去海里那个大裂缝玩了...那里巨大的水母几乎是一口吃掉了我!",
+      "妈的...那个邪恶的生物差点吃了我!谢谢你救了我,英雄.",
+      "你也许不相信，但我和",
+      "已经是老交情了.他不只是一个海上吹牛大王'.",
+      "那个小呆瓜,",
+      ",以为他很了解大海...",
+      "你去过海底深渊吗...? 哪里的窒息环境让大多数人都望洋兴叹,但是我相信你一定有办法的...",
+      "我旅行的时候收集了许多海洋物资.你想买点吗?",
+      "长期在海底的经历教会了我一件事.一定要做好充分的准备!",
+      "你有试过在溺水的时候喝一瓶水来自救吗?我曾经试过!"
     ]
   },
   {
@@ -305,15 +305,15 @@
     "ShopButton1": "Shop",
     "ShopButton2": "Free Herbs",
     "ChatTexts": [
-      "Ever since I was a child, I've always wanted to meet a dryad. What luck it is to find ",
-      " here!",
-      "Our friend there, ",
-      ", is rather strange isn't he? He speaks in riddles...",
-      "Why don't you go fetch those plants yourself you lazy, good for nothing-",
-      "Getting these plants is a bigger hassle than you would think. Nearly drowning, almost melting, freezing to- You get the idea.",
-      "I cant remember when my skin started turning green, but I think it was around the time I fell into the underground jungle...",
-      "Do you ever feel guilty out there, destroying and killing the natural world to better suit your needs? I didn't think so...",
-      "I'm actually a carnivore, why would I eat that which I love and appreciate? That would just be silly!"
+      "我从小就特别想见到树精.结果我竟然在这遇见了",
+      "!多么幸运啊",
+      "我的朋友",
+      "很奇怪对吧?他是在说谜语...",
+      "你为什么不去自己采一些草药呢,一无是处的懒人",
+      "得到这些草药的过程比你想象的艰苦多了.差点淹死,烧死,冻死-你明白就好.",
+      "我记不清什么时候我的皮肤变成了绿色,但我想也许是有次掉进了地下丛林导致的...",
+      "你有为你为了自己的私欲而随意破坏改造自然环境而感到忏悔吗?我觉得没有...",
+      "我其实是肉食动物,为什么我一定要吃我珍爱的东西呢?那太蠢了!"
     ]
   },
   {
@@ -723,13 +723,13 @@
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": [
-      "Is- Is that my cross? How in the world did you manage to find it? Its been lost for so long...",
-      " often comes to me in private to discuss things that are bothering him. Such a young age to be in his position...",
-      " and I spent all of last night discussing philosophy. That one has a wise head on his shoulders.",
-      "Ah, It's been a while friend. It is good to see you are well after so long!",
-      "Not all who wander are lost, remember this friend...",
-      "Energy, Chi, Spirit... It's all the same to me. There is power in all things.",
-      "I have no doubt of your physical power, hero. But sometimes hardship is fought in a battle of will, not strength."
+      "那-那是我的十字架?你是怎么找到它的?它已经丢了很久了...",
+      "经常过来跟我说一些他的烦心事.人生的这种阶段对于他来说似乎有点太早了...",
+      "和我谈论了一晚上的哲学.他有着一颗睿智的头脑.",
+      "啊,是个老朋友.好久不见，看起来你的状况不错!",
+      "不是每个徘徊的人都是迷路者,记住这一点我的朋友...",
+      "能量,气,灵魂...对我来说都是一样的.所有东西都具有能量.",
+      "你的身体的确很强壮,勇者.但有的时候一场战争的决定因素是意志,而非体力."
     ]
   },
   {
@@ -795,15 +795,15 @@
     "ShopButton1": "",
     "ShopButton2": "Hire (10 Gold)",
     "ChatTexts": [
-      "That man over there, ",
-      ", keeps giving me dirty looks...",
-      "I see we have another demon within our ranks. What was his name again? ",
+      "那个人, ",
+      ",总是用鄙视的眼神看我...",
+      "我知道在我们的队伍里还有一个恶魔.他叫什么来着?",
       "?",
-      "Long ago, when this world was first taking form, my race rained supreme. That time has passed it seems...",
-      "I'm not one for idle chatter. If you have need of me, make it quick.",
-      "My races obsession with voo-doo dolls has only become rampant just recently. It's truly a fad gone wrong...",
-      "Should you have the coin, I would be willing to accompany you in your endeavours...",
-      "A warrior without his weapon stands no chance against the ever-powering threats he must face..."
+      "很久很久以前,世界刚刚成型的时候，我们这个种族处于统治地位.那实在是太久远的过去了...",
+      "我不是一个爱说废话的人.如果你需要我,就快点决定.",
+      "最近我的族人突然开始疯狂喜欢巫毒娃娃.那真是奇怪的流行文化...",
+      "只要你付钱,我就会为你而战...",
+      "没有武器的战士是不能击败他必须面对的强大对手的..."
     ]
   },
   {

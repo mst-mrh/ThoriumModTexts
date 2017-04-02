@@ -2,11 +2,11 @@
   {
     "TypeName": "BattleBanner",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Battle Banner",
+    "Name": "集合令旗",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summoned minions will deal an additional 6 damage for a short time"
+      "召唤物在短时间内会额外造成6点伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,11 +14,11 @@
   {
     "TypeName": "BioMatter",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Bio-Matter",
+    "Name": "生命之心",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A writhing mass of chlorophyll'"
+      "一团扭动的叶绿素"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,8 +26,8 @@
   {
     "TypeName": "BloodCellStaff",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Blood Feaster Staff",
-    "ToolTip": "Summons a flesh eating blood zombie",
+    "Name": "血腥僵尸法杖",
+    "ToolTip": "召唤一直嗜血的血腥僵尸",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -36,11 +36,11 @@
   {
     "TypeName": "CombatBanner",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Combat Banner",
+    "Name": "斗旗",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases damage reduction based on your maximum possible minions"
+      "基于你的最大召唤栏增加伤害减免"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,8 +48,8 @@
   {
     "TypeName": "CorruptionSummon",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Corruptling Staff",
-    "ToolTip": "Summons a mini eater of souls that bites into your foes",
+    "Name": "迷你噬魂者法杖",
+    "ToolTip": "召唤一只小吞噬者攻击你的敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -58,8 +58,8 @@
   {
     "TypeName": "CrimsonSummon",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Crimson Hound Staff",
-    "ToolTip": "Summons a grotesque and viscous crimson hound",
+    "Name": "血猎犬法杖",
+    "ToolTip": "召唤一只又粘又奇怪血腥猎犬",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -68,11 +68,11 @@
   {
     "TypeName": "EnchantedBar",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Enchanted Barrier",
-    "ToolTip": "Creates a defensive barrier around you that damages and knockbacks enemies",
+    "Name": "注魔屏障",
+    "ToolTip": "制造一道能伤害并击退敌人的防御屏障",
     "ToolTip2": "",
     "AddToolTip": [
-      "Occupies a minion slot"
+      "占据一个召唤物格位"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,11 +80,11 @@
   {
     "TypeName": "HoneyBlade",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Honey Blade",
-    "ToolTip": "Fast Speed",
+    "Name": "激进战旗",
+    "ToolTip": "蜂蜜剑",
     "ToolTip2": "",
     "AddToolTip": [
-      "Throws out a hive of bees on swing"
+      "挥击时丢出一窝蜜蜂"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -92,13 +92,13 @@
   {
     "TypeName": "LifeBloomLeggings",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Life Bloom Leggings",
-    "ToolTip": "'You are one with nature'",
+    "Name": "更快",
+    "ToolTip": "树人腿甲",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions",
-      "8% increased Minion Damage",
-      "15% increased Movement Speed"
+      "增加你的召唤物上限",
+      "增加8%的召唤物伤害",
+      "增加15%移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -106,13 +106,13 @@
   {
     "TypeName": "LifeBloomMail",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Life Bloom Mail",
-    "ToolTip": "'You are one with nature'",
+    "Name": "'和自然融为一体'",
+    "ToolTip": "树人腿甲",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions",
-      "10% increased Minion Damage",
-      "10% increased Minion Knockback"
+      "增加你的召唤物上限",
+      "增加10%召唤伤害",
+      "增加10%召唤物击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -120,12 +120,12 @@
   {
     "TypeName": "LifeBloomMask",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Life Bloom Mask",
-    "ToolTip": "'You are one with nature'",
+    "Name": "'和自然融为一体'",
+    "ToolTip": "树人腿甲",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions",
-      "8% increased Minion Damage"
+      "增加你的召唤物上限",
+      "增加8%的召唤物伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -133,11 +133,11 @@
   {
     "TypeName": "MeteorMask",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Meteor Mask",
-    "ToolTip": "12% increased minion damage",
+    "Name": "陨星面具",
+    "ToolTip": "提升12%的召唤伤害",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions"
+      "增加你的召唤物上限"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -145,8 +145,8 @@
   {
     "TypeName": "MeteorStaff",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Meteor Head Staff",
-    "ToolTip": "Summons a friendly meteor head to crush your enemies",
+    "Name": "陨石头法杖",
+    "ToolTip": "召唤一个友好的陨石怪去撞击你的敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -155,11 +155,11 @@
   {
     "TypeName": "MoraleBanner",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Morale Banner",
+    "Name": "士气战旗",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summoned minions attacks will have a low chance to heal you"
+      "召唤物低几率治疗你"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -167,8 +167,8 @@
   {
     "TypeName": "MortarStaff",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Mortar Staff",
-    "ToolTip": "Summons a molten mortar below the target location",
+    "Name": "炮龟法杖",
+    "ToolTip": "在目标位置的下方召唤一座小型火山",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -177,11 +177,11 @@
   {
     "TypeName": "VoidLance",
     "Namespace": "ThoriumMod.Items.SummonItems",
-    "Name": "Void Lance",
-    "ToolTip": "Unleashes a surge of void energy, which tears a rift into another dimension",
+    "Name": "虚空之触",
+    "ToolTip": "释放一团虚空能量体，制造一个跨维度的传送门",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only one rift can exist at once"
+      "一次只能存在一个裂缝"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

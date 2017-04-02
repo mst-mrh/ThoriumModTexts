@@ -2,134 +2,134 @@
   {
     "TypeName": "AlphaRage",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Alpha's Roar",
-    "Tip": "Minions are dealing 12 additional damage"
+    "Name": "野性吼叫",
+    "Tip": "召唤物造成12额外伤害"
   },
   {
     "TypeName": "BannerDamage",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Battle Banner",
-    "Tip": "Minions are dealing 6 additional damage"
+    "Name": "集合令旗",
+    "Tip": "召唤物造成额外6伤害"
   },
   {
     "TypeName": "BannerDefense",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Combative Banner",
-    "Tip": "Damage reduction increased by 0.20% per maximum minion"
+    "Name": "战争令旗",
+    "Tip": "每多一个召唤栏将会给你带来额外0.2%的伤害减免"
   },
   {
     "TypeName": "BannerLifeRegen",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Morale Banner",
-    "Tip": "Minion attacks might heal you"
+    "Name": "士气战旗",
+    "Tip": "召唤物攻击可能会治疗你"
   },
   {
     "TypeName": "Beholding",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Beholding",
-    "Tip": "The Beholder will give sight of and eradicate your foes"
+    "Name": "注视",
+    "Tip": "这些注视者会给予视野并毁灭敌人"
   },
   {
     "TypeName": "BloodMinionBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Blood Zombie",
-    "Tip": "As long as it gets to feed, it wont bother you..."
+    "Name": "血腥僵尸",
+    "Tip": "只要它饱了，你就没事了（否则还得买个脑残片）"
   },
   {
     "TypeName": "BloodPact",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Blood Pact",
-    "Tip": "Just sealed a contract with a demon..."
+    "Name": "血之契约",
+    "Tip": "刚与恶魔做了py交易..."
   },
   {
     "TypeName": "Command",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Commanding Shout",
-    "Tip": "Newly summoned minions will be stronger!"
+    "Name": "指令",
+    "Tip": "新召唤的召唤物会变得更强!"
   },
   {
     "TypeName": "CorrodeSlimeBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Corrodling",
-    "Tip": "Defensive units stand no chance against these little guys!"
+    "Name": "腐化",
+    "Tip": "敌人面对这小家伙将毫无机会!"
   },
   {
     "TypeName": "CorruptMinionBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Corruptling",
-    "Tip": "Not all denizens of the corruption want to eat souls..."
+    "Name": "腐蚀",
+    "Tip": "不是所有腐化生物都想吃灵魂..."
   },
   {
     "TypeName": "CrimsonMinionBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Crimson Hound",
-    "Tip": "Despite not having a mouth, the hound will find a way to feed..."
+    "Name": "血腥猎犬",
+    "Tip": "尽管没嘴，吃货还是能找到吃的途径..."
   },
   {
     "TypeName": "DinoBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Rampage",
-    "Tip": "These dinos are going crazy!"
+    "Name": "暴走",
+    "Tip": "这恐龙暴走啦"
   },
   {
     "TypeName": "DragonMinionBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Dragon Melter",
-    "Tip": "Your foes stand no chance"
+    "Name": "熔岩龙骨",
+    "Tip": "你的敌人将毫无机会"
   },
   {
     "TypeName": "EnchantedTomeBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Enchanted Tome",
-    "Tip": "A spell flinging tome is assisting you"
+    "Name": "注魔古书",
+    "Tip": "一个乱射法术的书正在帮助你"
   },
   {
     "TypeName": "EnigmaMinion",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Enigma",
-    "Tip": "Light bends around the complicated enigma..."
+    "Name": "谜团",
+    "Tip": "无尽的光芒从这复杂的谜团中散发出来..."
   },
   {
     "TypeName": "HatchlingBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Hatchling",
-    "Tip": "This hatchling thinks you're its mother!"
+    "Name": "孵化",
+    "Tip": "这鸟管你叫妈!"
   },
   {
     "TypeName": "IceFairyBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Icy Fairy",
-    "Tip": "Your enemies better hope they brought a coat!"
+    "Name": "霜冻精灵",
+    "Tip": "你的敌人最好希望他们穿了大衣!"
   },
   {
     "TypeName": "LifeBloomHeal",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Life Bloom",
-    "Tip": "Just received a nice heal!"
+    "Name": "生命绽放",
+    "Tip": "刚刚经历了一波给力的治疗!"
   },
   {
     "TypeName": "MeatBallBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Meat Ball",
-    "Tip": "Its just weird man..."
+    "Name": "肉球",
+    "Tip": "这就是一奇葩男子..."
   },
   {
     "TypeName": "MeteorHeadStaff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Meteor Head",
-    "Tip": "The meteor head has decided to work with you"
+    "Name": "陨石头",
+    "Tip": "陨石头决定与你一起py交易"
   },
   {
     "TypeName": "MoltenBannerBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Molten Banner",
-    "Tip": "Minion attacks have a 50% chance to duplicate their damage"
+    "Name": "熔岩令旗",
+    "Tip": "召唤物有50%几率造成双倍伤害"
   },
   {
     "TypeName": "MushroomArmy",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Mushroom Army",
-    "Tip": "Command the forces of Fungus!"
+    "Name": "蘑菇军队",
+    "Tip": "指挥真菌军团!"
   },
   {
     "TypeName": "RosySlimeBuff",
@@ -140,13 +140,13 @@
   {
     "TypeName": "SlagMinionBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Molten Ember",
-    "Tip": "The heat emanating from that thing is unbearable..."
+    "Name": "熔渣",
+    "Tip": "这玩意散发出的热量快把你烤熟了..."
   },
   {
     "TypeName": "StarForce",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "StarForce",
-    "Tip": "The starfish cluster will splash some enemies"
+    "Name": "星之力",
+    "Tip": "海星会撕裂你的敌人"
   }
 ]

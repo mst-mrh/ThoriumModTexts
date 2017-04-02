@@ -2,8 +2,8 @@
   {
     "TypeName": "AlmanacofDespair",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Almanac of Despair",
-    "ToolTip": "Rapidly unleashes flaming, homing skulls",
+    "Name": "绝望日历",
+    "ToolTip": "快速释放燃烧着灼炎的颅骨",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "DevilsClaw",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Devils Claw",
-    "ToolTip": "Unleashes infinite heat at your cursors position",
+    "Name": "邪炎爪",
+    "ToolTip": "对你的指针位置进行无尽灼烧",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,11 +22,11 @@
   {
     "TypeName": "HellbringerStaff",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Ember Staff",
-    "ToolTip": "Summons an ember of Slag Fury, which unleashes molten destruction upon your enemies",
+    "Name": "灰烬法杖",
+    "ToolTip": "召唤运用熔岩之力毁灭敌人的熔岩之灵的余烬",
     "ToolTip2": "",
     "AddToolTip": [
-      "An ember will occupy 2 minion slots"
+      "一个灰烬会占据2个召唤物位"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -34,11 +34,11 @@
   {
     "TypeName": "InfernoEssence",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Inferno Essence",
+    "Name": "地狱精华",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Fragment of the first flame'"
+      "'太初火焰的碎片'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -46,11 +46,11 @@
   {
     "TypeName": "MoltenBanner",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Molten Banner",
+    "Name": "熔岩令旗",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summoned minions will have a 50% chance to duplicate their damage"
+      "召唤物的伤害有50%的概率2倍暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,13 +58,13 @@
   {
     "TypeName": "PyromancerCowl",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Pyromancer's Cowl",
-    "ToolTip": "'Your molten gaze should be feared...'",
+    "Name": "炎法头巾",
+    "ToolTip": "'你那熔岩般的怒视能够震慑一切...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "20% increased magic damage",
-      "Maximum mana increased by 60 & Greatly increased mana regeneration",
-      "Magical attacks will Singe and Ignite enemies"
+      "增加20%魔法伤害",
+      "增加60法力并大幅提高魔法回复速度",
+      "魔法攻击会灼烧并点燃你的敌人敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,13 +72,13 @@
   {
     "TypeName": "PyromancerLeggings",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Pyromancer's Leggings",
-    "ToolTip": "'You're overcome with molten fury'",
+    "Name": "炎法腿甲",
+    "ToolTip": "'你已经彻底征服了熔岩'",
     "ToolTip2": "",
     "AddToolTip": [
-      "14% increased magic & Summon damage",
-      "Maximum mana increased by 20",
-      "15% increased movement speed"
+      "提升14%魔法和召唤伤害",
+      "最大魔法上限增加 20",
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -86,14 +86,14 @@
   {
     "TypeName": "PyromancerTabard",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Pyromancer's Tabard",
-    "ToolTip": "'You're overcome with molten fury'",
+    "Name": "炎法战袍",
+    "ToolTip": "'你已经彻底征服了熔岩'",
     "ToolTip2": "",
     "AddToolTip": [
-      "18% increased magic & Summon damage",
-      "Maximum mana increased by 20",
-      "16% increased magic critical strike chance",
-      "15% increased minion knockback"
+      "提升18%魔法和召唤伤害",
+      "最大魔法上限增加 20",
+      "增加16%魔法暴击",
+      "提升15%召唤击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,13 +101,13 @@
   {
     "TypeName": "PyroSummonHat",
     "Namespace": "ThoriumMod.Items.EndofDays.Slag",
-    "Name": "Magma Seer's Mask",
-    "ToolTip": "'Easily command the elements of heat...'",
+    "Name": "熔岩占卜者面具",
+    "ToolTip": "'能够轻易地掌控火元素的力量...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "38% increased Summon damage",
-      "Increases your max number of minions by 6",
-      "25% increased Minion Knockback"
+      "增加38%召唤伤害",
+      "增加6最大召唤物数量",
+      "提升25%的召唤物击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

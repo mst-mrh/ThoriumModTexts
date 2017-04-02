@@ -2,7 +2,7 @@
   {
     "TypeName": "AbyssWalkerBoots",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Abyssal Walker's Boots",
+    "Name": "深海行者靴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,7 +12,7 @@
   {
     "TypeName": "AbyssWalkerCuirass",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Abyssal Walker's Cuirass",
+    "Name": "深海行者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -22,7 +22,7 @@
   {
     "TypeName": "AbyssWalkerHood",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Abyssal Walker's Hood",
+    "Name": "深海行者兜帽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -32,11 +32,11 @@
   {
     "TypeName": "AmberMinion",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Prehistoric Amber Staff",
-    "ToolTip": "'Life finds a way'",
+    "Name": "史前琥珀法杖",
+    "ToolTip": "'生命找到了归宿'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summons a T-rex or angry Pterodactyl to attack your foes"
+      "召唤恐龙或愤怒翼手龙攻击你的敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -44,8 +44,8 @@
   {
     "TypeName": "BassBooster",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Bass Booster",
-    "ToolTip": "Unleashes obscenely loud pulses of sound",
+    "Name": "低音冲击波",
+    "ToolTip": "放出两道“猥琐”的声波",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -54,12 +54,12 @@
   {
     "TypeName": "Bellerose",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Bellerose",
+    "Name": "玫瑰伞刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "After three successful attacks, you can right click to unleash a powerful tornado",
-      "Slows your descent greatly while falling"
+      "三次成功打击后，你可以右键释放一道强力的龙卷风",
+      "大幅降低下落速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,8 +67,8 @@
   {
     "TypeName": "BioPod",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Bio-Pod",
-    "ToolTip": "Releases a strange alien creature",
+    "Name": "生化囊",
+    "ToolTip": "召唤一个奇怪的外形生物",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -77,27 +77,27 @@
   {
     "TypeName": "BlastShield",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Blast Shield",
-    "ToolTip": "-Omni Shield-",
+    "Name": "爆炸盾",
+    "ToolTip": "-最终之盾-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Damage taken reduced by 15%",
-      "Enemies are more likely to attack you",
-      "Immune to enemy knockback",
-      "Taking damage will unleash a volatile explosion all around you",
-      "This effect needs to recharge for 2 seconds after triggering"
+      "伤害减免15%",
+      "敌人对你更具有攻击性",
+      "免疫击退",
+      "受到伤害在周围会释放不稳定爆炸",
+      "需要2秒充能"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CarnivoreTail",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Carnivore Tail",
+    "Name": "食肉者之尾",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Covered in feral fur'"
+      "'被兽皮所覆盖'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,31 +105,31 @@
   {
     "TypeName": "CelestialBow",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Quasar's Flare",
-    "ToolTip": "-Cheat Weapon-",
+    "Name": "星体耀斑",
+    "ToolTip": "-作弊武器-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Reality weeps at the use of such a weapon...'",
-      "Does not require ammunition",
-      "Will occasionally release an unstable comet of energy",
-      "Arrows decrease the defense of the enemy directly hit by it",
-      "Arrows will explode upon contact, releasing hostile, homing energy",
-      "Arrows will replenish life based on 10% of the damage they cause"
+      "'使用如此武器让现实流泪'",
+      "不需要弹药",
+      "会间歇释放不稳定彗星能量",
+      "箭矢降低敌人防御",
+      "箭矢在接触后爆炸，释放追踪性能量",
+      "箭矢有10%几率吸血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CelestialNova",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Celestial Burst Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "天星破",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 10",
-      "Dealing damage increases healing done briefly",
-      "Healing an ally increases damage done briefly"
+      "治疗友军10生命",
+      "造成伤害会增加治疗量",
+      "治疗会增加伤害"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -139,11 +139,11 @@
   {
     "TypeName": "CorrodlingStaff",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Corrodling Staff",
+    "Name": "侵蚀体法杖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summons a toxic sludge that corrodes hit enemies"
+      "召唤一个剧毒凝胶腐蚀周围敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -151,12 +151,12 @@
   {
     "TypeName": "CryoMagusLeggings",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Cryo-Magus' Leggings",
+    "Name": "冰法腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased magic damage",
-      "15% increased movement speed"
+      "增加10%魔法伤害",
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -164,13 +164,13 @@
   {
     "TypeName": "CryoMagusSpark",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Cryo-Magus' Spark",
+    "Name": "冰法魂星",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased magic damage",
-      "15% reduced mana cost",
-      "Maximum mana increased by 60"
+      "增加10%魔法伤害",
+      "减少15%蓝耗",
+      "增加60魔法值"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -178,32 +178,22 @@
   {
     "TypeName": "CryoMagusTabard",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Cryo-Magus' Tabard",
+    "Name": "冰法战袍",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased magic damage",
-      "10% increased magic critical strike chance",
-      "Greatly increased mana regeneration"
+      "增加10%魔法伤害",
+      "增加10%魔法暴击",
+      "大幅提升魔法恢复量"
     ],
-    "AddToolTip2": [],
-    "ModifyTooltips": []
-  },
-  {
-    "TypeName": "DelectableNut",
-    "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Delectable Nut",
-    "ToolTip": "'Kupo! Kupo!'",
-    "ToolTip2": "Summons a little winged friend",
-    "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DragonkinStaff",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Draconic Magma Staff",
-    "ToolTip": "Summons a chained molten dragon skull to melt your foes",
+    "Name": "熔岩龙法杖",
+    "ToolTip": "召唤熔岩龙为你作战",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -212,8 +202,8 @@
   {
     "TypeName": "EnergyCatalyst",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Energy Catalyst",
-    "ToolTip": "Supplies an endless amount of energy arrows",
+    "Name": "能量催化器",
+    "ToolTip": "提供无尽的能量箭",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -222,8 +212,8 @@
   {
     "TypeName": "EssenceofFlame",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Essence of Flame",
-    "ToolTip": "Releases intense flames on every swing",
+    "Name": "炎华剑",
+    "ToolTip": "每次挥舞都会释放致命的火焰（我内心充满了火焰，甚至还想讲话）",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -232,12 +222,12 @@
   {
     "TypeName": "FeralSkinChest",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Feral-Fur Chest",
-    "ToolTip": "'Let your inner animal out'",
+    "Name": "兽皮胸甲",
+    "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased melee critical strike chance",
-      "10% increased minion knockback"
+      "增加6%近战暴击",
+      "提升10%召唤击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -245,12 +235,12 @@
   {
     "TypeName": "FeralSkinHead",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Feral-Fur Head",
-    "ToolTip": "'Let your inner animal out'",
+    "Name": "兽皮头套",
+    "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased melee critical strike chance",
-      "Increases your max number of minions by 2"
+      "增加5%近战暴击",
+      "增加2召唤物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -258,12 +248,12 @@
   {
     "TypeName": "FeralSkinLegs",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Feral-Fur Legs",
-    "ToolTip": "'Let your inner animal out'",
+    "Name": "兽皮腿甲",
+    "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased melee critical strike chance",
-      "10% increased minion damage"
+      "增加5%近战暴击",
+      "提升10%召唤伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -311,12 +301,12 @@
   {
     "TypeName": "FrozenManHacker",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker : Glacier",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯：冰川",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Flash freezes shot sawblades",
-      "8% chance to not consume ammo"
+      "快速的发射冻结锯刃",
+      "8%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -324,23 +314,23 @@
   {
     "TypeName": "GhastlyCarapace",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ghastly Carapace",
-    "ToolTip": "-Soul Storage-",
+    "Name": "恐惧硬壳",
+    "ToolTip": "-灵魂容器-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'You're in full control of your spirit...'",
-      "Life regeneration increased by 2",
-      "While worn, taking fatal damage will instead instantly teleport you back to your home",
-      "This effect will recharge every two minutes"
+      "'你完全掌控了你的灵魂...'",
+      "增加生命恢复量2",
+      "穿戴后，收到致死伤害会瞬间将你传送回家",
+      "2分钟cd"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "GhastlyGarment",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ghastly Garment",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "恐惧皮衣",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -349,8 +339,8 @@
   {
     "TypeName": "GhastlyHood",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ghastly Hood",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "恐惧兜帽",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -359,8 +349,8 @@
   {
     "TypeName": "GhastlyLeggings",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ghastly Leggings",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "恐惧护腿",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -369,8 +359,8 @@
   {
     "TypeName": "GhostPulseArrow",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ghost Pulse Arrow",
-    "ToolTip": "Damages nearby enemies while in flight",
+    "Name": "波魂箭",
+    "ToolTip": "飞行时攻击附近敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -379,8 +369,8 @@
   {
     "TypeName": "GrandThoriumBreastPlate",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Grand Thorium Breastplate",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "豪华瑟银护胸",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -389,8 +379,8 @@
   {
     "TypeName": "GrandThoriumGreaves",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Grand Thorium Greaves",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "豪华瑟银护腿",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -399,8 +389,8 @@
   {
     "TypeName": "GrandThoriumHelmet",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Grand Thorium Helmet",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "豪华瑟银头盔",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -409,7 +399,7 @@
   {
     "TypeName": "GrayDPaintingItem",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Gray 'D' Painting",
+    "Name": "灰色“D”",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -419,7 +409,7 @@
   {
     "TypeName": "GreedyHat",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Greedy Hat",
+    "Name": "贪婪帽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -429,8 +419,8 @@
   {
     "TypeName": "GreedyMagnet",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Greedy Magnet",
-    "ToolTip": "Magnetizes all loose items on the screen",
+    "Name": "贪婪磁铁",
+    "ToolTip": "聚集屏幕上所有散开的物品",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -439,7 +429,7 @@
   {
     "TypeName": "GreedyPants",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Greedy Pants",
+    "Name": "贪婪裤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -449,7 +439,7 @@
   {
     "TypeName": "GreedyShirt",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Greedy Shirt",
+    "Name": "贪婪衣",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -459,11 +449,11 @@
   {
     "TypeName": "GrimFlayer",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Grim Flayer",
+    "Name": "冷酷劫掠者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks have a chance to steal life"
+      "攻击有几率吸血"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -471,11 +461,11 @@
   {
     "TypeName": "HalloweenSpirit",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Halloween Spirit",
-    "ToolTip": "Activates or cancels: Halloween",
+    "Name": "万圣之魂",
+    "ToolTip": "开启或取消万圣节节日效果",
     "ToolTip2": "",
     "AddToolTip": [
-      "Will cancel other holidays on activation"
+      "激活后会取消其他的节日"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -483,11 +473,11 @@
   {
     "TypeName": "HolidayGreeting",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Holiday's Greeting",
-    "ToolTip": "Activates or cancels: Christmas",
+    "Name": "节日问候",
+    "ToolTip": "开启或取消圣诞节节日效果",
     "ToolTip2": "",
     "AddToolTip": [
-      "Will cancel other holidays on activation"
+      "激活后会取消其他的节日"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -495,9 +485,9 @@
   {
     "TypeName": "HomeToken",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Happy Home Token",
-    "ToolTip": "Places an invisible, wall mounted token",
-    "ToolTip2": "Counts as a chair, table and light source",
+    "Name": "欢乐之家印记",
+    "ToolTip": "放置一个看不见的,镶嵌在墙上的印章",
+    "ToolTip2": "代替桌子、椅子和光源",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -505,11 +495,11 @@
   {
     "TypeName": "IceAxe",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Climber's Ice Axe",
+    "Name": "回旋冰斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Every seventh throw will release a super chilled axe"
+      "每第七次投掷会释放极寒冰斧"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -527,9 +517,9 @@
   {
     "TypeName": "Legacy",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Legacy",
-    "ToolTip": "Rapidly summons decaying skulls",
-    "ToolTip2": "Hit enemies are plagued by a contagious magic",
+    "Name": "遗物",
+    "ToolTip": "快速召唤腐朽骷髅",
+    "ToolTip2": "用带有传染性的魔法折磨敌人",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -537,12 +527,12 @@
   {
     "TypeName": "LifeQuartzClaymore",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Life Quartz Claymore",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命结晶砍刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Striking an enemy will recover 3 life"
+      "打击敌人后恢复3血量"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -552,8 +542,8 @@
   {
     "TypeName": "ManHacker",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -562,12 +552,12 @@
   {
     "TypeName": "ManHackerCursed",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker : Accursed",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯：诅咒",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Malevolently corrupts shot sawblades",
-      "8% chance to not consume ammo"
+      "狠毒地射出腐化锯刃",
+      "8%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -575,12 +565,12 @@
   {
     "TypeName": "ManHackerIchor",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker : Dissolve",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯：溶解",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Demoniacally infuses shot sawblades",
-      "8% chance to not consume ammo"
+      "可怕地射出感染锯刃",
+      "8%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -588,12 +578,12 @@
   {
     "TypeName": "ManHackerLight",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker : Dazzle",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯：闪光",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Magically enchants shot sawblades",
-      "8% chance to not consume ammo"
+      "着魔地射出附魔锯刃",
+      "8%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -601,15 +591,15 @@
   {
     "TypeName": "MantleProtector",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Mantle of the Protector",
+    "Name": "守护者斗篷",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Honor, Humility, and Will... Those are the true shields'",
-      "Increases defense by 5",
-      "Increases Maximum Health by 15",
-      "Increases length of invincibility after taking damage",
-      "Provides Immunity to Weakness and Broken Armor"
+      "'荣耀，人性和决心...这些才是真正的盾'",
+      "增加5防御",
+      "增加15最大生命值",
+      "延长受伤后的无敌时间",
+      "免疫虚弱和破甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -617,9 +607,9 @@
   {
     "TypeName": "MastersLibram",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Master's Libram",
-    "ToolTip": "Summons a random spell book that flings spells at enemies",
-    "ToolTip2": "Flung spells will deal summon damage",
+    "Name": "大法师的图书馆",
+    "ToolTip": "随机召唤一本魔法书向敌人砸法术",
+    "ToolTip2": "这些法术造成的是召唤伤害",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -627,12 +617,12 @@
   {
     "TypeName": "MoltenManHacker",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Man Hacker : Magma",
-    "ToolTip": "Uses Sawblades as ammunition",
+    "Name": "惊魂电锯：岩浆",
+    "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Super heats shot sawblades",
-      "8% chance to not consume ammo"
+      "强力地射出灼热锯刃",
+      "8%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -640,9 +630,9 @@
   {
     "TypeName": "NightStaff",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Night Staff",
-    "ToolTip": "Fires a surge of dark energy",
-    "ToolTip2": "Upon dealing damage, additional homing surges will be released",
+    "Name": "夜魔杖",
+    "ToolTip": "发射一团黑暗能量",
+    "ToolTip2": "造成伤害后，额外的能量团会被释放",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -650,8 +640,8 @@
   {
     "TypeName": "NovaRifle",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Nova Rifle",
-    "ToolTip": "Automatically sets you into a lesser stealth mode",
+    "Name": "新星来福枪",
+    "ToolTip": "自动让你进入些许隐形的状态",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -660,8 +650,8 @@
   {
     "TypeName": "NuclearFury",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Nuclear Fury",
-    "ToolTip": "Unleashes a nova of homing cosmic energy",
+    "Name": "原子之怒",
+    "ToolTip": "释放原核新星",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -670,8 +660,8 @@
   {
     "TypeName": "OrnateGypsyLoincloth",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ornate Gypsy Loincloth",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "华丽吉普赛裹腰",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -680,8 +670,8 @@
   {
     "TypeName": "OrnateGypsyLoinclothFemale",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Feminine Ornate Gypsy Loincloth",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "女性华丽吉普赛裹腰",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -690,8 +680,8 @@
   {
     "TypeName": "OrnateGypsyRobe",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Ornate Gypsy Robe",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "华丽吉普赛长袍",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -700,8 +690,8 @@
   {
     "TypeName": "PhonicWings",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Phonic Wings",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "无声羽翼",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -710,8 +700,8 @@
   {
     "TypeName": "PinkSludge",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Pink Sludge",
-    "ToolTip": "Summons a bright little flying slime",
+    "Name": "粉色淤泥",
+    "ToolTip": "召唤一个飞着的小史莱姆",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -720,11 +710,11 @@
   {
     "TypeName": "PrismaticSpray",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Prismatic Spray",
-    "ToolTip": "Unleashes a splash of elemental energy",
+    "Name": "元素喷雾",
+    "ToolTip": "喷发一束元素能量",
     "ToolTip2": "",
     "AddToolTip": [
-      "Right Click to switch between four elements"
+      "右键在4中元素中转化"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -732,13 +722,13 @@
   {
     "TypeName": "RealBreakerBreastplate",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Reality Breaker's Breastplate",
+    "Name": "真实粉碎者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased magic damage",
-      "10% increased magic critical strike chance",
-      "Increased mana regeneration"
+      "增加10%魔法伤害",
+      "增加16%魔法暴击",
+      "大幅提升魔法恢复量"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -746,13 +736,13 @@
   {
     "TypeName": "RealBreakerGazer",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Reality Breaker's Gazer",
+    "Name": "真实粉碎者之凝视",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased magic damage",
-      "Life regeneration increased by 2",
-      "Maximum mana increased by 60"
+      "增加10%魔法伤害",
+      "增加3生命恢复量",
+      "增加60魔法值"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -760,12 +750,12 @@
   {
     "TypeName": "RealBreakerLeggings",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Reality Breaker's Leggings",
+    "Name": "真实粉碎者腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased magic damage",
-      "8% increased movement speed"
+      "增加10%魔法伤害",
+      "增加10%的移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -773,11 +763,11 @@
   {
     "TypeName": "RecipeCatalog",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Guide's Final Gift",
+    "Name": "向导的最后礼物",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Functions as almost every vanilla crafting station"
+      "相当于所有原版工作台合成"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -785,8 +775,8 @@
   {
     "TypeName": "RhodiumBreastplate",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Brutal Chestguard",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "野蛮护胸",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -795,8 +785,8 @@
   {
     "TypeName": "RhodiumGreaves",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Brutal Greaves",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "野蛮护腿",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -805,8 +795,8 @@
   {
     "TypeName": "RhodiumMask",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Brutal Mask",
-    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "Name": "野蛮面具",
+    "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -816,7 +806,7 @@
     "TypeName": "Saba",
     "Namespace": "ThoriumMod.Items.Donate",
     "Name": "Saba",
-    "ToolTip": "On swing, fires twin eye beams",
+    "ToolTip": "挥舞时释放双子射线",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -825,9 +815,9 @@
   {
     "TypeName": "SacredHeart",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Sacred Heart",
-    "ToolTip": "Increases movement speed after being struck",
-    "ToolTip2": "Increases length of invincibility after taking damage",
+    "Name": "神圣之心",
+    "ToolTip": "受到攻击后加快移动速度",
+    "ToolTip2": "延长受伤后的无敌时间",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -835,8 +825,8 @@
   {
     "TypeName": "Sawblade",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Sawblade",
-    "ToolTip": "Pierces through multiple enemies and bounces against tiles",
+    "Name": "锯刃",
+    "ToolTip": "可以穿透数次，遇到物块会弹跳",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -845,8 +835,8 @@
   {
     "TypeName": "ShadowFlareBow",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Shadow Flare Bow",
-    "ToolTip": "Turns arrows into ricocheting shadow beams",
+    "Name": "影束炎弓",
+    "ToolTip": "将箭转化为会反弹的暗影射线",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -855,11 +845,11 @@
   {
     "TypeName": "ShusWrath",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Shu's Wrath",
-    "ToolTip": "Turns wooden arrows into 'Forbidden Arrows'",
+    "Name": "遗忘者怒焰",
+    "ToolTip": "将木箭转化成遗忘者之箭",
     "ToolTip2": "",
     "AddToolTip": [
-      "Forbidden Arrows turn into miniature sandstorms after impact"
+      "遗忘者箭矢会在打击后形成小型沙暴"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -867,8 +857,8 @@
   {
     "TypeName": "SilversBlade",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Silver's Fang",
-    "ToolTip": "Attacks against enemies have a 20% chance to summon a molten protector",
+    "Name": "银之牙",
+    "ToolTip": "攻击敌人有20%的几率召唤一个熔岩守护者",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -877,8 +867,8 @@
   {
     "TypeName": "SimpleBroom",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Simple Broom",
-    "ToolTip": "Summons a cute lil' maid to clean",
+    "Name": "扫把",
+    "ToolTip": "召唤小女仆清洁",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -887,11 +877,11 @@
   {
     "TypeName": "Spearmint",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Spearmint",
+    "Name": "蛇毒长枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks apply a stacking poison"
+      "攻击可以叠加剧毒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -899,7 +889,7 @@
   {
     "TypeName": "StrangeSkull",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Strange Skull",
+    "Name": "奇异头骨",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -909,8 +899,8 @@
   {
     "TypeName": "SupportLanternItem",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Demo's Guidance",
-    "ToolTip": "Summons a magic lantern, that releases a constant aura of regeneration",
+    "Name": "蒂莫之指引",
+    "ToolTip": "召唤一只带有生命与魔法回复光环的灯笼",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -919,13 +909,13 @@
   {
     "TypeName": "SweetVengeance",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Sweet Vengeance",
-    "ToolTip": "Increases movement speed after being damaged",
+    "Name": "甜蜜的复仇",
+    "ToolTip": "受到攻击后移动速度加快",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases length of invincibility after taking damage",
-      "Causes stars to fall when damaged",
-      "Causes bees to appear when damaged"
+      "延长受伤后的无敌时间",
+      "受伤后降下落星",
+      "收到伤害之后召唤蜜蜂"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -933,22 +923,22 @@
   {
     "TypeName": "TerrariansKnife",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Terrarian's Last Knife",
-    "ToolTip": "-Cheat Weapon-",
+    "Name": "终末之刃",
+    "ToolTip": "-作弊武器-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Left Click - Releases a torrent of blood",
-      "Right Click - Rapidly swings the knife, stealing enemy life"
+      "左键 - 释放血腥风暴",
+      "右键-快速激发飞刀，窃取生命值"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TrueSilversBlade",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "True Silver's Fang",
-    "ToolTip": "Releases a flaming burst on swing",
-    "ToolTip2": "Attacks against enemies have a 25% chance to summon a molten protector",
+    "Name": "真·银之牙",
+    "ToolTip": "挥动时释放爆炎",
+    "ToolTip2": "攻击敌人有25%几率召唤一个熔炎守卫",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -956,7 +946,7 @@
   {
     "TypeName": "WormHoleMirror",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Wormhole Mirror",
+    "Name": "虫洞之镜",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
@@ -968,12 +958,12 @@
   {
     "TypeName": "WyvernSlayer",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Wyvern Slayer",
-    "ToolTip": "'It's too big to be a sword, it's more like a heap of iron'",
+    "Name": "屠龙者",
+    "ToolTip": "'作为剑来说它实在太大了些，倒不如说是一堆铁块'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Left Click - Releases a barrage of empowered shockwaves",
-      "Right Click - Thrusts the sword with immense force"
+      "左键 - 释放震荡波",
+      "右键 - 用巨大的力量将剑刺出去"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -981,13 +971,13 @@
   {
     "TypeName": "YumasPendant",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Yuma's Pendant",
+    "Name": "云玛垂饰",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases your max number of minions by 2",
-      "15% increased minion damage",
-      "Upon taking damage, a spirit will come to your aid"
+      "增加2召唤物",
+      "提升15%召唤物伤害",
+      "收到伤害之后，一个灵魂会帮助你"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

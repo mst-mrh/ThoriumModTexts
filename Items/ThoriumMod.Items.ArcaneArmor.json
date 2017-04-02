@@ -2,8 +2,8 @@
   {
     "TypeName": "Aerial",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Aerial",
-    "ToolTip": "Releases damaging feathers when nearby enemies",
+    "Name": "舞空",
+    "ToolTip": "附近有敌人时释放锋锐羽毛",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "ArcaneArmorFabricator",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Arcane Armor Fabricator",
-    "ToolTip": "Allows you to craft unique weapons and armor",
+    "Name": "注魔盔甲锻铸台",
+    "ToolTip": "让你能够制造一些独特的武器和铠甲",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,11 +22,11 @@
   {
     "TypeName": "AvianCartilage",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Avian Cartilage",
+    "Name": "鸟软骨",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Incredibly aerodynamic'"
+      "'蕴藏了流体动力学的秘密'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "BloomingBlade",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Blooming Blade",
+    "Name": "绽花之刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -44,11 +44,11 @@
   {
     "TypeName": "BulbChestplate",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Bulb Chestpiece",
+    "Name": "花瓣胸甲",
     "ToolTip": "",
-    "ToolTip2": "10% increased casting speed",
+    "ToolTip2": "增加 10% 投掷速度",
     "AddToolTip": [
-      "Maximum life increased by 10"
+      "最大生命值提升10"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -56,13 +56,13 @@
   {
     "TypeName": "BulbHood",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Bulb Hood",
+    "Name": "花瓣兜帽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 5",
-      "Maximum mana increased by 10",
-      "4% increased magic damage"
+      "最大生命值提升5",
+      "最大生命值提升10",
+      "提升4%魔法伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,13 +70,13 @@
   {
     "TypeName": "BulbLeggings",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Bulb Leggings",
+    "Name": "花瓣腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Maximum life increased by 5",
-      "Maximum mana increased by 10",
-      "4% increased magic damage"
+      "最大生命值提升5",
+      "最大生命值提升10",
+      "提升4%魔法伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -84,7 +84,7 @@
   {
     "TypeName": "DangerDagger",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Dagger",
+    "Name": "致危匕首",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -94,7 +94,7 @@
   {
     "TypeName": "DangerDaikatana",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Daikatana",
+    "Name": "致危长刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -104,7 +104,7 @@
   {
     "TypeName": "DangerDevestator",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Devastator",
+    "Name": "致危毁灭者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -114,11 +114,11 @@
   {
     "TypeName": "DangerDoomerang",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Doomerang",
+    "Name": "致危厄运回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Two may be active at once"
+      "一次可能激活两个"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -126,7 +126,7 @@
   {
     "TypeName": "DangerDrill",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Drill",
+    "Name": "致危钻头",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -136,7 +136,7 @@
   {
     "TypeName": "DangerDuelShot",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Dual-shot",
+    "Name": "致危双发弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -146,11 +146,11 @@
   {
     "TypeName": "DangerGreaves",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Greaves",
-    "ToolTip": "'Let's get dangerous...'",
+    "Name": "致危护腿",
+    "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased movement speed"
+      "提升6%速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,11 +158,11 @@
   {
     "TypeName": "DangerHelmet",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Helmet",
-    "ToolTip": "'Let's get dangerous...'",
+    "Name": "致危头盔",
+    "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Taking damage increases melee abilities briefly"
+      "受到伤害会增加些许近战能力"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -170,11 +170,11 @@
   {
     "TypeName": "DangerMail",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Mail",
-    "ToolTip": "'Let's get dangerous...'",
+    "Name": "致危盔甲",
+    "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased melee speed"
+      "增加8%近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -182,11 +182,11 @@
   {
     "TypeName": "DangerShard",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Danger Shard",
+    "Name": "危机碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Holds anti-magical properties'"
+      "'有着反魔法的性质'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -194,8 +194,8 @@
   {
     "TypeName": "FeatherArrow",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Feather Arrow",
-    "ToolTip": "Drifts in a straight line, ignoring gravity",
+    "Name": "落羽弓",
+    "ToolTip": "无视重力，以直线快速飞行",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -204,8 +204,8 @@
   {
     "TypeName": "FeatherBarrierRod",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Feather Barrier Rod",
-    "ToolTip": "Surrounds you in a short lived barrier of feathers",
+    "Name": "飞羽魔杖",
+    "ToolTip": "召唤一个短暂存在的羽之屏障保护你",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -214,7 +214,7 @@
   {
     "TypeName": "FeatherFoe",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Feather Foe",
+    "Name": "飞羽弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -224,11 +224,11 @@
   {
     "TypeName": "FlightBoots",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Flight Boots",
-    "ToolTip": "'The sky is your playing field'",
+    "Name": "飞羽鞋",
+    "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased movement speed"
+      "增加10%的移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -236,11 +236,11 @@
   {
     "TypeName": "FlightMail",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Flight Mail",
-    "ToolTip": "'The sky is your playing field'",
+    "Name": "飞羽盔甲",
+    "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
     "AddToolTip": [
-      "You suffer no fall damage"
+      "你不会摔伤"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -248,11 +248,11 @@
   {
     "TypeName": "FlightMask",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Flight Hat",
-    "ToolTip": "'The sky is your playing field'",
+    "Name": "飞羽帽",
+    "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases jump height"
+      "增加跳跃高度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -260,8 +260,8 @@
   {
     "TypeName": "FlightWings",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Flight Wings",
-    "ToolTip": "Allows minor flight and slow fall",
+    "Name": "飞羽之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -270,8 +270,8 @@
   {
     "TypeName": "GoblinWarshield",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Goblin War Shield",
-    "ToolTip": "While standing still, defense is increased by 4 and you are immune to enemy knockback",
+    "Name": "哥布林战盾",
+    "ToolTip": "在站着不动的时候，防御会增加4点并且免疫击退",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -280,11 +280,11 @@
   {
     "TypeName": "GoblinWarSpear",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Goblin War Spear",
+    "Name": "哥布林战矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Has a chance to gouge the hit enemy, causing additional damage"
+      "有几率在敌人身上凿出一个窟窿，造成额外伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -292,7 +292,7 @@
   {
     "TypeName": "HarpyPelter",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Harpy Pelter",
+    "Name": "鸟妖冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -302,7 +302,7 @@
   {
     "TypeName": "HarpyTalon",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Harpy Talon",
+    "Name": "鸟妖之爪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -312,11 +312,11 @@
   {
     "TypeName": "Petal",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Petal",
+    "Name": "花瓣",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Has a surprisingly sweet aroma'"
+      "'散发出惊人而浓郁的香气'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -324,7 +324,7 @@
   {
     "TypeName": "PetalBloom",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Petal Bloom",
+    "Name": "绽花回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -334,9 +334,9 @@
   {
     "TypeName": "PetalShield",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Petal Shield",
-    "ToolTip": "Defense increased by 3",
-    "ToolTip2": "While not taking damage, life regeneration will increase up to 3",
+    "Name": "花之盾",
+    "ToolTip": "提升3点防御",
+    "ToolTip2": "不受攻击时，生命回复提升至3",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -344,8 +344,8 @@
   {
     "TypeName": "PetalWand",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Petal Wand",
-    "ToolTip": "Shoots a volley of quick petals",
+    "Name": "花瓣魔杖",
+    "ToolTip": "射出一片极速飞行的花瓣",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -354,8 +354,8 @@
   {
     "TypeName": "ShadowflameWand",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Shadowflame Wand",
-    "ToolTip": "Shoots a slow moving orb of shadowflame magic",
+    "Name": "暗影炎魔杖",
+    "ToolTip": "射出一个缓慢移动的暗影之炎魔球",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -364,7 +364,7 @@
   {
     "TypeName": "YewGun",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew-Handled Flintlock",
+    "Name": "紫衫木燧发枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -374,11 +374,11 @@
   {
     "TypeName": "YewWood",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew Wood",
+    "Name": "紫衫木",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'This strange wood comes from a far away land'"
+      "'这奇特的木头来自一个遥远的大陆'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -386,11 +386,11 @@
   {
     "TypeName": "YewWoodaHelmet",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew-Wood Helmet",
+    "Name": "紫衫木头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "4% increased ranged damage"
+      "增加4%远程伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -398,7 +398,7 @@
   {
     "TypeName": "YewWoodBow",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew-Wood Bow",
+    "Name": "紫衫木弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -408,12 +408,12 @@
   {
     "TypeName": "YewWoodBreastgaurd",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew-Wood Breastguard",
+    "Name": "紫衫木护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% increased ranged damage",
-      "15% increased firing speed"
+      "增加2%远程伤害",
+      "增加15%射击速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -421,12 +421,12 @@
   {
     "TypeName": "YewWoodLeggings",
     "Namespace": "ThoriumMod.Items.ArcaneArmor",
-    "Name": "Yew-Wood Leggings",
+    "Name": "紫衫木腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% increased ranged damage",
-      "5% increased movement speed"
+      "增加2%远程伤害",
+      "增加5%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

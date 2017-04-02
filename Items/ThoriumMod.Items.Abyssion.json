@@ -2,7 +2,7 @@
   {
     "TypeName": "AbyssalShadow",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Abyssal Shadow",
+    "Name": "深海暗影",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,23 +12,23 @@
   {
     "TypeName": "AbyssalShell",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Abyssal Shell",
-    "ToolTip": "Clicking the 'Abyssal Guard' key will place you in an impenetrable shell",
+    "Name": "深渊贝壳",
+    "ToolTip": "按下‘深渊守护’按钮将会使你进入一个固若金汤的贝壳中",
     "ToolTip2": "",
     "AddToolTip": [
-      "While encased, you cant use items, life regeneration is heavily reduced and damage is nearly nullified"
+      "缩进贝壳中时，你无法使用物品，生命恢复大大降低，伤害趋近于零"
     ],
     "AddToolTip2": [
-      "Leaving the shell will greatly lower your speed, defense and damage briefly",
-      "Leaving the shell will prohibit the use of the shell again for 20 seconds"
+      "离开贝壳会大幅降低你的速度，防御和伤害",
+      "离开贝壳后20秒内无法再次缩进去"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "AbyssionBag",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -37,7 +37,7 @@
   {
     "TypeName": "AbyssionMask",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Abyssion Mask",
+    "Name": "深渊之主面具",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -47,7 +47,7 @@
   {
     "TypeName": "AbyssionTrophy",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Abyssion Trophy",
+    "Name": "深渊之主荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -57,11 +57,11 @@
   {
     "TypeName": "MantisPunch",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Mantis Shrimp Punch",
+    "Name": "皮皮虾之拳",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Breaks the sound barrier"
+      "击破音障"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -69,8 +69,8 @@
   {
     "TypeName": "OldGodGrasp",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Old God's Grasp",
-    "ToolTip": "Unleashes a hungering surge of ancient magic",
+    "Name": "旧神之握",
+    "ToolTip": "释放一团吞噬敌人的远古魔能",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -79,8 +79,8 @@
   {
     "TypeName": "TheIncubator",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "The Incubator",
-    "ToolTip": "Releases an abyssal crab egg",
+    "Name": "蟹卵孵化器",
+    "ToolTip": "召唤一个腐化深渊蟹的蛋",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -89,7 +89,7 @@
   {
     "TypeName": "TrenchSpitter",
     "Namespace": "ThoriumMod.Items.Abyssion",
-    "Name": "Trench Spitter",
+    "Name": "裂渠",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],

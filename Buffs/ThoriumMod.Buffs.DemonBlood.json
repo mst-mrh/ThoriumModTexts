@@ -2,31 +2,31 @@
   {
     "TypeName": "DemonBloodExhaust",
     "Namespace": "ThoriumMod.Buffs.DemonBlood",
-    "Name": "Blood Harvested",
-    "Tip": "Cannot currently build blood charges"
+    "Name": "鲜血收获",
+    "Tip": "无法用鲜血充能"
   },
   {
     "TypeName": "DemonBloodI",
     "Namespace": "ThoriumMod.Buffs.DemonBlood",
-    "Name": "Blood Charge",
-    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+    "Name": "鲜血回流",
+    "Tip": "你的第五次攻击会造成额外伤害并治疗你"
   },
   {
     "TypeName": "DemonBloodII",
     "Namespace": "ThoriumMod.Buffs.DemonBlood",
-    "Name": "Blood Charge",
-    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+    "Name": "鲜血回流",
+    "Tip": "你的第五次攻击会造成额外伤害并治疗你"
   },
   {
     "TypeName": "DemonBloodIII",
     "Namespace": "ThoriumMod.Buffs.DemonBlood",
-    "Name": "Blood Charge",
-    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+    "Name": "鲜血回流",
+    "Tip": "你的第五次攻击会造成额外伤害并治疗你"
   },
   {
     "TypeName": "DemonBloodIV",
     "Namespace": "ThoriumMod.Buffs.DemonBlood",
-    "Name": "Blood Fuelled",
-    "Tip": "Your next attack will deal bonus damage and steal life"
+    "Name": "鲜血回流",
+    "Tip": "你的第五次攻击会造成额外伤害并治疗你"
   }
 ]

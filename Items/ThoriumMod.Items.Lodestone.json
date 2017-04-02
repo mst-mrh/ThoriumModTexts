@@ -2,9 +2,9 @@
   {
     "TypeName": "EarthernBulwark",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Earthen Bulwark",
-    "ToolTip": "Defense increased by 8",
-    "ToolTip2": "Enemies are more likely to attack you",
+    "Name": "大地壁垒",
+    "ToolTip": "提升8点防御",
+    "ToolTip2": "敌人对你更具有攻击性",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -12,8 +12,8 @@
   {
     "TypeName": "LodeStoneBow",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Bow",
-    "ToolTip": "Arrows shot from this bow will temporarily sunder the hit enemies defense",
+    "Name": "磁极长弓",
+    "ToolTip": "从这把弓上射出的箭矢能够降低被攻击敌人的防御",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,13 +22,13 @@
   {
     "TypeName": "LodeStoneChestGaurd",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Chest Guard",
+    "Name": "磁极护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% Increased Melee Critical strike chance",
-      "6% Increased Melee Damage",
-      "5% Increased Melee Speed"
+      "增加2%近战暴击率",
+      "增加6%近战伤害",
+      "增加5%的近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -36,11 +36,11 @@
   {
     "TypeName": "LodeStoneChunk",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Chunk",
+    "Name": "磁石",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Enforced by the core of your Terrarian world'"
+      "'被你的泰拉瑞亚世界之核心所实行'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,12 +48,12 @@
   {
     "TypeName": "LodeStoneClaymore",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Claymore",
+    "Name": "磁极长刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will sunder the enemies defense",
-      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果",
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -61,13 +61,13 @@
   {
     "TypeName": "LodeStoneFaceGuard",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Face Guard",
+    "Name": "磁极护盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% Increased Melee Critical strike chance",
-      "4% Increased Melee Damage",
-      "10% Increased Melee Speed"
+      "增加2%近战暴击率",
+      "增加4%近战伤害",
+      "增加10%的近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,7 +75,7 @@
   {
     "TypeName": "LodeStoneGreatAxe",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Great Axe",
+    "Name": "磁极巨斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -85,7 +85,7 @@
   {
     "TypeName": "LodeStoneHammer",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Hammer",
+    "Name": "磁极锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -95,11 +95,11 @@
   {
     "TypeName": "LodeStoneIngot",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Ingot",
+    "Name": "磁极锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Try as you might, this stuff has become unbreakable!'"
+      "'放马过来，这件物品是牢不可破的!'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -107,8 +107,8 @@
   {
     "TypeName": "LodeStoneMace",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Breaker",
-    "ToolTip": "Attacks will sunder the enemies defense immensely",
+    "Name": "磁极破魔锤",
+    "ToolTip": "攻击将会极大地降低敌人的防御",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -117,7 +117,7 @@
   {
     "TypeName": "LodeStonePickaxe",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Pickaxe",
+    "Name": "磁极镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -127,8 +127,8 @@
   {
     "TypeName": "LodeStoneQuickDraw",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Quick Draw",
-    "ToolTip": "Bullets shot from this gun will temporarily sunder the hit enemies defense",
+    "Name": "磁极冲钻",
+    "ToolTip": "从这把枪里射出的子弹能够降低被攻击敌人的防御",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -137,13 +137,13 @@
   {
     "TypeName": "LodeStoneShinGaurds",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Shin Guards",
+    "Name": "磁极护胫",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% Increased Melee Critical strike chance",
-      "5% Increased Melee Damage",
-      "12% increased movement speed"
+      "增加2%近战暴击率",
+      "增加5%近战伤害",
+      "增加12%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -151,11 +151,11 @@
   {
     "TypeName": "LodeStoneStaff",
     "Namespace": "ThoriumMod.Items.Lodestone",
-    "Name": "Lodestone Staff",
-    "ToolTip": "Unleashes a bolt of earthen magic that will cause a cascade of earth",
+    "Name": "地磁法杖",
+    "ToolTip": "释放一道带有大地之力的能量并引发泥石流",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will sunder the enemies defense"
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

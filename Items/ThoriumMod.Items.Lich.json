@@ -12,11 +12,11 @@
   {
     "TypeName": "CursedCloth",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Cursed Cloth",
+    "Name": "诅咒布匹",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'The amount of dark energy within this simple piece of cloth is unimaginable...'"
+      "'这块布蕴藏着难以想象的黑暗能量...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,11 +24,11 @@
   {
     "TypeName": "DeathGrip",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Death Grip",
+    "Name": "死亡呼唤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Uses 'Soul Bombs' as ammunition"
+      "用灵魂手雷作为弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -39,7 +39,7 @@
   {
     "TypeName": "DeathGripPro",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Soul Bomb",
+    "Name": "灵魂炸弹",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -49,8 +49,8 @@
   {
     "TypeName": "LichBag",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -59,12 +59,12 @@
   {
     "TypeName": "LichCarapace",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Carapace",
-    "ToolTip": "'Embrace death...'",
+    "Name": "巫妖盔甲",
+    "ToolTip": "'拥抱死亡...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "25% increased throwing damage",
-      "30% increased throwing velocity"
+      "提升25%投掷伤害",
+      "提升30%的投掷物速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,11 +72,11 @@
   {
     "TypeName": "LichCatalyst",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Grim Harvest Sigil",
-    "ToolTip": "Summons The Lich",
+    "Name": "饥荒魔符",
+    "ToolTip": "召唤巫妖",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only usable at night"
+      "只在晚间可用"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -84,12 +84,12 @@
   {
     "TypeName": "LichCowl",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Cowl",
-    "ToolTip": "'Embrace death...'",
+    "Name": "巫妖头套",
+    "ToolTip": "'拥抱死亡...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased throwing damage",
-      "33% chance not to consume thrown items"
+      "提升15%投掷伤害",
+      "33%的概率不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,12 +97,12 @@
   {
     "TypeName": "LichGaze",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Gaze",
-    "ToolTip": "'Nothing can hide from death'",
+    "Name": "巫妖之视",
+    "ToolTip": "'在死亡面前一切都无从遁形'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Pressing the 'Special Ability' key will trigger True Strikes",
-      "Needs to recharge for 2 minutes after being activated"
+      "按下特殊技能键将会进入弱点打击状态",
+      "在激发之后需要2分钟进行冷却"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -110,8 +110,8 @@
   {
     "TypeName": "LichHood",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Grim Hood",
-    "ToolTip": "'Marginally more scary than a cowl'",
+    "Name": "巫妖兜帽",
+    "ToolTip": "'没有什么比头罩还要可怕了'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -120,12 +120,12 @@
   {
     "TypeName": "LichTalon",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Talons",
-    "ToolTip": "'Embrace death...'",
+    "Name": "巫妖裂爪",
+    "ToolTip": "'拥抱死亡...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased throwing damage",
-      "15% increased throwing critical strike chance"
+      "提升15%投掷伤害",
+      "提升15%投掷暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -133,7 +133,7 @@
   {
     "TypeName": "LichTrophy",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Liches Trophy",
+    "Name": "巫妖荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -143,12 +143,12 @@
   {
     "TypeName": "SoulCleaver",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Soul Cleaver",
-    "ToolTip": "Rapidly throws piercing daggers",
+    "Name": "灵魂屠刀",
+    "ToolTip": "快速扔出穿透性的短剑",
     "ToolTip2": "",
     "AddToolTip": [
-      "Killing enemies has a chance to release a soul fragment",
-      "Picking these fragments up will grant you 'Soul Harvest'"
+      "杀死一个敌人有几率释放灵魂碎片",
+      "捡起这些碎片之后你得到灵魂收割者能力"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -159,7 +159,7 @@
   {
     "TypeName": "SoulHarvestItem",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Loose Soul Fragment",
+    "Name": "灵魂碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -169,11 +169,11 @@
   {
     "TypeName": "SoulRender",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Soul Render",
-    "ToolTip": "Swings summon volatile soul blades",
+    "Name": "灵魂镰刃",
+    "ToolTip": "挥动的时候会召唤出强力的灵魂之镰",
     "ToolTip2": "",
     "AddToolTip": [
-      "This weapon has a very long range"
+      "这件武器具有非常广的打击范围"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -181,12 +181,12 @@
   {
     "TypeName": "SpiritBand",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Spirit Band",
-    "ToolTip": "'Your body has become incorporeal...'",
+    "Name": "魂灵头带",
+    "ToolTip": "'你的身体变得摸不着了...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "While active, damage taken cannot exceed 150",
-      "This effect can only occur once every 10 seconds"
+      "激活时，所受的伤害不会超过150",
+      "这效果每10秒才能产生1次"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -194,24 +194,24 @@
   {
     "TypeName": "TheLostCross",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "The Lost Cross",
-    "ToolTip": "-Healer Class-",
+    "Name": "失落十字架",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Reminds you of an old friend...'",
-      "Healing spells will increase the healed targets defense by 20 for 15 seconds"
+      "'让你回想起了一个老朋友...'",
+      "治疗法术会增加接受治疗的友军20防御，持续15秒"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "WitherStaff",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Wither Staff",
-    "ToolTip": "Rapidly unleashes globules of death energy which apply 'Wither'",
+    "Name": "枯萎法杖",
+    "ToolTip": "快速射出附有死亡能量的血珠，能使敌人带上‘凋零’debuff",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Wither' quickly decays the flesh of enemies"
+      "'凋零'会快速的腐蚀敌人的血肉"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

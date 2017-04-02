@@ -2,8 +2,8 @@
   {
     "TypeName": "BirdMask",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Bird Mask",
-    "ToolTip": "'Imitate the fury of the storm!'",
+    "Name": "雷鸟面具",
+    "ToolTip": "'凝聚风暴的怒火!'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,8 +12,8 @@
   {
     "TypeName": "HatchlingStaff",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Hatchling Staff",
-    "ToolTip": "Summons a hatchling to zap your foes into dust",
+    "Name": "小雷鸟法杖",
+    "ToolTip": "召唤一只小雷鸟把你的敌人电成灰烬",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -22,8 +22,8 @@
   {
     "TypeName": "StormFlare",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Storm Flare",
-    "ToolTip": "When used with the grand flare gun, something might happen",
+    "Name": "风暴信号弹",
+    "ToolTip": "当它被雷霆信号枪射出的时候，会发生可怕的事情",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -32,12 +32,12 @@
   {
     "TypeName": "StrongFlareGun",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Grand Flare Gun",
-    "ToolTip": "'Aim to the skies!",
+    "Name": "辉耀枪",
+    "ToolTip": "'瞄准天空！",
     "ToolTip2": "",
     "AddToolTip": [
-      "Requires 'Storm Flares' to function",
-      "Summons the Grand Thunder Bird, but only during the day"
+      "需要风暴信号弹",
+      "召唤雷鸟，但是只能在白天使用"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,11 +45,11 @@
   {
     "TypeName": "TalonBurst",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Talon Burst",
-    "ToolTip": "'Fabricated from feathers and lightning'",
-    "ToolTip2": "Storm Bolts fly incredibly fast and can hit the same target twice",
+    "Name": "猛禽破",
+    "ToolTip": "'由羽毛和雷霆组装而成'",
+    "ToolTip2": "风暴之箭飞得极快且能攻击同一个目标两次",
     "AddToolTip": [
-      "Turns wooden arrows into 'Storm Bolts'"
+      "将木箭转换成'风暴之箭'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,8 +57,8 @@
   {
     "TypeName": "ThunderBirdBag",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -67,7 +67,7 @@
   {
     "TypeName": "ThunderBirdTrophy",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Thunder Bird Trophy",
+    "Name": "雷鸟荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -77,8 +77,8 @@
   {
     "TypeName": "ThunderTalon",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Thunder Talon",
-    "ToolTip": "Has a chance to release a spark of electricity on swing",
+    "Name": "雷爪",
+    "ToolTip": "有几率在挥动时释放电火花",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -87,11 +87,11 @@
   {
     "TypeName": "Zephyr",
     "Namespace": "ThoriumMod.Items.ThunderBird",
-    "Name": "Zephyr",
+    "Name": "疾风羽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased movement speed"
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

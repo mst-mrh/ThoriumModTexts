@@ -2,11 +2,11 @@
   {
     "TypeName": "BersekerShard",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Shard",
+    "Name": "狂战士碎晶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Just holding this thing makes you angry'"
+      "'仅仅持有它都会点燃你的愤怒'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,11 +14,11 @@
   {
     "TypeName": "BerserkBlade",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Blade",
-    "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
+    "Name": "狂战士长刃",
+    "ToolTip": "击中敌人之后，接下来的一击将会根据敌人失去的生命造成额外伤害",
     "ToolTip2": "",
     "AddToolTip": [
-      "Right Click - Swings the sword slower, but for stronger damage and knockback"
+      "右键-挥舞速度变慢但会有更多的伤害和击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,11 +26,11 @@
   {
     "TypeName": "BerserkBow",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Bow",
-    "ToolTip": "Turns wooden arrows into 'Berserker Arrows'",
+    "Name": "狂战士硬弓",
+    "ToolTip": "将木箭转换为狂战士之箭",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Berserker Arrows' make consecutive hits cause additional damage based on the enemies missing life"
+      "'狂战士之箭'造成基于敌人损失血量的伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -38,8 +38,8 @@
   {
     "TypeName": "BerserkBreaker",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Breaker",
-    "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
+    "Name": "破战链锤",
+    "ToolTip": "击中敌人之后，接下来的一击将会根据敌人失去的生命造成额外伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -48,13 +48,13 @@
   {
     "TypeName": "BerserkerBreastplate",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Breastplate",
+    "Name": "狂战士护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Damage taken reduced by 4%",
-      "Life regeneration increased by 2",
-      "10% increased attack speed"
+      "伤害减免4%",
+      "增加生命恢复量2",
+      "1提升0%攻速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -62,13 +62,13 @@
   {
     "TypeName": "BerserkerGreaves",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Greaves",
+    "Name": "狂战士胫甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Damage taken reduced by 3%",
-      "Life regeneration increased by 1",
-      "15% increased movement speed"
+      "伤害减免3%",
+      "增加生命恢复量1",
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -76,7 +76,7 @@
   {
     "TypeName": "BerserkerHamaxe",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Hamaxe",
+    "Name": "狂战士锤斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -86,13 +86,13 @@
   {
     "TypeName": "BerserkerMask",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Mask",
+    "Name": "狂战士面具",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Damage taken reduced by 3%",
-      "Life regeneration increased by 1",
-      "16% increased critical strike chance"
+      "伤害减免3%",
+      "增加生命恢复量1",
+      "提升16%伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -100,7 +100,7 @@
   {
     "TypeName": "BerserkPickaxe",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserker Pickaxe",
+    "Name": "狂战镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -110,11 +110,11 @@
   {
     "TypeName": "BerserkSoulStaff",
     "Namespace": "ThoriumMod.Items.Berserker",
-    "Name": "Berserk Soul Staff",
-    "ToolTip": "Enemies hit by this bolt, will be cursed with 'Berserker Soul'",
+    "Name": "战灵法杖",
+    "ToolTip": "被它击中的敌人，将会受到狂战之魂的诅咒",
     "ToolTip2": "",
     "AddToolTip": [
-      "Enemies who die with 'Berserker Soul' have a chance to return as an aggressive spirit for a short time"
+      "被'狂战士之魂'击杀的敌人有机会重返有攻击性的灵魂形态并持续一些时间"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

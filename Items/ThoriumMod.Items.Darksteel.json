@@ -2,11 +2,11 @@
   {
     "TypeName": "aDarksteelAlloy",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Knight's Alloy",
+    "Name": "骑士合金",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Material used by the fallen knights of the dungeon'"
+      "'地牢堕落骑士用品'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,7 +14,7 @@
   {
     "TypeName": "bDarksteelPickaxe",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Pickaxe",
+    "Name": "暗金镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -24,7 +24,7 @@
   {
     "TypeName": "cDarksteelAxe",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Axe",
+    "Name": "暗金斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -34,11 +34,11 @@
   {
     "TypeName": "DarksteelCore",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Core",
+    "Name": "暗金核心",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Holds the necessary properties to make Darksteel equipment'"
+      "'蕴藏着制作黑铁骑士的关键物质'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -46,7 +46,7 @@
   {
     "TypeName": "dDarksteelMallet",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Mallet",
+    "Name": "暗金锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -56,7 +56,7 @@
   {
     "TypeName": "eDarksteelBroadSword",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Broadsword",
+    "Name": "暗金宽剑",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -66,7 +66,7 @@
   {
     "TypeName": "eeDarksteelMace",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Mace",
+    "Name": "暗金狼牙锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -76,11 +76,11 @@
   {
     "TypeName": "eeeLifeLeech",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Life Leech",
+    "Name": "生命汲取",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Strikes will turn damage into life"
+      "攻击会将伤害转化为血量"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,11 +88,11 @@
   {
     "TypeName": "eeSoulSiphon",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Soul Siphon",
+    "Name": "灵魂虹吸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Strikes will turn damage into Mana"
+      "攻击会将伤害转化为魔法"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -100,7 +100,7 @@
   {
     "TypeName": "fDarksteelBow",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Longbow",
+    "Name": "暗金长弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -110,7 +110,7 @@
   {
     "TypeName": "gDarkSteelCrossBow",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Crossbow",
+    "Name": "暗金弩",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -120,12 +120,12 @@
   {
     "TypeName": "hDarksteelFaceGuard",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Faceguard",
-    "ToolTip": "'Light yet durable'",
+    "Name": "暗金骑士护面",
+    "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased movement speed",
-      "Armor penetration increased by 3"
+      "增加10%的移动速度",
+      "增加3破甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -133,12 +133,12 @@
   {
     "TypeName": "iDarksteelBreastPlate",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Breastplate",
-    "ToolTip": "'Light yet durable'",
+    "Name": "暗金骑士胸甲",
+    "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased movement speed",
-      "Armor penetration increased by 4"
+      "增加12%移速",
+      "增加4破甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -146,12 +146,12 @@
   {
     "TypeName": "jDarksteelGreaves",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Darksteel Greaves",
-    "ToolTip": "'Light yet durable'",
+    "Name": "暗金骑士护腿",
+    "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased movement speed",
-      "Armor penetration increased by 3"
+      "增加10%的移动速度",
+      "增加3破甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -159,11 +159,11 @@
   {
     "TypeName": "SmoothCoal",
     "Namespace": "ThoriumMod.Items.Darksteel",
-    "Name": "Smooth Coal",
+    "Name": "光滑的煤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Might be useful'"
+      "'可能会很有用'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

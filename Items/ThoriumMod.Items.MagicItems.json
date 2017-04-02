@@ -2,8 +2,8 @@
   {
     "TypeName": "AdamantiteStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Adamantite Staff",
-    "ToolTip": "Summons an adamantite entity to shoot three pulses at your cursors location",
+    "Name": "精金法杖",
+    "ToolTip": "召唤一个精金炮塔向你的鼠标位置发射攻击",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,11 +12,11 @@
   {
     "TypeName": "BlackholeCannon",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Blackhole Cannon",
-    "ToolTip": "Shoots a pulse of energy that summons a singularity at the impact zone",
+    "Name": "黑洞",
+    "ToolTip": "射出一道能量召唤大挤压区中的一个奇点",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only one singularity can be active at once"
+      "同一时间只有1个奇点能被激发"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,8 +24,8 @@
   {
     "TypeName": "Bloodboil",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Bloodboil",
-    "ToolTip": "Slowly boils the blood of enemies around your cursor",
+    "Name": "血沸",
+    "ToolTip": "令在你鼠标附近的敌人血液慢慢沸腾",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,8 +34,8 @@
   {
     "TypeName": "ChlorophyteStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Chlorophyte Staff",
-    "ToolTip": "Rapidly shoots poison energy that explodes into spore clouds",
+    "Name": "叶绿法杖",
+    "ToolTip": "快速射出能爆炸形成毒雾的能量波",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -44,8 +44,8 @@
   {
     "TypeName": "CobaltStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Cobalt Staff",
-    "ToolTip": "Shoots out two bouncy, reflective bolts of energy",
+    "Name": "钴蓝法杖",
+    "ToolTip": "射出两团可反弹的能量波",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -54,8 +54,8 @@
   {
     "TypeName": "DarkWave",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Dark Wave",
-    "ToolTip": "Sends out a wave of dark energy, that eats away at enemies it hits briefly",
+    "Name": "暗流",
+    "ToolTip": "射出一弯黑暗能量，能短暂地侵蚀敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -64,7 +64,7 @@
   {
     "TypeName": "DynastyWarFan",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Dynasty War Fan",
+    "Name": "附魔长刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -74,8 +74,8 @@
   {
     "TypeName": "Enchantersword",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Enchanter's Sword",
-    "ToolTip": "Attacks replenish Mana and increase magical abilities slightly",
+    "Name": "攻击将会回复魔力并能轻微增强魔法力量",
+    "ToolTip": "攻击将会回复魔力并能轻微增强魔法力量",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -84,11 +84,11 @@
   {
     "TypeName": "HallowedCharm",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Hallowed Charm",
+    "Name": "神圣护符",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It glimmers with comforting power'"
+      "'它带着舒爽的能量闪着光芒'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -96,8 +96,8 @@
   {
     "TypeName": "HallowedStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Hallowed Staff",
-    "ToolTip": "Summons a barrage of enchanted swords at the mouse cursors location",
+    "Name": "神圣法杖",
+    "ToolTip": "在鼠标位置召唤一个剑阵",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -106,8 +106,8 @@
   {
     "TypeName": "HighTide",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "High Tide",
-    "ToolTip": "Sends out a droplet of water that will create small tidal waves on impact",
+    "Name": "激流",
+    "ToolTip": "射出一颗水珠，撞到物体时会产生几片水波",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -116,8 +116,8 @@
   {
     "TypeName": "InfernoStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Inferno Staff",
-    "ToolTip": "Sends out a molten flare that will plume into a vertical surge of fire",
+    "Name": "狱火",
+    "ToolTip": "射出一团会变成火墙的火焰",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -126,8 +126,8 @@
   {
     "TypeName": "JunglesWrath",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Jungle's Wrath",
-    "ToolTip": "Fires out a seed pod that explodes into poisonous spore clouds",
+    "Name": "丛林之怒",
+    "ToolTip": "发射会爆炸并令敌人中毒的孢子云",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -136,12 +136,12 @@
   {
     "TypeName": "LightsLament",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Light's Lament",
-    "ToolTip": "Summons a star fuelled by pure twilight",
+    "Name": "夜之哀伤",
+    "ToolTip": "召唤一个有着纯净星空之力的星星",
     "ToolTip2": "",
     "AddToolTip": [
-      "When the star collides with a tile, it will unleash a star surge",
-      "Only one star surge may be active at once"
+      "当这颗星星撞到物块时，会引发流星雨",
+      "一次只能激发一个光浪"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -149,8 +149,8 @@
   {
     "TypeName": "MythrilStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Mythril Staff",
-    "ToolTip": "Shoots out three bolts that will attempt to home in on enemies",
+    "Name": "秘银法杖",
+    "ToolTip": "发出三道跟踪敌人的闪电",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -159,8 +159,8 @@
   {
     "TypeName": "OrichalcumStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Orichalcum Staff",
-    "ToolTip": "Rapidly releases a barrage of powerful petals",
+    "Name": "奥刚法杖",
+    "ToolTip": "快速射出由强大的花瓣组成的弹幕",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -169,8 +169,8 @@
   {
     "TypeName": "PalladiumStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Palladium Staff",
-    "ToolTip": "Shoots out energy that shatters into multiple shards",
+    "Name": "钯金法杖",
+    "ToolTip": "射出一个会分裂成许多碎片的能量弹",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -179,8 +179,8 @@
   {
     "TypeName": "SpectrelBlade",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Spectral Blade",
-    "ToolTip": "Attacks replenish Mana and increase magical abilities greatly",
+    "Name": "魂刃",
+    "ToolTip": "攻击将会回复魔力并能大量增强魔法力量",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -189,11 +189,11 @@
   {
     "TypeName": "SporeBook",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Spell Book: Spores",
-    "ToolTip": "Shoots out a homing spore pod that will infect enemies with 'The Glow'",
+    "Name": "咒书:真菌寄生",
+    "ToolTip": "发射真菌束并寄生在敌人身上",
     "ToolTip2": "",
     "AddToolTip": [
-      "Should the enemy die, more spore pods will be released"
+      "敌人死后，更多的孢子荚会被释放"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -201,8 +201,8 @@
   {
     "TypeName": "StalagmiteBook",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Spell Book: Stalagmite",
-    "ToolTip": "Creates a wave of heating stalagmites",
+    "Name": "咒书：炎笋",
+    "ToolTip": "释放一排灼烧着的石笋",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -211,11 +211,11 @@
   {
     "TypeName": "TerraStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Terra Staff",
-    "ToolTip": "Summons a portal at the target location that constantly unleashes an array of devastating attacks",
+    "Name": "泰拉魔杖",
+    "ToolTip": "召唤一个能够朝敌人发射元素光线的传送门",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only one portal can exist at a time"
+      "一次只能存在一个传送门"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -223,11 +223,11 @@
   {
     "TypeName": "TimeBook",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Spell Book: Time Gate",
-    "ToolTip": "Channels a large field of time slowing magic",
+    "Name": "咒书：时间门",
+    "ToolTip": "在一个较大区域中召唤一个减缓时间流速的魔法",
     "ToolTip2": "",
     "AddToolTip": [
-      "Enemies and hostile projectiles within the field are slowed"
+      "敌人的攻击性投掷物在时间领域内会减速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -235,11 +235,11 @@
   {
     "TypeName": "TitaniumStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Titanium Staff",
-    "ToolTip": "Summons a portal at the target location that constantly shoots razor blades at nearby enemies",
+    "Name": "钛金法杖",
+    "ToolTip": "召唤一个能够朝敌人发射旋刃的传送门",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only one portal can exist at a time"
+      "一次只能存在一个传送门"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -247,8 +247,8 @@
   {
     "TypeName": "TrueBloodboil",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "True Bloodboil",
-    "ToolTip": "Violently boils the blood of enemies around your cursor and has a chance to hemorrhage the enemy",
+    "Name": "真·血沸",
+    "ToolTip": "在你的鼠标附近的敌人的血液将会距离沸腾，并有几率使敌人大量失血",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -257,8 +257,8 @@
   {
     "TypeName": "TrueEnchantersSword",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "True Enchanter's Sword",
-    "ToolTip": "Attacks replenish Mana and increase magical abilities moderately",
+    "Name": "真·附魔长刃",
+    "ToolTip": "攻击将会回复魔力并能适当增强魔法力量",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -267,8 +267,8 @@
   {
     "TypeName": "TrueHallowedStaff",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "True Hallowed Staff",
-    "ToolTip": "Summons a barrage of hallowed blades at the mouse cursors location",
+    "Name": "真·神圣法杖",
+    "ToolTip": "在鼠标位置召唤神圣剑阵",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -277,11 +277,11 @@
   {
     "TypeName": "TrueLightsLament",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "True Light's Lament",
-    "ToolTip": "Summons a star fuelled by pure evil",
+    "Name": "真·夜之哀伤",
+    "ToolTip": "召唤一颗被邪恶之力驱使的星星",
     "ToolTip2": "",
     "AddToolTip": [
-      "When the star collides with a tile, evil energies will barrage the impact zone"
+      "当星星与物块相撞时，邪恶能量会爆发影响该区域"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -289,8 +289,8 @@
   {
     "TypeName": "VesselBuster",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "Vessel Buster",
-    "ToolTip": "Sends out a short range splash of blood",
+    "Name": "动脉破裂",
+    "ToolTip": "释放距离较短的血雾",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -299,25 +299,25 @@
   {
     "TypeName": "WhiteKnightLeggings",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "White Knight Leggings",
+    "Name": "白骑士腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased magic damage"
+      "增加10%魔法伤害"
     ],
     "AddToolTip2": [
-      "8% increased movement speed"
+      "增加8%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "WhiteKnightMask",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "White Knight Mask",
-    "ToolTip": "8% increased magic damage",
+    "Name": "白骑士面罩",
+    "ToolTip": "提升8%的魔法伤害",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased magic critical strike chance"
+      "提升5%的魔法伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -325,14 +325,14 @@
   {
     "TypeName": "WhiteKnightTabard",
     "Namespace": "ThoriumMod.Items.MagicItems",
-    "Name": "White Knight Tabard",
+    "Name": "白骑士战袍",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased magic damage"
+      "增加12%魔法伤害"
     ],
     "AddToolTip2": [
-      "6% increased magic critical strike chance"
+      "增加6%的魔法暴击概率"
     ],
     "ModifyTooltips": []
   }

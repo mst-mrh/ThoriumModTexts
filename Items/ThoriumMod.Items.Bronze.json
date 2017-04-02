@@ -2,12 +2,12 @@
   {
     "TypeName": "BronzeBreastplate",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Breastplate",
+    "Name": "青铜胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Deities watch over you...'",
-      "8% increased melee and thrown damage"
+      "'神明们在注视着你'",
+      "增加8%投掷和近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,11 +15,11 @@
   {
     "TypeName": "BronzeFragments",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Alloy Fragments",
+    "Name": "青铜合金碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Its amazing quality has not been lost to time'"
+      "'这惊人的质量将延续很长时间'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,11 +27,11 @@
   {
     "TypeName": "BronzeGladius",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Gladius",
-    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "Name": "青铜短剑",
+    "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
     "AddToolTip": [
-      "Boss monsters cannot suffer from this effect"
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,13 +39,13 @@
   {
     "TypeName": "BronzeGreaves",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Greaves",
+    "Name": "青铜腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Deities watch over you...'",
-      "5% increased melee & throwing speed",
-      "5% increased movement speed"
+      "'神明们在注视着你'",
+      "增加5%投掷和近战速度",
+      "增加5%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -53,12 +53,12 @@
   {
     "TypeName": "BronzeHelmet",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Helmet",
+    "Name": "青铜头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Deities watch over you...'",
-      "5% increased melee and thrown critical strike chance"
+      "'神明们在注视着你'",
+      "增加5%投掷和近战暴击率"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -66,7 +66,7 @@
   {
     "TypeName": "BronzeMallet",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Mallet",
+    "Name": "青铜锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -76,7 +76,7 @@
   {
     "TypeName": "BronzePax",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Pax",
+    "Name": "青铜斧镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -86,11 +86,11 @@
   {
     "TypeName": "BronzeSpear",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Spear",
-    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "Name": "青铜长矛",
+    "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
     "AddToolTip": [
-      "Boss monsters cannot suffer from this effect"
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -98,11 +98,11 @@
   {
     "TypeName": "BronzeThrowing",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Bronze Throwing Axe",
-    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "Name": "青铜掷斧",
+    "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
     "AddToolTip": [
-      "Boss monsters cannot suffer from this effect"
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -110,8 +110,8 @@
   {
     "TypeName": "GorganGazeStaff",
     "Namespace": "ThoriumMod.Items.Bronze",
-    "Name": "Gorgan Gaze Staff",
-    "ToolTip": "Attempts to petrify an enemy under your cursor",
+    "Name": "戈尔干的凝视",
+    "ToolTip": "试试用你的鼠标去石化敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

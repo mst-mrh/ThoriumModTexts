@@ -2,11 +2,11 @@
   {
     "TypeName": "BugenkaiShuriken",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Bugenkai Shuriken",
+    "Name": "暗影手里剑",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Upon striking an enemy, you will be granted 'Shadow Dance'"
+      "击中敌人之后，你获得'暗影之舞'能力"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,11 +14,11 @@
   {
     "TypeName": "CeruleanMorel",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Cerulean Morel",
+    "Name": "蔚蓝菇",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'The ancient spirits have caused a rampant growth in these mushrooms'"
+      "'古老的灵魂使得这些蘑菇疯狂地生长'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,12 +26,12 @@
   {
     "TypeName": "CombustionFlask",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Combustion Flask",
+    "Name": "燃烧瓶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Bursts into flame upon impacting an enemy or tile",
-      "If gas is present anywhere on screen, an explosive reaction will occur"
+      "撞到物块或敌人会释放爆炎",
+      "屏幕中如果有瓦斯，那么会发生爆炸反应"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,12 +39,12 @@
   {
     "TypeName": "CorrosionBeaker",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Corrosive Beaker",
+    "Name": "腐蚀瓶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Bursts into a toxic cloud upon impacting an enemy or tile",
-      "If gas is present anywhere on screen, a highly corrosive reaction will occur"
+      "撞到物块或敌人会爆炸成一团毒云",
+      "屏幕中如果有瓦斯，那么会发生强烈的腐蚀反应"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,8 +52,8 @@
   {
     "TypeName": "DarkMatter",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Dark Matter",
-    "ToolTip": "'A raging core of darkness'",
+    "Name": "暗黑物质",
+    "ToolTip": "'黑暗中一团狂暴的物质'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -62,12 +62,12 @@
   {
     "TypeName": "FungalPopper",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Fungal Popper",
+    "Name": "真菌掷匕",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Throws a fragile mushroom, that breaks apart after hitting an enemy",
-      "Damage infects the hit target with mycelium"
+      "扔出一个不稳定的，在攻击到敌人后碎裂的蘑菇",
+      "受伤的敌人将会被真菌寄生"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,12 +75,12 @@
   {
     "TypeName": "FungusGuard",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Fungus Guard",
+    "Name": "真菌护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "14% increased throwing damage",
-      "12% increased throwing speed"
+      "增加14%投掷伤害",
+      "增加12%投掷速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,12 +88,12 @@
   {
     "TypeName": "FungusHat",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Fungus Hat",
+    "Name": "真菌帽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased throwing damage",
-      "33% chance not to consume thrown items"
+      "增加10%投掷伤害",
+      "33%的概率不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,12 +101,12 @@
   {
     "TypeName": "FungusLeggings",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Fungus Leggings",
+    "Name": "真菌腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased throwing damage",
-      "10% increased throwing critical strike chance"
+      "增加12%投掷伤害",
+      "增加10%投掷暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -114,20 +114,20 @@
   {
     "TypeName": "GasContainerItem",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Gas Container",
-    "ToolTip": "-Not for multiplayer use-",
+    "Name": "瓦斯瓶",
+    "ToolTip": "-多人游戏不可用-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Expels noxious gas upon impacting an enemy or tile",
-      "Gas can react with other vial mixtures, activating different volatile effects"
+      "撞到物块或敌人会释放毒气",
+      "气体能与其他瓶装混合物发生反应，并引起不同的不稳定效果"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LihzahrdKukri",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Lihzahrd Kukri",
+    "Name": "蜥蜴飞刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -137,11 +137,11 @@
   {
     "TypeName": "MoltenKnife",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Molten Knife",
+    "Name": "熔岩飞刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Burns the hit target"
+      "点燃被击中敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -149,12 +149,12 @@
   {
     "TypeName": "MorelGrenade",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Morel Grenade",
+    "Name": "蘑菇手雷",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Releases a burst of glowing spores on collision",
-      "Damage infects the hit target with mycelium"
+      "爆炸时释放一团荧光孢子",
+      "受伤的敌人将会被真菌寄生"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -162,12 +162,12 @@
   {
     "TypeName": "NitrogenVial",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Nitrogen Vial",
+    "Name": "液氮瓶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Bursts into a deep-freezing cloud upon impacting an enemy or tile",
-      "If gas is present anywhere on screen, a flash freeze will occur"
+      "撞到物块或敌人会爆炸成一团极冰之云",
+      "如果屏幕中有瓦斯，那么会发生短暂的冰冻效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -175,12 +175,12 @@
   {
     "TypeName": "PlagueDoctersGarb",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Plague Doctor's Garb",
-    "ToolTip": "'What nasty concoction could you be brewing?'",
+    "Name": "瘟疫医生外衣",
+    "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
     "AddToolTip": [
-      "14% increased throwing damage",
-      "20% increased throwing velocity"
+      "增加14%投掷伤害",
+      "提升20%的投掷物速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -188,12 +188,12 @@
   {
     "TypeName": "PlagueDoctersLeggings",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Plague Doctor's Leggings",
-    "ToolTip": "'What nasty concoction could you be brewing?'",
+    "Name": "瘟疫医生裤子",
+    "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
     "AddToolTip": [
-      "14% increased throwing damage",
-      "10% increased throwing critical strike chance"
+      "增加14%投掷伤害",
+      "增加10%投掷暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -201,12 +201,12 @@
   {
     "TypeName": "PlagueDoctersMask",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Plague Doctor's Mask",
-    "ToolTip": "'What nasty concoction could you be brewing?'",
+    "Name": "瘟疫面具",
+    "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased throwing damage",
-      "33% chance not to consume thrown items"
+      "增加12%投掷伤害",
+      "33%的概率不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -214,11 +214,11 @@
   {
     "TypeName": "RocketFist",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Rocket Fist",
+    "Name": "火箭拳",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Perfect for knocking someone out a mile away'"
+      "'能完美将敌人击飞几英里开外'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -229,11 +229,11 @@
   {
     "TypeName": "SeedBomb",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Pod Bomb",
+    "Name": "豌豆炸弹",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Releases a burst of poison on collision"
+      "碰撞时释放一团毒云"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -241,8 +241,8 @@
   {
     "TypeName": "ShadeDagger",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Dagger",
-    "ToolTip": "Striking an enemy will grant you 'Eviscerate' as well as 'Shadow Dance'",
+    "Name": "暗影匕首",
+    "ToolTip": "击中一个敌人会获得'燃烧'和'暗影之舞'buff",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -251,11 +251,11 @@
   {
     "TypeName": "ShadeKunai",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Kunai",
+    "Name": "暗影苦无",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Upon striking an enemy, you will be granted 'Shadow Dance'"
+      "击中敌人之后，你获得'暗影之舞'能力"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -263,11 +263,11 @@
   {
     "TypeName": "ShadeKusarigama",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Kusarigama",
-    "ToolTip": "Throws out a Scythe, that will stun hit foes",
+    "Name": "暗影链锤刀",
+    "ToolTip": "甩出一把镰刀，打晕你的敌人",
     "ToolTip2": "",
     "AddToolTip": [
-      "Upon striking an enemy, you will be granted 'Shadow Dance'"
+      "击中敌人之后，你获得'暗影之舞'能力"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -275,12 +275,12 @@
   {
     "TypeName": "ShadeMasterGarb",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Master's Garb",
-    "ToolTip": "'Live in the shadows, and strike with precision'",
+    "Name": "暗影大师服装",
+    "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
     "AddToolTip": [
-      "30% increased throwing damage",
-      "30% increased throwing velocity"
+      "增加30%投掷伤害",
+      "提升30%的投掷物速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -288,12 +288,12 @@
   {
     "TypeName": "ShadeMasterMask",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Master's Mask",
-    "ToolTip": "'Live in the shadows, and strike with precision'",
+    "Name": "暗影大师面具",
+    "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
     "AddToolTip": [
-      "25% increased throwing damage",
-      "33% chance not to consume thrown items"
+      "提升25%投掷伤害",
+      "33%的概率不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -301,13 +301,13 @@
   {
     "TypeName": "ShadeMasterTreads",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Shade Master's Treads",
-    "ToolTip": "'Live in the shadows, and strike with precision'",
+    "Name": "暗影大师足具",
+    "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
     "AddToolTip": [
-      "20% increased throwing damage",
-      "20% increased throwing critical strike chance",
-      "15% increased movement speed"
+      "增加20%投掷伤害",
+      "增加30%投掷暴击",
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -315,11 +315,11 @@
   {
     "TypeName": "Soulslasher",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Soulslasher",
+    "Name": "碎魂飞刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Upon hitting an enemy, the knife will increase in speed, damage, size and ignore tiles"
+      "击中敌人之后，飞刀会增加速度，伤害，并且忽视物块"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -327,7 +327,7 @@
   {
     "TypeName": "StoneThrowingSpear",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Stone Throwing Spear",
+    "Name": "石矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -337,11 +337,11 @@
   {
     "TypeName": "VenomKunai",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Venom Kunai",
+    "Name": "剧毒苦无",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Envenoms the hit target briefly"
+      "能使目标短暂的中毒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -349,12 +349,12 @@
   {
     "TypeName": "VoltTomahawk",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "Volt Tomahawk",
+    "Name": "伏特掷斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Two may be active at once",
-      "Has a chance to briefly paralyze hit enemies"
+      "一次可能激活两个",
+      "能短暂麻痹目标"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -365,13 +365,13 @@
   {
     "TypeName": "WhiteDwarfGreaves",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "White Dwarf Greaves",
+    "Name": "白矮星护胫",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased throwing damage",
-      "20% increased throwing critical strike chance",
-      "20% increased movement speed"
+      "提升15%投掷伤害",
+      "增加30%投掷暴击",
+      "增加20%移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -379,13 +379,13 @@
   {
     "TypeName": "WhiteDwarfGuard",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "White Dwarf Guard",
+    "Name": "白矮星护胸",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "20% increased throwing damage",
-      "15% increased throwing speed",
-      "30% increased throwing velocity"
+      "增加20%投掷伤害",
+      "增加15%投掷速度",
+      "提升30%的投掷物速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -393,11 +393,11 @@
   {
     "TypeName": "WhiteDwarfKunai",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "White Dwarf Kunai",
-    "ToolTip": "Throws a volley of celestially charged daggers",
+    "Name": "白矮星苦无",
+    "ToolTip": "投掷一团蕴含着星体能量的匕首",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% chance to not be consumed on throw"
+      "10%不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -405,12 +405,12 @@
   {
     "TypeName": "WhiteDwarfMask",
     "Namespace": "ThoriumMod.Items.ThrownItems",
-    "Name": "White Dwarf Mask",
+    "Name": "白矮星面具",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "20% increased throwing damage",
-      "33% chance not to consume thrown items"
+      "增加20%投掷伤害",
+      "33%的概率不消耗投掷物"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

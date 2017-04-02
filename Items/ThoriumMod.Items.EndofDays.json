@@ -2,8 +2,8 @@
   {
     "TypeName": "AquaMask",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Mask of Tides",
-    "ToolTip": "'Wear a visage of Vigilance...'",
+    "Name": "海潮面具",
+    "ToolTip": "'代表警惕的面具...'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,11 +12,11 @@
   {
     "TypeName": "DormantHammer",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Dormant Hammer",
+    "Name": "休眠之锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'There appears to be an empty socket in the middle of the hammer's head...'"
+      "'在这把锤子的中间好像有个孔，和家传项链挺契合的...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,11 +24,11 @@
   {
     "TypeName": "Mjölnir",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Mjölnir",
-    "ToolTip": "Rapidly throws an image of the legendary Mjölnir",
+    "Name": "雷神之锤",
+    "ToolTip": "极速投掷出传说中的雷神之锤的镜像",
     "ToolTip2": "",
     "AddToolTip": [
-      "Hitting an enemy causes a storm of energized chain lightning"
+      "击中敌人会激发连锁的能量闪电风暴"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -39,8 +39,8 @@
   {
     "TypeName": "OmniMask",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Mask of Death",
-    "ToolTip": "'Wear a visage of Chaos...'",
+    "Name": "死亡面具",
+    "ToolTip": "'代表混乱的面具...'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -49,8 +49,8 @@
   {
     "TypeName": "RagBag",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -59,8 +59,8 @@
   {
     "TypeName": "RagSymbol",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Doom Sayer's Coin",
-    "ToolTip": "Unleashes the Ragnarök...",
+    "Name": "末日币章",
+    "ToolTip": "释放出灾难之灵...",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -69,7 +69,7 @@
   {
     "TypeName": "RagTrophy",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Ragnarok Trophy",
+    "Name": "灾难之灵荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -79,11 +79,11 @@
   {
     "TypeName": "Rune",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Otherworldly Rune",
-    "ToolTip": "'Unintelligible voices echo Zerath! Milogop! Tz'rok!'",
+    "Name": "异界符文",
+    "ToolTip": "'无尽的能量于空间中回响'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Summons an apocalyptic chariot"
+      "召唤天启战车"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -91,8 +91,8 @@
   {
     "TypeName": "SlagMask",
     "Namespace": "ThoriumMod.Items.EndofDays",
-    "Name": "Mask of Flame",
-    "ToolTip": "'Wear a visage of Aggression...'",
+    "Name": "燃炎面具",
+    "ToolTip": "'代表激进的面具...'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

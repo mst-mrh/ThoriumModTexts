@@ -2,7 +2,7 @@
   {
     "TypeName": "ValadiumAxe",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Axe",
+    "Name": "虚金斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,11 +12,11 @@
   {
     "TypeName": "ValadiumBattleAxe",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Battleaxe",
+    "Name": "虚金战斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will blast enemies with inter-dimensional energy"
+      "使用交叉空间能量的攻击令敌人爆炸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,8 +24,8 @@
   {
     "TypeName": "ValadiumBow",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Bow",
-    "ToolTip": "Arrows shot from this bow will temporarily blast enemies with inter-dimensional energy",
+    "Name": "虚金弓",
+    "ToolTip": "从这把枪里射出的子弹会用高维能量打击敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,13 +34,13 @@
   {
     "TypeName": "ValadiumBreastPlate",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Breastplate",
+    "Name": "虚金胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% increased ranged critical strike chance",
-      "10% increased ranged damage",
-      "20% chance to not consume ammo"
+      "提升2%远程暴击率",
+      "提升10%远程伤害",
+      "20%的几率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,11 +48,11 @@
   {
     "TypeName": "ValadiumChunk",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Chunk",
+    "Name": "虚金矿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'From another plane of existence'"
+      "'来自二次元'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,8 +60,8 @@
   {
     "TypeName": "ValadiumFoeBlaster",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Foe Blaster",
-    "ToolTip": "Bullets shot from this gun will temporarily blast enemies with inter-dimensional energy",
+    "Name": "虚金破敌枪",
+    "ToolTip": "从这把枪里射出的子弹会用高维能量打击敌人",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -70,13 +70,13 @@
   {
     "TypeName": "ValadiumGreaves",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Greaves",
+    "Name": "虚金腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "2% increased ranged critical strike chance",
-      "5% increased ranged damage",
-      "8% increased movement speed"
+      "提升2%远程暴击率",
+      "增加5%的远程伤害",
+      "增加8%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -84,7 +84,7 @@
   {
     "TypeName": "ValadiumHammer",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Hammer",
+    "Name": "虚金锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -94,12 +94,12 @@
   {
     "TypeName": "ValadiumHelmet",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Helmet",
+    "Name": "虚金头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased ranged critical strike chance",
-      "5% increased ranged damage"
+      "提升6%远程暴击率",
+      "增加5%的远程伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -107,11 +107,11 @@
   {
     "TypeName": "ValadiumIngot",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Ingot",
+    "Name": "虚金锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Holds gravitational power'"
+      "'掌握着重力的力量'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,7 +119,7 @@
   {
     "TypeName": "ValadiumPickaxe",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Pickaxe",
+    "Name": "虚金镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -129,12 +129,12 @@
   {
     "TypeName": "ValadiumSlicer",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Slicer",
+    "Name": "虚金切割者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will blast enemies with inter-dimensional energy",
-      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+      "使用交叉空间能量的攻击令敌人爆炸",
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -142,11 +142,11 @@
   {
     "TypeName": "ValadiumSpear",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Spear",
+    "Name": "虚金长矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will blast enemies with inter-dimensional energy"
+      "使用交叉空间能量的攻击令敌人爆炸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -154,11 +154,11 @@
   {
     "TypeName": "ValadiumStaff",
     "Namespace": "ThoriumMod.Items.Valadium",
-    "Name": "Valadium Staff",
-    "ToolTip": "Unleashes a slowly moving singularity that absorbs matter from all around it",
+    "Name": "虚金法杖",
+    "ToolTip": "在周围释放一个会吸收物质的缓慢移动的镜像",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will blast enemies with inter-dimensional energy briefly"
+      "使用交叉空间能量的攻击能使敌人爆炸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

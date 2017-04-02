@@ -2,7 +2,7 @@
   {
     "TypeName": "DreadChainSaw",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Chainsaw",
+    "Name": "恐惧链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,13 +12,13 @@
   {
     "TypeName": "DreadChestPlate",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Chestplate",
+    "Name": "恐惧胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with the souls of the damned'",
-      "20% increased melee damage",
-      "12% increased melee speed"
+      "'被可恶的恶灵附着了'",
+      "增加20%近战伤害",
+      "提升12%的近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "DreadDrill",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Drill",
+    "Name": "恐惧钻头",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -36,8 +36,8 @@
   {
     "TypeName": "DreadEye",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Eye",
-    "ToolTip": "Allows you to detect enemies and hazards around you",
+    "Name": "恐惧灵眼",
+    "ToolTip": "能让你看见附近的敌人和危机",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -46,11 +46,11 @@
   {
     "TypeName": "DreadFork",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Fork",
-    "ToolTip": "Sends out a volatile after image",
+    "Name": "恐惧之叉",
+    "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
     "AddToolTip": [
-      "The after image will burn the hit target"
+      "残影会点燃被击中目标"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,13 +58,13 @@
   {
     "TypeName": "DreadGreaves",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Greaves",
+    "Name": "恐惧护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with the souls of the damned'",
-      "18% increased movement speed",
-      "12% increased melee speed"
+      "'被可恶的恶灵附着了'",
+      "增加18%移速",
+      "提升12%的近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,7 +72,7 @@
   {
     "TypeName": "DreadHamaxe",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Hamaxe",
+    "Name": "恐惧锤斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -82,7 +82,7 @@
   {
     "TypeName": "DreadJackHammer",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Jackhammer",
+    "Name": "恐惧钻锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -92,7 +92,7 @@
   {
     "TypeName": "DreadLauncher",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Launcher",
+    "Name": "恐惧发射器",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -102,7 +102,7 @@
   {
     "TypeName": "DreadPick",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Pickaxe",
+    "Name": "恐惧之镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -112,11 +112,11 @@
   {
     "TypeName": "DreadRazor",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Razor",
-    "ToolTip": "Has a chance to unleash a Cursed Soul on swing",
+    "Name": "恐惧之锋",
+    "ToolTip": "挥动时有几率释放一个诅咒之魂",
     "ToolTip2": "",
     "AddToolTip": [
-      "The Cursed Soul corrupts the hit target"
+      "被诅咒的灵魂会腐蚀被击中的目标"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -124,13 +124,13 @@
   {
     "TypeName": "DreadSkull",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Skull",
+    "Name": "恐惧颅骨",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with the souls of the damned'",
-      "10% increased melee critical strike chance",
-      "12% increased melee speed"
+      "'被可恶的恶灵附着了'",
+      "增加10%近战暴击率",
+      "提升12%的近战速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -138,11 +138,11 @@
   {
     "TypeName": "DreadSoul",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Soul",
+    "Name": "恐惧之灵",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A Coalesced rift between this world, and the next'"
+      "'这个世界与异世间的缝隙'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -150,11 +150,11 @@
   {
     "TypeName": "DreadStabber",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Stabber",
-    "ToolTip": "Unleashes a Cursed Soul on swing",
+    "Name": "恐惧锥刺",
+    "ToolTip": "挥动时释放诅咒之魂",
     "ToolTip2": "",
     "AddToolTip": [
-      "The Cursed Soul corrupts the hit target"
+      "被诅咒的灵魂会腐蚀被击中的目标"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -162,11 +162,11 @@
   {
     "TypeName": "DreadStaff",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Staff",
-    "ToolTip": "Unleashes a highly concentrated pulse of flame, that can hit the same enemy multiple times",
+    "Name": "恐惧灵杖",
+    "ToolTip": "释放一团克多次打击敌人的高密度火焰波",
     "ToolTip2": "",
     "AddToolTip": [
-      "Each hit will summon a dread particle to cause extra damage"
+      "每次击中都会召唤一个可怖的魂质以造成额外伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -174,8 +174,8 @@
   {
     "TypeName": "DreadWings",
     "Namespace": "ThoriumMod.Items.Dread",
-    "Name": "Dread Wings",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "恐惧之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

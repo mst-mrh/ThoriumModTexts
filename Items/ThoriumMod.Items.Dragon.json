@@ -2,12 +2,12 @@
   {
     "TypeName": "DragonBreastplate",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Breastplate",
-    "ToolTip": "'Made from mythical scales'",
+    "Name": "绿龙胸甲",
+    "ToolTip": "'由神话中的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% increased non-melee damage",
-      "10% increased melee damage"
+      "提升8%非近战伤害",
+      "增加10%的近战伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,7 +15,7 @@
   {
     "TypeName": "DragonChainsaw",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Chainsaw",
+    "Name": "绿龙链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -25,7 +25,7 @@
   {
     "TypeName": "DragonDrill",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Drill",
+    "Name": "绿龙钻头",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -35,11 +35,11 @@
   {
     "TypeName": "DragonGreaves",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Greaves",
-    "ToolTip": "'Made from mythical scales'",
+    "Name": "绿龙护腿",
+    "ToolTip": "'由神话中的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased movement speed"
+      "增加12%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,11 +47,11 @@
   {
     "TypeName": "DragonMask",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Mask",
-    "ToolTip": "'Made from mythical scales'",
+    "Name": "绿龙面具",
+    "ToolTip": "'由神话中的鳞片制作而成'",
     "ToolTip2": "",
     "AddToolTip": [
-      "7% increased critical strike chance"
+      "增加7%暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -59,7 +59,7 @@
   {
     "TypeName": "DragonsAxe",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Axe",
+    "Name": "绿龙斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -69,11 +69,11 @@
   {
     "TypeName": "DragonsBreath",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Breath",
-    "ToolTip": "Unleash a torrent of dragon's breath upon your foes",
+    "Name": "龙之吐息",
+    "ToolTip": "释放奔流的龙息涌向你的敌人",
     "ToolTip2": "",
     "AddToolTip": [
-      "The breath will burn the hit enemy with green fire"
+      "吐息会使敌人燃上碧色龙焰"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -81,11 +81,11 @@
   {
     "TypeName": "DragonsCanine",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Canine",
+    "Name": "龙之牙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will burn the hit enemy with green fire briefly"
+      "攻击会使敌人暂时的燃上碧色龙焰"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -93,11 +93,11 @@
   {
     "TypeName": "DragonsGaze",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Gaze",
-    "ToolTip": "Turns musket balls into 'Dragon Eyes'",
+    "Name": "龙之凝",
+    "ToolTip": "将普通子弹转换成‘龙之眼’",
     "ToolTip2": "",
     "AddToolTip": [
-      "Dragon Eyes will burn the hit enemy with green fire"
+      "巨龙之眼使敌人燃上碧色龙焰"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,7 +105,7 @@
   {
     "TypeName": "DragonsHammer",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Jackhammer",
+    "Name": "龙钻锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -115,7 +115,7 @@
   {
     "TypeName": "DragonsMallet",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Mallet",
+    "Name": "绿龙锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -125,7 +125,7 @@
   {
     "TypeName": "DragonsPickAxe",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Pickaxe",
+    "Name": "绿龙镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -135,11 +135,11 @@
   {
     "TypeName": "DragonTalon",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Talon",
+    "Name": "龙之爪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will burn the hit enemy with green fire"
+      "攻击会使敌人燃上碧色龙焰"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -147,11 +147,11 @@
   {
     "TypeName": "DragonTalonNecklace",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Talon Necklace",
+    "Name": "龙爪项链",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases armor penetration by 15"
+      "增加15点穿甲"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -159,12 +159,12 @@
   {
     "TypeName": "DragonTooth",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon's Tooth",
+    "Name": "龙牙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks will burn the hit enemy with green fire",
-      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+      "攻击会使敌人燃上碧色龙焰",
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,8 +172,8 @@
   {
     "TypeName": "DragonWings",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Dragon Wings",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "绿龙之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -182,11 +182,11 @@
   {
     "TypeName": "GreenDragonScale",
     "Namespace": "ThoriumMod.Items.Dragon",
-    "Name": "Green Dragon Scale",
+    "Name": "绿龙鳞",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Just a fragment of an ancient dragon's power'"
+      "'只是远古巨龙之力的一块碎片'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

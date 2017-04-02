@@ -2,32 +2,32 @@
   {
     "TypeName": "BioFeederBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Bio-Feeder",
-    "Tip": "What a strange little creature..."
+    "Name": "生化水母",
+    "Tip": "这什么奇葩物种..."
   },
   {
     "TypeName": "BlisterBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Flying Blister",
-    "Tip": "It wont leave you alone!"
+    "Name": "泡泡虫",
+    "Tip": "它是不会离开你的!"
   },
   {
     "TypeName": "DrachmaBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Curious Coinling",
-    "Tip": "Drachmas don't have much use nowadays..."
+    "Name": "它是不会离开你的!",
+    "Tip": "古银币现在用不了..."
   },
   {
     "TypeName": "Identified",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Identified",
-    "Tip": "I guess its not a U.F.O anymore...?"
+    "Name": "已识别",
+    "Tip": "这...不算U.F.O了吧?"
   },
   {
     "TypeName": "JellyPet",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Jellyfish in a Bubble",
-    "Tip": "Look at it flying around!"
+    "Name": "泡泡水母",
+    "Tip": "看，它在飞!"
   },
   {
     "TypeName": "LilMogBuff",
@@ -38,37 +38,37 @@
   {
     "TypeName": "MaidBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Lil' Maid",
-    "Tip": "There really isn't much to clean..."
+    "Name": "小女仆",
+    "Tip": "这里似乎没啥可清扫的"
   },
   {
     "TypeName": "OmegaBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Omega Core",
-    "Tip": "Vaporizing Matrix : Online"
+    "Name": "奥米茄核心",
+    "Tip": "能量矩阵已启动"
   },
   {
     "TypeName": "PinkSlimeBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Pink Slime",
-    "Tip": "It's so pretty!"
+    "Name": "粉红史莱姆",
+    "Tip": "卡哇伊!"
   },
   {
     "TypeName": "ShineDust",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Glitter Fiend",
-    "Tip": "It's kinda cute..."
+    "Name": "闪光小鬼",
+    "Tip": "卡哇伊...吧"
   },
   {
     "TypeName": "SnowyOwlBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Lost Snowy Owl",
-    "Tip": "Looks like someone isn't getting their mail..."
+    "Name": "迷失雪鸮",
+    "Tip": "似乎某人无法受到他们的信件了..."
   },
   {
     "TypeName": "SupportLanternBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Inspiring Lantern",
-    "Tip": "It's constantly emanating a comforting aura"
+    "Name": "振奋魔镜",
+    "Tip": "它在持续释放着令人心旷神怡的光环"
   }
 ]

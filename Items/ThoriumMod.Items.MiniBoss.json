@@ -2,7 +2,7 @@
   {
     "TypeName": "CannonBall",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Seething Charge",
+    "Name": "灼热弹",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,9 +12,9 @@
   {
     "TypeName": "DestroyersRage",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Destroyer's Rage",
-    "ToolTip": "Does not require ammunition",
-    "ToolTip2": "Rapidly fires lazer arrows",
+    "Name": "毁灭怒焰",
+    "ToolTip": "不需要弹药",
+    "ToolTip2": "快速射出激光箭",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -22,11 +22,11 @@
   {
     "TypeName": "DevilDagger",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Devil Dagger",
+    "Name": "恶魔匕首",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Killing enemies will boost your magic damage briefly"
+      "杀死敌人之后会短暂的提升你的魔法伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "DevilsReach",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Devil's Reach",
+    "Name": "恶魔之触",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -44,8 +44,8 @@
   {
     "TypeName": "EyeofDestroy",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Eye of the Destroyer",
-    "ToolTip": "Unleashes laser beams at nearby enemies",
+    "Name": "毁灭者之眼",
+    "ToolTip": "朝附近的敌人发射激光",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -54,7 +54,7 @@
   {
     "TypeName": "FungalHook",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Fungal Hook",
+    "Name": "真菌钩抓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -64,11 +64,11 @@
   {
     "TypeName": "Funggat",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Funggat",
-    "ToolTip": "Turns musket balls into Spores",
+    "Name": "真菌喷射器",
+    "ToolTip": "将普通子弹转换为孢子",
     "ToolTip2": "",
     "AddToolTip": [
-      "Spores have a chance to infect the hit target with mycelium"
+      "孢子可能会寄生敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -76,11 +76,11 @@
   {
     "TypeName": "HandCannon",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Hand Cannon",
-    "ToolTip": "Allows you to unleash Seething Charges",
+    "Name": "手炮",
+    "ToolTip": "能够发射灼热弹",
     "ToolTip2": "",
     "AddToolTip": [
-      "Has an incredibly high recoil, which sends you backwards"
+      "有着极强的后坐力，会使你后退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,8 +88,8 @@
   {
     "TypeName": "HydromancerCatalyst",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Hydromancer's Catalyst",
-    "ToolTip": "Creates a channeled orb of aquatic energy that targets nearby enemies",
+    "Name": "水耀石",
+    "ToolTip": "创造一个充满深渊能量并会攻击周围敌人的球",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -98,11 +98,11 @@
   {
     "TypeName": "KeyofFire",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Key of Fire",
+    "Name": "熔岩钥匙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Charged with the essence of many flames'"
+      "'注入了火焰之精华'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -110,11 +110,11 @@
   {
     "TypeName": "KeyofFungus",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Key of Fungus",
+    "Name": "真菌钥匙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Charged with the essence of many spores'"
+      "'注入了孢子之精华'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -122,11 +122,11 @@
   {
     "TypeName": "KeyofTides",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Key of Tides",
+    "Name": "波涛钥匙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Charged with the essence of the oceans current'"
+      "'注入了洋流之精华'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -134,11 +134,11 @@
   {
     "TypeName": "MushymenStaff",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Mushymen Staff",
-    "ToolTip": "Summons a spear throwing mush-man",
+    "Name": "小松露法杖",
+    "ToolTip": "召唤一只投掷标枪的蘑菇人",
     "ToolTip2": "",
     "AddToolTip": [
-      "Spears has a chance to infect the hit target with mycelium"
+      "长矛几率让真菌寄生于被击中的敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -146,11 +146,11 @@
   {
     "TypeName": "MyceliumWhip",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Mycelium Whip",
+    "Name": "真菌鞭锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Damage has a chance to infect the hit target with mycelium"
+      "伤害几率让真菌寄生于被击中的敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,7 +158,7 @@
   {
     "TypeName": "NeptuneGrasp",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Neptune's Grasp",
+    "Name": "海神之握",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -168,8 +168,8 @@
   {
     "TypeName": "PoseidonCharge",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Poseidon's Charge",
-    "ToolTip": "Right Clicking will release a line of bubbles",
+    "Name": "海神三叉戟",
+    "ToolTip": "右键可以释放一列泡泡",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -178,8 +178,8 @@
   {
     "TypeName": "PrimesFury",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Prime's Fury",
-    "ToolTip": "Has a chance to discharge an energy wave on swing that deals nearly triple damage",
+    "Name": "至尊之怒",
+    "ToolTip": "有几率释放出一道三倍伤害的能量波",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -188,11 +188,11 @@
   {
     "TypeName": "Schmelze",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Schmelze",
+    "Name": "狱火熔炼",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks apply a stacking burn"
+      "攻击会造成叠加的燃烧效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -200,8 +200,8 @@
   {
     "TypeName": "Scorn",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Scorn",
-    "ToolTip": "Releases three bullet storms",
+    "Name": "散火者",
+    "ToolTip": "释放一束有三束能量聚集的风暴弹",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -210,8 +210,8 @@
   {
     "TypeName": "SharkStormMK",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "S. S. Devastator",
-    "ToolTip": "Occasionally fires off homing rockets",
+    "Name": "S.S破坏者",
+    "ToolTip": "有时候会射出额外火箭弹",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -220,8 +220,8 @@
   {
     "TypeName": "SparkTaser",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Spark Taser",
-    "ToolTip": "Throws a static-arcing dagger of electricity",
+    "Name": "电火花枪",
+    "ToolTip": "投掷出静电弧短剑",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -233,11 +233,11 @@
   {
     "TypeName": "StrangePlating",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Strange Plating",
+    "Name": "奇异金属",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Seems to have fallen off of one of the grand mechanical creations'"
+      "'似乎是从强大的远古机械发明身上所掉落'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -245,8 +245,8 @@
   {
     "TypeName": "TheJuggernaut",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "The Juggernaut",
-    "ToolTip": "After hitting an enemy, the chain will snap, sending the ball randomly crashing around",
+    "Name": "碾压链锤",
+    "ToolTip": "在击中敌人之后锁链将会断开，使铁球四处冲撞",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -255,8 +255,8 @@
   {
     "TypeName": "TwinsIre",
     "Namespace": "ThoriumMod.Items.MiniBoss",
-    "Name": "Twin's Ire",
-    "ToolTip": "Fires a charged blast of magic that can hit the same target multiple times",
+    "Name": "魔眼之怒",
+    "ToolTip": "释放一道充能魔法弹，能够对同一目标造成数次伤害",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

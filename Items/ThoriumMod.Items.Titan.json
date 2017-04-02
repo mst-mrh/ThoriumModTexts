@@ -2,11 +2,11 @@
   {
     "TypeName": "TitanBar",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titanic Bar",
+    "Name": "泰坦锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Energy of days past, lies within'"
+      "'原始的力量被保存在了其中'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,12 +14,12 @@
   {
     "TypeName": "TitanBoomerang",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Boomerang",
+    "Name": "泰坦回力镖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Critical strikes will deal additional damage",
-      "Three boomerangs may be out at once"
+      "暴击会造成额外伤害",
+      "3个回力标能同时存在"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,11 +27,11 @@
   {
     "TypeName": "TitanBow",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Bow",
+    "Name": "泰坦弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Critical strikes will deal additional damage"
+      "暴击会造成额外伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,35 +39,35 @@
   {
     "TypeName": "TitanBreastplate",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Breastplate",
+    "Name": "泰坦胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with primordial energy'"
+      "'灌注了原始之力'"
     ],
     "AddToolTip2": [
-      "8% increased critical strike chance"
+      "增加8%暴击率"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TitanGreaves",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Greaves",
+    "Name": "泰坦腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Infused with primordial energy'"
+      "'灌注了原始之力'"
     ],
     "AddToolTip2": [
-      "15% increased movement speed"
+      "提升15%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TitanHammer",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Hammer",
+    "Name": "泰坦锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -77,13 +77,13 @@
   {
     "TypeName": "TitanHeadgear",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Headgear",
-    "ToolTip": "'Infused with primordial energy'",
+    "Name": "泰坦帽",
+    "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Increases maximum mana by 80",
-      "15% reduced mana usage",
-      "Casting spells beneath 75 current mana will deal increased damage"
+      "增加80魔法值",
+      "减少15%蓝耗",
+      "在法力低于75点时释放法术会增加伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -91,13 +91,13 @@
   {
     "TypeName": "TitanHelmet",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Helmet",
-    "ToolTip": "'Infused with primordial energy'",
+    "Name": "泰坦头盔",
+    "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased melee speed",
-      "Increases length of invincibility after taking damage",
-      "Grants immunity to knockback"
+      "提升12%的近战速度",
+      "延长受伤后的无敌时间",
+      "免疫击退"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,11 +105,11 @@
   {
     "TypeName": "TitanJavelin",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Javelin",
+    "Name": "泰坦标枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Critical strikes will deal additional damage"
+      "暴击会造成额外伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -117,13 +117,13 @@
   {
     "TypeName": "TitanMask",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Mask",
-    "ToolTip": "'Infused with primordial energy'",
+    "Name": "泰坦面罩",
+    "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Your ranged attacks are enchanted",
-      "Decreases chance to consume ammo by 25%",
-      "Grants vision of enemy positions"
+      "你的远程攻击增强了",
+      "25%几率不消耗弹药",
+      "获得敌人的视野"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -131,7 +131,7 @@
   {
     "TypeName": "TitanPax",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Pax",
+    "Name": "泰坦斧镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -141,13 +141,13 @@
   {
     "TypeName": "TitanScythe",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "泰坦镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a titanic scythe all around you",
-      "Critical strikes will deal additional damage"
+      "快速转动一柄巨大的镰刀",
+      "暴击会造成额外伤害"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -157,12 +157,12 @@
   {
     "TypeName": "TitanSword",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Sword",
+    "Name": "泰坦剑",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Releases a pulse of titanic energy on use",
-      "Critical strikes will deal additional damage"
+      "在使用时释放一道庞大的能量",
+      "暴击会造成额外伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -170,8 +170,8 @@
   {
     "TypeName": "TitanWings",
     "Namespace": "ThoriumMod.Items.Titan",
-    "Name": "Titan Wings",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "泰坦之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

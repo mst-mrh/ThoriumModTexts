@@ -2,7 +2,7 @@
   {
     "TypeName": "BloodBelcher",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Blood Belcher",
+    "Name": "血肉喷染器",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,7 +12,7 @@
   {
     "TypeName": "FleshAxe",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Axe",
+    "Name": "血肉斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -22,12 +22,12 @@
   {
     "TypeName": "FleshBody",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Body",
-    "ToolTip": "'Symbiotically attached to your body'",
+    "Name": "血肉之躯",
+    "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
     "AddToolTip": [
-      "5% increased damage",
-      "Increases life regeneration by 2"
+      "增加5%伤害",
+      "增加2点生命回复速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,7 +35,7 @@
   {
     "TypeName": "FleshBow",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Bow",
+    "Name": "血肉弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -45,7 +45,7 @@
   {
     "TypeName": "FleshChainSaw",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Chainsaw",
+    "Name": "血肉链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -55,7 +55,7 @@
   {
     "TypeName": "FleshDrill",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Drill",
+    "Name": "血肉钻",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -65,7 +65,7 @@
   {
     "TypeName": "FleshHammer",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Hammer",
+    "Name": "血肉锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -75,7 +75,7 @@
   {
     "TypeName": "FleshJackHammer",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Jackhammer",
+    "Name": "血肉钻锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -85,11 +85,11 @@
   {
     "TypeName": "FleshLegs",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Legs",
-    "ToolTip": "'Symbiotically attached to your body'",
+    "Name": "血肉之腿",
+    "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased movement speed"
+      "提升6%速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,8 +97,8 @@
   {
     "TypeName": "FleshMace",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Mace",
-    "ToolTip": "Attacks might steal life, but nullify life regeneration for a moment",
+    "Name": "血牙链锤",
+    "ToolTip": "攻击有可能吸取生命，但是会停止生命回复",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -107,11 +107,11 @@
   {
     "TypeName": "FleshMask",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Mask",
-    "ToolTip": "'Symbiotically attached to your body'",
+    "Name": "血肉面具",
+    "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased critical strike chance"
+      "提升6%的移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,7 +119,7 @@
   {
     "TypeName": "FleshPickAxe",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Pickaxe",
+    "Name": "血肉镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -129,11 +129,11 @@
   {
     "TypeName": "FleshSkewer",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Skewer",
+    "Name": "血肉串叉",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks might steal life, but nullify life regeneration for a moment"
+      "攻击有可能吸取生命，但是会停止生命回复"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -141,8 +141,8 @@
   {
     "TypeName": "FleshWings",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Flesh Wings",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "血肉之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -151,7 +151,7 @@
   {
     "TypeName": "GreatFlesh",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Suitable Flesh",
+    "Name": "速食肉",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -161,11 +161,11 @@
   {
     "TypeName": "HungerStaff",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Blood Clot Staff",
-    "ToolTip": "Sends out a flesh bolt that splashes into blood droplets",
+    "Name": "凝血法杖",
+    "ToolTip": "射出一道会破碎成血滴的血肉冲击波",
     "ToolTip2": "",
     "AddToolTip": [
-      "The resulting blood droplets might steal life, but will nullify life regeneration for a moment"
+      "攻击有可能吸取生命，但是同时会暂时令生命回复量消失"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -173,12 +173,12 @@
   {
     "TypeName": "ToothOfTheConsumer",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Tooth of The Consumer",
+    "Name": "肉食者之牙",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Attacks might steal life, but nullify life regeneration for a moment",
-      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+      "攻击有可能吸取生命，但是会停止生命回复",
+      "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -186,11 +186,11 @@
   {
     "TypeName": "UnfathomableFlesh",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Unfathomable Flesh",
+    "Name": "不明肉块",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It writhes and wiggles, attempting to latch onto you'"
+      "'它翻滚摆动着，并试图纠缠上你'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -198,11 +198,11 @@
   {
     "TypeName": "VienBuster",
     "Namespace": "ThoriumMod.Items.Flesh",
-    "Name": "Vein Buster",
-    "ToolTip": "Functions as a bullet",
+    "Name": "静脉破坏者",
+    "ToolTip": "可以充当弹药",
     "ToolTip2": "",
     "AddToolTip": [
-      "Shots will rarely steal life, but nullify life regeneration for a moment"
+      "攻击有可能吸取生命，但是同时会暂时令生命回复量消失"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

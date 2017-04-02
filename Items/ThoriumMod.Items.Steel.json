@@ -2,7 +2,7 @@
   {
     "TypeName": "DurasteelArrow",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Arrow",
+    "Name": "耐钢箭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -12,11 +12,11 @@
   {
     "TypeName": "DurasteelBlade",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Blade",
+    "Name": "耐钢刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -24,11 +24,11 @@
   {
     "TypeName": "DurasteelChainsaw",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Chainsaw",
+    "Name": "耐钢链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -36,12 +36,12 @@
   {
     "TypeName": "DurasteelChestplate",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Chestplate",
+    "Name": "耐钢胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'",
-      "8% increased damage"
+      "'大师锻铸'",
+      "增加8%的伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -49,11 +49,11 @@
   {
     "TypeName": "DurasteelDrill",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Drill",
+    "Name": "耐钢钻",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -61,12 +61,12 @@
   {
     "TypeName": "DurasteelGreaves",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Greaves",
+    "Name": "耐钢护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'",
-      "8% increased movement speed"
+      "'大师锻铸'",
+      "增加8%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -74,12 +74,12 @@
   {
     "TypeName": "DurasteelHelmet",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Helmet",
+    "Name": "耐钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'",
-      "5% increased critical strike chance"
+      "'大师锻铸'",
+      "增加5%暴击概率"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,11 +87,11 @@
   {
     "TypeName": "DurasteelJackhammer",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Jackhammer",
+    "Name": "耐钢钻锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,11 +99,11 @@
   {
     "TypeName": "DurasteelJavelin",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Javelin",
+    "Name": "耐钢标枪",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -111,11 +111,11 @@
   {
     "TypeName": "DurasteelRepeater",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Durasteel Repeater",
+    "Name": "耐钢连弩",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Masterfully forged by the Blacksmith'"
+      "'大师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,7 +123,7 @@
   {
     "TypeName": "SteelArrow",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Arrow",
+    "Name": "钢箭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -133,11 +133,11 @@
   {
     "TypeName": "SteelAxe",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Axe",
+    "Name": "钢斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -145,11 +145,11 @@
   {
     "TypeName": "SteelBattleAxe",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Battleaxe",
+    "Name": "钢掷斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -157,11 +157,11 @@
   {
     "TypeName": "SteelBlade",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Blade",
+    "Name": "钢刀",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -169,11 +169,11 @@
   {
     "TypeName": "SteelBow",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Bow",
+    "Name": "钢弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -181,11 +181,11 @@
   {
     "TypeName": "SteelChestplate",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Chestplate",
+    "Name": "钢胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -193,11 +193,11 @@
   {
     "TypeName": "SteelGreaves",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Greaves",
+    "Name": "钢护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -205,11 +205,11 @@
   {
     "TypeName": "SteelHelmet",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Helmet",
+    "Name": "钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,11 +217,11 @@
   {
     "TypeName": "SteelMallet",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Mallet",
+    "Name": "钢锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -229,11 +229,11 @@
   {
     "TypeName": "SteelPickaxe",
     "Namespace": "ThoriumMod.Items.Steel",
-    "Name": "Steel Pickaxe",
+    "Name": "钢镐",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Expertly forged by the Blacksmith'"
+      "'匠师锻铸'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

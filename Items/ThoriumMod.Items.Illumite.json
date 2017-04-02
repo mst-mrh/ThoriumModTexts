@@ -2,11 +2,11 @@
   {
     "TypeName": "IllumiteBarrage",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Barrager",
-    "ToolTip": "Launches a barrage of rockets",
+    "Name": "光雨炮",
+    "ToolTip": "发射一片火箭雨",
     "ToolTip2": "",
     "AddToolTip": [
-      "Rockets shot from this launcher will temporarily illuminate hit enemies"
+      "通过这个发射器发射的火箭会短暂的点亮击中的敌人"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,12 +14,12 @@
   {
     "TypeName": "IllumiteBlade",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Blade",
+    "Name": "荧光刃",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Releases a close range illumination beam on swing",
-      "Hit enemies will be illuminated"
+      "挥动时释放近距离的荧光射线",
+      "被击中的敌人会被点亮"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,8 +27,8 @@
   {
     "TypeName": "IllumiteBlaster",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Blaster",
-    "ToolTip": "Bullets shot from this gun will temporarily illuminate hit enemies",
+    "Name": "荧光破",
+    "ToolTip": "从这把枪上射出的子弹会给敌人施加‘荧光’debuff",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -37,8 +37,8 @@
   {
     "TypeName": "IllumiteBow",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Longbow",
-    "ToolTip": "Arrows shot from this bow will temporarily illuminate hit enemies",
+    "Name": "荧光长弓",
+    "ToolTip": "从这把弓上射出的箭会给敌人施加‘荧光’debuff",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -47,7 +47,7 @@
   {
     "TypeName": "IllumiteChainsaw",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Chainsaw",
+    "Name": "荧光链锯",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -57,13 +57,13 @@
   {
     "TypeName": "IllumiteChestplate",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Chestplate",
+    "Name": "荧光胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased ranged damage",
-      "18% increased firing speed",
-      "20% chance to not consume ammo"
+      "提升12%远程伤害",
+      "提升18%发射速度",
+      "20%的几率不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -71,11 +71,11 @@
   {
     "TypeName": "IllumiteChunk",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Chunk",
+    "Name": "荧光石",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Plantera's defeat served to unleash this strange mineral upon the world'"
+      "'击败世界之花可以释放这种奇怪的矿物到这个世界上'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -83,7 +83,7 @@
   {
     "TypeName": "IllumiteDrill",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Drill",
+    "Name": "荧光钻",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -93,13 +93,13 @@
   {
     "TypeName": "IllumiteGreaves",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Greaves",
+    "Name": "荧光护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "6% increased ranged critical strike chance",
-      "15% increased ranged damage",
-      "15% increased movement speed"
+      "提升6%远程暴击率",
+      "提升15%远程伤害",
+      "提升15%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -107,7 +107,7 @@
   {
     "TypeName": "IllumiteHamaxe",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Hamaxe",
+    "Name": "荧光锤斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -117,11 +117,11 @@
   {
     "TypeName": "IllumiteIngot",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Ingot",
+    "Name": "荧光锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Glows a soft pink and barely weighs anything...'"
+      "'散发着粉红色并且几乎没有任何重量...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,7 +129,7 @@
   {
     "TypeName": "IllumiteJackhammer",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Jackhammer",
+    "Name": "荧光钻锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -139,12 +139,12 @@
   {
     "TypeName": "IllumiteMask",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Mask",
+    "Name": "荧光面罩",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "12% increased ranged critical strike chance",
-      "10% increased ranged damage"
+      "提升12%远程暴击率",
+      "提升10%远程伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -152,7 +152,7 @@
   {
     "TypeName": "IllumitePick",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Pickaxe",
+    "Name": "荧光稿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -162,12 +162,12 @@
   {
     "TypeName": "IllumiteSpear",
     "Namespace": "ThoriumMod.Items.Illumite",
-    "Name": "Illumite Spear",
-    "ToolTip": "Sends out a volatile after image",
+    "Name": "荧光矛",
+    "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
     "AddToolTip": [
-      "The after image will rapidly blast nearby enemies with light beams",
-      "Hit enemies will be illuminated"
+      "残影会用激光爆破附近敌人",
+      "被击中的敌人会被点亮"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -2,11 +2,11 @@
   {
     "TypeName": "AncientBlade",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Ancient Blade",
-    "ToolTip": "Summons a hero from an ancient time",
+    "Name": "上古之剑",
+    "ToolTip": "召唤一位古代英灵",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only usable deep underground"
+      "只在地底深处可用"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,8 +14,8 @@
   {
     "TypeName": "ChampionBlade",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Swift Blade",
-    "ToolTip": "Releases a large wind slice on swing",
+    "Name": "英雄风拂剑",
+    "ToolTip": "释放一个大型的浮动风刃",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -24,8 +24,8 @@
   {
     "TypeName": "ChampionBomberStaff",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Bomber Staff",
-    "ToolTip": "Killing an enemy grants you 30 mana",
+    "Name": "英雄爆裂法杖",
+    "ToolTip": "杀死一个怪物回复30魔力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -34,7 +34,7 @@
   {
     "TypeName": "ChampionHelmet",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Helmet",
+    "Name": "英雄头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -44,23 +44,23 @@
   {
     "TypeName": "ChampionsBarrier",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Rebuttal",
+    "Name": "反击之盾",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "The damage you take is stored into your next attack",
-      "The bonus damage is stored until it is expended",
-      "This can reach a maximum limit of 300 bonus damage"
+      "提升2防御",
+      "你承受的伤害会储存在你的下次反击里",
+      "额外伤害会一直储存，直到它过载",
+      "它能达到最大300的额外攻击"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ChampionsGodHand",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's God Hand",
-    "ToolTip": "Throws paralyzing lightning strikes",
+    "Name": "圣雄之手",
+    "ToolTip": "投掷出数道雷击",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -72,7 +72,7 @@
   {
     "TypeName": "ChampionTrophy",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Buried Champion Trophy",
+    "Name": "英灵遗骸荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -82,8 +82,8 @@
   {
     "TypeName": "ChampionWing",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Wing",
-    "ToolTip": "Allows flight and slow fall",
+    "Name": "英雄之翼",
+    "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -92,8 +92,8 @@
   {
     "TypeName": "HeroBag",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -102,8 +102,8 @@
   {
     "TypeName": "HeroTripleBow",
     "Namespace": "ThoriumMod.Items.Hero",
-    "Name": "Champion's Trifecta-Shot",
-    "ToolTip": "Your arrows fluctuate between different elements",
+    "Name": "三元弓",
+    "ToolTip": "你的箭矢拥有着不断波动的元素能量",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

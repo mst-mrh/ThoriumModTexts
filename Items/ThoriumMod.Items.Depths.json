@@ -2,11 +2,11 @@
   {
     "TypeName": "AbyssalChitin",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Abyssal Chitin",
+    "Name": "深海角质鳞",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Formed in an environment even deeper and darker than the aquatic depths...'"
+      "'在比深海还要深邃黑暗的环境形成'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -14,11 +14,11 @@
   {
     "TypeName": "AnglerBowl",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Agnor's Bowl",
-    "ToolTip": "'This little angler fish just hates the dark...'",
+    "Name": "安格诺尔的碗",
+    "ToolTip": "'这只小琵琶鱼非常讨厌黑暗...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Brightens the area directly in front of you while in water"
+      "'照亮你面前黑暗的深海'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,11 +26,11 @@
   {
     "TypeName": "Aquaite",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Aquaite",
+    "Name": "海洋结晶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'A fragment of the primordial ocean'"
+      "'原始海洋的精华'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -38,11 +38,11 @@
   {
     "TypeName": "AquaiteBar",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Aquaite Bar",
+    "Name": "海洋锭",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Condensation clings to the bar'"
+      "'紧紧浓缩在了锭中'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -50,8 +50,8 @@
   {
     "TypeName": "AquaPotion",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Aqua Potion",
-    "ToolTip": "Grants uninhibited water movement",
+    "Name": "潜水药剂",
+    "ToolTip": "在水中无拘无束地移动",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -60,11 +60,11 @@
   {
     "TypeName": "BrackMud",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Brackish Clump",
+    "Name": "咸泥块",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Can be used at the Extractinator"
+      "可以放入精炼机中"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,7 +72,7 @@
   {
     "TypeName": "CartlidgedCatcher",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Cartlidged Catcher",
+    "Name": "卡特里奇捕鱼者",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -82,7 +82,7 @@
   {
     "TypeName": "DepthChest",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Depth Chest",
+    "Name": "深渊宝箱",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -92,12 +92,12 @@
   {
     "TypeName": "DepthDiverChestplate",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Depth Diver's Chestplate",
+    "Name": "深渊潜游者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Become a selfless protector'",
-      "Nearby allies gain 8% increased damage"
+      "'变成自私的保卫者'",
+      "周围友军增加8%伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,12 +105,12 @@
   {
     "TypeName": "DepthDiverGreaves",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Depth Diver's Greaves",
+    "Name": "深渊潜游者护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Become a selfless protector'",
-      "Nearby allies gain 10% increased movement speed"
+      "'变成自私的保卫者'",
+      "周围有军增加10%移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,13 +118,13 @@
   {
     "TypeName": "DepthDiverHelmet",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Depth Diver's Helmet",
+    "Name": "深渊潜游者头盔",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Become a selfless protector'",
-      "Critical strike chance increased by 6%",
-      "You and all nearby allies can breathe underwater"
+      "'变成自私的保卫者'",
+      "增加6%暴击",
+      "你和你周围的友军都能在水下呼吸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,11 +132,11 @@
   {
     "TypeName": "DepthScale",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Depth Scales",
+    "Name": "深海鳞片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Evolution has designed this for the deep...'"
+      "'进化法则设计了这一深海生物...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -144,7 +144,7 @@
   {
     "TypeName": "DepthsMusicBox",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Music Box (Aquatic Depths)",
+    "Name": "音乐盒（深海）",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -154,8 +154,8 @@
   {
     "TypeName": "DrenchedDirk",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Drenched Dirk",
-    "ToolTip": "Wildly stabs in a frontal cone",
+    "Name": "浸水短剑",
+    "ToolTip": "用前端的椎体疯狂突刺",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -164,8 +164,8 @@
   {
     "TypeName": "FrenzyPotion",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Frenzy Potion",
-    "ToolTip": "Increases melee, firing, casting, throwing and healing speed by 8%",
+    "Name": "狂怒药剂",
+    "ToolTip": "提升8%的近战，开枪，施法，投掷和生命回复速度",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -174,8 +174,8 @@
   {
     "TypeName": "GeyserStaff",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Geyser Staff",
-    "ToolTip": "Releases a moving spout of water",
+    "Name": "间歇泉法杖",
+    "ToolTip": "射出一道流动的水柱",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -184,19 +184,19 @@
   {
     "TypeName": "GlowingPotion",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Glowing Potion",
-    "ToolTip": "-Healer Class-",
+    "Name": "荧光药剂",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Increases radiant damage by 12%"
+      "增加12%光辉伤害"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HydroAxe",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Hydro Axe",
+    "Name": "波纹水斧",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -206,8 +206,8 @@
   {
     "TypeName": "HydroCannon",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Hydro Cannon",
-    "ToolTip": "Rapidly releases hydro blasts",
+    "Name": "高压水炮",
+    "ToolTip": "快速射出高压水炮",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -216,7 +216,7 @@
   {
     "TypeName": "HydroMallet",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Hydro Mallet",
+    "Name": "波纹碎锤",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -226,8 +226,8 @@
   {
     "TypeName": "HydroPickaxe",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Hydro Pickaxe",
-    "ToolTip": "Tool speed increased while wet",
+    "Name": "波纹海镐",
+    "ToolTip": "在水中时候工具挥舞速度速度会加快",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -236,7 +236,7 @@
   {
     "TypeName": "Illustrious",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Illustrious",
+    "Name": "辉煌",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -246,45 +246,45 @@
   {
     "TypeName": "IridescentGreaves",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Iridescent Greaves",
-    "ToolTip": "-Healer Class-",
+    "Name": "光耀护腿",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% increased radiant damage",
-      "8% increased movement speed"
+      "增加10%光辉伤害",
+      "增加8%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "IridescentHelmet",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Iridescent Helmet",
-    "ToolTip": "-Healer Class-",
+    "Name": "光耀头盔",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "16% increased radiant damage"
+      "增加16%光辉伤害"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "IridescentMail",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Iridescent Mail",
-    "ToolTip": "-Healer Class-",
+    "Name": "光耀盔甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "12% increased radiant damage",
-      "8% increased radiant critical strike chance"
+      "增加12%光辉伤害",
+      "增加8%光辉暴击"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Leviathan",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Leviathan",
+    "Name": "利维坦钩抓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -294,8 +294,8 @@
   {
     "TypeName": "MagicConch",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Magic Conch",
-    "ToolTip": "Creates a barrage of enemy lifting bubbles",
+    "Name": "魔法海螺",
+    "ToolTip": "制造一片由能升起敌人的泡泡组成的弹幕",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -304,7 +304,7 @@
   {
     "TypeName": "MarineKelp",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Marine Kelp",
+    "Name": "海藻",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -314,11 +314,11 @@
   {
     "TypeName": "MarineKelpSeeds",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Marine Kelp Seeds",
+    "Name": "海藻种子",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Grows on mossy marine Rock"
+      "在多苔海洋石上生长"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -326,7 +326,7 @@
   {
     "TypeName": "MarineRock",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Marine Rock",
+    "Name": "海洋石",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -336,7 +336,7 @@
   {
     "TypeName": "MarineRockMoss",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Mossy Marine Rock",
+    "Name": "多苔海洋石",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -346,13 +346,13 @@
   {
     "TypeName": "NagaSkinMask",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Naga-Skin Mask",
+    "Name": "娜迦面具",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Garb of the original aquatic casters'",
-      "Maximum mana increased by 60",
-      "Allows you to breathe underwater"
+      "'与原始的海洋法师交流'",
+      "增加60魔法值",
+      "能在水里呼吸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -360,13 +360,13 @@
   {
     "TypeName": "NagaSkinSuit",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Naga-Skin Suit",
+    "Name": "娜迦服",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Garb of the original aquatic casters'",
-      "Magic damage increased by 10%",
-      "Increased mana regeneration"
+      "'与原始的海洋法师交流'",
+      "增加10%魔法伤害",
+      "增加魔法恢复量"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -374,13 +374,13 @@
   {
     "TypeName": "NagaSkinTail",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Naga-Skin Tail",
+    "Name": "娜迦尾",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Garb of the original aquatic casters'",
-      "Magic damage increased by 8%",
-      "Allows quicker movement in water"
+      "'与原始的海洋法师交流'",
+      "增加8%魔法伤害",
+      "水中移动更快"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -388,27 +388,27 @@
   {
     "TypeName": "OceanRetaliation",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Ocean's Retaliation",
-    "ToolTip": "-Life Guard-",
+    "Name": "海洋反射",
+    "ToolTip": "-生命守护-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 3",
-      "Taking more than 4 damage will unleash a globule of life energy",
-      "Touching the globule will recover 35% of the damage you took",
-      "30% of the damage you take is returned back to the enemy",
-      "Enemies that directly attack you will be poisoned and envenomed"
+      "提升3点防御",
+      "收到超过4点伤害会释放一小团生命能量",
+      "触碰生命能量球会恢复收到伤害的35%",
+      "获得30%反伤",
+      "直接攻击你的敌人将会中毒且带毒"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Pearl",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Pearl",
+    "Name": "珍珠",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Bright, shiny, and perfectly formed'"
+      "'光滑，明亮，好看'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -416,11 +416,11 @@
   {
     "TypeName": "PearlPike",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Pearl Pike",
+    "Name": "珍珠长矛",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Successfully hitting an enemy will increase your movement speed"
+      "成功击中敌人会增加你的移速"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -428,11 +428,11 @@
   {
     "TypeName": "RainStone",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Rain Stone",
-    "ToolTip": "'It's said that this strange stone was torn from an entity that could control the seas...'",
+    "Name": "雨石",
+    "ToolTip": "'据说这个神奇的石头是一个能控制海洋能量的东西分离出的碎片...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Activates or cancels a rainstorm"
+      "激活或取消：暴风雨"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -440,25 +440,25 @@
   {
     "TypeName": "SeaTurtlesBulwark",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Sea Turtle's Mystical Bulwark",
-    "ToolTip": "-Life Guard-",
+    "Name": "海龟秘盾",
+    "ToolTip": "-生命守护-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Defense increased by 2",
-      "Taking more than 4 damage will unleash a mote of life energy",
-      "Touching the mote will recover 25% of the damage you took"
+      "提升2防御",
+      "收到超过4点伤害会释放些许生命能量",
+      "触碰生命能量会恢复收到伤害的25%"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SharkStorm",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Shark Storm",
+    "Name": "鲨鱼风暴",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "35% chance to not consume ammo"
+      "35%不消耗弹药"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -466,9 +466,9 @@
   {
     "TypeName": "SpinyShell",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Spiny Shell",
-    "ToolTip": "45% of the damage you take is returned back to the enemy",
-    "ToolTip2": "Enemies that directly attack you will be poisoned and envenomed",
+    "Name": "多刺贝壳",
+    "ToolTip": "你受到的45%的伤害会反弹给敌人",
+    "ToolTip2": "直接攻击你的敌人将会中毒且带毒",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -476,7 +476,7 @@
   {
     "TypeName": "SpringWater",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Spring Water",
+    "Name": "春水",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -486,11 +486,11 @@
   {
     "TypeName": "StarfishSlicer",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Sea Ninja-Star",
+    "Name": "海忍者手里星",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Sticks to surfaces"
+      "扎入地表"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -498,13 +498,13 @@
   {
     "TypeName": "TideHunterCap",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Tide Hunter's Cap",
+    "Name": "猎潮者帽",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Not just for hunting fish'",
-      "4% increased ranged critical strike chance",
-      "Allows you to breathe underwater"
+      "'不只是为了捕鱼'",
+      "提升4%远程暴击",
+      "能在水里呼吸"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -512,12 +512,12 @@
   {
     "TypeName": "TideHunterChestpiece",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Tide Hunter Chestpiece",
+    "Name": "捕潮者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Not just for hunting fish'",
-      "10% increased ranged damage"
+      "'不只是为了捕鱼'",
+      "提升10%远程伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -525,12 +525,12 @@
   {
     "TypeName": "TideHunterLeggings",
     "Namespace": "ThoriumMod.Items.Depths",
-    "Name": "Tide Hunter Leggings",
+    "Name": "捕潮者腿甲",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Not just for hunting fish'",
-      "10% increased ranged critical strike chance"
+      "'不只是为了捕鱼'",
+      "提升10%远程暴击"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

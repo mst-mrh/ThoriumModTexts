@@ -2,8 +2,8 @@
   {
     "TypeName": "BloodMoonMedallion",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Blood Moon Medallion",
-    "ToolTip": "Brings forth a Blood Moon if it is night time",
+    "Name": "血月魔牌",
+    "ToolTip": "在夜晚使用将会带来血月",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,7 +12,7 @@
   {
     "TypeName": "BrokenHeroBow",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Broken Hero Bow",
+    "Name": "英雄烂弓",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -22,7 +22,7 @@
   {
     "TypeName": "BrokenHeroScythe",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Broken Hero Scythe",
+    "Name": "英雄断镰",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -32,7 +32,7 @@
   {
     "TypeName": "BrokenHeroStaff",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Broken Hero Staff",
+    "Name": "英雄破杖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -42,8 +42,8 @@
   {
     "TypeName": "EscapeRocket",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Escape Rocket",
-    "ToolTip": "Activates a rocket that uncontrollably sends you high into the air",
+    "Name": "逃生火箭",
+    "ToolTip": "点燃一发火箭直接送你上天",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -52,8 +52,8 @@
   {
     "TypeName": "FamilyHeirloom",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Family Heirloom",
-    "ToolTip": "'This jewelery has been passed down your family for generations'",
+    "Name": "家传项链",
+    "ToolTip": "'这串项链由你的家族世代相传至今'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -62,7 +62,7 @@
   {
     "TypeName": "Guppy",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Lil' Guppy",
+    "Name": "小虹鳉",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -72,9 +72,9 @@
   {
     "TypeName": "Lantern",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Adventurer's Lantern",
-    "ToolTip": "Lightly lights up your cursors position while held",
-    "ToolTip2": "Click to make a small flame puff",
+    "Name": "冒险者燃灯",
+    "ToolTip": "手持时会轻微照亮你鼠标处的方块",
+    "ToolTip2": "点击会释放一小团火星",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -85,11 +85,11 @@
   {
     "TypeName": "LightSoulDust",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Bright Soul Dust",
+    "Name": "光魂粉尘",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Less potent than a soul, but gets the job done'"
+      "'没有灵魂那么有效力，但是至少能将这工作完成'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,11 +97,11 @@
   {
     "TypeName": "MoltenResidue",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Molten Residue",
+    "Name": "熔岩残渣",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Dark spirits in a dark place bring forth ruin...'"
+      "'暗处的黑暗魂灵正在向外蔓延废墟...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,11 +109,11 @@
   {
     "TypeName": "NightSoulDust",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Dark Soul Dust",
+    "Name": "暗魂粉尘",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Less potent than a soul, but gets the job done'"
+      "'没有灵魂那么有效力，但是至少能将这工作完成'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -121,8 +121,8 @@
   {
     "TypeName": "PlantBulb",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Aromatic Bulb",
-    "ToolTip": "Summons Plantera",
+    "Name": "芳香花苞",
+    "ToolTip": "召唤世纪之花",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -131,8 +131,8 @@
   {
     "TypeName": "TimeWarp",
     "Namespace": "ThoriumMod.Items.Misc",
-    "Name": "Time Warp",
-    "ToolTip": "Reverses the time of day",
+    "Name": "时间扭曲",
+    "ToolTip": "逆转时间",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

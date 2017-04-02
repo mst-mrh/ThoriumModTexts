@@ -2,64 +2,64 @@
   {
     "TypeName": "AncientAegis",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Ancient Aegis",
-    "ToolTip": "-Healer Class-",
+    "Name": "远古庇护",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Nearby allies will take 8% reduced damage"
+      "附近友军受到的伤害减少8%"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "AncientTome",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Ancient Tome of Revival",
-    "ToolTip": "-Healer Class-",
+    "Name": "复活古书",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Imbues the first ally touched by your cursor with 'Rebirth'",
-      "Should your ally then suffer fatal damage, they will instead recover 150 life",
-      "Can only be successfully cast every 2 minutes"
+      "赋予第一个接触你指针的队友'重生'buff",
+      "如果你的队友受到了致命伤害，他的生命会转而回复至150",
+      "每2分钟只能成功释放一次"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "AngelStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Lil' Cherub's Wand",
-    "ToolTip": "-Healer Class-",
+    "Name": "小天使之杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing, to a maximum of 2",
-      "Summons a lil' cherub to periodically heal damaged allies",
-      "Only one shoulder guardian may be summoned at once"
+      "回复队友相当于你的额外治疗，最大2",
+      "召唤一个小天使周期性治疗队友",
+      "一次只能召唤一个小守护者"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ApothecaryLife",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Apothecary's Scarlet Vial",
-    "ToolTip": "-Healer Class-",
+    "Name": "药剂师红瓶",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Upon drinking a healing potion, all allies will recover 25 life"
+      "嗑了治疗药剂之后，所以的友军都会恢复25点生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ApothecaryMana",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Apothecary's Cyan Vial",
-    "ToolTip": "-Healer Class-",
+    "Name": "药剂师蓝瓶",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Upon drinking a healing potion, all allies will recover 40 mana"
+      "嗑了治疗药剂之后，所以的友军都会恢复40点魔法"
     ],
     "ModifyTooltips": []
   },
@@ -81,70 +81,70 @@
   {
     "TypeName": "ArcaniteEmblem",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Arcanite Emblem",
-    "ToolTip": "-Healer Class-",
+    "Name": "奥术纹章",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Maximum life increased by 20",
-      "Maximum mana increased by 20",
-      "15% increased radiant damage",
-      "Healing spells will heal an additional 1 life"
+      "最大生命值增加 20",
+      "最大魔法上限增加 20",
+      "增加15%光辉伤害",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ArchangelHeart",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Archangel's Heart",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣天使之心",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Maximum life increased by 20",
-      "Maximum mana increased by 20",
-      "15% increased radiant damage",
-      "15% increased healing speed",
-      "Healing spells will heal an additional 1 life"
+      "最大生命值增加 20",
+      "最大魔法上限增加 20",
+      "增加15%光辉伤害",
+      "增加15%治疗速度",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "AscensionStatuette",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Ascension Statuette",
-    "ToolTip": "-Healer Class-",
+    "Name": "飞升雕像",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Taking fatal damage unleashes your inner spirit",
-      "Your inner spirit will constantly release beams of healing energy towards your cursor",
-      "These beams heal ally life equal to your bonus healing"
+      "受到致命伤会释放你的圣魂",
+      "你的圣魂会持续朝指针位置释放治愈光线",
+      "这些射线回复队友的血量相当于你的额外治疗量"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "BeltQuickResponse",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Belt of the Quick Response",
-    "ToolTip": "-Healer Class-",
+    "Name": "速度符咒腰带",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Healing an ally will significantly increase your movement speed"
+      "治疗队友将显著增加你的移动速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "BloodHarvest",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Blood Harvest",
-    "ToolTip": "-Healer Class-",
+    "Name": "汲血",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a scythe made of hungering blood all around you",
-      "Damage dealt imbues your nearby allies attacks with life stealing properties"
+      "快速旋转一柄镰刀制造饥渴之血",
+      "造成的伤害使你附近友军的攻击具有生命窃取效果"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -154,12 +154,12 @@
   {
     "TypeName": "BloodRage",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Spell Book: Blood Transfusion",
-    "ToolTip": "-Healer Class-",
+    "Name": "咒书：输血",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Damage dealt will return a life giving blood globule to you"
+      "造成的伤害会返还一个生命血团给你"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -169,25 +169,25 @@
   {
     "TypeName": "BloomGuard",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Bloom Guard",
-    "ToolTip": "-Healer Class-",
+    "Name": "鲜花守护",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a bloom bulb, that periodically generates booster spores",
-      "Touching the spores increases defense and life regeneration briefly"
+      "召唤一个花苞，周期性释放增幅孢子",
+      "触摸孢子可以暂时提升防御和生命回复速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "BoneBaton",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Bone Baton",
-    "ToolTip": "-Healer Class-",
+    "Name": "骨龙棒",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a baton made of bone all around you"
+      "在你周围形成快速旋转的骨棒"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -197,12 +197,12 @@
   {
     "TypeName": "BoneReaper",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Bone Reaper",
-    "ToolTip": "-Healer Class-",
+    "Name": "骨镰",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a magical scythe all around you"
+      "在你周围形成快速旋转的魔法镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -212,12 +212,12 @@
   {
     "TypeName": "BountifulHarvest",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Bountiful Harvest",
-    "ToolTip": "-Healer Class-",
+    "Name": "丰饶",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a fertile scythe all around you"
+      "在你周围形成快速旋转的能再生的镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -227,28 +227,28 @@
   {
     "TypeName": "CelestialCrown",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Celestial Crown",
-    "ToolTip": "-Healer Class-",
+    "Name": "大天使光环",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "20% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Maximum mana increased by 60",
-      "Healing spells will heal an additional 1 life"
+      "减少20%非光辉伤害",
+      "增加10%光辉伤害",
+      "减少20%蓝耗",
+      "大幅提升魔法恢复值",
+      "增加60魔法值",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CelestialFragment",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Celestial Fragment",
+    "Name": "天界碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Harmonious energy embraces this glowing fragment'"
+      "'和谐的能量蕴含在这发着微光的碎片中'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -256,61 +256,61 @@
   {
     "TypeName": "CelestialLeggings",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Celestial Leggings",
-    "ToolTip": "-Healer Class-",
+    "Name": "大天使腿甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "20% increased radiant damage",
-      "25% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Healing spells will heal an additional 1 life",
-      "20% increased movement speed"
+      "减少20%非光辉伤害",
+      "增加20%光辉伤害",
+      "减少25%魔力消耗",
+      "大幅提升魔法恢复值",
+      "治愈法术会治疗额外1血",
+      "增加20%移动速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CelestialVestment",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Celestial Vestment",
-    "ToolTip": "-Healer Class-",
+    "Name": "大天使战袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "25% increased radiant damage",
-      "25% decreased mana cost",
-      "Massively increased mana regeneration",
-      "Healing spells will heal an additional 2 life"
+      "减少25%非光辉伤害",
+      "增加25%光辉伤害",
+      "减少25%魔力消耗",
+      "大幅提升魔法恢复值",
+      "治疗法术额外治疗2生命值"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ChiLantern",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Chi Lantern",
-    "ToolTip": "-Healer Class-",
+    "Name": "气魂灯",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 2",
-      "Unleashes three delayed waves of healing energy",
-      "Healing waves heal all nearby allies"
+      "治疗同伴2点生命",
+      "释放三道治愈能量波",
+      "治疗波治疗所有附近友军"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ChristmasCheer",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Christmas Cheer",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣诞祝福",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins the spirit of Christmas all around you",
-      "Right clicking will unleash an expanding snow storm",
-      "The snow storm has chance to significantly hinder the hit enemies movement"
+      "快速旋转圣诞之魂",
+      "右键释放暴风雪",
+      "暴雪有几率显著降低被攻击敌人的速度"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -320,25 +320,25 @@
   {
     "TypeName": "ClericEmblem",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Cleric Emblem",
-    "ToolTip": "-Healer Class-",
+    "Name": "救赎纹章",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "12% increased radiant damage",
-      "Healing spells will heal an additional 1 life"
+      "增加12%光辉伤害",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "CrimsonScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Crimson Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "血腥镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a bloody scythe all around you"
+      "在你周围形成快速旋转的血镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -348,67 +348,67 @@
   {
     "TypeName": "CrystalHoney",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Crystal Honey",
-    "ToolTip": "-Healer Class-",
+    "Name": "蜂蜜水晶",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'The strange properties of honey are not easily extracted'",
-      "Maximum life increased by 20",
-      "10% increased radiant damage",
-      "5% increased radiant critical strike chance"
+      "'这种奇怪的蜂蜜很难精炼'",
+      "最大生命值增加 20",
+      "增加10%光辉伤害",
+      "增加5%的光辉暴击几率"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Cure",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Spell Book: Cure",
-    "ToolTip": "-Healer Class-",
+    "Name": "咒术：治疗",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Cures all damage-inflicting debuffs off of the target ally under your cursor"
+      "治愈你光标下的友军所有会造成伤害的debuff"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DamageStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Aggression Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "激进光环",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Allies surrounded by the aura will deal additional damage",
-      "The caster cannot benefit from the auras effect"
+      "在你的指针位置展开一个结界15秒",
+      "结界附近的队友会造成额外伤害",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DarkIntent",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Dark Intent",
-    "ToolTip": "-Healer Class-",
+    "Name": "黑暗意旨",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Corrupts your radiant powers",
-      "20% increased radiant damage",
-      "Your healing bonus is reduced by 2"
+      "污染你的光辉力量",
+      "增加20%光辉伤害",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DarkScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Dark Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "黑镰",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a dark scythe all around you"
+      "在你周围形成快速旋转的黑暗镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -418,27 +418,27 @@
   {
     "TypeName": "DefenseStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Protection Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "护卫权杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Allies surrounded by the aura will taked reduced damage",
-      "The caster cannot benefit from the auras effect"
+      "在你的指针位置展开一个结界15秒",
+      "结界附近的队友会获得减伤效果",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DevilStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Lil' Devil's Wand",
-    "ToolTip": "-Healer Class-",
+    "Name": "小恶魔之杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a lil' devil to attack enemies",
-      "Only one shoulder guardian may be summoned at once"
+      "召唤一个小恶魔来攻击敌人",
+      "一次只能召唤一个小守护者"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -448,136 +448,136 @@
   {
     "TypeName": "DewBinderBreastplate",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Binder's Breastplate",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命束缚者胸甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "15% increased radiant damage",
-      "Increased mana regeneration",
-      "12% decreased mana cost",
-      "Healing spells will heal an additional 2 life"
+      "减少25%非光辉伤害",
+      "增加15%光辉伤害",
+      "增加魔法恢复量",
+      "减少12%法力消耗",
+      "治疗法术额外治疗2生命值"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DewBinderGreaves",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Binder's Greaves",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命束缚者腿甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "15% increased radiant damage",
-      "Increased mana regeneration",
-      "10% decreased mana cost",
-      "15% increased movement speed"
+      "减少20%非光辉伤害",
+      "增加15%光辉伤害",
+      "增加魔法恢复量",
+      "减少10%法力消耗",
+      "提升15%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DewBinderMask",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Binder's Mask",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命束缚者面具",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "18% decreased mana cost",
-      "Increased mana regeneration",
-      "Maximum mana increased by 40",
-      "Healing spells will heal an additional 1 life"
+      "减少15%非光辉伤害",
+      "增加10%光辉伤害",
+      "减少18%法力消耗",
+      "增加魔法恢复量",
+      "增加40点魔法上限",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DivineStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Divine Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣神之光",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 16",
-      "Unleashes a ricocheting beam of healing light"
+      "治疗队友16点生命",
+      "释放一个能够弹射的治疗光束"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "DragonHeartWand",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Dragon Heart Wand",
-    "ToolTip": "-Healer Class-",
+    "Name": "巨龙之心法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a field of rage inducing magic",
-      "Staying within the field increases damage by 15%",
-      "Only one field can exist at once"
+      "召唤一个充斥着愤怒魔法的领域",
+      "在领域内增加15%的伤害",
+      "一次只能存在一个领域"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "FallenPaladinCuirass",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Fallen Paladin's Cuirass",
-    "ToolTip": "-Healer Class-",
+    "Name": "堕落圣骑士胸甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "30% decreased non-radiant damage",
-      "30% increased radiant damage",
-      "8% increased radiant critical strike chance",
-      "15% increased damage reduction",
-      "Healing spells will heal an additional 1 life"
+      "减少30%非光辉伤害",
+      "增加30%光辉伤害",
+      "增加8%光辉暴击",
+      "减少15%所受伤害",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "FallenPaladinFacegaurd",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Fallen Paladin's Faceguard",
-    "ToolTip": "-Healer Class-",
+    "Name": "堕落圣骑士面甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "20% increased radiant damage",
-      "3% increased radiant critical strike chance",
-      "Life regeneration rate increased slightly"
+      "减少20%非光辉伤害",
+      "增加20%光辉伤害",
+      "增加3%光辉暴击",
+      "轻微增加生命回复速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "FallenPaladinGreaves",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Fallen Paladin's Greaves",
-    "ToolTip": "-Healer Class-",
+    "Name": "堕落圣骑士膝甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "25% increased radiant damage",
-      "4% increased radiant critical strike chance",
-      "15% decreased mana cost",
-      "20% increased movement speed"
+      "减少25%非光辉伤害",
+      "增加25%光辉伤害",
+      "增加4%光辉暴击",
+      "减少15%魔法消耗",
+      "增加20%移动速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "FallingTwilight",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Falling Twilight",
-    "ToolTip": "-Healer Class-",
+    "Name": "黄昏",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a scythe made of pure darkness all around you",
-      "Damage dealt imbues your nearby allies attacks with night energy"
+      "快速旋转一柄纯黑之镰",
+      "造成的伤害会使你附近的友军的攻击有暗夜能量"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -587,53 +587,53 @@
   {
     "TypeName": "GigaNeedle",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "The Giga Needle",
-    "ToolTip": "-Healer Class-",
+    "Name": "巨大针管",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Not recommended for squeamish people'",
-      "Heals ally life by 10",
-      "Pokes an ally with a large needle"
+      "'不推荐胆小的人使用'",
+      "治疗友军10生命",
+      "用巨大的针管捅你的队友"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "GoodBook",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "The Good Book",
-    "ToolTip": "-Healer Class-",
+    "Name": "好人书",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 3",
-      "Shoots out a short range healing pulse"
+      "治疗同伴3点生命",
+      "治疗出短距离的治疗脉冲"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Guaze",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Gauze",
-    "ToolTip": "-Healer Class-",
+    "Name": "纱布",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 8",
-      "Heals the life of an ally directly in front of you"
+      "治疗同伴8点生命",
+      "为你正前方的友军治疗生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HallowedBlessing",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Hallowed Blessing",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣神祝福",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Fires a pulse of light that blesses enemies with 'Holy Glare'",
-      "Damage done against holy glared enemies is increased by 12%"
+      "发出一道光波，给敌人赋予'圣神之光'效果",
+      "增加12%对圣光敌人造成的伤害"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -643,57 +643,57 @@
   {
     "TypeName": "HallowedPaladinBreastplate",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Hallowed Paladin's Breastplate",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣骑士胸甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "20% decreased non-radiant damage",
-      "15% increased radiant damage",
-      "Increased mana regeneration",
-      "14% decreased mana cost"
+      "减少20%非光辉伤害",
+      "增加15%光辉伤害",
+      "增加魔法恢复量",
+      "减少14%的魔法消耗"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HallowedPaladinHelmet",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Hallowed Paladin's Helmet",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣骑士头盔",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "Increased mana regeneration",
-      "7% decreased mana cost"
+      "减少15%非光辉伤害",
+      "增加10%光辉伤害",
+      "增加魔法恢复量",
+      "减少7%的魔法消耗"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HallowedPaladinLeggings",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Hallowed Paladin's Leggings",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣骑士腿甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "Increased mana regeneration",
-      "9% decreased mana cost"
+      "减少15%非光辉伤害",
+      "增加10%光辉伤害",
+      "增加魔法恢复量",
+      "减少9%的魔法消耗"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "HallowedScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Hallowed Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "神圣镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a hallowed scythe all around you"
+      "在你周围形成一个快速旋转的神圣镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -703,14 +703,14 @@
   {
     "TypeName": "HealingRain",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Heavenly Cloud Scepter",
-    "ToolTip": "-Healer Class-",
+    "Name": "天堂之云权杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals player life equal to your bonus healing",
-      "Summons a light infused cloud, that damages enemies and heals players",
-      "Only one cloud can exist at a time"
+      "治疗队友相当于你的额外治疗量的生命值",
+      "召唤一团光云,攻击敌人治疗队友",
+      "一次只能存在一片云"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -720,13 +720,13 @@
   {
     "TypeName": "HereticBreaker",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Heretic Breaker",
-    "ToolTip": "-Healer Class-",
+    "Name": "异教毁灭者",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing",
-      "Damage dealt heals all nearby hurt allies"
+      "治疗队友相当于你的额外治疗",
+      "造成的伤害会治疗周围所有的友军"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -736,11 +736,11 @@
   {
     "TypeName": "HolyKnightsAlloy",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Holy Knight's Alloy",
+    "Name": "圣骑士合金",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Silently, they walk the dungeon halls'"
+      "'他们无声的走过地牢的通道'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -748,28 +748,28 @@
   {
     "TypeName": "HolyStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Holy Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "神圣法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally and player life by 5",
-      "Summons a light well upon the cursors position, which creates healing holy light",
-      "Summoning a new light well will remove all lingering holy light"
+      "回复同伴5点生命",
+      "在指针位置召唤创造治愈圣光之门",
+      "召唤一个会移除所有游荡的神圣之光的光门"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "IridescentStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Iridescent Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "闪耀权杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing",
-      "Shoots three bolts of glowing energy",
-      "Damage dealt heals all nearby hurt allies"
+      "治疗队友相当于你的额外治疗",
+      "射出三道光能波动",
+      "造成的伤害会治疗周围所有的友军"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -779,27 +779,27 @@
   {
     "TypeName": "Liberation",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Liberation",
-    "ToolTip": "-Healer Class-",
+    "Name": "驱散",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Cures nearly all debuffs off of the target ally under your cursor",
-      "Successfully curing them will significantly increase their speed and give them brief invulnerability"
+      "清除指针位置的队友几乎所有debuff",
+      "成功的治疗他们会极大的增加他们的速度，并给予他们短暂的无敌"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeAndDeath",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life and Death",
-    "ToolTip": "-Healer Class-",
+    "Name": "生与死",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'The line between is rather thin in Terraria'",
-      "Heals ally life by 6",
-      "Releases homing bolts of healing and damaging energy"
+      "'这条界线在泰拉瑞亚中非常细小'",
+      "治疗同伴6点生命",
+      "释放具有攻击和治疗能力的跟踪能量波"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -809,11 +809,11 @@
   {
     "TypeName": "LifeCell",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life-Powered Energy Cell",
+    "Name": "生命能源晶核",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Without these, the grand mechanical creations are simple nuts and bolts...'"
+      "'没有这些，那些强大的机械生物只不过是一些螺母跟螺钉...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -821,13 +821,13 @@
   {
     "TypeName": "LifeDisperser",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Disperser",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命扩散",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing",
-      "Damage dealt heals all nearby hurt allies"
+      "治疗队友相当于你的额外治疗",
+      "造成的伤害会治疗周围所有的友军"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -837,39 +837,39 @@
   {
     "TypeName": "LifeEssenceApparatus",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Essence Apparatus",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命波动法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 10",
-      "Surrounds you with orbs of life energy that heal allies when touched"
+      "治疗友军10生命",
+      "在你周围环绕可以经由碰触治疗友军的生命能量球"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifePulseStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Pulse Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命晶核",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing, to a maximum of 5",
-      "Summons a zone of life giving energy, that will periodically heal players within it",
-      "The life zone does not benefit from bonus healing, but does apply on-heal effects",
-      "Only one life-zone can exist at once"
+      "治疗队友相当于你的额外治疗,最大5",
+      "创造一个生命能量结界，会周期性治疗里面的玩家",
+      "生命能量结界不接受额外治疗加成，但是接受治疗属性加成",
+      "一次只能存在一个生命结界"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeQuartz",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Quartz",
+    "Name": "生命晶核",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It pulses in time with your heart beat...'"
+      "'它随着你的心脏跳动而脉动..'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -877,138 +877,138 @@
   {
     "TypeName": "LifeQuartzGem",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Immaculate Life Quartz Gem",
-    "ToolTip": "-Healer Class-",
+    "Name": "无瑕生命晶核宝石",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Maximum life increased by 10",
-      "10% increased radiant damage",
-      "Healing spells will heal an additional 1 life"
+      "最大生命值提升10",
+      "增加10%光辉伤害",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifesGift",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life's Gift",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命之赐",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 2",
-      "Summons a barrage of healing energy at the target location"
+      "治疗同伴2点生命",
+      "在指定位置召唤一道治疗能量幕"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeSurgeStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Surge Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命激流",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 5",
-      "Unleashes a burst of ally homing life energy",
-      "Upon healing a hurt ally, the energy will attempt to damage an enemy, then heal another ally"
+      "治疗同伴5点生命",
+      "释放一道跟踪队友的生命能量",
+      "治疗队友之后,这些能量会去攻击敌人,然后治疗另一个队友"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeWeaverGarment",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Weaver's Garment",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命编织者长袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "25% decreased non-radiant damage",
-      "15% increased radiant damage",
-      "Increased mana regeneration",
-      "10% decreased mana cost",
-      "Healing spells will heal an additional 1 life"
+      "减少25%非光辉伤害",
+      "增加15%光辉伤害",
+      "增加魔法恢复量",
+      "减少10%法力消耗",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeWeaverHood",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Weaver's Hood",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命编织者兜帽",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "12% decreased mana cost",
-      "Increased mana regeneration",
-      "Maximum mana increased by 20"
+      "减少15%非光辉伤害",
+      "增加10%光辉伤害",
+      "减少12%法力消耗",
+      "增加魔法恢复量",
+      "最大魔法上限增加 20"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "LifeWeaverLeggings",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Life Weaver's Leggings",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命编织者腿甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "15% increased radiant damage",
-      "Increased mana regeneration",
-      "8% decreased mana cost",
-      "Healing spells will heal an additional 1 life"
+      "减少15%非光辉伤害",
+      "增加15%光辉伤害",
+      "增加魔法恢复量",
+      "减少8%法力消耗",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ManaStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Energy staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "魔能光环",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Allies surrounded by the aura will receive increased mana regeneration",
-      "The caster cannot benefit from the auras effect"
+      "在你的指针位置展开一个结界15秒",
+      "在光环附近的同伴法力回复速度增加",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "MartyrChalice",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Martyr's Chalice",
-    "ToolTip": "-Healer Class-",
+    "Name": "殉道者的圣杯",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 100",
-      "Sacrifices your own life to heal all allies in the world",
-      "Allies are given 3 seconds of invulnerability after being healed"
+      "治疗同伴100点生命",
+      "牺牲自己的生命，给全地图的同伴治疗",
+      "被治疗后队友获得3秒无敌时间"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "MedicalBag",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Medical Bag",
-    "ToolTip": "-Healer Class-",
+    "Name": "药物包",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 8",
-      "Heals the life of an ally directly in front of you",
-      "Cures poison and flames from the healed target"
+      "治疗同伴8点生命",
+      "为你正前方的友军治疗生命",
+      "解除治疗目标的中毒和着火debuff"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Medicite",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Medicite",
+    "Name": "不能停的药",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -1018,38 +1018,38 @@
   {
     "TypeName": "MistWeaver",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Mist Weaver",
-    "ToolTip": "-Healer Class-",
+    "Name": "治疗之雾",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 5",
-      "Unleashes a burst of rejuvenating mist"
+      "治疗同伴5点生命",
+      "释放一阵回复精力的薄雾"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "MoleculeStabilizer",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Molecular Stabilizer",
-    "ToolTip": "-Healer Class-",
+    "Name": "分子稳定器",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 15",
-      "Unleashes a beam of atom stabilizing energy, which bounces between hurt allies"
+      "治疗同伴15点生命",
+      "释放一道稳定的原子能量脉冲，并在受伤友军之间跳跃"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "MoltenThresher",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Molten Thresher",
-    "ToolTip": "-Healer Class-",
+    "Name": "熔岩镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a flaming scythe all around you"
+      "在你周围形成一个快速旋转的火焰镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1059,14 +1059,14 @@
   {
     "TypeName": "MorningDew",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Morning Dew",
-    "ToolTip": "-Healer Class-",
+    "Name": "晨露",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing",
-      "Rapidly spins a mystical baton all around you",
-      "Damage dealt heals all nearby hurt allies"
+      "治疗队友相当于你的额外治疗",
+      "快速旋转一根神秘的法杖",
+      "造成的伤害会治疗周围所有的友军"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1076,13 +1076,13 @@
   {
     "TypeName": "NecroticStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Necrotic Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "死灵法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 3% of their maximum life",
-      "Releases a player-homing necrotic surge"
+      "治疗队友3%的生命",
+      "释放一道跟踪玩家的亡灵能量"
     ],
     "ModifyTooltips": [
       "UseMana",
@@ -1092,85 +1092,85 @@
   {
     "TypeName": "NoviceClericCowl",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Novice Cleric's Cowl",
-    "ToolTip": "-Healer Class-",
+    "Name": "牧师学徒头巾",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% decreased non-radiant damage",
-      "3% increased radiant damage",
-      "Increased mana regeneration",
-      "Maximum mana increased by 5"
+      "减少10%非光辉伤害",
+      "增加3%光辉伤害",
+      "增加魔法恢复量",
+      "增加5点魔法上限"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "NoviceClericPants",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Novice Cleric's Pants",
-    "ToolTip": "-Healer Class-",
+    "Name": "牧师学徒裤",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% decreased non-radiant damage",
-      "3% increased radiant damage",
-      "Increased mana regeneration",
-      "Maximum mana increased by 5"
+      "减少10%非光辉伤害",
+      "增加3%光辉伤害",
+      "增加魔法恢复量",
+      "增加5点魔法上限"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "NoviceClericTabard",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Novice Cleric's Tabard",
-    "ToolTip": "-Healer Class-",
+    "Name": "牧师学徒战袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% decreased non-radiant damage",
-      "4% increased radiant damage",
-      "Increased mana regeneration",
-      "Maximum mana increased by 10"
+      "减少10%非光辉伤害",
+      "增加4%光辉伤害",
+      "增加魔法恢复量",
+      "最大生命值提升10"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "NullZoneStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Null-Zone Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "坚石结界",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a zone of negating magic at the cursors location",
-      "Staying within the null-zone will reduce projectile damage taken by 30%",
-      "Only one null-zone can exist at once"
+      "在指针位置召唤一个沉默领域",
+      "在沉默空间内减少弹幕伤害30%",
+      "一次只能存在一个领域"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Prophecy",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Prophecy",
-    "ToolTip": "-Healer Class-",
+    "Name": "生命归还",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 6",
-      "Fires returning holy energy",
-      "Upon returning to the caster, they will be healed as well"
+      "治疗同伴6点生命",
+      "发射回旋的神圣能量",
+      "在回到施法者身上之后，他们也会被治疗"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "PurifiedWater",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Purified Water",
-    "ToolTip": "-Healer Class-",
+    "Name": "净化之水",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Damage dealt increases the life regeneration of nearby hurt allies"
+      "造成的伤害会增加附近友军的生命回复速度"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1180,11 +1180,11 @@
   {
     "TypeName": "PurityShards",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Purified Shard",
+    "Name": "净化碎片",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'Cleansed of all evil'"
+      "'超度一切邪恶！'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1192,65 +1192,65 @@
   {
     "TypeName": "RegenStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Renew Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "再生法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Allies surrounded by the aura will receive increased life regeneration",
-      "The caster cannot benefit from the auras effect"
+      "在你的指针位置展开一个结界15秒",
+      "结界附近的同伴生命恢复速度增加",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Renew",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Spell Book: Renew",
-    "ToolTip": "-Healer Class-",
+    "Name": "咒书：再生",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'Heals minor wounds'",
-      "Instantly recovers 25 life",
-      "Defense, life regeneration and movement speed are sapped for a short duration afterwards"
+      "'治愈些许小伤口'",
+      "瞬间恢复25生命",
+      "防御，生命回复速度和移动速度会在之后的短时间内减少"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SentinelWand",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Sentinel's Wand",
-    "ToolTip": "-Healer Class-",
+    "Name": "哨兵魔杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals all villagers around you"
+      "治疗附近所有npc"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SeraphimIdol",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Seraphim Idol",
-    "ToolTip": "-Healer Class-",
+    "Name": "天使玩偶",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "18% increased healing speed"
+      "增加18%治疗速度"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ShadowStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Midnight Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "午夜魔杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Enemies under your cursor will be damaged with an unholy curse"
+      "在你的指针位置展开一个结界15秒",
+      "在你光标下的敌人会被不洁诅咒所伤害"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1260,67 +1260,67 @@
   {
     "TypeName": "SnackLantern",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Snack-o'-lantern",
-    "ToolTip": "-Healer Class-",
+    "Name": "南瓜提灯",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a short-lived magical pumpkin, that pops after 5 seconds",
-      "After popping, all nearby allies are healed by 40"
+      "召唤一个短暂存在的魔法南瓜，5秒后爆炸",
+      "爆裂之后,所有附近的队友回复40生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SolStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Staff of Sol",
-    "ToolTip": "-Healer Class-",
+    "Name": "太阳环",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 20",
-      "Greatly heals an ally under your cursor"
+      "治疗同伴20点生命",
+      "大大的治疗你光标下的一个友军"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SpeedStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Frenzy Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "狂怒法杖",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "An aura will surround your cursor for 15 seconds",
-      "Allies surrounded by the aura will receive increased melee, casting, firing, throwing and movement speed",
-      "The caster cannot benefit from the auras effect"
+      "在你的指针位置展开一个结界15秒",
+      "光环周围的友军会增加近战，施法， 投掷，发射和移动速度",
+      "施法者不能从光环中获益"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SpiritPouch",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Spirit Water Pouch",
-    "ToolTip": "-Healer Class-",
+    "Name": "魂之水袋",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 8",
-      "Brings forth a controllable globule of imbued water",
-      "The globule periodically replenishes its ability to heal, spending 10 mana"
+      "治疗同伴8点生命",
+      "发出一团可操控的水珠",
+      "这个水珠会周期性补充能量来进行治疗,耗费10魔力"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "SpiritStaff",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Spirit Bender's Staff",
-    "ToolTip": "-Healer Class-",
+    "Name": "灵魂扭曲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Steals life equal to your bonus healing",
-      "Obliterates the soul of enemies around your cursor"
+      "吸取的生命等同于你的额外治疗量",
+      "消灭在你光标周围的敌人之灵魂"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1330,83 +1330,83 @@
   {
     "TypeName": "SupportSash",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Support Sash",
-    "ToolTip": "-Healer Class-",
+    "Name": "支援腰带",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Healing an ally will significantly increase your movement speed",
-      "Upon drinking a healing potion, all allies will recover 25 life and 40 mana"
+      "治疗队友将显著增加你的移动速度",
+      "喝下一瓶血药之后，所有队友恢复25生命，40魔力"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Syringe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Syringe",
-    "ToolTip": "-Healer Class-",
+    "Name": "注射器",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life by 5",
-      "Pricks an ally with a life giving needle"
+      "治疗同伴5点生命",
+      "用生命补给针扎友军"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TemplarsCirclet",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Templar's Circlet",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣殿骑士头环",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% decreased non-radiant damage",
-      "5% increased radiant damage",
-      "Maximum mana increased by 40"
+      "减少10%非光辉伤害",
+      "增加10%光辉伤害",
+      "增加40点魔法上限"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TemplarsLeggings",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Templar's Leggings",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣殿骑士腿甲",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "10% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "Maximum mana increased by 20",
-      "8% increased movement speed"
+      "减少10%非光辉伤害",
+      "增加10%光辉伤害",
+      "最大魔法上限增加 20",
+      "增加8%移速"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TemplarsTabard",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Templar's Tabard",
-    "ToolTip": "-Healer Class-",
+    "Name": "圣殿骑士战袍",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "15% decreased non-radiant damage",
-      "10% increased radiant damage",
-      "Maximum mana increased by 20",
-      "Healing spells will heal an additional 1 life"
+      "减少15%非光辉伤害",
+      "增加10%光辉伤害",
+      "最大魔法上限增加 20",
+      "治愈法术会治疗额外1血"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "TerraScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Terra Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "泰拉镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a scythe powered by Terraria itself all around you",
-      "Right clicking will unleash an expanding surge of energy"
+      "快速旋转一柄由泰拉瑞亚本体意志驱动的镰刀",
+      "右击会释放一道扩展的能量巨浪"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1416,24 +1416,24 @@
   {
     "TypeName": "TeslaDefibrillator",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Tesla Defibrillator",
-    "ToolTip": "-Healer Class-",
+    "Name": "特斯拉除颤器",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "'It's alive!'",
-      "Heals ally life by 5",
-      "Unleashes a beam of heart stabilizing electricity",
-      "Heals an additional 5 life per lost 25% life on target ally"
+      "'它是活的!'",
+      "治疗同伴5点生命",
+      "释放一道稳定的心电射线",
+      "给每个已经失去25%以上的队友额外回复5点生命"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "ThePill",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Pill",
-    "ToolTip": "-Healer Class-",
-    "ToolTip2": "Throws out a bouncing pill",
+    "Name": "药丸",
+    "ToolTip": "-牧师职业-",
+    "ToolTip2": "扔出一个弹射的枣药丸",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -1444,13 +1444,13 @@
   {
     "TypeName": "TranquilLyre",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Tranquil Lyre",
-    "ToolTip": "-Healer Class-",
+    "Name": "安详七弦琴",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Heals ally life equal to your bonus healing",
-      "Summons empowering and demoralizing hymns"
+      "治疗队友相当于你的额外治疗",
+      "弹奏鼓舞士气和降低士气的赞美诗"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1460,14 +1460,14 @@
   {
     "TypeName": "TrueBloodHarvest",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "True Blood Harvest",
-    "ToolTip": "-Healer Class-",
+    "Name": "真·汲血",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a hemo-scythe all around you",
-      "Releases a dual pulse of life force stealing blood",
-      "Damage dealt by the scythe imbues your nearby allies attacks with life stealing properties"
+      "快速旋转一柄鲜血之镰",
+      "释放两滴生命汲取之血",
+      "由镰刀造成的伤害会使附近友军的攻击具有生命窃取效果"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1477,14 +1477,14 @@
   {
     "TypeName": "TrueFallingTwilight",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "True Falling Twilight",
-    "ToolTip": "-Healer Class-",
+    "Name": "真·黄昏",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins a nega-scythe all around you",
-      "Releases a dual pulse of corrupting flame",
-      "Damage dealt by the scythe imbues your nearby allies attacks with night energy"
+      "快速旋转一柄虚无之镰",
+      "释放两团腐化火焰",
+      "由镰刀造成的伤害会使附近友军的攻击具有暗夜能量效果"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1494,12 +1494,12 @@
   {
     "TypeName": "TrueHallowedScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "True Hallowed Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "真·神圣镰刀",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins an enchanted scythe all around you"
+      "在你周围形成一个快速旋转的附魔镰刀"
     ],
     "ModifyTooltips": [
       "Damage",
@@ -1509,25 +1509,25 @@
   {
     "TypeName": "Twinkle",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Twinkle",
-    "ToolTip": "-Healer Class-",
+    "Name": "闪星",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Summons a spirit composed of distant stars",
-      "The spirit will generate healing energy that can be picked up if you are hurt",
-      "When energy is generated, 10 mana will be spent"
+      "召唤一个由遥远的星光组成的灵魂",
+      "如果你受伤，这个灵魂会生成可捡取的治愈能量",
+      "当能量被产生时，10点的魔法值会被消耗"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "UnholyShards",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Unholy Shards",
+    "Name": "不洁碎晶",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "'It's dark power seems to come out only during the blood moon...'"
+      "'它的黑暗力量似乎只有在血月才会释放出来...'"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1535,27 +1535,27 @@
   {
     "TypeName": "VerdantOrnament",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Verdant Ornament",
-    "ToolTip": "-Healer Class-",
+    "Name": "翠绿项链",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "8% increased healing speed",
-      "Healing an ally increases their life regeneration and regeneration rate"
+      "增加8%回复速度",
+      "治疗一个队友会加快他的生命回复速度和回复率"
     ],
     "ModifyTooltips": []
   },
   {
     "TypeName": "Wynebgwrthucher",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Wynebgwrthucher",
-    "ToolTip": "-Healer Class-",
+    "Name": "祝福之盾",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Grants immunity to knockback",
-      "Defense increased by 2",
-      "Successfully healing an ally with non-radiant healing spells will recover 4 life"
+      "免疫击退",
+      "提升2防御",
+      "成功的用非光辉的治疗法术治疗一个友军的话，会恢复自己4点生命"
     ],
     "ModifyTooltips": []
   }

@@ -2,8 +2,8 @@
   {
     "TypeName": "BlunderBuss",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Buccaneer's Blunderbuss",
-    "ToolTip": "Unleashes a torrent of bullets",
+    "Name": "海盗喇叭枪",
+    "ToolTip": "射出一排子弹",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -12,13 +12,13 @@
   {
     "TypeName": "GiantGlowstick",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Giant Glowstick",
+    "Name": "巨力回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Provides a lot of light when thrown",
-      "Attacks have a chance to paralyze the hit enemy very briefly",
-      "Boss monsters cannot suffer from this effect"
+      "扔出去能提供照明",
+      "攻击有几率使敌人短暂的麻痹",
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -26,8 +26,8 @@
   {
     "TypeName": "JellyFishBag",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Treasure Bag",
-    "ToolTip": "Right click to open",
+    "Name": "宝物袋",
+    "ToolTip": "右键单击以打开",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -36,8 +36,8 @@
   {
     "TypeName": "JellyfishHat",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Jellyfish Hat",
-    "ToolTip": "'Those jellyfish wont suspect a thing...'",
+    "Name": "水母帽",
+    "ToolTip": "'那些水母不会怀疑你的...'",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -46,11 +46,11 @@
   {
     "TypeName": "JellyfishResonator",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Jellyfish Resonator",
-    "ToolTip": "Summons The Queen Jellyfish",
+    "Name": "水母共振器",
+    "ToolTip": "召唤水母皇后",
     "ToolTip2": "",
     "AddToolTip": [
-      "Only usable on the beach during the day"
+      "只能用于白天的沙滩之上"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,8 +58,8 @@
   {
     "TypeName": "JellyPondWand",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Jelly Pond Wand",
-    "ToolTip": "Sends out a ball of aquatic energy that will summon a swarm of Jellyfish to attack the impact area",
+    "Name": "水母群法杖",
+    "ToolTip": "发射一团能够吸引一群水母攻击的水之能量",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],
@@ -68,7 +68,7 @@
   {
     "TypeName": "QueenJellyfishTrophy",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Queen Jellyfish Trophy",
+    "Name": "水母皇后荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -78,11 +78,11 @@
   {
     "TypeName": "QueensGlowstick",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Queen's Glowstick",
+    "Name": "皇后荧光棒",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "Creates an endless amount of glowsticks"
+      "制造无数的荧光棒"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -90,13 +90,13 @@
   {
     "TypeName": "SeaBreezePendant",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Sea Breeze Pendant",
-    "ToolTip": "'Wearers of this pendant shall not fear the aquatic depths...'",
+    "Name": "海洋通行证",
+    "ToolTip": "'带着它，你将无惧深渊...'",
     "ToolTip2": "",
     "AddToolTip": [
-      "Grants underwater breathing",
-      "Grants the ability to swim",
-      "10% increased damage while wet"
+      "获得水下呼吸",
+      "拥有游泳的能力",
+      "湿身之后增加10%的伤害"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -104,11 +104,11 @@
   {
     "TypeName": "SparkingJellyBall",
     "Namespace": "ThoriumMod.Items.QueenJelly",
-    "Name": "Sparking Jelly Ball",
-    "ToolTip": "Attacks have a chance to paralyze the hit enemy very briefly",
+    "Name": "电花链锤",
+    "ToolTip": "攻击有几率使敌人短暂的麻痹",
     "ToolTip2": "",
     "AddToolTip": [
-      "Boss monsters cannot suffer from this effect"
+      "boss不受此影响"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
