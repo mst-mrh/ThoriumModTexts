@@ -32,8 +32,8 @@
   {
     "TypeName": "LilMogBuff",
     "Namespace": "ThoriumMod.Buffs.Pet",
-    "Name": "Lil' Mog",
-    "Tip": "He's a cute little guy, aint he?"
+    "Name": "小猫",
+    "Tip": "它可真可爱，难道不是么"
   },
   {
     "TypeName": "MaidBuff",

@@ -272,7 +272,7 @@
     "ToolTip2": "",
     "AddToolTip": [
       "免疫击退",
-      "20蓝以上时，收到伤害会消耗蓝量"
+      "20蓝以上时，受到伤害会消耗蓝量"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []

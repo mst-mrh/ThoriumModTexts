@@ -362,7 +362,7 @@
   {
     "TypeName": "GoblinTrapperBanner",
     "Namespace": "ThoriumMod.Items.Banners",
-    "Name": "哥布林陷阱师",
+    "Name": "哥布林陷阱师旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：哥布林陷阱师",
     "ToolTip2": "",
     "AddToolTip": [],
@@ -392,7 +392,7 @@
   {
     "TypeName": "GoldWorgBanner",
     "Namespace": "ThoriumMod.Items.Banners",
-    "Name": "黄光辉狼人旗帜",
+    "Name": "光辉狼人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：光辉狼人",
     "ToolTip2": "",
     "AddToolTip": [],

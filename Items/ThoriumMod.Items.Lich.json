@@ -2,8 +2,8 @@
   {
     "TypeName": "CryptWand",
     "Namespace": "ThoriumMod.Items.Lich",
-    "Name": "Phantom Wand",
-    "ToolTip": "Summons a pack of volatile phantoms, that unleash powerful beams at your cursor",
+    "Name": "幻影魔杖",
+    "ToolTip": "召唤一组幻影，释放强大的光束在你的光标位置",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [],

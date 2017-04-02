@@ -66,12 +66,12 @@
   {
     "TypeName": "AquaiteScythe",
     "Namespace": "ThoriumMod.Items.HealerItems",
-    "Name": "Aquaite Scythe",
-    "ToolTip": "-Healer Class-",
+    "Name": "深海",
+    "ToolTip": "-牧师职业-",
     "ToolTip2": "",
     "AddToolTip": [],
     "AddToolTip2": [
-      "Rapidly spins an aquatic scythe all around you"
+      "快速旋转一柄由水流构成的镰刀"
     ],
     "ModifyTooltips": [
       "Damage",

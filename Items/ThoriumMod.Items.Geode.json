@@ -22,7 +22,7 @@
   {
     "TypeName": "DazzleArrow",
     "Namespace": "ThoriumMod.Items.Geode",
-    "Name": "眼花箭",
+    "Name": "缭乱箭",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
     "AddToolTip": [],

@@ -134,8 +134,8 @@
   {
     "TypeName": "RosySlimeBuff",
     "Namespace": "ThoriumMod.Buffs.Summon",
-    "Name": "Rosy Slime",
-    "Tip": "Almost as diabolical as Pinky herself"
+    "Name": "玫瑰史莱姆",
+    "Tip": "一个像小粉一样的史莱姆恶魔"
   },
   {
     "TypeName": "SlagMinionBuff",

@@ -261,13 +261,13 @@
   {
     "TypeName": "FolvHat",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Folv's Ancient Hat",
+    "Name": "Folv的古老帽子",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "8% reduced mana cost",
-      "Maximum mana increased by 50",
-      "Greatly increased mana regeneration"
+      "法力消耗降低8%",
+      "最大魔法值增加了50",
+      "大大增加法力再生"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -275,12 +275,12 @@
   {
     "TypeName": "FolvLegging",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Folv's Ancient Legging",
+    "Name": "Folv的古老护腿",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "10% increased magic damage",
-      "15% increased movement speed"
+      "增加10%的魔法伤害",
+      "提升15%的移动速度"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -288,12 +288,12 @@
   {
     "TypeName": "FolvRobe",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Folv's Ancient Robe",
+    "Name": "Folv的古老长袍",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [
-      "15% increased magic damage",
-      "5% increased magic critical strike chance"
+      "增加15%的魔法伤害",
+      "魔法爆击几率提高5%"
     ],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -507,7 +507,7 @@
   {
     "TypeName": "JewelersReach",
     "Namespace": "ThoriumMod.Items.Donate",
-    "Name": "Jeweller's Wall Grip",
+    "Name": "珠宝商人的墙壁旅行",
     "ToolTip": "",
     "ToolTip2": "",
     "AddToolTip": [],
