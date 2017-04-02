@@ -2,7 +2,7 @@
   {
     "TypeName": "CorpseBloom",
     "Namespace": "ThoriumMod.NPCs.Bloom",
-    "Name": "CorpseBloom",
+    "Name": "绝命花",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "CorpsePetal",
     "Namespace": "ThoriumMod.NPCs.Bloom",
-    "Name": "CorpsePetal",
+    "Name": "绝命花",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

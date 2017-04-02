@@ -2,7 +2,7 @@
   {
     "TypeName": "DistractJelly",
     "Namespace": "ThoriumMod.NPCs.QueenJelly",
-    "Name": "DistractJelly",
+    "Name": "迷乱水母",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "QueenJelly",
     "Namespace": "ThoriumMod.NPCs.QueenJelly",
-    "Name": "QueenJelly",
+    "Name": "水母皇后",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "QueenJellyDiverless",
     "Namespace": "ThoriumMod.NPCs.QueenJelly",
-    "Name": "QueenJelly",
+    "Name": "水母皇后",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "SpittingJelly",
     "Namespace": "ThoriumMod.NPCs.QueenJelly",
-    "Name": "SpittingJelly",
+    "Name": "唾沫水母",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "ZealousJelly",
     "Namespace": "ThoriumMod.NPCs.QueenJelly",
-    "Name": "ZealousJelly",
+    "Name": "狂热水母",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

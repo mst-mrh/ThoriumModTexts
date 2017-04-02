@@ -2,7 +2,7 @@
   {
     "TypeName": "AngerSpirit",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "AngerSpirit",
+    "Name": "无尽愤怒之灵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "Aquaius",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "Aquaius",
+    "Name": "海啸之灵--无尽潮汐",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "Aquaius2",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "Aquaius",
+    "Name": "海啸之灵--衰落之潮",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "AquaiusBubble",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "AquaiusBubble",
+    "Name": "海洋泡泡",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "AquaiusBubblePrime",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "AquaiusBubble",
+    "Name": "海洋泡泡核心",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -42,7 +42,7 @@
   {
     "TypeName": "AquaTitan",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "AquaTitan",
+    "Name": "复仇之魂：绝望",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -50,7 +50,7 @@
   {
     "TypeName": "DeathTitan",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "DeathTitan",
+    "Name": "复仇之魂：恐惧",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -58,7 +58,7 @@
   {
     "TypeName": "DespairSpirit",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "DespairSpirit",
+    "Name": "无尽绝望之灵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -66,7 +66,7 @@
   {
     "TypeName": "DreadSpirit",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "DreadSpirit",
+    "Name": "无尽恐惧之灵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -74,7 +74,7 @@
   {
     "TypeName": "Omnicide",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "Omnicide",
+    "Name": "枯萎之灵--生命亵渎者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -90,7 +90,7 @@
   {
     "TypeName": "RealityBreaker",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "RealityBreaker",
+    "Name": "末日降临--死亡预言",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -98,7 +98,7 @@
   {
     "TypeName": "SlagFury",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "SlagFury",
+    "Name": "熔岩之灵--原始之火",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -106,7 +106,7 @@
   {
     "TypeName": "SlagTitan",
     "Namespace": "ThoriumMod.NPCs.EndofDays",
-    "Name": "SlagTitan",
+    "Name": "复仇之魂：愤怒",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

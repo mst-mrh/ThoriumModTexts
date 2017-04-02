@@ -2,7 +2,7 @@
   {
     "TypeName": "Hatchling",
     "Namespace": "ThoriumMod.NPCs.Thunder",
-    "Name": "Hatchling",
+    "Name": "孵化",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "TheGrandThunderBird",
     "Namespace": "ThoriumMod.NPCs.Thunder",
-    "Name": "TheGrandThunderBird",
+    "Name": "雷鸟",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

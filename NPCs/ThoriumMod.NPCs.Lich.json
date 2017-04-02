@@ -2,7 +2,7 @@
   {
     "TypeName": "Lich",
     "Namespace": "ThoriumMod.NPCs.Lich",
-    "Name": "Lich",
+    "Name": "巫妖",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "LichHeadless",
     "Namespace": "ThoriumMod.NPCs.Lich",
-    "Name": "Lich",
+    "Name": "巫妖",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "ThousandSoulPhalactry",
     "Namespace": "ThoriumMod.NPCs.Lich",
-    "Name": "ThousandSoulPhalactry",
+    "Name": "万魂匣",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

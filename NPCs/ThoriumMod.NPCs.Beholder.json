@@ -2,7 +2,7 @@
   {
     "TypeName": "EnemyBeholder",
     "Namespace": "ThoriumMod.NPCs.Beholder",
-    "Name": "EnemyBeholder",
+    "Name": "克兹尼格斯仆从",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "FallenDeathBeholder",
     "Namespace": "ThoriumMod.NPCs.Beholder",
-    "Name": "FallenDeathBeholder",
+    "Name": "堕落注视者克兹尼格斯",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "PhaseBeing",
     "Namespace": "ThoriumMod.NPCs.Beholder",
-    "Name": "PhaseBeing",
+    "Name": "虚空之灵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

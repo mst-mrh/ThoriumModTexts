@@ -2,7 +2,7 @@
   {
     "TypeName": "AncientArcher",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "AncientArcher",
+    "Name": "古弓箭手",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "AncientCharger",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "AncientCharger",
+    "Name": "古突击者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "AncientPhalanx",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "AncientPhalanx",
+    "Name": "古盾兵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "ArmyAnt",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Army Ant",
+    "Name": "军蚁",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "AstroBeetle",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "AstroBeetle",
+    "Name": "太空甲虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -42,7 +42,7 @@
   {
     "TypeName": "Biter",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Biter",
+    "Name": "咬噬者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -50,7 +50,7 @@
   {
     "TypeName": "Blacksmith",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Blacksmith",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": [
@@ -67,7 +67,7 @@
   {
     "TypeName": "Blister",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Blister",
+    "Name": "泡泡虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -75,7 +75,7 @@
   {
     "TypeName": "BlisterPod",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "BlisterPod",
+    "Name": "泡泡虫母体",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -83,7 +83,7 @@
   {
     "TypeName": "BloomingHornet",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "BloomingHornet",
+    "Name": "蜜蜂",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -91,7 +91,7 @@
   {
     "TypeName": "BloomMahoganyEnt",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "MahoganyEnt",
+    "Name": "红木树人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -99,7 +99,7 @@
   {
     "TypeName": "BoneFlayer",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "BoneFlayer",
+    "Name": "骨翼劫掠者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -107,7 +107,7 @@
   {
     "TypeName": "ChilledCannon",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "ChilledCannon",
+    "Name": "冰霜炮龟",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -115,7 +115,7 @@
   {
     "TypeName": "ChilledSpitter",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "ChilledSpitter",
+    "Name": "冰雪蚀雨者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -123,7 +123,7 @@
   {
     "TypeName": "Clot",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Clot",
+    "Name": "鲜血凝块",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -131,7 +131,7 @@
   {
     "TypeName": "Cobbler",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Cobbler",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "Shine Shoes",
     "ChatTexts": [
@@ -150,7 +150,7 @@
   {
     "TypeName": "CoinBagCopper",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CoinBagCopper",
+    "Name": "铜币袋",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -158,7 +158,7 @@
   {
     "TypeName": "CoinBagGold",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CoinBagGold",
+    "Name": "金币袋",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -166,7 +166,7 @@
   {
     "TypeName": "CoinBagSilver",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CoinBagSilver",
+    "Name": "银币袋",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -174,7 +174,7 @@
   {
     "TypeName": "Coldling",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Coldling",
+    "Name": "冰冻棘虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -182,7 +182,7 @@
   {
     "TypeName": "ConfusedZombie",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Confused Zombie",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "Enemy Repellent (2 Gold)",
     "ChatTexts": [
@@ -198,7 +198,7 @@
   {
     "TypeName": "Cook",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Cook",
+    "Name": "",
     "ShopButton1": "Shop",
     "ShopButton2": "Supply Ingredients",
     "ChatTexts": [
@@ -218,7 +218,7 @@
   {
     "TypeName": "Coolmera",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Coolmera",
+    "Name": "冰冻飞虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -226,7 +226,7 @@
   {
     "TypeName": "CrimipedeBody",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CrimipedeBody",
+    "Name": "鲜血蠕虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -234,7 +234,7 @@
   {
     "TypeName": "CrimipedeHead",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CrimipedeHead",
+    "Name": "鲜血蠕虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -242,7 +242,7 @@
   {
     "TypeName": "CrimipedeTail",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "CrimipedeTail",
+    "Name": "鲜血蠕虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -250,7 +250,7 @@
   {
     "TypeName": "DarksteelKnight",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Darksteel Knight",
+    "Name": "暗黑钢铁骑士",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -258,7 +258,7 @@
   {
     "TypeName": "DesertTraveler",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Desert Acolyte",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "Sandstorm (1 Gold)",
     "ChatTexts": [
@@ -274,7 +274,7 @@
   {
     "TypeName": "Diverman",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Diverman",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "Air Tank",
     "ChatTexts": [
@@ -293,7 +293,7 @@
   {
     "TypeName": "DragonHornet",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "DragonHornet",
+    "Name": "龙蜂",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -301,7 +301,7 @@
   {
     "TypeName": "Druid",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Druid",
+    "Name": "",
     "ShopButton1": "Shop",
     "ShopButton2": "Free Herbs",
     "ChatTexts": [
@@ -319,7 +319,7 @@
   {
     "TypeName": "EarthenBat",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "EarthenBat",
+    "Name": "大地蝙蝠",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -327,7 +327,7 @@
   {
     "TypeName": "EarthenGolem",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "EarthenGolem",
+    "Name": "大地魔像",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -335,7 +335,7 @@
   {
     "TypeName": "ElderMinotaur",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Raging Minotaur",
+    "Name": "狂暴牛头人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -343,7 +343,7 @@
   {
     "TypeName": "EpiDermon",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "EpiDermon",
+    "Name": "鲜血恶魔",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -351,7 +351,7 @@
   {
     "TypeName": "FesteringSprinter",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FesteringSprinter",
+    "Name": "腐化冲刺者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -359,7 +359,7 @@
   {
     "TypeName": "FesteringWalker",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FesteringWalker",
+    "Name": "腐化行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -375,7 +375,7 @@
   {
     "TypeName": "FleshyHornet",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FleshyHornet",
+    "Name": "鲜红马蜂",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -383,7 +383,7 @@
   {
     "TypeName": "FlyingBioMass",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FlyingBioMass",
+    "Name": "丛林之眼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -391,7 +391,7 @@
   {
     "TypeName": "Freezer",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Freezer",
+    "Name": "冰冻噬魂者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -399,7 +399,7 @@
   {
     "TypeName": "FrostWormBody",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrostWormBody",
+    "Name": "冰冻腐虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -407,7 +407,7 @@
   {
     "TypeName": "FrostWormHead",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrostWormHead",
+    "Name": "冰冻腐虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -415,7 +415,7 @@
   {
     "TypeName": "FrostWormTail",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrostWormTail",
+    "Name": "冰冻腐虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -423,7 +423,7 @@
   {
     "TypeName": "FrostyWisp",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrostyWisp",
+    "Name": "极寒幽魂",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -431,7 +431,7 @@
   {
     "TypeName": "FrozenFace",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrozenFace",
+    "Name": "冰冻巨脸怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -439,7 +439,7 @@
   {
     "TypeName": "FrozenGross",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "FrozenGross",
+    "Name": "浮冰幽魂",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -447,7 +447,7 @@
   {
     "TypeName": "GelatinousCube",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Gelatinous Cube",
+    "Name": "凝胶方块",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -455,7 +455,7 @@
   {
     "TypeName": "GildedBat",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GildedBat",
+    "Name": "黄金蝙蝠",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -463,7 +463,7 @@
   {
     "TypeName": "GildedSlime",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GildedSlime",
+    "Name": "黄金史莱姆",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -471,7 +471,7 @@
   {
     "TypeName": "GildedWorg",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GildedWorg",
+    "Name": "黄金狼人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -479,7 +479,7 @@
   {
     "TypeName": "GlitteringGolem",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GlitteringGolem",
+    "Name": "闪光魔像",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -487,7 +487,7 @@
   {
     "TypeName": "GoblinTrapper",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GoblinTrapper",
+    "Name": "哥布林陷",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -495,7 +495,7 @@
   {
     "TypeName": "GorganHead",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GorganHead",
+    "Name": "戈尔干之脑",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -503,7 +503,7 @@
   {
     "TypeName": "GorgedEye",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GorgedEye",
+    "Name": "暴食之眼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -511,7 +511,7 @@
   {
     "TypeName": "GraniteEradicator",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Granite Eradicator",
+    "Name": "花岗岩毁灭者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -519,7 +519,7 @@
   {
     "TypeName": "GraniteFusedSlime",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Granite-Fused Slime",
+    "Name": "花岗岩史莱姆",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -527,7 +527,7 @@
   {
     "TypeName": "GraniteSurge",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "GraniteSurge",
+    "Name": "花岗岩震荡者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -535,7 +535,7 @@
   {
     "TypeName": "HellBringerMimic",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "HellBringerMimic",
+    "Name": "地狱大宝箱怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -543,7 +543,7 @@
   {
     "TypeName": "HoppingSpider",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Hopping Spider",
+    "Name": "跳行蜘蛛",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -551,7 +551,7 @@
   {
     "TypeName": "HorrificCharger",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "HorrificCharger",
+    "Name": "恐怖突袭者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -559,7 +559,7 @@
   {
     "TypeName": "InfernalHound",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "InfernalHound",
+    "Name": "地狱犬",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -567,7 +567,7 @@
   {
     "TypeName": "Invader",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Invader",
+    "Name": "入侵者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -575,7 +575,7 @@
   {
     "TypeName": "LihzardMimic",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "LihzardMimic",
+    "Name": "神庙宝箱怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -583,7 +583,7 @@
   {
     "TypeName": "LihzardPotMimic1",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "LihzardPotMimic1",
+    "Name": "神庙罐子",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -591,7 +591,7 @@
   {
     "TypeName": "LihzardPotMimic2",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "LihzardPotMimic1",
+    "Name": "神庙罐子",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -599,7 +599,7 @@
   {
     "TypeName": "LivingHemorage",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "LivingHemorage",
+    "Name": "血翼史莱姆",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -607,7 +607,7 @@
   {
     "TypeName": "LostProbe",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "LostProbe",
+    "Name": "迷失探测器",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -615,7 +615,7 @@
   {
     "TypeName": "MahoganyEnt",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "MahoganyEnt",
+    "Name": "红木树人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -623,7 +623,7 @@
   {
     "TypeName": "MoltenMortar",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "MoltenMortar",
+    "Name": "狱炎炮龟",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -631,7 +631,7 @@
   {
     "TypeName": "MudMan",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "MudMan",
+    "Name": "泥人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -639,7 +639,7 @@
   {
     "TypeName": "MyceliumMimic",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "MyceliumMimic",
+    "Name": "真菌大宝箱怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -647,7 +647,7 @@
   {
     "TypeName": "NecroPot",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "NecroPot",
+    "Name": "死灵魂罐",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -655,7 +655,7 @@
   {
     "TypeName": "Nestling",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Nestling",
+    "Name": "空鸟",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -663,7 +663,7 @@
   {
     "TypeName": "Shambler",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Shambler",
+    "Name": "蹒跚者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -671,7 +671,7 @@
   {
     "TypeName": "Sludge",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Sludge",
+    "Name": "小烂泥",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -679,7 +679,7 @@
   {
     "TypeName": "SnowBall",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "SnowBall",
+    "Name": "雪球怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -687,7 +687,7 @@
   {
     "TypeName": "SnowEater",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "SnowEater",
+    "Name": "冰雪吞噬者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -695,7 +695,7 @@
   {
     "TypeName": "SolarPriest",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "SolarPriest",
+    "Name": "太阳祭司",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -703,7 +703,7 @@
   {
     "TypeName": "SoulCorrupter",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "SoulCorrupter",
+    "Name": "灵魂污染者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -711,7 +711,7 @@
   {
     "TypeName": "SpaceSlime",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Space Slime",
+    "Name": "太空史莱姆",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -719,7 +719,7 @@
   {
     "TypeName": "Spiritualist",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Spiritualist",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": [
@@ -735,7 +735,7 @@
   {
     "TypeName": "StrangeBulb",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "StrangeBulb",
+    "Name": "奇怪花苞",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -743,7 +743,7 @@
   {
     "TypeName": "TheInnocent",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "TheInnocent",
+    "Name": "污魂兔",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -751,7 +751,7 @@
   {
     "TypeName": "TheStarved",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "TheStarved",
+    "Name": "饿鬼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -759,7 +759,7 @@
   {
     "TypeName": "UFO",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "UFO",
+    "Name": "U.F.O.",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -767,7 +767,7 @@
   {
     "TypeName": "UnderworldPot1",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "UnderworldPot1",
+    "Name": "狱炎罐",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -775,7 +775,7 @@
   {
     "TypeName": "UnderworldPot2",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "UnderworldPot2",
+    "Name": "狱炎罐",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -783,7 +783,7 @@
   {
     "TypeName": "VileFloater",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "VileFloater",
+    "Name": "邪恶浮灵",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -791,7 +791,7 @@
   {
     "TypeName": "WeaponMaster",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Weapon Master",
+    "Name": "",
     "ShopButton1": "",
     "ShopButton2": "Hire (10 Gold)",
     "ChatTexts": [
@@ -809,7 +809,7 @@
   {
     "TypeName": "Whale",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "Whale",
+    "Name": "鲸鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -817,7 +817,7 @@
   {
     "TypeName": "WindElemental",
     "Namespace": "ThoriumMod.NPCs",
-    "Name": "WindElemental",
+    "Name": "风之元素",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

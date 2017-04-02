@@ -2,7 +2,7 @@
   {
     "TypeName": "BlizzardBat",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BlizzardBat",
+    "Name": "暴雪蝙蝠",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "BoreanHopper",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BoreanHopper",
+    "Name": "极地跳行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "BoreanMyte1",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BoreanMyte1",
+    "Name": "冰霜恶魔",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "BoreanSack",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BoreanSack",
+    "Name": "寒冰蛋袋",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "BoreanStrider",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BoreanStrider",
+    "Name": "极地行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -42,7 +42,7 @@
   {
     "TypeName": "BoreanStriderPopped",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "BoreanStrider",
+    "Name": "极地行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -50,7 +50,7 @@
   {
     "TypeName": "FrostBurnt",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "FrostBurnt",
+    "Name": "冰焰行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -58,7 +58,7 @@
   {
     "TypeName": "FrostBurntFlayer",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "FrostBurntFlayer",
+    "Name": "冰焰行者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -66,7 +66,7 @@
   {
     "TypeName": "SnowyOwl",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "SnowyOwl",
+    "Name": "雪鸮",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -74,7 +74,7 @@
   {
     "TypeName": "UnstableIceAnomaly",
     "Namespace": "ThoriumMod.NPCs.Blizzard",
-    "Name": "UnstableIceAnomaly",
+    "Name": "不稳雪人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

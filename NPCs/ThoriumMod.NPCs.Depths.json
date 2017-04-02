@@ -2,7 +2,7 @@
   {
     "TypeName": "AbyssalSpawn",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "AbyssalSpawn",
+    "Name": "深渊之鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "Abyssion",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "Abyssion",
+    "Name": "深渊之主",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "AbyssionCracked",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "AbyssionCrack",
+    "Name": "深渊之主",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "AbyssionReleased",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "AbyssionCrack",
+    "Name": "深渊之主",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "AquaticHallucination",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "AquaticHallucination",
+    "Name": "虚幻潜游者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -42,7 +42,7 @@
   {
     "TypeName": "Barracuda",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "Barracuda",
+    "Name": "梭鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -50,7 +50,7 @@
   {
     "TypeName": "CrownofThorns",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "CrownofThorns",
+    "Name": "铁海棠",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -58,7 +58,7 @@
   {
     "TypeName": "DepthMimic",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "DepthMimic",
+    "Name": "深渊大宝箱怪",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -66,7 +66,7 @@
   {
     "TypeName": "EelBody",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "EelBody",
+    "Name": "电鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -74,7 +74,7 @@
   {
     "TypeName": "EelHead",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "EelHead",
+    "Name": "电鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -82,7 +82,7 @@
   {
     "TypeName": "EelTail",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "EelTail",
+    "Name": "电鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -90,7 +90,7 @@
   {
     "TypeName": "FeedingFrenzy",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "FeedingFrenzy",
+    "Name": "饥饿怒鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -98,7 +98,7 @@
   {
     "TypeName": "FeedingFrenzy2",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "FeedingFrenzy",
+    "Name": "饥饿怒鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -106,7 +106,7 @@
   {
     "TypeName": "GigaClam",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "GigaClam",
+    "Name": "巨蛤",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -114,7 +114,7 @@
   {
     "TypeName": "Hammerhead",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "Hammerhead",
+    "Name": "双髻鲨",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -122,7 +122,7 @@
   {
     "TypeName": "ManofWar",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "ManofWar",
+    "Name": "僧帽水母",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -130,7 +130,7 @@
   {
     "TypeName": "MorayBody",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "MorayBody",
+    "Name": "海鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -138,7 +138,7 @@
   {
     "TypeName": "MorayHead",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "MorayHead",
+    "Name": "海鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -146,7 +146,7 @@
   {
     "TypeName": "MorayTail",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "MorayTail",
+    "Name": "海鳗",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -154,7 +154,7 @@
   {
     "TypeName": "Sharptooth",
     "Namespace": "ThoriumMod.NPCs.Depths",
-    "Name": "Sharptooth",
+    "Name": "利牙鱼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

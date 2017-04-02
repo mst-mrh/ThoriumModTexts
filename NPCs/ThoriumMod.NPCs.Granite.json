@@ -2,7 +2,7 @@
   {
     "TypeName": "EncroachingEnergy",
     "Namespace": "ThoriumMod.NPCs.Granite",
-    "Name": "EncroachingEnergy",
+    "Name": "侵入的能量",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "EnergyBarrier",
     "Namespace": "ThoriumMod.NPCs.Granite",
-    "Name": "EnergyBarrier",
+    "Name": "能量屏障",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "EnergyCanduit",
     "Namespace": "ThoriumMod.NPCs.Granite",
-    "Name": "EnergyCanduit",
+    "Name": "能量导管",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "GraniteEnergy",
     "Namespace": "ThoriumMod.NPCs.Granite",
-    "Name": "GraniteEnergy",
+    "Name": "能量团",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "GraniteEnergyStorm",
     "Namespace": "ThoriumMod.NPCs.Granite",
-    "Name": "GraniteEnergyStorm",
+    "Name": "花岗岩流能风暴",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

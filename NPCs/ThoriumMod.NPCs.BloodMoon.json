@@ -2,7 +2,7 @@
   {
     "TypeName": "Abomination",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "Abomination",
+    "Name": "憎恶",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "BloodDrop",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "BloodDrop",
+    "Name": "滴落之血",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "GraveLimb",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "GraveLimb",
+    "Name": "墓穴残肢",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "ImpaledZombie",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "ImpaledZombie",
+    "Name": "被刺穿的僵尸",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -34,7 +34,7 @@
   {
     "TypeName": "Maggot",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "Maggot",
+    "Name": "饥饿蛆虫",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -42,7 +42,7 @@
   {
     "TypeName": "NecroticImbuer",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "NecroticImbuer",
+    "Name": "死灵染魂者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -50,7 +50,7 @@
   {
     "TypeName": "PatchWerk",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "PatchWerk",
+    "Name": "缝合人",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -58,7 +58,7 @@
   {
     "TypeName": "SeveredLegs",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "SeveredLegs",
+    "Name": "恐怖断腿",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -66,7 +66,7 @@
   {
     "TypeName": "Shade",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "Shade",
+    "Name": "窒息暗影",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -74,7 +74,7 @@
   {
     "TypeName": "Warg",
     "Namespace": "ThoriumMod.NPCs.BloodMoon",
-    "Name": "Warg",
+    "Name": "恐狼",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

@@ -2,7 +2,7 @@
   {
     "TypeName": "CryoCore",
     "Namespace": "ThoriumMod.NPCs.Scouter",
-    "Name": "CryoCore",
+    "Name": "寒冰核心",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "MoltenCore",
     "Namespace": "ThoriumMod.NPCs.Scouter",
-    "Name": "MoltenCore",
+    "Name": "熔岩核心",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "PhaseCore",
     "Namespace": "ThoriumMod.NPCs.Scouter",
-    "Name": "PhaseCore",
+    "Name": "激光核心",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "ThePrimeScouter",
     "Namespace": "ThoriumMod.NPCs.Scouter",
-    "Name": "ThePrimeScouter",
+    "Name": "星际监察者",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []

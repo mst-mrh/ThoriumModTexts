@@ -2,7 +2,7 @@
   {
     "TypeName": "BuriedSpawn",
     "Namespace": "ThoriumMod.NPCs.Buried",
-    "Name": "BuriedSpawn",
+    "Name": "埋葬石像",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -10,7 +10,7 @@
   {
     "TypeName": "TheBuriedWarrior",
     "Namespace": "ThoriumMod.NPCs.Buried",
-    "Name": "BuriedHero",
+    "Name": "英灵遗骸",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -18,7 +18,7 @@
   {
     "TypeName": "TheBuriedWarrior1",
     "Namespace": "ThoriumMod.NPCs.Buried",
-    "Name": "FallenHero",
+    "Name": "英灵遗骸",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
@@ -26,7 +26,7 @@
   {
     "TypeName": "TheBuriedWarrior2",
     "Namespace": "ThoriumMod.NPCs.Buried",
-    "Name": "FallenHero",
+    "Name": "英灵遗骸",
     "ShopButton1": "",
     "ShopButton2": "",
     "ChatTexts": []
