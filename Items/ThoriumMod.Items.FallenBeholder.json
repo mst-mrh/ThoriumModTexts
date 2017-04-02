@@ -1,0 +1,127 @@
+[
+  {
+    "TypeName": "BeholderBag",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BeholderMask",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Beholder Mask",
+    "ToolTip": "'Peer into the abyss'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BeholderStaff",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Beholder Staff",
+    "ToolTip": "Summons a beholder to lay waste to your foes",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Beholders occupy 2 minion slots",
+      "Beholders will grant you sight of nearby enemies"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BeholderTrophy",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Fallen Beholder Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CarKey",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Tome of the Void Gazer's Chariot",
+    "ToolTip": "'Become the harbinger of the void'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a mountable Beholder"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonFireBlastWand",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Demon Fire Blast-Wand",
+    "ToolTip": "Rapidly fires molten explosions",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DevilPauldron",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Devil's Carapace",
+    "ToolTip": "-Soul Storage-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "'Infused with evil forces beyond your comprehension'",
+      "Life regeneration increased by 2",
+      "While worn, taking fatal damage will instead return you to 100 life",
+      "This effect will recharge every two minutes"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EyeofBeholder",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Eye of the Beholder",
+    "ToolTip": "While equipped, the eye will give vision of your cursors current position",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Obliterator",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Obliterator",
+    "ToolTip": "The fired bullet will multi-hit enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThermogenicImpaler",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Thermogenic Impaler",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Left Click - Swings the blade, igniting hit enemies",
+      "Right Click - Thrusts the blade, singing hit enemies"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VoidLens",
+    "Namespace": "ThoriumMod.Items.FallenBeholder",
+    "Name": "Void Lens",
+    "ToolTip": "Summons an entity from another dimension",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only usable within the underworld"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

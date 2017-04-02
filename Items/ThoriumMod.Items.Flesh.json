@@ -1,0 +1,210 @@
+[
+  {
+    "TypeName": "BloodBelcher",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Blood Belcher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshAxe",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshBody",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Body",
+    "ToolTip": "'Symbiotically attached to your body'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "5% increased damage",
+      "Increases life regeneration by 2"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshBow",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshChainSaw",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshDrill",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshHammer",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshJackHammer",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshLegs",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Legs",
+    "ToolTip": "'Symbiotically attached to your body'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshMace",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Mace",
+    "ToolTip": "Attacks might steal life, but nullify life regeneration for a moment",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshMask",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Mask",
+    "ToolTip": "'Symbiotically attached to your body'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshPickAxe",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshSkewer",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Skewer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks might steal life, but nullify life regeneration for a moment"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshWings",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Flesh Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreatFlesh",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Suitable Flesh",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HungerStaff",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Blood Clot Staff",
+    "ToolTip": "Sends out a flesh bolt that splashes into blood droplets",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The resulting blood droplets might steal life, but will nullify life regeneration for a moment"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ToothOfTheConsumer",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Tooth of The Consumer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks might steal life, but nullify life regeneration for a moment",
+      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UnfathomableFlesh",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Unfathomable Flesh",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It writhes and wiggles, attempting to latch onto you'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VienBuster",
+    "Namespace": "ThoriumMod.Items.Flesh",
+    "Name": "Vein Buster",
+    "ToolTip": "Functions as a bullet",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Shots will rarely steal life, but nullify life regeneration for a moment"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

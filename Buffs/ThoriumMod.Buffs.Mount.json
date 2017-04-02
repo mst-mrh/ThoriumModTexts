@@ -1,0 +1,50 @@
+[
+  {
+    "TypeName": "CarMount",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Void Chariot",
+    "Tip": "Who knew it was tameable?"
+  },
+  {
+    "TypeName": "EnemyCrabBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Enemy Crab",
+    "Tip": "Aquatic dwellers beware!"
+  },
+  {
+    "TypeName": "InfernalHoundBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Infernal Hound",
+    "Tip": "Run with the fury of Hell!"
+  },
+  {
+    "TypeName": "RagMountBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Apocalypse",
+    "Tip": "You bring the end of the world..."
+  },
+  {
+    "TypeName": "StarvedMountBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Starving Beast",
+    "Tip": "This beast slobbers in endless hunger"
+  },
+  {
+    "TypeName": "WargMountBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Battle Warg",
+    "Tip": "Charge into battle upon your ebony warg!"
+  },
+  {
+    "TypeName": "WhaleMountBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "The Whale",
+    "Tip": "Was it really worth it?"
+  },
+  {
+    "TypeName": "WyvernMountBuff",
+    "Namespace": "ThoriumMod.Buffs.Mount",
+    "Name": "Wyvern",
+    "Tip": "Feel the wind in your hair!"
+  }
+]

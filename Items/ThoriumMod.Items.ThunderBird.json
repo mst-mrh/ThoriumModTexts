@@ -1,0 +1,99 @@
+[
+  {
+    "TypeName": "BirdMask",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Bird Mask",
+    "ToolTip": "'Imitate the fury of the storm!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HatchlingStaff",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Hatchling Staff",
+    "ToolTip": "Summons a hatchling to zap your foes into dust",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StormFlare",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Storm Flare",
+    "ToolTip": "When used with the grand flare gun, something might happen",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StrongFlareGun",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Grand Flare Gun",
+    "ToolTip": "'Aim to the skies!",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Requires 'Storm Flares' to function",
+      "Summons the Grand Thunder Bird, but only during the day"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TalonBurst",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Talon Burst",
+    "ToolTip": "'Fabricated from feathers and lightning'",
+    "ToolTip2": "Storm Bolts fly incredibly fast and can hit the same target twice",
+    "AddToolTip": [
+      "Turns wooden arrows into 'Storm Bolts'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThunderBirdBag",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThunderBirdTrophy",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Thunder Bird Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThunderTalon",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Thunder Talon",
+    "ToolTip": "Has a chance to release a spark of electricity on swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Zephyr",
+    "Namespace": "ThoriumMod.Items.ThunderBird",
+    "Name": "Zephyr",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

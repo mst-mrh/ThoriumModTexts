@@ -1,0 +1,162 @@
+[
+  {
+    "TypeName": "AbyssalSpawn",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "AbyssalSpawn",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Abyssion",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "Abyssion",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AbyssionCracked",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "AbyssionCrack",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AbyssionReleased",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "AbyssionCrack",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AquaticHallucination",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "AquaticHallucination",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Barracuda",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "Barracuda",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CrownofThorns",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "CrownofThorns",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DepthMimic",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "DepthMimic",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EelBody",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "EelBody",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EelHead",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "EelHead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EelTail",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "EelTail",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FeedingFrenzy",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "FeedingFrenzy",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FeedingFrenzy2",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "FeedingFrenzy",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GigaClam",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "GigaClam",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Hammerhead",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "Hammerhead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ManofWar",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "ManofWar",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MorayBody",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "MorayBody",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MorayHead",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "MorayHead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MorayTail",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "MorayTail",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Sharptooth",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Name": "Sharptooth",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

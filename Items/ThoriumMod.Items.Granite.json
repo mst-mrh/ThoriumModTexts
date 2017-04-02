@@ -1,0 +1,112 @@
+[
+  {
+    "TypeName": "GraniteChestGuard",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Chestguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Defensively energized'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteCrossbow",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Crossbow",
+    "ToolTip": "Turns wooden arrows into 'Granite Arrows'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Granite Arrows might overflow the enemy with energy, causing damage and lowering defense"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteEnergyCore",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Energy Core",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'This strange, rune etched core gave the minerals sentience'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteGreaves",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Defensively energized'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteHamaxe",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteHelmet",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Defensively energized'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GranitePickAxe",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteReflector",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Reflector",
+    "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteSaber",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Saber",
+    "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteThrowingAxe",
+    "Namespace": "ThoriumMod.Items.Granite",
+    "Name": "Granite Throwing Axe",
+    "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

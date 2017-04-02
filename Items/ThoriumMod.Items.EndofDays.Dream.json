@@ -1,0 +1,127 @@
+[
+  {
+    "TypeName": "DreamCatcher",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Dream Catcher",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Summons a dream catcher at the cursor's location",
+      "Staying within the dream catcher will completely heal you if you take fatal damage",
+      "Only one dream catcher can exist at once"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreamWeaversHelmet",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Dream Weaver's Helmet",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Corrupts your radiant powers",
+      "45% decreased non-radiant damage",
+      "45% increased radiant damage",
+      "16% increased radiant critical strike chance",
+      "Maximum mana increased by 20"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreamWeaversHood",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Dream Weaver's Hood",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "25% decreased non-radiant damage",
+      "35% decreased mana cost",
+      "Massively increased mana regeneration",
+      "Maximum mana increased by 60",
+      "Healing spells will heal an additional 3 life"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreamWeaversTabard",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Dream Weaver's Tabard",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "25% decreased non-radiant damage",
+      "25% increased radiant damage",
+      "20% decreased mana cost",
+      "Massively increased mana regeneration",
+      "Healing spells will heal an additional 1 life"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreamWeaversTreads",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Dream Weaver's Treads",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "20% decreased non-radiant damage",
+      "20% increased radiant damage",
+      "20% decreased mana cost",
+      "Massively increased mana regeneration",
+      "Healing spells will heal an additional 1 life",
+      "20% increased movement speed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Lucidity",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Lucidity",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Releases a crescent tear in reality"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "RealitySlasher",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Reality Slasher",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Rapidly spins a reality slicing scythe all around you",
+      "Nearby enemies are rapidly torn from reality"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "UnboundFantasy",
+    "Namespace": "ThoriumMod.Items.EndofDays.Dream",
+    "Name": "Unbound Fantasy",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Heals ally life by 5% of their maximum life per empower level",
+      "Channels a growing globule of unexplainable energy",
+      "While channelling, the orb will empower itself every 2 seconds",
+      "The orb can empower itself a maximum of three times"
+    ],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "TypeName": "BioFeederBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Bio-Feeder",
+    "Tip": "What a strange little creature..."
+  },
+  {
+    "TypeName": "BlisterBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Flying Blister",
+    "Tip": "It wont leave you alone!"
+  },
+  {
+    "TypeName": "DrachmaBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Curious Coinling",
+    "Tip": "Drachmas don't have much use nowadays..."
+  },
+  {
+    "TypeName": "Identified",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Identified",
+    "Tip": "I guess its not a U.F.O anymore...?"
+  },
+  {
+    "TypeName": "JellyPet",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Jellyfish in a Bubble",
+    "Tip": "Look at it flying around!"
+  },
+  {
+    "TypeName": "LilMogBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Lil' Mog",
+    "Tip": "He's a cute little guy, aint he?"
+  },
+  {
+    "TypeName": "MaidBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Lil' Maid",
+    "Tip": "There really isn't much to clean..."
+  },
+  {
+    "TypeName": "OmegaBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Omega Core",
+    "Tip": "Vaporizing Matrix : Online"
+  },
+  {
+    "TypeName": "PinkSlimeBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Pink Slime",
+    "Tip": "It's so pretty!"
+  },
+  {
+    "TypeName": "ShineDust",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Glitter Fiend",
+    "Tip": "It's kinda cute..."
+  },
+  {
+    "TypeName": "SnowyOwlBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Lost Snowy Owl",
+    "Tip": "Looks like someone isn't getting their mail..."
+  },
+  {
+    "TypeName": "SupportLanternBuff",
+    "Namespace": "ThoriumMod.Buffs.Pet",
+    "Name": "Inspiring Lantern",
+    "Tip": "It's constantly emanating a comforting aura"
+  }
+]

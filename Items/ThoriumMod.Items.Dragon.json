@@ -1,0 +1,194 @@
+[
+  {
+    "TypeName": "DragonBreastplate",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Breastplate",
+    "ToolTip": "'Made from mythical scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "8% increased non-melee damage",
+      "10% increased melee damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonChainsaw",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonDrill",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonGreaves",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Greaves",
+    "ToolTip": "'Made from mythical scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonMask",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Mask",
+    "ToolTip": "'Made from mythical scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "7% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsAxe",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsBreath",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Breath",
+    "ToolTip": "Unleash a torrent of dragon's breath upon your foes",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The breath will burn the hit enemy with green fire"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsCanine",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Canine",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will burn the hit enemy with green fire briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsGaze",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Gaze",
+    "ToolTip": "Turns musket balls into 'Dragon Eyes'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Dragon Eyes will burn the hit enemy with green fire"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsHammer",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsMallet",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonsPickAxe",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonTalon",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Talon",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will burn the hit enemy with green fire"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonTalonNecklace",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Talon Necklace",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases armor penetration by 15"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonTooth",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon's Tooth",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will burn the hit enemy with green fire",
+      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonWings",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Dragon Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreenDragonScale",
+    "Namespace": "ThoriumMod.Items.Dragon",
+    "Name": "Green Dragon Scale",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Just a fragment of an ancient dragon's power'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

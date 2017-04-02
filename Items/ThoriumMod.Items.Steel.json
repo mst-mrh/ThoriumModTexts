@@ -1,0 +1,241 @@
+[
+  {
+    "TypeName": "DurasteelArrow",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Arrow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelBlade",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Blade",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelChainsaw",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelChestplate",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'",
+      "8% increased damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelDrill",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelGreaves",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'",
+      "8% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelHelmet",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'",
+      "5% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelJackhammer",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelJavelin",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Javelin",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DurasteelRepeater",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Durasteel Repeater",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Masterfully forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelArrow",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Arrow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelAxe",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelBattleAxe",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Battleaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelBlade",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Blade",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelBow",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelChestplate",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelGreaves",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelHelmet",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelMallet",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SteelPickaxe",
+    "Namespace": "ThoriumMod.Items.Steel",
+    "Name": "Steel Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Expertly forged by the Blacksmith'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

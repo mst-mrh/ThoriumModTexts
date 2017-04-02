@@ -1,0 +1,82 @@
+[
+  {
+    "TypeName": "BlizzardBat",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BlizzardBat",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoreanHopper",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BoreanHopper",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoreanMyte1",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BoreanMyte1",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoreanSack",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BoreanSack",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoreanStrider",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BoreanStrider",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoreanStriderPopped",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "BoreanStrider",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostBurnt",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "FrostBurnt",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostBurntFlayer",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "FrostBurntFlayer",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SnowyOwl",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "SnowyOwl",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "UnstableIceAnomaly",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Name": "UnstableIceAnomaly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

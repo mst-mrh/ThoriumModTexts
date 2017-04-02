@@ -1,0 +1,434 @@
+[
+  {
+    "TypeName": "Aerial",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Aerial",
+    "ToolTip": "Releases damaging feathers when nearby enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ArcaneArmorFabricator",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Arcane Armor Fabricator",
+    "ToolTip": "Allows you to craft unique weapons and armor",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AvianCartilage",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Avian Cartilage",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Incredibly aerodynamic'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BloomingBlade",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Blooming Blade",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BulbChestplate",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Bulb Chestpiece",
+    "ToolTip": "",
+    "ToolTip2": "10% increased casting speed",
+    "AddToolTip": [
+      "Maximum life increased by 10"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BulbHood",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Bulb Hood",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum life increased by 5",
+      "Maximum mana increased by 10",
+      "4% increased magic damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BulbLeggings",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Bulb Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum life increased by 5",
+      "Maximum mana increased by 10",
+      "4% increased magic damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDagger",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Dagger",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDaikatana",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Daikatana",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDevestator",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Devastator",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDoomerang",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Doomerang",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Two may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDrill",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerDuelShot",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Dual-shot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerGreaves",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Greaves",
+    "ToolTip": "'Let's get dangerous...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerHelmet",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Helmet",
+    "ToolTip": "'Let's get dangerous...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Taking damage increases melee abilities briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerMail",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Mail",
+    "ToolTip": "'Let's get dangerous...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "8% increased melee speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DangerShard",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Danger Shard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Holds anti-magical properties'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeatherArrow",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Feather Arrow",
+    "ToolTip": "Drifts in a straight line, ignoring gravity",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeatherBarrierRod",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Feather Barrier Rod",
+    "ToolTip": "Surrounds you in a short lived barrier of feathers",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeatherFoe",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Feather Foe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FlightBoots",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Flight Boots",
+    "ToolTip": "'The sky is your playing field'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FlightMail",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Flight Mail",
+    "ToolTip": "'The sky is your playing field'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "You suffer no fall damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FlightMask",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Flight Hat",
+    "ToolTip": "'The sky is your playing field'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases jump height"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FlightWings",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Flight Wings",
+    "ToolTip": "Allows minor flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoblinWarshield",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Goblin War Shield",
+    "ToolTip": "While standing still, defense is increased by 4 and you are immune to enemy knockback",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoblinWarSpear",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Goblin War Spear",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Has a chance to gouge the hit enemy, causing additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarpyPelter",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Harpy Pelter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarpyTalon",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Harpy Talon",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Petal",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Petal",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Has a surprisingly sweet aroma'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PetalBloom",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Petal Bloom",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PetalShield",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Petal Shield",
+    "ToolTip": "Defense increased by 3",
+    "ToolTip2": "While not taking damage, life regeneration will increase up to 3",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PetalWand",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Petal Wand",
+    "ToolTip": "Shoots a volley of quick petals",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ShadowflameWand",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Shadowflame Wand",
+    "ToolTip": "Shoots a slow moving orb of shadowflame magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewGun",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew-Handled Flintlock",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewWood",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew Wood",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'This strange wood comes from a far away land'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewWoodaHelmet",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew-Wood Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "4% increased ranged damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewWoodBow",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew-Wood Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewWoodBreastgaurd",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew-Wood Breastguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% increased ranged damage",
+      "15% increased firing speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YewWoodLeggings",
+    "Namespace": "ThoriumMod.Items.ArcaneArmor",
+    "Name": "Yew-Wood Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% increased ranged damage",
+      "5% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

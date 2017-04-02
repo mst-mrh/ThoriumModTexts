@@ -1,0 +1,322 @@
+[
+  {
+    "TypeName": "DarksteelHelmetStand",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Darksteel Helmet Stand",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagicJungleBag",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Magical Jungle Bag",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Places jungle seeds at the cost of mana"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineCandle",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Candle",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineChair",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Chair",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineChandelier",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Chandelier",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineDoor",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Door",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineLamp",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Lamp",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineLantern",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Lantern",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineTable",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Table",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineWorkbench",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Marine Workbench",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Used for basic crafting"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MushroomBag",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Magical Mushroom Bag",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Places mushroom seeds at the cost of mana"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RefinedMarineBlock",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Refined Marine Block",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RefinedMarineWall",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Refined Marine Wall",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ScaleBlock",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Aquaite Scale Block",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeaScaleWall",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Aquaite Scale Wall",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SoulForge",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Soul Forge",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Used to craft more complicated equipment'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBlockWall",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Block Wall",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBookcase",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Bookcase",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBrick",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Block",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumCandelabraItem",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Candelabra",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumCandle",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Candle",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumChair",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Chair",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumChalice",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Chalice",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumChandelier",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Chandelier",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumDoor",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Door",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumLamp",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Lamp",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumLantern",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Lantern",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumPlatform",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Block Platform",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumSink",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Sink",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumTable",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Table",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumWorkbench",
+    "Namespace": "ThoriumMod.Items.Placeable",
+    "Name": "Thorium Workbench",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Used for basic crafting"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

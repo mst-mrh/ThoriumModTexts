@@ -1,0 +1,112 @@
+[
+  {
+    "TypeName": "AncientBlade",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Ancient Blade",
+    "ToolTip": "Summons a hero from an ancient time",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only usable deep underground"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionBlade",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Swift Blade",
+    "ToolTip": "Releases a large wind slice on swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionBomberStaff",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Bomber Staff",
+    "ToolTip": "Killing an enemy grants you 30 mana",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionHelmet",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionsBarrier",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Rebuttal",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Defense increased by 2",
+      "The damage you take is stored into your next attack",
+      "The bonus damage is stored until it is expended",
+      "This can reach a maximum limit of 300 bonus damage"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionsGodHand",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's God Hand",
+    "ToolTip": "Throws paralyzing lightning strikes",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " throwing damage"
+    ]
+  },
+  {
+    "TypeName": "ChampionTrophy",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Buried Champion Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChampionWing",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Wing",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HeroBag",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HeroTripleBow",
+    "Namespace": "ThoriumMod.Items.Hero",
+    "Name": "Champion's Trifecta-Shot",
+    "ToolTip": "Your arrows fluctuate between different elements",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

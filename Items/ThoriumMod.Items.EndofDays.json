@@ -1,0 +1,101 @@
+[
+  {
+    "TypeName": "AquaMask",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Mask of Tides",
+    "ToolTip": "'Wear a visage of Vigilance...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DormantHammer",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Dormant Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'There appears to be an empty socket in the middle of the hammer's head...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Mjölnir",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Mjölnir",
+    "ToolTip": "Rapidly throws an image of the legendary Mjölnir",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Hitting an enemy causes a storm of energized chain lightning"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " true damage"
+    ]
+  },
+  {
+    "TypeName": "OmniMask",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Mask of Death",
+    "ToolTip": "'Wear a visage of Chaos...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RagBag",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RagSymbol",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Doom Sayer's Coin",
+    "ToolTip": "Unleashes the Ragnarök...",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RagTrophy",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Ragnarok Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Rune",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Otherworldly Rune",
+    "ToolTip": "'Unintelligible voices echo Zerath! Milogop! Tz'rok!'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons an apocalyptic chariot"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SlagMask",
+    "Namespace": "ThoriumMod.Items.EndofDays",
+    "Name": "Mask of Flame",
+    "ToolTip": "'Wear a visage of Aggression...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

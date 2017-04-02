@@ -1,0 +1,296 @@
+[
+  {
+    "TypeName": "BandofReplenishment",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Band of Replenishment",
+    "ToolTip": "Increased Health and Mana regeneration",
+    "ToolTip2": "Taking more than three damage will replenish some Health and Mana",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ConcentratedThorium",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Concentrated Thorium",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Far more powerful than a simple bar'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Crietz",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Crietz",
+    "ToolTip": "5% Increased critical strike chance",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnforcedThoriumPax",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Enforced Thorium Pax",
+    "ToolTip": "Can mine hellstone",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagicThorHammer",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thor's Hammer: Magic",
+    "ToolTip": "Right clicking will activate Melee Mode",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MeleeThorHammer",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thor's Hammer: Melee",
+    "ToolTip": "Right clicking will activate Ranged Mode",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MiningCharm",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Mining Charm",
+    "ToolTip": "10% Increased pickaxe mining speed",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PulseLure",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Pulse Lure",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Fish love a good pulse'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Purify",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Spell Book: Purify",
+    "ToolTip": "'Purifies corruption and crimson blocks'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RangedThorHammer",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thor's Hammer: Ranged",
+    "ToolTip": "Right clicking will activate Magic Mode",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StrangeCrate",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Strange Crate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Right click to open"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumAnvil",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Anvil",
+    "ToolTip": "Allows you to craft Thorium items",
+    "ToolTip2": "Operates like a regular Anvil",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBag",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Bag of Potential",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'What could be inside?'",
+      "Can be used at the Extractinator"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBar",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Bar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It pulses with energy'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBlade",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Blade",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBoomerang",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Boomerang",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumBow",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumDagger",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Dagger",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumGreaves",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It pulses with energy'"
+    ],
+    "AddToolTip2": [
+      "5% increased movement speed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumHelmet",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Helmet",
+    "ToolTip": "'It pulses with energy'",
+    "ToolTip2": "4% increased critical strike chance",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumMail",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Mail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It pulses with energy'"
+    ],
+    "AddToolTip2": [
+      "Damage taken is reduced by 5%"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumOre",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Ore",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'This is truly an unnatural ore'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumPax",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Pax",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumRevolver",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Revolver",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumShield",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Shield",
+    "ToolTip": "-Metallurgy Shield-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Defense increased by 3",
+      "Maximum life increased by 15"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumSpear",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Spear",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumStaff",
+    "Namespace": "ThoriumMod.Items.Thorium",
+    "Name": "Thorium Staff",
+    "ToolTip": "Fires out a bolt of magic, that will send out additional sparks at nearby enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

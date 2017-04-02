@@ -1,0 +1,825 @@
+[
+  {
+    "TypeName": "AncientArcher",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "AncientArcher",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AncientCharger",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "AncientCharger",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AncientPhalanx",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "AncientPhalanx",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ArmyAnt",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Army Ant",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AstroBeetle",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "AstroBeetle",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Biter",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Biter",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Blacksmith",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Blacksmith",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": [
+      "The short one, ",
+      " gives me an ample supply of ore. I wonder where he gets it...",
+      "That old con man, ",
+      ", keeps trying to sell me trashy tools. As if I couldn't make my own!",
+      "Even a broken clock is right every week! or was it a day...?",
+      "Always strike while the iron is hot! Don't let a good opportunity pass you by...",
+      "You wont find a better blacksmith in all of Terraria. What's that, you're a smith too? Oh...",
+      "I'm always trying to make the perfect armor. Perhaps you can help me out?"
+    ]
+  },
+  {
+    "TypeName": "Blister",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Blister",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BlisterPod",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "BlisterPod",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BloomingHornet",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "BloomingHornet",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BloomMahoganyEnt",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "MahoganyEnt",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BoneFlayer",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "BoneFlayer",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ChilledCannon",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "ChilledCannon",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ChilledSpitter",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "ChilledSpitter",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Clot",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Clot",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Cobbler",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Cobbler",
+    "ShopButton1": "",
+    "ShopButton2": "Shine Shoes",
+    "ChatTexts": [
+      "That poor girl, ",
+      ", needs to wear some more clothes!",
+      "I wish ",
+      " would make some better decisions. You only have one life!",
+      "Ah, so ",
+      " has been giving you advise this whole time...? I wonder if he still hasn't forgiven himself for what happened...",
+      "In my younger years, I myself was a hero. My allies and I faced a trio of entities I shudder to remember. We lost someone special that day... Ah, but worry not friend, we were able to seal them away. Only the defeat of something cataclysmic could possibly bring them back!",
+      "Worry not young hero. While the journey may be tough, I have full confidence in your ability!",
+      "You can learn a lot by walking a mile in someone else's boots. If only some of these townsfolk would walk a mile in yours, then they could understand...",
+      "How are you doing young one? Are you staying safe out there in the wilds?"
+    ]
+  },
+  {
+    "TypeName": "CoinBagCopper",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CoinBagCopper",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CoinBagGold",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CoinBagGold",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CoinBagSilver",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CoinBagSilver",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Coldling",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Coldling",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ConfusedZombie",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Confused Zombie",
+    "ShopButton1": "",
+    "ShopButton2": "Enemy Repellent (2 Gold)",
+    "ChatTexts": [
+      "I bet ",
+      " has a big juicy brain... Not that I would wanna... uh... Did you need something?",
+      "'s brain would surely taste like candy... Oh uh, hello there!",
+      "I cant remember much about my past life... Chemicals and the like were my passion I think; I only get fragments and pieces of the truth. Its saddening at times...",
+      "Why am I not like the others...? Oh, I'm sorry, did you need something friend?",
+      "Most people don't have the stomach to handle the things I sell. The trick is to not have a stomach at all!",
+      "I gotta thank you for letting me stick around. Only coming out at night is pretty boring..."
+    ]
+  },
+  {
+    "TypeName": "Cook",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Cook",
+    "ShopButton1": "Shop",
+    "ShopButton2": "Supply Ingredients",
+    "ChatTexts": [
+      "That kid ",
+      " is so stingy with his fish. He has a million of them and he cant spare a single one for some fish fillet?",
+      "Cooking for ",
+      " is no easy task. She simply refuses to eat any form of meat!",
+      "The last time ",
+      " asked me to cook for him, he requested bugs! This truly is a strange place...",
+      "I've got a lot of orders from the other towns folk right now, make it quick!",
+      "How did any of you survive before I arrived? What could you have possibly been eating, dirt?",
+      "I'm stuck with dull knives while you wield weapons of unimaginable power? Give me a break...",
+      "No one should go adventuring on an empty stomach. Eat well hero!",
+      "Supply me with the proper ingredients, and I can make some truly powerful foods for you, hero!"
+    ]
+  },
+  {
+    "TypeName": "Coolmera",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Coolmera",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CrimipedeBody",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CrimipedeBody",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CrimipedeHead",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CrimipedeHead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CrimipedeTail",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "CrimipedeTail",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DarksteelKnight",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Darksteel Knight",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DesertTraveler",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Desert Acolyte",
+    "ShopButton1": "",
+    "ShopButton2": "Sandstorm (1 Gold)",
+    "ChatTexts": [
+      " was interested in dying my attire, but his choice of plant dye was 'strange' to say the least.",
+      "Look at ",
+      " over there! He's got an entire arsenal of guns, is that really safe?",
+      "We certainly have some strange people around this town, don't we...?",
+      "You didn't see any giant bird shadows while you were out in the desert, did you?",
+      "I had originally stopped just to refill my canteen, but you seem like someone who can deal with a real threat!",
+      "I have seen so much evil in my travels... I only hope someone can put a stop to them!"
+    ]
+  },
+  {
+    "TypeName": "Diverman",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Diverman",
+    "ShopButton1": "",
+    "ShopButton2": "Air Tank",
+    "ChatTexts": [
+      "Visiting that sea rift again wasn't my best idea... That mutant jellyfish almost ate me whole!",
+      "Yuck... That vile creature almost got away with eating me! Thank you for saving me, hero.",
+      "You wouldn't believe it, but ",
+      " and me go way back. He wasn't always a salt water scourge yunno'.",
+      "That little twerp, ",
+      ", thinks he knows so much about the sea...",
+      "Have you adventured into the aquatic depths yet...? It's choking atmosphere prevents most explorers from entering, but I'm confident you'll find a way around it...",
+      "I've collected many marine items in my travels, hero. Would you like to purchase one?",
+      "Being at the bottom of the ocean for long periods of time has taught me one thing. Always come prepared!",
+      "You ever try to drink a bottle of water, while drowning, to save yourself? I know I have!"
+    ]
+  },
+  {
+    "TypeName": "DragonHornet",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "DragonHornet",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Druid",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Druid",
+    "ShopButton1": "Shop",
+    "ShopButton2": "Free Herbs",
+    "ChatTexts": [
+      "Ever since I was a child, I've always wanted to meet a dryad. What luck it is to find ",
+      " here!",
+      "Our friend there, ",
+      ", is rather strange isn't he? He speaks in riddles...",
+      "Why don't you go fetch those plants yourself you lazy, good for nothing-",
+      "Getting these plants is a bigger hassle than you would think. Nearly drowning, almost melting, freezing to- You get the idea.",
+      "I cant remember when my skin started turning green, but I think it was around the time I fell into the underground jungle...",
+      "Do you ever feel guilty out there, destroying and killing the natural world to better suit your needs? I didn't think so...",
+      "I'm actually a carnivore, why would I eat that which I love and appreciate? That would just be silly!"
+    ]
+  },
+  {
+    "TypeName": "EarthenBat",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "EarthenBat",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EarthenGolem",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "EarthenGolem",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ElderMinotaur",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Raging Minotaur",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EpiDermon",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "EpiDermon",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FesteringSprinter",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FesteringSprinter",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FesteringWalker",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FesteringWalker",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Fish",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FleshyHornet",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FleshyHornet",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FlyingBioMass",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FlyingBioMass",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Freezer",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Freezer",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostWormBody",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrostWormBody",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostWormHead",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrostWormHead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostWormTail",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrostWormTail",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrostyWisp",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrostyWisp",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrozenFace",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrozenFace",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "FrozenGross",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "FrozenGross",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GelatinousCube",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Gelatinous Cube",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GildedBat",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GildedBat",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GildedSlime",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GildedSlime",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GildedWorg",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GildedWorg",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GlitteringGolem",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GlitteringGolem",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GoblinTrapper",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GoblinTrapper",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GorganHead",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GorganHead",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GorgedEye",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GorgedEye",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraniteEradicator",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Granite Eradicator",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraniteFusedSlime",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Granite-Fused Slime",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraniteSurge",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "GraniteSurge",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "HellBringerMimic",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "HellBringerMimic",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "HoppingSpider",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Hopping Spider",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "HorrificCharger",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "HorrificCharger",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "InfernalHound",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "InfernalHound",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Invader",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Invader",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LihzardMimic",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "LihzardMimic",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LihzardPotMimic1",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "LihzardPotMimic1",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LihzardPotMimic2",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "LihzardPotMimic1",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LivingHemorage",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "LivingHemorage",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LostProbe",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "LostProbe",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MahoganyEnt",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "MahoganyEnt",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MoltenMortar",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "MoltenMortar",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MudMan",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "MudMan",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MyceliumMimic",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "MyceliumMimic",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "NecroPot",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "NecroPot",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Nestling",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Nestling",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Shambler",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Shambler",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Sludge",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Sludge",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SnowBall",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "SnowBall",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SnowEater",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "SnowEater",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SolarPriest",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "SolarPriest",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SoulCorrupter",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "SoulCorrupter",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SpaceSlime",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Space Slime",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Spiritualist",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Spiritualist",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": [
+      "Is- Is that my cross? How in the world did you manage to find it? Its been lost for so long...",
+      " often comes to me in private to discuss things that are bothering him. Such a young age to be in his position...",
+      " and I spent all of last night discussing philosophy. That one has a wise head on his shoulders.",
+      "Ah, It's been a while friend. It is good to see you are well after so long!",
+      "Not all who wander are lost, remember this friend...",
+      "Energy, Chi, Spirit... It's all the same to me. There is power in all things.",
+      "I have no doubt of your physical power, hero. But sometimes hardship is fought in a battle of will, not strength."
+    ]
+  },
+  {
+    "TypeName": "StrangeBulb",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "StrangeBulb",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheInnocent",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "TheInnocent",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheStarved",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "TheStarved",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "UFO",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "UFO",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "UnderworldPot1",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "UnderworldPot1",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "UnderworldPot2",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "UnderworldPot2",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "VileFloater",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "VileFloater",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "WeaponMaster",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Weapon Master",
+    "ShopButton1": "",
+    "ShopButton2": "Hire (10 Gold)",
+    "ChatTexts": [
+      "That man over there, ",
+      ", keeps giving me dirty looks...",
+      "I see we have another demon within our ranks. What was his name again? ",
+      "?",
+      "Long ago, when this world was first taking form, my race rained supreme. That time has passed it seems...",
+      "I'm not one for idle chatter. If you have need of me, make it quick.",
+      "My races obsession with voo-doo dolls has only become rampant just recently. It's truly a fad gone wrong...",
+      "Should you have the coin, I would be willing to accompany you in your endeavours...",
+      "A warrior without his weapon stands no chance against the ever-powering threats he must face..."
+    ]
+  },
+  {
+    "TypeName": "Whale",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "Whale",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "WindElemental",
+    "Namespace": "ThoriumMod.NPCs",
+    "Name": "WindElemental",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

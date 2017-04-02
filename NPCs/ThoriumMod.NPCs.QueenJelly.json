@@ -1,0 +1,42 @@
+[
+  {
+    "TypeName": "DistractJelly",
+    "Namespace": "ThoriumMod.NPCs.QueenJelly",
+    "Name": "DistractJelly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "QueenJelly",
+    "Namespace": "ThoriumMod.NPCs.QueenJelly",
+    "Name": "QueenJelly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "QueenJellyDiverless",
+    "Namespace": "ThoriumMod.NPCs.QueenJelly",
+    "Name": "QueenJelly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SpittingJelly",
+    "Namespace": "ThoriumMod.NPCs.QueenJelly",
+    "Name": "SpittingJelly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ZealousJelly",
+    "Namespace": "ThoriumMod.NPCs.QueenJelly",
+    "Name": "ZealousJelly",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

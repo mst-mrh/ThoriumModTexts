@@ -1,0 +1,244 @@
+[
+  {
+    "TypeName": "AdamantiteCarbine",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Adamantite Carbine",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Buckshot",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Buckshot",
+    "ToolTip": "Functions as a bullet",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CinderString",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Cinder String",
+    "ToolTip": "Turns wooden arrows into a blast of flames",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CobaltPopper",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Cobalt Popper",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CometCrossfire",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Comet Crossfire",
+    "ToolTip": "The bow itself can critically strike, unleashing a powerful arrow",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EternalNight",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Eternal Night",
+    "ToolTip": "Does not require ammunition",
+    "ToolTip2": "Shoots night arrows, which eats away at enemies it hits",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrassStringBow",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Bramble Shot",
+    "ToolTip": "Turns wooden arrows into 'Verdant Arrows'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Verdant Arrows have a chance to poison the hit enemy"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Hemorrhage",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Hemorrhage",
+    "ToolTip": "Does not require ammunition",
+    "ToolTip2": "Shoots blood arrows, which heal you when they impact an enemy",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MyceliumGattlingPulser",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Mycelium Gattling Gun",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MythrilPelter",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Mythril Pelter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OrichPelter",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Orichalcum Pelter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PalladiumSub",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Palladium Sub-machine Gun",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PhaseLauncher",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Burst Launcher",
+    "ToolTip": "Shoots an additional multi-hit rocket",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RailGun",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Rail Gun",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Killing enemies has a chance to set your gun into overdrive",
+      "15% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Slugger",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Slugger",
+    "ToolTip": "Unleashes a burst of bullets",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Has an incredibly high recoil, which sends you backwards"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StreamSting",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Stream Sting",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerraBow",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Terra Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitaniumRifle",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Titanium Rifle",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Trigun",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "Trigun",
+    "ToolTip": "'Unleash the stampede'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Shoots in three round bursts",
+      "25% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueEternalNight",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "True Eternal Night",
+    "ToolTip": "Shoots a burst of arrows, with the central one being a night arrow",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueHallowedRepeater",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "True Hallowed Repeater",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueHemmorage",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "True Hemorrhage",
+    "ToolTip": "Shoots a burst of arrows, with the central one being a blood arrow",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Zapper",
+    "Namespace": "ThoriumMod.Items.RangedItems",
+    "Name": "The Zapper",
+    "ToolTip": "Shoots a short ranged pulse of lightning that can pierce infinitely",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "TypeName": "Hatchling",
+    "Namespace": "ThoriumMod.NPCs.Thunder",
+    "Name": "Hatchling",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheGrandThunderBird",
+    "Namespace": "ThoriumMod.NPCs.Thunder",
+    "Name": "TheGrandThunderBird",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "TypeName": "CrystalineCharm",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Crystalline Charm",
+    "ToolTip": "15% Increased pickaxe mining speed",
+    "ToolTip2": "Pickaxes and Drills will have 1 additional range",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CrystalPhaser",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Crystal Phaser",
+    "ToolTip": "Shoots out a reflecting, piercing crystal shard",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DazzleArrow",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Dazzle Arrow",
+    "ToolTip": "Might confuse the hit target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Geode",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The jagged shards hold an unknown power'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeAxe",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeBoomerang",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Boomerang",
+    "ToolTip": "Attacks might confuse the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeChestplate",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Made from the most luxurious materials'",
+      "25% increased mining speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeGreaves",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Made from the most luxurious materials'",
+      "8% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeHelmet",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Made from the most luxurious materials'",
+      "You brighten the area around you"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeLongbow",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Longbow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeMallet",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodePickaxe",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeSaber",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Saber",
+    "ToolTip": "Attacks might confuse the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeSmasher",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Smasher",
+    "ToolTip": "Attacks might confuse the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeodeSpear",
+    "Namespace": "ThoriumMod.Items.Geode",
+    "Name": "Geode Spear",
+    "ToolTip": "Attacks might confuse the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

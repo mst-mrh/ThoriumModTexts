@@ -1,0 +1,145 @@
+[
+  {
+    "TypeName": "MagmaAxe",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaBlade",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Blade",
+    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaChestGuard",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Chestguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Bursting with heat'",
+      "5% increased melee damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaCore",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Slab",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It's molten to the touch'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaFlail",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Flail",
+    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaGreaves",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Bursting with heat'",
+      "4% increased melee damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaHammer",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaHelmet",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Bursting with heat'",
+      "3% increased melee damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaOre",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Ore",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It's rather hot'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaPickAxe",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaPolearm",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Polearm",
+    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaShiv",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magma Shiv",
+    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagmaticRicochet",
+    "Namespace": "ThoriumMod.Items.Magma",
+    "Name": "Magmatic Ricochet",
+    "ToolTip": "Attacks might singe the target, causing extra damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

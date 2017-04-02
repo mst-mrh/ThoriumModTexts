@@ -1,0 +1,34 @@
+[
+  {
+    "TypeName": "BuriedSpawn",
+    "Namespace": "ThoriumMod.NPCs.Buried",
+    "Name": "BuriedSpawn",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheBuriedWarrior",
+    "Namespace": "ThoriumMod.NPCs.Buried",
+    "Name": "BuriedHero",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheBuriedWarrior1",
+    "Namespace": "ThoriumMod.NPCs.Buried",
+    "Name": "FallenHero",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "TheBuriedWarrior2",
+    "Namespace": "ThoriumMod.NPCs.Buried",
+    "Name": "FallenHero",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

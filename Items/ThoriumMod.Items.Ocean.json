@@ -1,0 +1,148 @@
+[
+  {
+    "TypeName": "AquaticBar",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Aquatic Bar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It shimmers like the sunlight on water'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FishScale",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Sea Scale",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Brilliantly shiny'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanArrow",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Arrow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The rough, coral edges have a chance to gouge the hit enemy, dealing additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanChestGuard",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Chestguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% reduced damage taken while wet"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanCrossbow",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Crossbow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanGreaves",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Grants the ability to swim"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanHamaxe",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanHelmet",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanPickaxe",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanPolearm",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Polearm",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The rough, coral edges have a chance to gouge the hit enemy, dealing additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanSlasher",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Slasher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The rough, coral edges have a chance to gouge the hit enemy, dealing additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanThrowingAxe",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Ocean Throwing Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The rough, coral edges have a chance to gouge the hit enemy, dealing additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarfishWand",
+    "Namespace": "ThoriumMod.Items.Ocean",
+    "Name": "Starfish Wand",
+    "ToolTip": "Summons a cluster of starfish to splash your foes",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

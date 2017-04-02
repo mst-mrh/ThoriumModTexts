@@ -1,0 +1,995 @@
+[
+  {
+    "TypeName": "AbyssWalkerBoots",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Abyssal Walker's Boots",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AbyssWalkerCuirass",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Abyssal Walker's Cuirass",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AbyssWalkerHood",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Abyssal Walker's Hood",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AmberMinion",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Prehistoric Amber Staff",
+    "ToolTip": "'Life finds a way'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a T-rex or angry Pterodactyl to attack your foes"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BassBooster",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Bass Booster",
+    "ToolTip": "Unleashes obscenely loud pulses of sound",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Bellerose",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Bellerose",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "After three successful attacks, you can right click to unleash a powerful tornado",
+      "Slows your descent greatly while falling"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BioPod",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Bio-Pod",
+    "ToolTip": "Releases a strange alien creature",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlastShield",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Blast Shield",
+    "ToolTip": "-Omni Shield-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Damage taken reduced by 15%",
+      "Enemies are more likely to attack you",
+      "Immune to enemy knockback",
+      "Taking damage will unleash a volatile explosion all around you",
+      "This effect needs to recharge for 2 seconds after triggering"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CarnivoreTail",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Carnivore Tail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Covered in feral fur'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CelestialBow",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Quasar's Flare",
+    "ToolTip": "-Cheat Weapon-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "'Reality weeps at the use of such a weapon...'",
+      "Does not require ammunition",
+      "Will occasionally release an unstable comet of energy",
+      "Arrows decrease the defense of the enemy directly hit by it",
+      "Arrows will explode upon contact, releasing hostile, homing energy",
+      "Arrows will replenish life based on 10% of the damage they cause"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CelestialNova",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Celestial Burst Staff",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Heals ally life by 10",
+      "Dealing damage increases healing done briefly",
+      "Healing an ally increases damage done briefly"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "CorrodlingStaff",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Corrodling Staff",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a toxic sludge that corrodes hit enemies"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CryoMagusLeggings",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Cryo-Magus' Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased magic damage",
+      "15% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CryoMagusSpark",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Cryo-Magus' Spark",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased magic damage",
+      "15% reduced mana cost",
+      "Maximum mana increased by 60"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CryoMagusTabard",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Cryo-Magus' Tabard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% increased magic damage",
+      "10% increased magic critical strike chance",
+      "Greatly increased mana regeneration"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DelectableNut",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Delectable Nut",
+    "ToolTip": "'Kupo! Kupo!'",
+    "ToolTip2": "Summons a little winged friend",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonkinStaff",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Draconic Magma Staff",
+    "ToolTip": "Summons a chained molten dragon skull to melt your foes",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyCatalyst",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Energy Catalyst",
+    "ToolTip": "Supplies an endless amount of energy arrows",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EssenceofFlame",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Essence of Flame",
+    "ToolTip": "Releases intense flames on every swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeralSkinChest",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Feral-Fur Chest",
+    "ToolTip": "'Let your inner animal out'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased melee critical strike chance",
+      "10% increased minion knockback"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeralSkinHead",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Feral-Fur Head",
+    "ToolTip": "'Let your inner animal out'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "5% increased melee critical strike chance",
+      "Increases your max number of minions by 2"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeralSkinLegs",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Feral-Fur Legs",
+    "ToolTip": "'Let your inner animal out'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "5% increased melee critical strike chance",
+      "10% increased minion damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FolvHat",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Folv's Ancient Hat",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "8% reduced mana cost",
+      "Maximum mana increased by 50",
+      "Greatly increased mana regeneration"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FolvLegging",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Folv's Ancient Legging",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased magic damage",
+      "15% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FolvRobe",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Folv's Ancient Robe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% increased magic damage",
+      "5% increased magic critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrozenManHacker",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker : Glacier",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Flash freezes shot sawblades",
+      "8% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhastlyCarapace",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ghastly Carapace",
+    "ToolTip": "-Soul Storage-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "'You're in full control of your spirit...'",
+      "Life regeneration increased by 2",
+      "While worn, taking fatal damage will instead instantly teleport you back to your home",
+      "This effect will recharge every two minutes"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhastlyGarment",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ghastly Garment",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhastlyHood",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ghastly Hood",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhastlyLeggings",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ghastly Leggings",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhostPulseArrow",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ghost Pulse Arrow",
+    "ToolTip": "Damages nearby enemies while in flight",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrandThoriumBreastPlate",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Grand Thorium Breastplate",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrandThoriumGreaves",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Grand Thorium Greaves",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrandThoriumHelmet",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Grand Thorium Helmet",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrayDPaintingItem",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Gray 'D' Painting",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreedyHat",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Greedy Hat",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreedyMagnet",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Greedy Magnet",
+    "ToolTip": "Magnetizes all loose items on the screen",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreedyPants",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Greedy Pants",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GreedyShirt",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Greedy Shirt",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GrimFlayer",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Grim Flayer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks have a chance to steal life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HalloweenSpirit",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Halloween Spirit",
+    "ToolTip": "Activates or cancels: Halloween",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Will cancel other holidays on activation"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HolidayGreeting",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Holiday's Greeting",
+    "ToolTip": "Activates or cancels: Christmas",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Will cancel other holidays on activation"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HomeToken",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Happy Home Token",
+    "ToolTip": "Places an invisible, wall mounted token",
+    "ToolTip2": "Counts as a chair, table and light source",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceAxe",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Climber's Ice Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Every seventh throw will release a super chilled axe"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JewelersReach",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Jeweller's Wall Grip",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Legacy",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Legacy",
+    "ToolTip": "Rapidly summons decaying skulls",
+    "ToolTip2": "Hit enemies are plagued by a contagious magic",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeQuartzClaymore",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Life Quartz Claymore",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Striking an enemy will recover 3 life"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "ManHacker",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManHackerCursed",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker : Accursed",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Malevolently corrupts shot sawblades",
+      "8% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManHackerIchor",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker : Dissolve",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Demoniacally infuses shot sawblades",
+      "8% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManHackerLight",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker : Dazzle",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Magically enchants shot sawblades",
+      "8% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MantleProtector",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Mantle of the Protector",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Honor, Humility, and Will... Those are the true shields'",
+      "Increases defense by 5",
+      "Increases Maximum Health by 15",
+      "Increases length of invincibility after taking damage",
+      "Provides Immunity to Weakness and Broken Armor"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MastersLibram",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Master's Libram",
+    "ToolTip": "Summons a random spell book that flings spells at enemies",
+    "ToolTip2": "Flung spells will deal summon damage",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MoltenManHacker",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Man Hacker : Magma",
+    "ToolTip": "Uses Sawblades as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Super heats shot sawblades",
+      "8% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NightStaff",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Night Staff",
+    "ToolTip": "Fires a surge of dark energy",
+    "ToolTip2": "Upon dealing damage, additional homing surges will be released",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NovaRifle",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Nova Rifle",
+    "ToolTip": "Automatically sets you into a lesser stealth mode",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NuclearFury",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Nuclear Fury",
+    "ToolTip": "Unleashes a nova of homing cosmic energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OrnateGypsyLoincloth",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ornate Gypsy Loincloth",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OrnateGypsyLoinclothFemale",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Feminine Ornate Gypsy Loincloth",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OrnateGypsyRobe",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Ornate Gypsy Robe",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PhonicWings",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Phonic Wings",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PinkSludge",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Pink Sludge",
+    "ToolTip": "Summons a bright little flying slime",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PrismaticSpray",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Prismatic Spray",
+    "ToolTip": "Unleashes a splash of elemental energy",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Right Click to switch between four elements"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RealBreakerBreastplate",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Reality Breaker's Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased magic damage",
+      "10% increased magic critical strike chance",
+      "Increased mana regeneration"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RealBreakerGazer",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Reality Breaker's Gazer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "8% increased magic damage",
+      "Life regeneration increased by 2",
+      "Maximum mana increased by 60"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RealBreakerLeggings",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Reality Breaker's Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased magic damage",
+      "8% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RecipeCatalog",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Guide's Final Gift",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Functions as almost every vanilla crafting station"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RhodiumBreastplate",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Brutal Chestguard",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RhodiumGreaves",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Brutal Greaves",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RhodiumMask",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Brutal Mask",
+    "ToolTip": "'Great for impersonating Thorium Devs!'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Saba",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Saba",
+    "ToolTip": "On swing, fires twin eye beams",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SacredHeart",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Sacred Heart",
+    "ToolTip": "Increases movement speed after being struck",
+    "ToolTip2": "Increases length of invincibility after taking damage",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Sawblade",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Sawblade",
+    "ToolTip": "Pierces through multiple enemies and bounces against tiles",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ShadowFlareBow",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Shadow Flare Bow",
+    "ToolTip": "Turns arrows into ricocheting shadow beams",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ShusWrath",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Shu's Wrath",
+    "ToolTip": "Turns wooden arrows into 'Forbidden Arrows'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Forbidden Arrows turn into miniature sandstorms after impact"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilversBlade",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Silver's Fang",
+    "ToolTip": "Attacks against enemies have a 20% chance to summon a molten protector",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SimpleBroom",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Simple Broom",
+    "ToolTip": "Summons a cute lil' maid to clean",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Spearmint",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Spearmint",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks apply a stacking poison"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StrangeSkull",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Strange Skull",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SupportLanternItem",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Demo's Guidance",
+    "ToolTip": "Summons a magic lantern, that releases a constant aura of regeneration",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SweetVengeance",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Sweet Vengeance",
+    "ToolTip": "Increases movement speed after being damaged",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases length of invincibility after taking damage",
+      "Causes stars to fall when damaged",
+      "Causes bees to appear when damaged"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariansKnife",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Terrarian's Last Knife",
+    "ToolTip": "-Cheat Weapon-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Left Click - Releases a torrent of blood",
+      "Right Click - Rapidly swings the knife, stealing enemy life"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueSilversBlade",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "True Silver's Fang",
+    "ToolTip": "Releases a flaming burst on swing",
+    "ToolTip2": "Attacks against enemies have a 25% chance to summon a molten protector",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WormHoleMirror",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Wormhole Mirror",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Null"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WyvernSlayer",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Wyvern Slayer",
+    "ToolTip": "'It's too big to be a sword, it's more like a heap of iron'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Left Click - Releases a barrage of empowered shockwaves",
+      "Right Click - Thrusts the sword with immense force"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "YumasPendant",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Yuma's Pendant",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions by 2",
+      "15% increased minion damage",
+      "Upon taking damage, a spirit will come to your aid"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "TypeName": "BloodMoonMedallion",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Blood Moon Medallion",
+    "ToolTip": "Brings forth a Blood Moon if it is night time",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BrokenHeroBow",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Broken Hero Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BrokenHeroScythe",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Broken Hero Scythe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BrokenHeroStaff",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Broken Hero Staff",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EscapeRocket",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Escape Rocket",
+    "ToolTip": "Activates a rocket that uncontrollably sends you high into the air",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FamilyHeirloom",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Family Heirloom",
+    "ToolTip": "'This jewelery has been passed down your family for generations'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Guppy",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Lil' Guppy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Lantern",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Adventurer's Lantern",
+    "ToolTip": "Lightly lights up your cursors position while held",
+    "ToolTip2": "Click to make a small flame puff",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " true damage"
+    ]
+  },
+  {
+    "TypeName": "LightSoulDust",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Bright Soul Dust",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Less potent than a soul, but gets the job done'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MoltenResidue",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Molten Residue",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Dark spirits in a dark place bring forth ruin...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NightSoulDust",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Dark Soul Dust",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Less potent than a soul, but gets the job done'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PlantBulb",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Aromatic Bulb",
+    "ToolTip": "Summons Plantera",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TimeWarp",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Name": "Time Warp",
+    "ToolTip": "Reverses the time of day",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

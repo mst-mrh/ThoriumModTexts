@@ -1,0 +1,152 @@
+[
+  {
+    "TypeName": "AlphaRage",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Alpha's Roar",
+    "Tip": "Minions are dealing 12 additional damage"
+  },
+  {
+    "TypeName": "BannerDamage",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Battle Banner",
+    "Tip": "Minions are dealing 6 additional damage"
+  },
+  {
+    "TypeName": "BannerDefense",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Combative Banner",
+    "Tip": "Damage reduction increased by 0.20% per maximum minion"
+  },
+  {
+    "TypeName": "BannerLifeRegen",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Morale Banner",
+    "Tip": "Minion attacks might heal you"
+  },
+  {
+    "TypeName": "Beholding",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Beholding",
+    "Tip": "The Beholder will give sight of and eradicate your foes"
+  },
+  {
+    "TypeName": "BloodMinionBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Blood Zombie",
+    "Tip": "As long as it gets to feed, it wont bother you..."
+  },
+  {
+    "TypeName": "BloodPact",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Blood Pact",
+    "Tip": "Just sealed a contract with a demon..."
+  },
+  {
+    "TypeName": "Command",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Commanding Shout",
+    "Tip": "Newly summoned minions will be stronger!"
+  },
+  {
+    "TypeName": "CorrodeSlimeBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Corrodling",
+    "Tip": "Defensive units stand no chance against these little guys!"
+  },
+  {
+    "TypeName": "CorruptMinionBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Corruptling",
+    "Tip": "Not all denizens of the corruption want to eat souls..."
+  },
+  {
+    "TypeName": "CrimsonMinionBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Crimson Hound",
+    "Tip": "Despite not having a mouth, the hound will find a way to feed..."
+  },
+  {
+    "TypeName": "DinoBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Rampage",
+    "Tip": "These dinos are going crazy!"
+  },
+  {
+    "TypeName": "DragonMinionBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Dragon Melter",
+    "Tip": "Your foes stand no chance"
+  },
+  {
+    "TypeName": "EnchantedTomeBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Enchanted Tome",
+    "Tip": "A spell flinging tome is assisting you"
+  },
+  {
+    "TypeName": "EnigmaMinion",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Enigma",
+    "Tip": "Light bends around the complicated enigma..."
+  },
+  {
+    "TypeName": "HatchlingBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Hatchling",
+    "Tip": "This hatchling thinks you're its mother!"
+  },
+  {
+    "TypeName": "IceFairyBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Icy Fairy",
+    "Tip": "Your enemies better hope they brought a coat!"
+  },
+  {
+    "TypeName": "LifeBloomHeal",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Life Bloom",
+    "Tip": "Just received a nice heal!"
+  },
+  {
+    "TypeName": "MeatBallBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Meat Ball",
+    "Tip": "Its just weird man..."
+  },
+  {
+    "TypeName": "MeteorHeadStaff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Meteor Head",
+    "Tip": "The meteor head has decided to work with you"
+  },
+  {
+    "TypeName": "MoltenBannerBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Molten Banner",
+    "Tip": "Minion attacks have a 50% chance to duplicate their damage"
+  },
+  {
+    "TypeName": "MushroomArmy",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Mushroom Army",
+    "Tip": "Command the forces of Fungus!"
+  },
+  {
+    "TypeName": "RosySlimeBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Rosy Slime",
+    "Tip": "Almost as diabolical as Pinky herself"
+  },
+  {
+    "TypeName": "SlagMinionBuff",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "Molten Ember",
+    "Tip": "The heat emanating from that thing is unbearable..."
+  },
+  {
+    "TypeName": "StarForce",
+    "Namespace": "ThoriumMod.Buffs.Summon",
+    "Name": "StarForce",
+    "Tip": "The starfish cluster will splash some enemies"
+  }
+]

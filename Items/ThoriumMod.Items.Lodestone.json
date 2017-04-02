@@ -1,0 +1,163 @@
+[
+  {
+    "TypeName": "EarthernBulwark",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Earthen Bulwark",
+    "ToolTip": "Defense increased by 8",
+    "ToolTip2": "Enemies are more likely to attack you",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneBow",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Bow",
+    "ToolTip": "Arrows shot from this bow will temporarily sunder the hit enemies defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneChestGaurd",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Chest Guard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% Increased Melee Critical strike chance",
+      "6% Increased Melee Damage",
+      "5% Increased Melee Speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneChunk",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Chunk",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Enforced by the core of your Terrarian world'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneClaymore",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Claymore",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will sunder the enemies defense",
+      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneFaceGuard",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Face Guard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% Increased Melee Critical strike chance",
+      "4% Increased Melee Damage",
+      "10% Increased Melee Speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneGreatAxe",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Great Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneHammer",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneIngot",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Ingot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Try as you might, this stuff has become unbreakable!'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneMace",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Breaker",
+    "ToolTip": "Attacks will sunder the enemies defense immensely",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStonePickaxe",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneQuickDraw",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Quick Draw",
+    "ToolTip": "Bullets shot from this gun will temporarily sunder the hit enemies defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneShinGaurds",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Shin Guards",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% Increased Melee Critical strike chance",
+      "5% Increased Melee Damage",
+      "12% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LodeStoneStaff",
+    "Namespace": "ThoriumMod.Items.Lodestone",
+    "Name": "Lodestone Staff",
+    "ToolTip": "Unleashes a bolt of earthen magic that will cause a cascade of earth",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will sunder the enemies defense"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

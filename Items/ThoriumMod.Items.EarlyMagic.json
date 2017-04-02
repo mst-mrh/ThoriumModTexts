@@ -1,0 +1,170 @@
+[
+  {
+    "TypeName": "ArcaneDust",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Arcane Dust",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It shimmers with magical capabilities'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Confuse",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Confuse",
+    "ToolTip": "Creates a bolt of confusing magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Dissolve",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Dissolve",
+    "ToolTip": "Creates a bolt of defense melting magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Freeze",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Freeze",
+    "ToolTip": "Creates a bolt of deep-freezing magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Ignite",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Ignite",
+    "ToolTip": "Creates a bolt of fiery magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagikStaff",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Magik Staff",
+    "ToolTip": "Creates a bolt of fluctuating elements",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagikStaffAmber",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Amber-Augmented Magik Staff",
+    "ToolTip": "Creates a bolt of fluctuating elements",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManaBauble",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Mana Bauble",
+    "ToolTip": "'An orb of coalesced magical energy'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum mana increased by 10"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Pierce",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Pierce",
+    "ToolTip": "Creates a bolt of heavy, piercing magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Poison",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Poison",
+    "ToolTip": "Creates a bolt of poisonous magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilkCap",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Silk Cap",
+    "ToolTip": "Magical critical strike chance increased by 2%",
+    "ToolTip2": "Maximum mana increased by 20",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilkHat",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Silk Hat",
+    "ToolTip": "Magical critical strike chance increased by 2%",
+    "ToolTip2": "Magic damage increased by 2",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilkLeggings",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Silk Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Magical critical strike chance increased by 2%"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilkTabard",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Silk Tabard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Magical critical strike chance increased by 2%"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilkTurban",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Silk Turban",
+    "ToolTip": "5% increased minion knockback",
+    "ToolTip2": "Summon damage increased by 2",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Siphon",
+    "Namespace": "ThoriumMod.Items.EarlyMagic",
+    "Name": "Siphon",
+    "ToolTip": "Creates a bolt of life-force stealing magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "TypeName": "BloodThirster",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "Blood Thirster",
+    "ToolTip": "'Made from the corrupted elements'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DoomFireAxe",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "Doom Fire Axe",
+    "ToolTip": "Releases an explosion on enemy impact",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Nocturnal",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "Nocturnal",
+    "ToolTip": "Upon hitting an enemy, homing 'black light' might be released",
+    "ToolTip2": "This yo-yo can be held mid-air forever",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Sanguine",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "Sanguine",
+    "ToolTip": "Upon hitting an enemy, homing 'life light' might be released",
+    "ToolTip2": "This yo-yo can be held mid-air forever",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SearingBlade",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "Searing Blade",
+    "ToolTip": "'The blade of this masterly forged sword will burn the hit enemy for the rest of their days...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueBloodThirster",
+    "Namespace": "ThoriumMod.Items.MeleeItems",
+    "Name": "True Blood Thirster",
+    "ToolTip": "Unleashes blood energy on every swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

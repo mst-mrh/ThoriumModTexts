@@ -1,0 +1,189 @@
+[
+  {
+    "TypeName": "BattleBanner",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Battle Banner",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summoned minions will deal an additional 6 damage for a short time"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BioMatter",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Bio-Matter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A writhing mass of chlorophyll'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BloodCellStaff",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Blood Feaster Staff",
+    "ToolTip": "Summons a flesh eating blood zombie",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CombatBanner",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Combat Banner",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases damage reduction based on your maximum possible minions"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CorruptionSummon",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Corruptling Staff",
+    "ToolTip": "Summons a mini eater of souls that bites into your foes",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CrimsonSummon",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Crimson Hound Staff",
+    "ToolTip": "Summons a grotesque and viscous crimson hound",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnchantedBar",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Enchanted Barrier",
+    "ToolTip": "Creates a defensive barrier around you that damages and knockbacks enemies",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Occupies a minion slot"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HoneyBlade",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Honey Blade",
+    "ToolTip": "Fast Speed",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Throws out a hive of bees on swing"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeBloomLeggings",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Life Bloom Leggings",
+    "ToolTip": "'You are one with nature'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions",
+      "8% increased Minion Damage",
+      "15% increased Movement Speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeBloomMail",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Life Bloom Mail",
+    "ToolTip": "'You are one with nature'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions",
+      "10% increased Minion Damage",
+      "10% increased Minion Knockback"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeBloomMask",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Life Bloom Mask",
+    "ToolTip": "'You are one with nature'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions",
+      "8% increased Minion Damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MeteorMask",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Meteor Mask",
+    "ToolTip": "12% increased minion damage",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MeteorStaff",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Meteor Head Staff",
+    "ToolTip": "Summons a friendly meteor head to crush your enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MoraleBanner",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Morale Banner",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summoned minions attacks will have a low chance to heal you"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MortarStaff",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Mortar Staff",
+    "ToolTip": "Summons a molten mortar below the target location",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VoidLance",
+    "Namespace": "ThoriumMod.Items.SummonItems",
+    "Name": "Void Lance",
+    "ToolTip": "Unleashes a surge of void energy, which tears a rift into another dimension",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one rift can exist at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

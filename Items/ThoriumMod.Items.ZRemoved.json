@@ -1,0 +1,24 @@
+[
+  {
+    "TypeName": "ThoriumItem",
+    "Namespace": "ThoriumMod.Items.ZRemoved",
+    "Name": "Thorium Material Item",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "For testing purposes"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumPickaxe",
+    "Namespace": "ThoriumMod.Items.ZRemoved",
+    "Name": "Basic Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

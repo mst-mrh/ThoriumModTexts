@@ -1,0 +1,171 @@
+[
+  {
+    "TypeName": "aDarksteelAlloy",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Knight's Alloy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Material used by the fallen knights of the dungeon'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "bDarksteelPickaxe",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "cDarksteelAxe",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DarksteelCore",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Core",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Holds the necessary properties to make Darksteel equipment'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "dDarksteelMallet",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "eDarksteelBroadSword",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Broadsword",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "eeDarksteelMace",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Mace",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "eeeLifeLeech",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Life Leech",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Strikes will turn damage into life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "eeSoulSiphon",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Soul Siphon",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Strikes will turn damage into Mana"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "fDarksteelBow",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Longbow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "gDarkSteelCrossBow",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Crossbow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "hDarksteelFaceGuard",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Faceguard",
+    "ToolTip": "'Light yet durable'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased movement speed",
+      "Armor penetration increased by 3"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "iDarksteelBreastPlate",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Breastplate",
+    "ToolTip": "'Light yet durable'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased movement speed",
+      "Armor penetration increased by 4"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "jDarksteelGreaves",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Darksteel Greaves",
+    "ToolTip": "'Light yet durable'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased movement speed",
+      "Armor penetration increased by 3"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SmoothCoal",
+    "Namespace": "ThoriumMod.Items.Darksteel",
+    "Name": "Smooth Coal",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Might be useful'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

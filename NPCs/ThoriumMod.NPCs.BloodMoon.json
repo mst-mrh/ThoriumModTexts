@@ -1,0 +1,82 @@
+[
+  {
+    "TypeName": "Abomination",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "Abomination",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "BloodDrop",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "BloodDrop",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraveLimb",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "GraveLimb",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ImpaledZombie",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "ImpaledZombie",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Maggot",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "Maggot",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "NecroticImbuer",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "NecroticImbuer",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "PatchWerk",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "PatchWerk",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SeveredLegs",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "SeveredLegs",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Shade",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "Shade",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Warg",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Name": "Warg",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "TypeName": "AbyssalShell",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Abyssal Shell",
+    "Tip": "Nothing can touch you!"
+  },
+  {
+    "TypeName": "AbyssalShellWeak",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Abyssal Weight",
+    "Tip": "Damage, defense and movement speed greatly reduced"
+  },
+  {
+    "TypeName": "AParalyzed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Paralyzed",
+    "Tip": "The enemy cant move very briefly!"
+  },
+  {
+    "TypeName": "AquaAffinity",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Aqua Affinity",
+    "Tip": "Movement is increased while in water"
+  },
+  {
+    "TypeName": "Aquamancer",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Aquamancer",
+    "Tip": "Your magic damage and casting speed are increased substantially"
+  },
+  {
+    "TypeName": "AquaticAptitude",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Aquatic Aptitude",
+    "Tip": "The surrounding water empowers you!"
+  },
+  {
+    "TypeName": "BatRepellentBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Repellent : Bats",
+    "Tip": "Most bats will become friendly to you"
+  },
+  {
+    "TypeName": "BellaCharged",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Powered Up",
+    "Tip": "Your tornado is ready to be unleashed"
+  },
+  {
+    "TypeName": "Berserk1",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Calm",
+    "Tip": "Not too angry; Damage increased by 15%"
+  },
+  {
+    "TypeName": "Berserk2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Agitated",
+    "Tip": "Getting a little ticked off; Damage increased by 30%"
+  },
+  {
+    "TypeName": "Berserk3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Angry",
+    "Tip": "You're full of rage; Damage increased by 45%"
+  },
+  {
+    "TypeName": "Berserk4",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Berserk",
+    "Tip": "GRIFFITH!!!; Damage increased by 60%"
+  },
+  {
+    "TypeName": "BerserkBurn",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Berserk Burn",
+    "Tip": "Losing a percentage of its health every second"
+  },
+  {
+    "TypeName": "BerserkSoul",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Berserk Soul",
+    "Tip": "If this enemy dies, an aggressive spirit will be released"
+  },
+  {
+    "TypeName": "BleedOff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Crimson Block",
+    "Tip": "Just blocked an attack"
+  },
+  {
+    "TypeName": "BloodCharging",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Blood Charging",
+    "Tip": "Your ranged projectiles will grant blood charges"
+  },
+  {
+    "TypeName": "BloodRush",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Blood Rush",
+    "Tip": "Movement, mining and melee speed increased"
+  },
+  {
+    "TypeName": "Bubbled",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Bubbled",
+    "Tip": "You're floating away!"
+  },
+  {
+    "TypeName": "CalmWaters",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Untainted Waters",
+    "Tip": "Without Abyssions foul presence, the waters are somehow breathable"
+  },
+  {
+    "TypeName": "CannotChain",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Cannot Chain",
+    "Tip": "Wont get effected by chain lightning"
+  },
+  {
+    "TypeName": "ChaosState",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Chaos State: Teleportation",
+    "Tip": "Your body is still recovering from the mirror"
+  },
+  {
+    "TypeName": "ChokingDepths",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Choking Aura",
+    "Tip": "The depths pollute and poison all nearby air"
+  },
+  {
+    "TypeName": "ChosenMight",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Grand Champion",
+    "Tip": "You have saved the world from every seemingly unstoppable threat..."
+  },
+  {
+    "TypeName": "CobblerBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Shined Shoes",
+    "Tip": "Movement speed, run acceleration and jump height are increased"
+  },
+  {
+    "TypeName": "CombatProwess",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Combat Prowess",
+    "Tip": "Melee damage and melee armor penetration increased"
+  },
+  {
+    "TypeName": "Conflagrate",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Conflagrate",
+    "Tip": "A burning fury has taken hold"
+  },
+  {
+    "TypeName": "Corporeal",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Corporeal",
+    "Tip": "Your spirit band is recharging"
+  },
+  {
+    "TypeName": "Corrosion",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Corrosion",
+    "Tip": "Defense reduced and taking damage over time"
+  },
+  {
+    "TypeName": "CounterAttack",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Counter Strike",
+    "Tip": "Now is the time to strike!"
+  },
+  {
+    "TypeName": "CritChance",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critical Accuracy",
+    "Tip": "Critical strikes will occur more often"
+  },
+  {
+    "TypeName": "DangerDamage",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Dangerous Game",
+    "Tip": "10% increased melee damage & 6% increased melee critical strike chance"
+  },
+  {
+    "TypeName": "DeathGate",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Teleportation",
+    "Tip": "Just teleported to a new location"
+  },
+  {
+    "TypeName": "DemonicDance",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Demonic Dance",
+    "Tip": "Dealing 20% more damage"
+  },
+  {
+    "TypeName": "DepthBreath",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Depth: Breath",
+    "Tip": "You can breath underwater"
+  },
+  {
+    "TypeName": "DepthDamage",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Depth: Damage",
+    "Tip": "Damage done increased by 8%"
+  },
+  {
+    "TypeName": "DepthSpeed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Depth: Speed",
+    "Tip": "Movement speed is increased by 10%"
+  },
+  {
+    "TypeName": "DesertDexterity",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Desert Dexterity",
+    "Tip": "Thrown damage and velocity increased slightly"
+  },
+  {
+    "TypeName": "Destabilized",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Destabilized",
+    "Tip": "Your existence is phasing in and out"
+  },
+  {
+    "TypeName": "DevilSoul",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Devil's Grasp",
+    "Tip": "Taking fatal damage will instead return you to 100 life"
+  },
+  {
+    "TypeName": "DevilTired",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Devil's Exhaustion",
+    "Tip": "Taking fatal damage will end your life..."
+  },
+  {
+    "TypeName": "Earth1",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Lodestone Defense I",
+    "Tip": "Damage taken reduced by 15%"
+  },
+  {
+    "TypeName": "Earth2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Lodestone Defense II",
+    "Tip": "Damage taken reduced by 20%"
+  },
+  {
+    "TypeName": "Earth3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Lodestone Defense III",
+    "Tip": "Damage taken reduced by 25%"
+  },
+  {
+    "TypeName": "EmergencyAir",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Emergency Air Tank",
+    "Tip": "Your breath will be replenished if it reaches critical level"
+  },
+  {
+    "TypeName": "Enchanted",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Enchanted",
+    "Tip": "Your magical abilities are enhanced"
+  },
+  {
+    "TypeName": "EnchantedShieldBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Enchanted Barrier",
+    "Tip": "You are protected by a magical barrier"
+  },
+  {
+    "TypeName": "EnemyFrozen",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Freezing",
+    "Tip": "This enemies movement speed is noticeably lowered"
+  },
+  {
+    "TypeName": "EscapeRocketBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Escape Rocket",
+    "Tip": "The fiery thrusters are on full blast"
+  },
+  {
+    "TypeName": "Evicerate",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Eviscerate",
+    "Tip": "Your throwing damage will apply a nasty bleed to enemies"
+  },
+  {
+    "TypeName": "Execute",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Execute",
+    "Tip": "Blood..."
+  },
+  {
+    "TypeName": "Execute2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Execute II",
+    "Tip": "Blood!"
+  },
+  {
+    "TypeName": "Execute3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Execute III",
+    "Tip": "BLOOD!!!"
+  },
+  {
+    "TypeName": "explodePrevent",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Blast Charging",
+    "Tip": "Cant unleash an explosion just yet..."
+  },
+  {
+    "TypeName": "ExplosionCoating",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Thrown Weapon Imbue : Explosive",
+    "Tip": "Throwing damage has a chance to detonate, hitting nearby enemies"
+  },
+  {
+    "TypeName": "FishRepellentBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Repellent : Fish",
+    "Tip": "Most fish will become friendly to you"
+  },
+  {
+    "TypeName": "FleshFrenzy",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Flesh Frenzy",
+    "Tip": "Your symbiotic consumption has increased your damage by 8%"
+  },
+  {
+    "TypeName": "FolvAura",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Ancient Barrier",
+    "Tip": "Potent magic surrounds you..."
+  },
+  {
+    "TypeName": "Frenzy",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Frenzy",
+    "Tip": "Your melee, firing, casting, throwing and healing speed are increased by 8%"
+  },
+  {
+    "TypeName": "FrostCoating",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Thrown Weapon Imbue : Deep Freeze",
+    "Tip": "Throwing damage has a chance to significantly hinder the hit enemies movement"
+  },
+  {
+    "TypeName": "FrostHeart",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Frost Heart",
+    "Tip": "Health returns..."
+  },
+  {
+    "TypeName": "Full",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Full Stomach",
+    "Tip": "You couldn't eat another bite!"
+  },
+  {
+    "TypeName": "Gateway",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Gateway",
+    "Tip": "Your gateway is somewhere out there..."
+  },
+  {
+    "TypeName": "GhastlySoul",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Ghastly Soul",
+    "Tip": "Taking fatal damage will return you home"
+  },
+  {
+    "TypeName": "GhastlyTired",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Ghastly Exhaustion",
+    "Tip": "Taking fatal damage will end your life..."
+  },
+  {
+    "TypeName": "GorganCoating",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Thrown Weapon Imbue : Gorgan Juice",
+    "Tip": "Throwing damage has a chance to petrify hit enemies"
+  },
+  {
+    "TypeName": "Grace",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Grace",
+    "Tip": "Your movement speed is increased"
+  },
+  {
+    "TypeName": "GraniteSurge",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Granite Surge",
+    "Tip": "Too much energy is causing damage and lowered defense"
+  },
+  {
+    "TypeName": "GravityDamage",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Gravity Proficiency",
+    "Tip": "Ranged damage increased by 12%"
+  },
+  {
+    "TypeName": "Grimshadow",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "False Presence",
+    "Tip": "Something stirs in the darkness..."
+  },
+  {
+    "TypeName": "Grimshadow2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "False Presence",
+    "Tip": "Something stirs in the darkness..."
+  },
+  {
+    "TypeName": "Grimshadow3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "False Presence",
+    "Tip": "The waters ripple..."
+  },
+  {
+    "TypeName": "Hallucination",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Hallucination",
+    "Tip": "Something's not right..."
+  },
+  {
+    "TypeName": "Hexed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Hexed",
+    "Tip": "Turning into a frog!"
+  },
+  {
+    "TypeName": "IcyAura",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Icy Aura",
+    "Tip": "An aura of ice surrounds you"
+  },
+  {
+    "TypeName": "Illimunated",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Illuminated",
+    "Tip": "Your ranged projectiles will illuminate the hit enemy"
+  },
+  {
+    "TypeName": "IlluminatedNPC",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Illuminated",
+    "Tip": "This enemy is nice and bright"
+  },
+  {
+    "TypeName": "InterDemension",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Inter-Dimensional",
+    "Tip": "Your ranged projectiles will blast enemies with inter-dimensional energy"
+  },
+  {
+    "TypeName": "Karma",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Karma",
+    "Tip": "Getting dunked on!"
+  },
+  {
+    "TypeName": "LegacyBurn",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Legacy Burn",
+    "Tip": "If this enemy dies, damaging energy will be released"
+  },
+  {
+    "TypeName": "LichActive",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Liches Backup",
+    "Tip": "Taking fatal damage will instead return you to 20 life"
+  },
+  {
+    "TypeName": "LichNotActive",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Liches Withdraw",
+    "Tip": "Taking fatal damage will end your life..."
+  },
+  {
+    "TypeName": "LifeLeechCoating",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Thrown Weapon Imbue : Life Leech",
+    "Tip": "Throwing damage has a chance to heal you"
+  },
+  {
+    "TypeName": "LifeTransfusion",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Life Transfusion",
+    "Tip": "Life regeneration is nullified"
+  },
+  {
+    "TypeName": "LifeWaterRegen",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Life Water's Gift",
+    "Tip": "Maximum life & life regeneration increased"
+  },
+  {
+    "TypeName": "lightCurse",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Light Curse",
+    "Tip": "Pure darkness is melting this enemy"
+  },
+  {
+    "TypeName": "LimbSnatch",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Cryptic Grasp",
+    "Tip": "It's on your face! Aaauggh!"
+  },
+  {
+    "TypeName": "Liquefied",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Liquefied",
+    "Tip": "Defense, movement and melee speed decreased"
+  },
+  {
+    "TypeName": "MajorEnchanted",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Mightily Enchanted",
+    "Tip": "Your magical abilities are enhanced greatly"
+  },
+  {
+    "TypeName": "MeleePower",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Melee Power",
+    "Tip": "Movement speed, melee damage and melee armor penetration increased"
+  },
+  {
+    "TypeName": "Melting",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Melting",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "Melting2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Melting",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "Melting3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Melting",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "Melting4",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Melting",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "Mortality",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Mortality",
+    "Tip": "Defense, life regeneration and movement speed decreased"
+  },
+  {
+    "TypeName": "Mycelium",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Fungal Growth",
+    "Tip": "This target is infested with mycelium"
+  },
+  {
+    "TypeName": "MyceliumVeins",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Mycelium Veins",
+    "Tip": "Throwing speed increased by 10%"
+  },
+  {
+    "TypeName": "Napalm",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Napalm",
+    "Tip": "Endlessly burning"
+  },
+  {
+    "TypeName": "NearlyPetrified",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Nearly Petrified",
+    "Tip": "Your body is starting to solidify; Take caution!"
+  },
+  {
+    "TypeName": "NinjaBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Sleight of Hand",
+    "Tip": "Throwing velocity, speed and critical strike chance increased"
+  },
+  {
+    "TypeName": "OceansBuffer",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Oceans Buffer",
+    "Tip": "Incoming non-lethal damage will become life"
+  },
+  {
+    "TypeName": "OceansBufferExhaust",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Ocean's Buffer Exhaustion",
+    "Tip": "Cannot trigger 'Ocean's Buffer'"
+  },
+  {
+    "TypeName": "Overcharge",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Instability",
+    "Tip": "Magic damage increased by 65%, but your physical form can barely handle it"
+  },
+  {
+    "TypeName": "OverGrowth",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Over Growth",
+    "Tip": "Various combat stats are enhanced!"
+  },
+  {
+    "TypeName": "Paralyzed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Paralyzed",
+    "Tip": "The enemy cant move very briefly!"
+  },
+  {
+    "TypeName": "ParryStance",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Parry Stance",
+    "Tip": "Damage taken reduced by 15%"
+  },
+  {
+    "TypeName": "Petrify",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Petrify",
+    "Tip": "This enemy cant react!"
+  },
+  {
+    "TypeName": "PoisonHeart",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Tainted Hearts",
+    "Tip": "Hearts will heal half the amount and poison you..."
+  },
+  {
+    "TypeName": "Railgun",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Rail Gun Frenzy",
+    "Tip": "The rail gun is unleashing its barrage"
+  },
+  {
+    "TypeName": "Sanguine",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Sanguine",
+    "Tip": "Damage reduction increased by 8% and Life regeneration is increased"
+  },
+  {
+    "TypeName": "ShadedBleed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Deep Cut",
+    "Tip": "Rapidly losing life"
+  },
+  {
+    "TypeName": "ShadeHold",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Shade-Hold",
+    "Tip": "The enemy is pinned, and cant move!"
+  },
+  {
+    "TypeName": "ShadowDance",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Shadow Dance",
+    "Tip": "Pressing the 'Shade Gate' key will teleport you to your cursor's location"
+  },
+  {
+    "TypeName": "SilverTongue",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Silver Tongue",
+    "Tip": "'Use that silver tongue to swindle some shop keepers!'"
+  },
+  {
+    "TypeName": "Singed",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Singe",
+    "Tip": "Just received a nasty burn"
+  },
+  {
+    "TypeName": "SkeletonRepellentBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Repellent : Skeletons",
+    "Tip": "Most skeletons will become friendly to you"
+  },
+  {
+    "TypeName": "SlowFall",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Slow Fall",
+    "Tip": "The Bellerose allows you to drift"
+  },
+  {
+    "TypeName": "SnakeBite",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Snake Bite",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "SnakeBite2",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Snake Bite",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "SnakeBite3",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Snake Bite",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "SnakeBite4",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Snake Bite",
+    "Tip": "Losing life"
+  },
+  {
+    "TypeName": "SoulHarvest",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Soul Harvest",
+    "Tip": "15% increased throwing damage and velocity"
+  },
+  {
+    "TypeName": "Spored",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Spored",
+    "Tip": "If this enemy dies, more spores will be released"
+  },
+  {
+    "TypeName": "Staggered",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Staggered",
+    "Tip": "You're too dizzy to jump correctly"
+  },
+  {
+    "TypeName": "Sunder",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Sundered",
+    "Tip": "Defense decreased greatly"
+  },
+  {
+    "TypeName": "SunderGood",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Sundered",
+    "Tip": "Your ranged projectiles will sunder the enemies defense"
+  },
+  {
+    "TypeName": "TastyJelly",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Tasty Jelly",
+    "Tip": "Eating that stuff was surprisingly a good idea"
+  },
+  {
+    "TypeName": "TerrariumDefense",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Terraria's Guard",
+    "Tip": "The forces of Terraria are protecting you"
+  },
+  {
+    "TypeName": "TerrariumRegen",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Terraria's Kiss",
+    "Tip": "The forces of Terraria are healing you"
+  },
+  {
+    "TypeName": "TitanAccuracy",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Titan Accuracy",
+    "Tip": "Your ranged critical strikes will deal additional damage"
+  },
+  {
+    "TypeName": "TouchOfOmnicide",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Touch of Omnicide",
+    "Tip": "Time is of the essence! Stop the end of the world before its too late!"
+  },
+  {
+    "TypeName": "ToxicCoating",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Thrown Weapon Imbue : Toxic",
+    "Tip": "Throwing damage has a chance to poison hit enemies"
+  },
+  {
+    "TypeName": "TrueStrike",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "True Strikes",
+    "Tip": "Your throwing damage has a 100% chance to critically strike"
+  },
+  {
+    "TypeName": "TrueStrikeTired",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critically Exhausted",
+    "Tip": "Cannot trigger 'True Strikes'"
+  },
+  {
+    "TypeName": "WaterStasis",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Oceanic Stasis",
+    "Tip": "Ugh, you cant move!"
+  },
+  {
+    "TypeName": "Whoa",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Prickly & Tasty",
+    "Tip": "Immune to most status effect debuffs"
+  },
+  {
+    "TypeName": "WindBurst",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Wind Burst",
+    "Tip": "Your tool speed is increased by 15%"
+  },
+  {
+    "TypeName": "WindGust",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Wind Gust",
+    "Tip": "You can jump higher and you will not suffer fall damage"
+  },
+  {
+    "TypeName": "Wither",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Wither",
+    "Tip": "WITHER AWAY!!!"
+  },
+  {
+    "TypeName": "YewChargeI",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critical Frustration",
+    "Tip": "You didn't critically strike..."
+  },
+  {
+    "TypeName": "YewChargeII",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critical Frustration",
+    "Tip": "You didn't critically strike again..."
+  },
+  {
+    "TypeName": "YewChargeIII",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critical Frustration",
+    "Tip": "You didn't critically strike again..."
+  },
+  {
+    "TypeName": "YewChargeIV",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Critical Frustration",
+    "Tip": "Your next attack will deal 150% damage"
+  },
+  {
+    "TypeName": "ZombieRepellentBuff",
+    "Namespace": "ThoriumMod.Buffs",
+    "Name": "Repellent : Zombies",
+    "Tip": "Most zombies will become friendly to you"
+  }
+]

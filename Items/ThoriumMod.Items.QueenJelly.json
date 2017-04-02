@@ -1,0 +1,116 @@
+[
+  {
+    "TypeName": "BlunderBuss",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Buccaneer's Blunderbuss",
+    "ToolTip": "Unleashes a torrent of bullets",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GiantGlowstick",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Giant Glowstick",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Provides a lot of light when thrown",
+      "Attacks have a chance to paralyze the hit enemy very briefly",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JellyFishBag",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JellyfishHat",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Jellyfish Hat",
+    "ToolTip": "'Those jellyfish wont suspect a thing...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JellyfishResonator",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Jellyfish Resonator",
+    "ToolTip": "Summons The Queen Jellyfish",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only usable on the beach during the day"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JellyPondWand",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Jelly Pond Wand",
+    "ToolTip": "Sends out a ball of aquatic energy that will summon a swarm of Jellyfish to attack the impact area",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "QueenJellyfishTrophy",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Queen Jellyfish Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "QueensGlowstick",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Queen's Glowstick",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Creates an endless amount of glowsticks"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeaBreezePendant",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Sea Breeze Pendant",
+    "ToolTip": "'Wearers of this pendant shall not fear the aquatic depths...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Grants underwater breathing",
+      "Grants the ability to swim",
+      "10% increased damage while wet"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SparkingJellyBall",
+    "Namespace": "ThoriumMod.Items.QueenJelly",
+    "Name": "Sparking Jelly Ball",
+    "ToolTip": "Attacks have a chance to paralyze the hit enemy very briefly",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

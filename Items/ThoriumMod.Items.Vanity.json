@@ -1,0 +1,101 @@
+[
+  {
+    "TypeName": "AncientDragonBreastplate",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Dragon Breastplate",
+    "ToolTip": "'Made from ancient dragon scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "8% increased non-melee damage",
+      "10% increased melee damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientDragonGreaves",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Dragon Greaves",
+    "ToolTip": "'Made from ancient dragon scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientDragonMask",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Dragon Mask",
+    "ToolTip": "'Made from ancient dragon scales'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "7% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientDragonScale",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Dragon Scale",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A material of an age long passed'",
+      "Allows you to visually transmute Dragon Armor into Ancient Dragon Armor"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "aObsidianHelmet",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Obsidian Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Tougher than any natural material'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "bObsidianChestGuard",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Obsidian Chestguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Tougher than any natural material'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "cObsidianGreaves",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Ancient Obsidian Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Tougher than any natural material'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ObsidianIngot",
+    "Namespace": "ThoriumMod.Items.Vanity",
+    "Name": "Obsidian Ingot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A material of an age long passed'",
+      "Allows you to visually transmute Granite Armor into Obsidian Armor"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

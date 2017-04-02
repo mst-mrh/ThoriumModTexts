@@ -1,0 +1,143 @@
+[
+  {
+    "TypeName": "aSandstonePickaxe",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Pickaxe",
+    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "bSandstoneAxe",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Axe",
+    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "cSandstoneHammer",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Hammer",
+    "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "dSandStoneScimtar",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Scimitar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "eSandStoneBow",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "fSandStoneSpear",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Spear",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "gSandStoneThrowingKnife",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Throwing Knife",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "hSandStoneHelmet",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Helmet",
+    "ToolTip": "'Enveloped by desert winds'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% increased movement speed",
+      "5% increased thrown damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "iSandStoneMail",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Mail",
+    "ToolTip": "'Enveloped by desert winds'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "5% increased movement speed",
+      "5% increased thrown damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "jSandStoneGreaves",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Greaves",
+    "ToolTip": "'Enveloped by desert winds'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "3% increased movement speed",
+      "5% increased thrown damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SandStone",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sandstone Ingot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Free of all moisture and very warm'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SandStormClaymore",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Sand Storm Claymore",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WindGust",
+    "Namespace": "ThoriumMod.Items.Sandstone",
+    "Name": "Spell Book: Wind Gust",
+    "ToolTip": "'Unleashes a forceful burst of wind'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

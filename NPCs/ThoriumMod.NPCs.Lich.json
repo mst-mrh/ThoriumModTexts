@@ -1,0 +1,26 @@
+[
+  {
+    "TypeName": "Lich",
+    "Namespace": "ThoriumMod.NPCs.Lich",
+    "Name": "Lich",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "LichHeadless",
+    "Namespace": "ThoriumMod.NPCs.Lich",
+    "Name": "Lich",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ThousandSoulPhalactry",
+    "Namespace": "ThoriumMod.NPCs.Lich",
+    "Name": "ThousandSoulPhalactry",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

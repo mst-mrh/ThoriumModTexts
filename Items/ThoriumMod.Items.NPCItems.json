@@ -1,0 +1,1171 @@
+[
+  {
+    "TypeName": "AlienTech",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Strange Alien Tech",
+    "ToolTip": "'You barely understand this complicated machinery'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Altar",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Altar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientDrachma",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ancient Drachma",
+    "ToolTip": "Summons a curious bag of ancient coins",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ArmorBane",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Armor Bane",
+    "ToolTip": "Turns musket balls into 'Bane Bolters'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Bane Bolters will apply fire and ichor to hit enemies very briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AstroBeetleHusk",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Astro-Beetle Husk",
+    "ToolTip": "Damage taken reduced by 10%",
+    "ToolTip2": "Maximum life increased by 20",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BackStabber",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Back Stabber",
+    "ToolTip": "Damaging the back of an enemy will always critically strike",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BallnChain",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ball n' Chain",
+    "ToolTip": "'This thing is pretty heavy'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Defense increased by 6",
+      "Movement speed and jump height decreased"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BatRepellent",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Bat Repellent",
+    "ToolTip": "Will keep most bats from damaging you",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one repellent may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BattleHorn",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Cracked Battle Horn",
+    "ToolTip": "Calls forth a ridable Warg",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "While mounted, damage done is increased by 5%"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BentZombieArm",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Bent Zombie Arm",
+    "ToolTip": "'The confused zombie's favorite arm... His left one'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlackCatEars",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ebony Ears",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlackHammer",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "The Black Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlacksmithApron",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Blacksmith's Apron",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Forging power increased by 15%! ...Not really'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlisterSack",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Blister Sack",
+    "ToolTip": "Summons an annoying blister to follow you around",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Blood",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Blood",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Who knows how you're holding it?'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BloodPact",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Blood Pact",
+    "ToolTip": "Frees the Weapon Master of his contract",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "If a new weapon master is present, nothing will occur"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BoneFlayerTail",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Bone Flayer Tail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BrokenDarksteelHelmet",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Broken Darksteel Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Its too damaged to offer any real protection...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BulletStorm",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Bullet Storm",
+    "ToolTip": "Rapidly fires inaccurate bullets",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CactusFruit",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Cactus Fruit",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Despite the spikes, it looks kinda tasty...'",
+      "Grants immunity to status effect debuffs upon consumption",
+      "2 minute duration"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChefHat",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Cook's Hat",
+    "ToolTip": "'The iron chef has nothing on you'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Chum",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Chum",
+    "ToolTip": "'This chum will surely attract some hungry sea life'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CooksApron",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Cook's Apron",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The iron chef has nothing on you'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CrabClaw",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Massive Crab Claw",
+    "ToolTip": "Hitch a ride on a gigantic crab",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "While mounted, you can walk on liquids"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Dagger",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Blood Drenched Dagger",
+    "ToolTip": "Attacks will have a low chance to drop 'Blood', a crafting material",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DeathMirror",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Death Gazer's Glass",
+    "ToolTip": "'Those that often gaze upon their death quickly turn mad...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Teleports you to your last death location",
+      "Your death location is only stored after obtaining this item",
+      "Your death location is only stored for one minute"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DesecratedHeart",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Desecrated Heart",
+    "ToolTip": "Calls forth a ridable Starved",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "While mounted, critical strikes will have a chance to steal life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DesertWindRune",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Desert Wind Rune",
+    "ToolTip": "While in your inventory, throwing damage & velocity will be increased",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DetachedUFOBlaster",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Detached U.F.O. Blaster",
+    "ToolTip": "Fires a potent pulse of energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DiverLeggings",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Diver's Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Perfect for exploring the ocean'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DiverSuit",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Diver's Suit",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Perfect for exploring the ocean'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EbonyTail",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ebony Tail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Envenoms the hit target"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Eelrod",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Eel-rod",
+    "ToolTip": "Releases a burst of electric sparks that have a chance to paralyze the hit enemy very briefly",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EighthPlagueStaff",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Eighth Plague Staff",
+    "ToolTip": "Releases a swarm of locusts",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EmergencyAirTank",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Emergency Air Tank",
+    "ToolTip": "Will instantly refill your breath at critical levels",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EmergencyAirTankEmpty",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Empty Air Tank",
+    "ToolTip": "'The diver would surely be willing to refill this'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EvisceratingClaw",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Eviscerating Claw",
+    "ToolTip": "Has a chance to steal life on hit",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Executioner",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Executioner",
+    "ToolTip": "Attacks grant stacks of 'Execution', increasing melee damage and critical strike chance",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "At maximum stacks, attacks will decrease armor"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ExileBelt",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Exile's Garb",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ExileHelmet",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Exile's Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'When they turned their back on Terraria, he turned his back on them...'",
+      "10% reduced damage taken",
+      "12% increased damage",
+      "6% increased critical strike chance",
+      "Your Hired Demon will deal 35% more damage and apply shadowflame to hit enemies"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FishRepellent",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Fish Repellent",
+    "ToolTip": "Will keep most fish from damaging you",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one repellent may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FoldedMetal",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Folded Metal",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The blacksmith's secret masterpiece'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Fork",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Fork",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostPlagueStaff",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Frost Plague Staff",
+    "ToolTip": "Shoots a barrage of poisonous and frosty magic bolts",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GhostlyGrapple",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ghostly Grapple",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraveBuster",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Grave Buster",
+    "ToolTip": "Creates a wave of grasping bones",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HailBomber",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Hail Bomber",
+    "ToolTip": "Summons kamikaze snowmen that blow up upon hitting enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HexWand",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Hex Wand",
+    "ToolTip": "Turns the hit target into a frog",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " true damage"
+    ]
+  },
+  {
+    "TypeName": "HiveMind",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Hive Mind",
+    "ToolTip": "Temporarily increases minion damage for newly summoned minions",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HotPot",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Hot Pot",
+    "ToolTip": "Rapidly throws a leaky bottle of lava",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " throwing damage"
+    ]
+  },
+  {
+    "TypeName": "ImpactDrill",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Impact Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Right clicking will fire tile breaking drill heads"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JellyFishIdol",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Jellyfish Idol",
+    "ToolTip": "Summons a Jellyfish in a Bubble to follow you around",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "KineticKnife",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Kinetic Knife",
+    "ToolTip": "Casts a controllable knife slash",
+    "ToolTip2": "Deals additional damage if actively being slashed across enemies",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Knife",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Kitchen Knife",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Kunai",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Kunai",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LegionOrnament",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Legion Ornament",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LilTorpedo",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Lil' Torpedo",
+    "ToolTip": "Used with the Marine Launcher",
+    "ToolTip2": "Explodes upon impacting an enemy",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LivewireCrasher",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Livewire Crasher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineCatcher",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Marine Catcher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineLauncher",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Marine Launcher",
+    "ToolTip": "Uses Lil' Torpedoes as ammunition",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MeatBallStaff",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Meat Ball Staff",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a chilled ball of nefarious meat"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MinotaurSkull",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Minotaur Skull",
+    "ToolTip": "'Some of the dungeon's necromantic power has seeped into the skull'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases your max number of minions by 1",
+      "Increases minion damage by 5%",
+      "Decreases non-minion damage by 12%"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MoltenCollar",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Molten Collar",
+    "ToolTip": "Calls forth a ridable infernal hound",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "While mounted, you are immune to extreme heat"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NecromancersHeart",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Necromancer's Heart",
+    "ToolTip": "12% increased minion knockback",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NightShadePetal",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Night Shade Petal",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Damage done against poisoned enemies is increased by 12%"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Nimbus",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Nimbus",
+    "ToolTip": "'Happier days are on the horizon with this little fella'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a mountable Wyvern"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NinjaRack",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ninja Rack",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PaddedGrip",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Padded Grip",
+    "ToolTip": "-Throwing Grip-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Throwing speed increased by 8%"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PenguinHead",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Penguin Head",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PenguinWand",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Penguin Wand",
+    "ToolTip": "'Could bring the Moon Lord to his knees...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Does something cataclysmic on use"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PotentExtract",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Potent Extract",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Dont do drugs kids'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RangersCowl",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ranger's Cowl",
+    "ToolTip": "'Now you can brood in style'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RangersTunic",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Ranger's Tunic",
+    "ToolTip": "'Now you can brood in style'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Rapier",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Rapier",
+    "ToolTip": "Attacks grant 'parry stance', reducing damage taken briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RapierBadge",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Rapier Badge",
+    "ToolTip": "Taking damage will massively increase melee speed, damage, and critical strike chance briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RustySword",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Rusty Sword",
+    "ToolTip": "Attacks might poison the hit enemy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SacrificialDagger",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Sacrificial Dagger",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks against enemies have a chance to rip out part of their soul"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Scalper",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Scalper",
+    "ToolTip": "Releases a returning dagger on swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Scorpain",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Scorpain",
+    "ToolTip": "Envenoms the hit target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeaMine",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "The Sea Mine",
+    "ToolTip": "'You've gotta be a lunatic to wield an explosive device on a chain'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Can damage up to 4 enemies before violently exploding"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeveredHand",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Severed Hand",
+    "ToolTip": "'You've gotta be resourceful'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ShadeBand",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Shade Band",
+    "ToolTip": "Every eighth magic cast costs no mana",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SkeletonRepellent",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Skeleton Repellent",
+    "ToolTip": "Will keep most skeletons from damaging you",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one repellent may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SorcerorsMirror",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Sorcerer's Mirror",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Teleports you to a random location",
+      "Destabilizes your body for 10 seconds after use"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpellBookTeeth",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spell Book: Teeth",
+    "ToolTip": "Sends out life stealing teeth",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpikeBomb",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spike Bomb",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpineBuster",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spine Buster",
+    "ToolTip": "Turns musket balls into 'Blood Globules'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Blood Globules can penetrate infinitely, but move slowly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Spoon",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spoon",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Spud",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spud",
+    "ToolTip": "Becomes 'mashed' when it hits an enemy or tile",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpudBomber",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Spud Bomber",
+    "ToolTip": "'I suppose the Cook is quite the craftsman'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Uses spuds as ammunition"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThiefDagger",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Thief's Dagger",
+    "ToolTip": "Attacks will make the hit enemy drop more gold on death",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThoriumCube",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Thorium Cube",
+    "ToolTip": "'Jam this mineral onto your face, and play it cool...'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThrowingGuide",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Guide to Expert Throwing",
+    "ToolTip": "-Throwing Guide-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Throwing damage will duplicate itself for 1/5 of the damage"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThrowingGuideVolume2",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Guide to Expert Throwing : Volume II",
+    "ToolTip": "-Throwing Guide-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Throwing damage will duplicate itself for 1/4 of the damage"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ThrowingGuideVolume3",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Guide to Expert Throwing : Volume III",
+    "ToolTip": "-Throwing Guide-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Throwing damage will duplicate itself for 1/3 of the damage"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TommyGun",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Tommy Gun",
+    "ToolTip": "Turns musket balls into high velocity rounds",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UFOCommunicator",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Strange Communicator",
+    "ToolTip": "Summons a planetary visitor",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VegaPhaser",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Vega Phaser",
+    "ToolTip": "Has a chance to overcharge, releasing an unstable beam",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VialOfBlood",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Vial of Blood",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Quite gruesome'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VileSpitter",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Vile Spitter",
+    "ToolTip": "Shoots a volley of poison globules",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VoidHeart",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "The Void Heart",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'This strange object seems to have originated from the Fallen Beholder's home dimension'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WarpSlicer",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Warp Slicer",
+    "ToolTip": "Sends out an energy wave on swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WeirdMud",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Annoying Mud",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The Mudmen's true attack; Ruining your inventory space!'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WhaleSummon",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "How to speak Whale: A Biography",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Summons a mountable Whale"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WhirlpoolSaber",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Whirlpool Saber",
+    "ToolTip": "'Forged from the tides'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Swings unleash a torrential pulse with high knockback",
+      "The pulse can phase through walls"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ZombieRepellent",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "Zombie Repellent",
+    "ToolTip": "Will keep most zombies from damaging you",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one repellent may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

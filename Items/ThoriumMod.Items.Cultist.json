@@ -1,0 +1,82 @@
+[
+  {
+    "TypeName": "AncientFlame",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Ancient Flame",
+    "ToolTip": "Summons multiple beams of volatile heat",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientFrost",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Ancient Frost",
+    "ToolTip": "Releases a freezing surge of ice magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientLight",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Ancient Light",
+    "ToolTip": "Creates a barrage of primordial light",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientSpark",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Ancient Spark",
+    "ToolTip": "Summons a volatile sphere of arcing electricity",
+    "ToolTip2": "Critical strikes will briefly paralyze hit enemies",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CultistBag",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LunaticsHood",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Lunatic's Prime Hood",
+    "ToolTip": "'Fit the part of a true fanatic'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LunaticsLeggings",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Lunatic's Prime Leggings",
+    "ToolTip": "'Fit the part of a true fanatic'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LunaticsRobe",
+    "Namespace": "ThoriumMod.Items.Cultist",
+    "Name": "Lunatic's Prime Robe",
+    "ToolTip": "'Fit the part of a true fanatic'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "TypeName": "AbominationBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Abomination Banner",
+    "ToolTip": "Nearby players get a bonus against: Abomination",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientArcherBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Ancient Archer Banner",
+    "ToolTip": "Nearby players get a bonus against: Ancient Archer",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientChargerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Ancient Charger Banner",
+    "ToolTip": "Nearby players get a bonus against: Ancient Charger",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AncientPhalanxBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Ancient Phalanx Banner",
+    "ToolTip": "Nearby players get a bonus against: Ancient Phalanx",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ArmyAntBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Army Ant Banner",
+    "ToolTip": "Nearby players get a bonus against: Army Ant",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AstroBeetleBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Astro Beetle Banner",
+    "ToolTip": "Nearby players get a bonus against: Astro Beetle",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BarracudaBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Barracuda Banner",
+    "ToolTip": "Nearby players get a bonus against: Barracuda",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BiterBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Biter Banner",
+    "ToolTip": "Nearby players get a bonus against: Biter",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlisterPodBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Blister Pod Banner",
+    "ToolTip": "Nearby players get a bonus against: Blister Pod",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlizzardBatBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Blizzard Bat Banner",
+    "ToolTip": "Nearby players get a bonus against: Blizzard Bat",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BoneFlayerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Bone Flayer Banner",
+    "ToolTip": "Nearby players get a bonus against: Bone Flayer",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChilledCannonBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Chilled Cannon Banner",
+    "ToolTip": "Nearby players get a bonus against: Chilled Cannon",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChilledSpitterBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Chilled Spitter Banner",
+    "ToolTip": "Nearby players get a bonus against: Chilled Spitter",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CoinBagBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Coin Bag Banner",
+    "ToolTip": "Nearby players get a bonus against: Coin Bags",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ColdlingBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Coldling Banner",
+    "ToolTip": "Nearby players get a bonus against: Coldling",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CoolmeraBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Coolmera Banner",
+    "ToolTip": "Nearby players get a bonus against: Coolmera",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CrimipedeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Crimipede Banner",
+    "ToolTip": "Nearby players get a bonus against: Crimipede",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CrownBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Crown of Thorns Banner",
+    "ToolTip": "Nearby players get a bonus against: Crown of Thorns",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DarksteelKnightBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Darksteel Knight Banner",
+    "ToolTip": "Nearby players get a bonus against: Darksteel Knight",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DragonHornetBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Dragon Hornet Banner",
+    "ToolTip": "Nearby players get a bonus against: Dragon Hornet",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EarthenBatBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Earthen Bat Banner",
+    "ToolTip": "Nearby players get a bonus against: Earthen Bat",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EarthenGolemBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Earthen Golem Banner",
+    "ToolTip": "Nearby players get a bonus against: Earthen Golem",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ElderMinotaurBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Raging Minotaur Banner",
+    "ToolTip": "Nearby players get a bonus against: Raging Minotaur",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FeedingFrenzyBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Feeding Frenzy Banner",
+    "ToolTip": "Nearby players get a bonus against: Feeding Frenzy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FesteringWalkerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Festering Walker Banner",
+    "ToolTip": "Nearby players get a bonus against: Festering Walker",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FleshHornetBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Fleshy Hornet Banner",
+    "ToolTip": "Nearby players get a bonus against: Fleshy Hornet",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FlyingBioMassBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Flying Bio-Mass Banner",
+    "ToolTip": "Nearby players get a bonus against: Flying Bio-Mass",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FreezerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Freezer Banner",
+    "ToolTip": "Nearby players get a bonus against: Freezer",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostBurntBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Frost Burnt Banner",
+    "ToolTip": "Nearby players get a bonus against: Frost Burnt",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostWormBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Frost Wurm Banner",
+    "ToolTip": "Nearby players get a bonus against: Frost Wurm",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostyWispBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Chilling Wisp Banner",
+    "ToolTip": "Nearby players get a bonus against: Chilling Wisp",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrozenFaceBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Frozen Face Banner",
+    "ToolTip": "Nearby players get a bonus against: Frozen Face",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrozenGrossBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Frozen Gross Banner",
+    "ToolTip": "Nearby players get a bonus against: Frozen Gross",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GelatinousCubeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Gelatinous Cube Banner",
+    "ToolTip": "Nearby players get a bonus against: Gelatinous Cube",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GigaClamBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Giga Clam Banner",
+    "ToolTip": "Nearby players get a bonus against: Giga Clam",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GlitteringGolemBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Glittering Golem Banner",
+    "ToolTip": "Nearby players get a bonus against: Glittering Golem",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoblinTrapperBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Goblin Trapper Banner",
+    "ToolTip": "Nearby players get a bonus against: Goblin Trapper",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoldBatBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Radiant Bat Banner",
+    "ToolTip": "Nearby players get a bonus against: Radiant Bat",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoldSlimeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Radiant Slime Banner",
+    "ToolTip": "Nearby players get a bonus against: Radiant Slime",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GoldWorgBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Golden Worg Banner",
+    "ToolTip": "Nearby players get a bonus against: Gold Worg",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GorganHeadBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Gorgon Head Banner",
+    "ToolTip": "Nearby players get a bonus against: Gorgon Head",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GorgedEyeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Gorged Eye Banner",
+    "ToolTip": "Nearby players get a bonus against: Gorged Eye",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteEradicatorBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Granite Eradicator Banner",
+    "ToolTip": "Nearby players get a bonus against: Granite Eradicator",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteFusedSlimeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Granite-Fused Slime Banner",
+    "ToolTip": "Nearby players get a bonus against: Granite-Fused Slime",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteSurgeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Granite Surge Banner",
+    "ToolTip": "Nearby players get a bonus against: Granite Surge",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraveLimbBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Grave Limb Banner",
+    "ToolTip": "Nearby players get a bonus against: Grave Limb",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HallucinationBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Mysterious Banner",
+    "ToolTip": "Nearby players get a bonus against: ???",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HammerHeadBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Hammerhead Banner",
+    "ToolTip": "Nearby players get a bonus against: Hammerhead",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HoppingSpiderBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Hopping Spider Banner",
+    "ToolTip": "Nearby players get a bonus against: Hopping Spider",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HorrorBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Horrific Charger Banner",
+    "ToolTip": "Nearby players get a bonus against: Horrific Charger",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ImpaledZombieBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Impaled Zombie Banner",
+    "ToolTip": "Nearby players get a bonus against: Impaled Zombie",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "InfernalHoundBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Infernal Hound Banner",
+    "ToolTip": "Nearby players get a bonus against: Infernal Hound",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "InvaderBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Hostile Invader Banner",
+    "ToolTip": "Nearby players get a bonus against: Hostile Invader",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "KrakenBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Kraken Banner",
+    "ToolTip": "Nearby players get a bonus against: Kraken",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LihzardMimicBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Lihzard Mimic Banner",
+    "ToolTip": "Nearby players get a bonus against: Lihzard Mimic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LihzardPotMimicBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Lihzard Pot Banner",
+    "ToolTip": "Nearby players get a bonus against: Lihzard Pot",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LivingHemorageBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Living Hemorrhage Banner",
+    "ToolTip": "Nearby players get a bonus against: Living Hemorrhage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LostProbeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Lost Probe Banner",
+    "ToolTip": "Nearby players get a bonus against: Lost Probe",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MahoganyEntBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Mahogany Ent Banner",
+    "ToolTip": "Nearby players get a bonus against: Mahogany Ent",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManofWarBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Man o' War Banner",
+    "ToolTip": "Nearby players get a bonus against: Man o' War",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MoltenMortarBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Molten Mortar Banner",
+    "ToolTip": "Nearby players get a bonus against: Molten Mortar",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MorayBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Moray Banner",
+    "ToolTip": "Nearby players get a bonus against: Moray",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MudManBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Mud Man Banner",
+    "ToolTip": "Nearby players get a bonus against: Mud Man",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NecroPotBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Necro Pot Banner",
+    "ToolTip": "Nearby players get a bonus against: Necro Pot",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NecroticImbuerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Necrotic Imbuer Banner",
+    "ToolTip": "Nearby players get a bonus against: Necrotic Imbuer",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NestlingBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Nestling Banner",
+    "ToolTip": "Nearby players get a bonus against: Nestling",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OctopusBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Octopus Banner",
+    "ToolTip": "Nearby players get a bonus against: Octopus",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ShamblerBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Shambler Banner",
+    "ToolTip": "Nearby players get a bonus against: Shambler",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SharptoothBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Sharp Tooth Banner",
+    "ToolTip": "Nearby players get a bonus against: Sharp Tooth",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SnowballBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Snow Ball Banner",
+    "ToolTip": "Nearby players get a bonus against: Snow Ball",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SnowEaterBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Snow Eater Banner",
+    "ToolTip": "Nearby players get a bonus against: Snow Eater",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SnowyOwlBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Snowy Owl Banner",
+    "ToolTip": "Nearby players get a bonus against: Snowy Owl",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SolPriestessBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Sol Priestess Banner",
+    "ToolTip": "Nearby players get a bonus against: Sol Priestess",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpaceSlimeBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Space Slime Banner",
+    "ToolTip": "Nearby players get a bonus against: Space Slime",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarvedBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "The Starved Banner",
+    "ToolTip": "Nearby players get a bonus against: The Starved",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StrangeBulbBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Strange Bulb Banner",
+    "ToolTip": "Nearby players get a bonus against: Strange Bulb",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TheInnocentBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "The Innocent Banner",
+    "ToolTip": "Nearby players get a bonus against: The Innocent",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UFOBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "U.F.O. Banner",
+    "ToolTip": "Nearby players get a bonus against: U.F.O",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UnderworldPotBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Underworld Pot Banner",
+    "ToolTip": "Nearby players get a bonus against: Underworld Pot",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UnstableIceAnomalyBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Unstable Ice Anomaly Banner",
+    "ToolTip": "Nearby players get a bonus against: Unstable Ice Anomaly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VileSpitterBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Vile Floater Banner",
+    "ToolTip": "Nearby players get a bonus against: Vile Floater",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VoltBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Volt Eel Banner",
+    "ToolTip": "Nearby players get a bonus against: Volt Eel",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WargBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Warg Banner",
+    "ToolTip": "Nearby players get a bonus against: Blood Hungry Warg",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WindElementalBanner",
+    "Namespace": "ThoriumMod.Items.Banners",
+    "Name": "Wind Elemental Banner",
+    "ToolTip": "Nearby players get a bonus against: Wind Elemental",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

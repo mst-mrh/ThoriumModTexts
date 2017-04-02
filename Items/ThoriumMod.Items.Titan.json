@@ -1,0 +1,180 @@
+[
+  {
+    "TypeName": "TitanBar",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titanic Bar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Energy of days past, lies within'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanBoomerang",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Boomerang",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Critical strikes will deal additional damage",
+      "Three boomerangs may be out at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanBow",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Critical strikes will deal additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanBreastplate",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with primordial energy'"
+    ],
+    "AddToolTip2": [
+      "8% increased critical strike chance"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanGreaves",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with primordial energy'"
+    ],
+    "AddToolTip2": [
+      "15% increased movement speed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanHammer",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanHeadgear",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Headgear",
+    "ToolTip": "'Infused with primordial energy'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases maximum mana by 80",
+      "15% reduced mana usage",
+      "Casting spells beneath 75 current mana will deal increased damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanHelmet",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Helmet",
+    "ToolTip": "'Infused with primordial energy'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased melee speed",
+      "Increases length of invincibility after taking damage",
+      "Grants immunity to knockback"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanJavelin",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Javelin",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Critical strikes will deal additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanMask",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Mask",
+    "ToolTip": "'Infused with primordial energy'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Your ranged attacks are enchanted",
+      "Decreases chance to consume ammo by 25%",
+      "Grants vision of enemy positions"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanPax",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Pax",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanScythe",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Scythe",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Rapidly spins a titanic scythe all around you",
+      "Critical strikes will deal additional damage"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "TitanSword",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Sword",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Releases a pulse of titanic energy on use",
+      "Critical strikes will deal additional damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitanWings",
+    "Namespace": "ThoriumMod.Items.Titan",
+    "Name": "Titan Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

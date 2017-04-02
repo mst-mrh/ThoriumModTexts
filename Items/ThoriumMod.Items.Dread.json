@@ -1,0 +1,184 @@
+[
+  {
+    "TypeName": "DreadChainSaw",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadChestPlate",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with the souls of the damned'",
+      "20% increased melee damage",
+      "12% increased melee speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadDrill",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadEye",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Eye",
+    "ToolTip": "Allows you to detect enemies and hazards around you",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadFork",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Fork",
+    "ToolTip": "Sends out a volatile after image",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The after image will burn the hit target"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadGreaves",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with the souls of the damned'",
+      "18% increased movement speed",
+      "12% increased melee speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadHamaxe",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadJackHammer",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadLauncher",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Launcher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadPick",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadRazor",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Razor",
+    "ToolTip": "Has a chance to unleash a Cursed Soul on swing",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The Cursed Soul corrupts the hit target"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadSkull",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Skull",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with the souls of the damned'",
+      "10% increased melee critical strike chance",
+      "12% increased melee speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadSoul",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Soul",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A Coalesced rift between this world, and the next'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadStabber",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Stabber",
+    "ToolTip": "Unleashes a Cursed Soul on swing",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The Cursed Soul corrupts the hit target"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadStaff",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Staff",
+    "ToolTip": "Unleashes a highly concentrated pulse of flame, that can hit the same enemy multiple times",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Each hit will summon a dread particle to cause extra damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DreadWings",
+    "Namespace": "ThoriumMod.Items.Dread",
+    "Name": "Dread Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

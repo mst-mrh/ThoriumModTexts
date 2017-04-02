@@ -1,0 +1,132 @@
+[
+  {
+    "TypeName": "HarbingerBlade",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Blade",
+    "ToolTip": "Has a chance to unleash a surge of defense decreasing magic",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerBow",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Bow",
+    "ToolTip": "Turns any arrow into a 'Harbinger Arrow'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Harbinger arrows leaves a constant echo of energy that will lower the defense of enemies that touch it"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerCatalyst",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Catalyst",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Only someone with incredible magical control can utilize this'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerChestGuard",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Chestguard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increased mana regeneration",
+      "10% Increased magic damage",
+      "2% Increased magic critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerGreaves",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increased mana regeneration",
+      "5% Increased magic damage",
+      "4% Increased magic critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerHamaxe",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerHelmet",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increased mana regeneration",
+      "5% Increased magic damage",
+      "4% Increased magic critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerPickAxe",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerSpear",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Spear",
+    "ToolTip": "Sends out a volatile after image",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The after image will decrease armor"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerSurgeWand",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Surge Wand",
+    "ToolTip": "Shoots out a defense decreasing magical time bomb",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "After 3 seconds, hitting three enemies, or colliding with a tile, the orb will explode violently"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HarbingerWings",
+    "Namespace": "ThoriumMod.Items.Harbinger",
+    "Name": "Harbinger Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

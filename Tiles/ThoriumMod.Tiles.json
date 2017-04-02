@@ -1,0 +1,587 @@
+[
+  {
+    "TypeName": "Altar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Altar"
+  },
+  {
+    "TypeName": "Aquaite",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Aquaite"
+  },
+  {
+    "TypeName": "AquaiteBar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Aquaite Bar"
+  },
+  {
+    "TypeName": "AquaiteBare",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Aquaite"
+  },
+  {
+    "TypeName": "AquaticBar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Aquatic Bar"
+  },
+  {
+    "TypeName": "AquaticDepthsBanner",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "ArcaneArmorFabricator",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Arcane Armor Fabricator"
+  },
+  {
+    "TypeName": "Brack",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "BrackBare",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "DarksteelBar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Darksteel Alloy"
+  },
+  {
+    "TypeName": "DarksteelKnightHelmetTile",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Darksteel Helmet Stand"
+  },
+  {
+    "TypeName": "DepthChestTile",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "DepthsMusicBox",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Music Box"
+  },
+  {
+    "TypeName": "GrayDPainting",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Painting"
+  },
+  {
+    "TypeName": "GrimPedestal",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Grim Pedestal"
+  },
+  {
+    "TypeName": "HomeTokenTile",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "IllumiteChunk",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Illumite"
+  },
+  {
+    "TypeName": "IllumiteIngot",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Illumite Ingot"
+  },
+  {
+    "TypeName": "LifeQuartz",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Life Quartz"
+  },
+  {
+    "TypeName": "LodeStone",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Lodestone"
+  },
+  {
+    "TypeName": "LodestoneIngot",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Lodestone Ingot"
+  },
+  {
+    "TypeName": "MagmaOre",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Magma Ore"
+  },
+  {
+    "TypeName": "ManaBerry",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineCandle",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Candle"
+  },
+  {
+    "TypeName": "MarineChair",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Chair"
+  },
+  {
+    "TypeName": "MarineChandelier",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Chandelier"
+  },
+  {
+    "TypeName": "MarineDoorClosed",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Door"
+  },
+  {
+    "TypeName": "MarineDoorOpen",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Door"
+  },
+  {
+    "TypeName": "MarineGrass",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineGrass2",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineGrass3",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineKelp",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Kelp"
+  },
+  {
+    "TypeName": "MarineLamp",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Lamp"
+  },
+  {
+    "TypeName": "MarineLantern",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Lantern"
+  },
+  {
+    "TypeName": "MarineRock",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineRockBare",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineRockMoss",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineRockMossBare",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "MarineTable",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Table"
+  },
+  {
+    "TypeName": "MarineWorkbench",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Marine Workbench"
+  },
+  {
+    "TypeName": "Medicite",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Medicite"
+  },
+  {
+    "TypeName": "MonsterBanner",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner11",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner12",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner13",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner14",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner15",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner16",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner17",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner18",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner20",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner21",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner22",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner23",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner26",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner27",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner28",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner29",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner30",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner31",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner32",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner33",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner34",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner35",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner36",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner37",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner38",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner39",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner40",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner41",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner42",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner45",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner6",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner7",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner8",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBanner9",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerCold",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerCorrupt",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerGoblin",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerGranite",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerSnow",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerTemple",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerUnderground",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "MonsterBannerUnderworld",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Banner"
+  },
+  {
+    "TypeName": "NinjaRack",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Ninja Rack"
+  },
+  {
+    "TypeName": "PearlStone",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Buried Pearl"
+  },
+  {
+    "TypeName": "PlacedPearl",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Pearl"
+  },
+  {
+    "TypeName": "RecipeCatalog",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Ultimate Recipe Catalog"
+  },
+  {
+    "TypeName": "RefinedMarineBlock",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Refined Marine Block"
+  },
+  {
+    "TypeName": "ScaleBlockTile",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Aquaite Scale Block"
+  },
+  {
+    "TypeName": "SmoothCoal",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Smooth Coal"
+  },
+  {
+    "TypeName": "SoulForge",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Soul Forge"
+  },
+  {
+    "TypeName": "StrangeCrate",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Strange Crate"
+  },
+  {
+    "TypeName": "SynthGold",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Gold"
+  },
+  {
+    "TypeName": "SynthPlatinum",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Platinum"
+  },
+  {
+    "TypeName": "ThoriumAnvil",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Anvil"
+  },
+  {
+    "TypeName": "ThoriumBar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Bar"
+  },
+  {
+    "TypeName": "ThoriumBookcase",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Bookcase"
+  },
+  {
+    "TypeName": "ThoriumBrick",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Block"
+  },
+  {
+    "TypeName": "ThoriumCandelabra",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Candelabra"
+  },
+  {
+    "TypeName": "ThoriumCandle",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Candle"
+  },
+  {
+    "TypeName": "ThoriumChair",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Chair"
+  },
+  {
+    "TypeName": "ThoriumChalice",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Chalice"
+  },
+  {
+    "TypeName": "ThoriumChandelier",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Chandelier"
+  },
+  {
+    "TypeName": "ThoriumDoorClosed",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Door"
+  },
+  {
+    "TypeName": "ThoriumDoorOpen",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Door"
+  },
+  {
+    "TypeName": "ThoriumLamp",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Lamp"
+  },
+  {
+    "TypeName": "ThoriumLantern",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Lantern"
+  },
+  {
+    "TypeName": "ThoriumOre",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium"
+  },
+  {
+    "TypeName": "ThoriumPlatform",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": ""
+  },
+  {
+    "TypeName": "ThoriumSink",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Sink"
+  },
+  {
+    "TypeName": "ThoriumTable",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Table"
+  },
+  {
+    "TypeName": "ThoriumWorkbench",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Thorium Workbench"
+  },
+  {
+    "TypeName": "TitanBar",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Titan Bar"
+  },
+  {
+    "TypeName": "Trophies",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Trophy"
+  },
+  {
+    "TypeName": "ValadiumChunk",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Valadium"
+  },
+  {
+    "TypeName": "ValadiumIngot",
+    "Namespace": "ThoriumMod.Tiles",
+    "Name": "Valadium Ingot"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "TypeName": "OceanEssence",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Ocean Essence",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Spark of the ever moving tides'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceansJudgment",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Ocean's Judgement",
+    "ToolTip": "Rapidly unleash hammers of condensed water that rain volatile droplets from the sky",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SevenSeasBreaker",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Seven Seas Devastator",
+    "ToolTip": "Unleashes an incredibly powerful aquatic ball of water",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TidalWave",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Tidal Wave",
+    "ToolTip": "Throws out aquatic shurikens that stagnate mid-air, then unleash tidal waves",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideTurnerBreastplate",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Tide Turner's Depth-Guard",
+    "ToolTip": "'Turn the tide of battle!'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% increased melee & throwing damage",
+      "16% increased melee & throwing critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideTurnerGreaves",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Tide Turner's Depth-Walkers",
+    "ToolTip": "'Turn the tide of battle!'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased melee & throwing damage",
+      "25% increased melee speed & throwing velocity",
+      "20% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideTurnerHelmet",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Tide Turner's Depth-Helmet",
+    "ToolTip": "'Become as unstoppable as the tides...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased melee damage",
+      "Damage taken reduced by 15%",
+      "Life regeneration increased by 5"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideTurnersGaze",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Tide Turner's Depth-Crown",
+    "ToolTip": "'Unleash aquatic wrath upon your foes...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "40% increased throwing damage",
+      "50% chance not to consume thrown items",
+      "Throwing damage might overflow enemies with energy"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Trefork",
+    "Namespace": "ThoriumMod.Items.EndofDays.Aqua",
+    "Name": "Deity's Trefork",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Rapidly throws aquatic tridents that release water daggers all around them"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

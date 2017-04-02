@@ -1,0 +1,120 @@
+[
+  {
+    "TypeName": "BronzeBreastplate",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Deities watch over you...'",
+      "8% increased melee and thrown damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeFragments",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Alloy Fragments",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Its amazing quality has not been lost to time'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeGladius",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Gladius",
+    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeGreaves",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Deities watch over you...'",
+      "5% increased melee & throwing speed",
+      "5% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeHelmet",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Deities watch over you...'",
+      "5% increased melee and thrown critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeMallet",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzePax",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Pax",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeSpear",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Spear",
+    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BronzeThrowing",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Bronze Throwing Axe",
+    "ToolTip": "Attacks might petrify the enemy, stopping them in place",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GorganGazeStaff",
+    "Namespace": "ThoriumMod.Items.Bronze",
+    "Name": "Gorgan Gaze Staff",
+    "ToolTip": "Attempts to petrify an enemy under your cursor",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

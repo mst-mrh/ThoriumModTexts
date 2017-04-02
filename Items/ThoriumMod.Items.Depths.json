@@ -1,0 +1,538 @@
+[
+  {
+    "TypeName": "AbyssalChitin",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Abyssal Chitin",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Formed in an environment even deeper and darker than the aquatic depths...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AnglerBowl",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Agnor's Bowl",
+    "ToolTip": "'This little angler fish just hates the dark...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Brightens the area directly in front of you while in water"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Aquaite",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Aquaite",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A fragment of the primordial ocean'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AquaiteBar",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Aquaite Bar",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Condensation clings to the bar'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "AquaPotion",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Aqua Potion",
+    "ToolTip": "Grants uninhibited water movement",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BrackMud",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Brackish Clump",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Can be used at the Extractinator"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CartlidgedCatcher",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Cartlidged Catcher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthChest",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Depth Chest",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthDiverChestplate",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Depth Diver's Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Become a selfless protector'",
+      "Nearby allies gain 8% increased damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthDiverGreaves",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Depth Diver's Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Become a selfless protector'",
+      "Nearby allies gain 10% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthDiverHelmet",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Depth Diver's Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Become a selfless protector'",
+      "Critical strike chance increased by 6%",
+      "You and all nearby allies can breathe underwater"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthScale",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Depth Scales",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Evolution has designed this for the deep...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DepthsMusicBox",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Music Box (Aquatic Depths)",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DrenchedDirk",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Drenched Dirk",
+    "ToolTip": "Wildly stabs in a frontal cone",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrenzyPotion",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Frenzy Potion",
+    "ToolTip": "Increases melee, firing, casting, throwing and healing speed by 8%",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GeyserStaff",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Geyser Staff",
+    "ToolTip": "Releases a moving spout of water",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GlowingPotion",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Glowing Potion",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Increases radiant damage by 12%"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HydroAxe",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Hydro Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HydroCannon",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Hydro Cannon",
+    "ToolTip": "Rapidly releases hydro blasts",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HydroMallet",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Hydro Mallet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HydroPickaxe",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Hydro Pickaxe",
+    "ToolTip": "Tool speed increased while wet",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Illustrious",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Illustrious",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IridescentGreaves",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Iridescent Greaves",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "10% increased radiant damage",
+      "8% increased movement speed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IridescentHelmet",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Iridescent Helmet",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "16% increased radiant damage"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IridescentMail",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Iridescent Mail",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "12% increased radiant damage",
+      "8% increased radiant critical strike chance"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Leviathan",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Leviathan",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MagicConch",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Magic Conch",
+    "ToolTip": "Creates a barrage of enemy lifting bubbles",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineKelp",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Marine Kelp",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineKelpSeeds",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Marine Kelp Seeds",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Grows on mossy marine Rock"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineRock",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Marine Rock",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MarineRockMoss",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Mossy Marine Rock",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NagaSkinMask",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Naga-Skin Mask",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Garb of the original aquatic casters'",
+      "Maximum mana increased by 60",
+      "Allows you to breathe underwater"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NagaSkinSuit",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Naga-Skin Suit",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Garb of the original aquatic casters'",
+      "Magic damage increased by 10%",
+      "Increased mana regeneration"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "NagaSkinTail",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Naga-Skin Tail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Garb of the original aquatic casters'",
+      "Magic damage increased by 8%",
+      "Allows quicker movement in water"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OceanRetaliation",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Ocean's Retaliation",
+    "ToolTip": "-Life Guard-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Defense increased by 3",
+      "Taking more than 4 damage will unleash a globule of life energy",
+      "Touching the globule will recover 35% of the damage you took",
+      "30% of the damage you take is returned back to the enemy",
+      "Enemies that directly attack you will be poisoned and envenomed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Pearl",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Pearl",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Bright, shiny, and perfectly formed'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PearlPike",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Pearl Pike",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Successfully hitting an enemy will increase your movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "RainStone",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Rain Stone",
+    "ToolTip": "'It's said that this strange stone was torn from an entity that could control the seas...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Activates or cancels a rainstorm"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeaTurtlesBulwark",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Sea Turtle's Mystical Bulwark",
+    "ToolTip": "-Life Guard-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Defense increased by 2",
+      "Taking more than 4 damage will unleash a mote of life energy",
+      "Touching the mote will recover 25% of the damage you took"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SharkStorm",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Shark Storm",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "35% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpinyShell",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Spiny Shell",
+    "ToolTip": "45% of the damage you take is returned back to the enemy",
+    "ToolTip2": "Enemies that directly attack you will be poisoned and envenomed",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpringWater",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Spring Water",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarfishSlicer",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Sea Ninja-Star",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Sticks to surfaces"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideHunterCap",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Tide Hunter's Cap",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Not just for hunting fish'",
+      "4% increased ranged critical strike chance",
+      "Allows you to breathe underwater"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideHunterChestpiece",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Tide Hunter Chestpiece",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Not just for hunting fish'",
+      "10% increased ranged damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TideHunterLeggings",
+    "Namespace": "ThoriumMod.Items.Depths",
+    "Name": "Tide Hunter Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Not just for hunting fish'",
+      "10% increased ranged critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

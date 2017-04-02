@@ -1,0 +1,166 @@
+[
+  {
+    "TypeName": "ValadiumAxe",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumBattleAxe",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Battleaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will blast enemies with inter-dimensional energy"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumBow",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Bow",
+    "ToolTip": "Arrows shot from this bow will temporarily blast enemies with inter-dimensional energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumBreastPlate",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% increased ranged critical strike chance",
+      "10% increased ranged damage",
+      "20% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumChunk",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Chunk",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'From another plane of existence'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumFoeBlaster",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Foe Blaster",
+    "ToolTip": "Bullets shot from this gun will temporarily blast enemies with inter-dimensional energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumGreaves",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "2% increased ranged critical strike chance",
+      "5% increased ranged damage",
+      "8% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumHammer",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Hammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumHelmet",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased ranged critical strike chance",
+      "5% increased ranged damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumIngot",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Ingot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Holds gravitational power'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumPickaxe",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumSlicer",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Slicer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will blast enemies with inter-dimensional energy",
+      "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumSpear",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Spear",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will blast enemies with inter-dimensional energy"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ValadiumStaff",
+    "Namespace": "ThoriumMod.Items.Valadium",
+    "Name": "Valadium Staff",
+    "ToolTip": "Unleashes a slowly moving singularity that absorbs matter from all around it",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks will blast enemies with inter-dimensional energy briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

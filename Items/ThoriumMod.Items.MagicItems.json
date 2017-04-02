@@ -1,0 +1,339 @@
+[
+  {
+    "TypeName": "AdamantiteStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Adamantite Staff",
+    "ToolTip": "Summons an adamantite entity to shoot three pulses at your cursors location",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BlackholeCannon",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Blackhole Cannon",
+    "ToolTip": "Shoots a pulse of energy that summons a singularity at the impact zone",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one singularity can be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Bloodboil",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Bloodboil",
+    "ToolTip": "Slowly boils the blood of enemies around your cursor",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ChlorophyteStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Chlorophyte Staff",
+    "ToolTip": "Rapidly shoots poison energy that explodes into spore clouds",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CobaltStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Cobalt Staff",
+    "ToolTip": "Shoots out two bouncy, reflective bolts of energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DarkWave",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Dark Wave",
+    "ToolTip": "Sends out a wave of dark energy, that eats away at enemies it hits briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DynastyWarFan",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Dynasty War Fan",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Enchantersword",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Enchanter's Sword",
+    "ToolTip": "Attacks replenish Mana and increase magical abilities slightly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HallowedCharm",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Hallowed Charm",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'It glimmers with comforting power'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HallowedStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Hallowed Staff",
+    "ToolTip": "Summons a barrage of enchanted swords at the mouse cursors location",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HighTide",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "High Tide",
+    "ToolTip": "Sends out a droplet of water that will create small tidal waves on impact",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "InfernoStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Inferno Staff",
+    "ToolTip": "Sends out a molten flare that will plume into a vertical surge of fire",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "JunglesWrath",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Jungle's Wrath",
+    "ToolTip": "Fires out a seed pod that explodes into poisonous spore clouds",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LightsLament",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Light's Lament",
+    "ToolTip": "Summons a star fuelled by pure twilight",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "When the star collides with a tile, it will unleash a star surge",
+      "Only one star surge may be active at once"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MythrilStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Mythril Staff",
+    "ToolTip": "Shoots out three bolts that will attempt to home in on enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OrichalcumStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Orichalcum Staff",
+    "ToolTip": "Rapidly releases a barrage of powerful petals",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PalladiumStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Palladium Staff",
+    "ToolTip": "Shoots out energy that shatters into multiple shards",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SpectrelBlade",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Spectral Blade",
+    "ToolTip": "Attacks replenish Mana and increase magical abilities greatly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SporeBook",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Spell Book: Spores",
+    "ToolTip": "Shoots out a homing spore pod that will infect enemies with 'The Glow'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Should the enemy die, more spore pods will be released"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StalagmiteBook",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Spell Book: Stalagmite",
+    "ToolTip": "Creates a wave of heating stalagmites",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerraStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Terra Staff",
+    "ToolTip": "Summons a portal at the target location that constantly unleashes an array of devastating attacks",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one portal can exist at a time"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TimeBook",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Spell Book: Time Gate",
+    "ToolTip": "Channels a large field of time slowing magic",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Enemies and hostile projectiles within the field are slowed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TitaniumStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Titanium Staff",
+    "ToolTip": "Summons a portal at the target location that constantly shoots razor blades at nearby enemies",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only one portal can exist at a time"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueBloodboil",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "True Bloodboil",
+    "ToolTip": "Violently boils the blood of enemies around your cursor and has a chance to hemorrhage the enemy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueEnchantersSword",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "True Enchanter's Sword",
+    "ToolTip": "Attacks replenish Mana and increase magical abilities moderately",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueHallowedStaff",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "True Hallowed Staff",
+    "ToolTip": "Summons a barrage of hallowed blades at the mouse cursors location",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TrueLightsLament",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "True Light's Lament",
+    "ToolTip": "Summons a star fuelled by pure evil",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "When the star collides with a tile, evil energies will barrage the impact zone"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "VesselBuster",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "Vessel Buster",
+    "ToolTip": "Sends out a short range splash of blood",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WhiteKnightLeggings",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "White Knight Leggings",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "10% increased magic damage"
+    ],
+    "AddToolTip2": [
+      "8% increased movement speed"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WhiteKnightMask",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "White Knight Mask",
+    "ToolTip": "8% increased magic damage",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "5% increased magic critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "WhiteKnightTabard",
+    "Namespace": "ThoriumMod.Items.MagicItems",
+    "Name": "White Knight Tabard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased magic damage"
+    ],
+    "AddToolTip2": [
+      "6% increased magic critical strike chance"
+    ],
+    "ModifyTooltips": []
+  }
+]

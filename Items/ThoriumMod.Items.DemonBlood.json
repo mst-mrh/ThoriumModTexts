@@ -1,0 +1,191 @@
+[
+  {
+    "TypeName": "DemonBloodBow",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Bow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
+      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodBreastPlate",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with Corrupt Blood'",
+      "10% chance to neutralize incoming, non-lethal damage",
+      "Maximum life increased by 10"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodChainSaw",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodCrossBow",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Crossbow",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
+      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodDrill",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodGreaves",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with Corrupt Blood'",
+      "15% increased movement speed",
+      "Maximum life increased by 10"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodHamaxe",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodHelmet",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Infused with Corrupt Blood'",
+      "10% increased critical strike chance",
+      "Maximum life increased by 10"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodJack",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodPickAxe",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodShard",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Shard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Complex amalgam of life blood and darkness'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodSpear",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Spear",
+    "ToolTip": "Sends out a volatile after image",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Dealing damage will grant you a 'Blood Charge'",
+      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodStaff",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Staff",
+    "ToolTip": "Unleashes a highly concentrated globule of blood, that can hit the same enemy multiple times",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Dealing damage will grant you a 'Blood Charge'",
+      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodSword",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Sword",
+    "ToolTip": "Unleashes a blood bolt on swing",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Dealing damage will grant you a 'Blood Charge'",
+      "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonBloodWings",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Wings",
+    "ToolTip": "Allows flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "DemonRageBadge",
+    "Namespace": "ThoriumMod.Items.DemonBlood",
+    "Name": "Demon Blood Badge",
+    "ToolTip": "Taking damage will increase defensive abilities briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

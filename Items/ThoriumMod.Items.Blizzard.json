@@ -1,0 +1,163 @@
+[
+  {
+    "TypeName": "BoreanBag",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BoreanTrophy",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Borean Strider Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CryoFang",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "The Cryo-Fang",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Causes an icy burst upon hitting an enemy or tile",
+      "Attacks might significantly hinder the hit enemies movement",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " throwing damage"
+    ]
+  },
+  {
+    "TypeName": "FreezeRay",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Freeze Ray",
+    "ToolTip": "Turns musket balls into beams of frost",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Frost Beams might significantly hinder the hit enemies movement",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostBurntTongue",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Frost Burnt Tongue",
+    "ToolTip": "'Those lost within the blizzard suffer a gruesome fate...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Significantly hinders the hit enemies movement",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " true damage"
+    ]
+  },
+  {
+    "TypeName": "FrostFang",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Borean Fang Staff",
+    "ToolTip": "Rapidly shoots frozen spider teeth that might significantly hinder the enemies movement",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GlacialSting",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Glacial Sting",
+    "ToolTip": "Turns wooden arrows into 'Glacial Arrows'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Glacial Arrows might significantly hinder the hit enemies movement",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GlacierFang",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Glacier",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Attacks have a chance to significantly hinder the enemies movement",
+      "Boss monsters cannot suffer from this effect"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceBoundStriderHide",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Ice Bound Strider Hide",
+    "ToolTip": "'Few things can survive the heart of a Terrarian Blizzard'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Damage done against slowed targets is increased by 15%",
+      "Damage done against slowed targets has a chance to heal you lightly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceFairyStaff",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Ice Fairy Staff",
+    "ToolTip": "Summons an icy fairy to freeze your foes",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LostMail",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Forgotten Letter",
+    "ToolTip": "Summons a Snowy Owl to watch over you",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StriderTear",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Strider's Tear",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'One of the coldest things you've ever held...'",
+      "Greatly increases the chance that a Borean Strider will appear",
+      "Can only be used during a blizzard"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TundraLordCrown",
+    "Namespace": "ThoriumMod.Items.Blizzard",
+    "Name": "Tundra Lord's Crash Helmet",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

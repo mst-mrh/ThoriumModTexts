@@ -1,0 +1,18 @@
+[
+  {
+    "TypeName": "CorpseBloom",
+    "Namespace": "ThoriumMod.NPCs.Bloom",
+    "Name": "CorpseBloom",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "CorpsePetal",
+    "Namespace": "ThoriumMod.NPCs.Bloom",
+    "Name": "CorpsePetal",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

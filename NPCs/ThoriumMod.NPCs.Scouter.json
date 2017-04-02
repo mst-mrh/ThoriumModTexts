@@ -1,0 +1,34 @@
+[
+  {
+    "TypeName": "CryoCore",
+    "Namespace": "ThoriumMod.NPCs.Scouter",
+    "Name": "CryoCore",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "MoltenCore",
+    "Namespace": "ThoriumMod.NPCs.Scouter",
+    "Name": "MoltenCore",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "PhaseCore",
+    "Namespace": "ThoriumMod.NPCs.Scouter",
+    "Name": "PhaseCore",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "ThePrimeScouter",
+    "Namespace": "ThoriumMod.NPCs.Scouter",
+    "Name": "ThePrimeScouter",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

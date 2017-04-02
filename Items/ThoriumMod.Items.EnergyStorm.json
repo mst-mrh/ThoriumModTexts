@@ -1,0 +1,110 @@
+[
+  {
+    "TypeName": "BoulderProbe",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Boulder Probe Staff",
+    "ToolTip": "Summons a floating mass of granite energy that continually zaps your cursors position",
+    "ToolTip2": "Right click to unsummon the probe early",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyMask",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Storm Mask",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyProjector",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Projector",
+    "ToolTip": "Projects a magical barrier of energy around you",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyStormBolter",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Storm Bolter",
+    "ToolTip": "Rapidly shoots homing energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyStormPartisan",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Storm Partisan",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Dealing damage two times in one use of this weapon will unleash an energized explosion"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EnergyStormTrophy",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Storm Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "EyeoftheStorm",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Eye of the Storm",
+    "ToolTip": "While equipped, energy will slowly seep out and attack nearby enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteBag",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GraniteEnergyStaff",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Energy Manipulator",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "An aura will surround your cursor for 12 seconds",
+      "Allies surrounded by the aura will receive increased damage and overflow hit enemies with energy",
+      "The caster cannot benefit from the auras effect"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "UnstableCore",
+    "Namespace": "ThoriumMod.Items.EnergyStorm",
+    "Name": "Unstable Core",
+    "ToolTip": "Summons a storm of dangerous energy",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Only usable deep underground"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "TypeName": "SickThrow",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "The Sick Throw",
+    "ToolTip": "Attacks blast enemies with elemental energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumBomber",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Bomber",
+    "ToolTip": "Rapidly fires compact rockets that explode violently",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Should only be used with Rocket I ammunition..."
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumBoots",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Particle Sprinters",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Provides the enhanced ability to walk on water, ice, fire blocks and lava",
+      "Allows flight",
+      "Increased flight time",
+      "The wearer can run impossibly fast"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumBreastPlate",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Breastplate",
+    "ToolTip": "'All will fall before your might...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum life increased by 20",
+      "Life regeneration increased by 3",
+      "Maximum mana increased by 20",
+      "15% increased damage",
+      "10% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumCanyonSplitter",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Canyon Splitter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumCore",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Core",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Unimaginable power rests within...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumDefender",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Defender",
+    "ToolTip": "-Omni Shield-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Grants immunity to most debuffs",
+      "Grants immunity to knockback and fire blocks",
+      "Life increased by 20",
+      "Prolonged after hit invincibility",
+      "Absorbs 25% of damage done to nearby players on your team when above 25% life",
+      "When below 75 life, the shield will rapidly regenerate your life",
+      "Increases defense greatly when below 100 life"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumFisher",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Whale Catcher",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumGreaves",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Greaves",
+    "ToolTip": "'All will fall before your might...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum life increased by 15",
+      "Life regeneration increased by 2",
+      "Maximum mana increased by 20",
+      "5% increased damage",
+      "20% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumHelmet",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Helmet",
+    "ToolTip": "'All will fall before your might...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Maximum life increased by 15",
+      "Life regeneration increased by 1",
+      "Maximum mana increased by 20",
+      "5% increased damage",
+      "Sight in the dark is improved"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumHolyScythe",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Holy Scythe",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Rapidly spins a prismatic scythe all around you",
+      "Releases damaging terrarium orbs all around you on use"
+    ],
+    "ModifyTooltips": [
+      "Damage",
+      " radiant damage"
+    ]
+  },
+  {
+    "TypeName": "TerrariumHyperDisc",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Hyper Disc",
+    "ToolTip": "'Holds devastating power'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumKnife",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Ripple Knife",
+    "ToolTip": "Throws a limitless supply of elementally infused energy knives",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " throwing damage"
+    ]
+  },
+  {
+    "TypeName": "TerrariumLongbow",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Longbow",
+    "ToolTip": "Does not consume fired arrows",
+    "ToolTip2": "Fires two additional terrarium arrows",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumPulseRifle",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Pulse Rifle",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "15% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumSaber",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Saber",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumSageStaff",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Sage Staff",
+    "ToolTip": "Fires an unstable globule of chromatic energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumShotPro",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Pulser Shot",
+    "ToolTip": "Hit enemies are sundered by elemental energy",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumSpear",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Spear",
+    "ToolTip": "Sends out a volatile after image",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumSummon",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Enigma Rift Staff",
+    "ToolTip": "Tears a rift into reality, bringing forth a volatile Enigma",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumTerrarformer",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Terrarformer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "TerrariumWings",
+    "Namespace": "ThoriumMod.Items.Terrarium",
+    "Name": "Terrarium Wings",
+    "ToolTip": "Allows heightened flight and slow fall",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Increases jump height",
+      "You give off a rainbow glow"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

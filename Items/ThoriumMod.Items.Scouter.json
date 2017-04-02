@@ -1,0 +1,108 @@
+[
+  {
+    "TypeName": "DistressCaller",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Distress Caller",
+    "ToolTip": "Summons a stationary U.F.O. to blast enemies below it with lasers",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GaussKnife",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Gauss Flinger",
+    "ToolTip": "Throws a limitless supply of energy daggers",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": [
+      "Damage",
+      " throwing damage"
+    ]
+  },
+  {
+    "TypeName": "GaussSpark",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Particle Whip",
+    "ToolTip": "Shoots a burst of lighting that will bounce to additional enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HitScanner",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Hit Scanner",
+    "ToolTip": "Musket balls shot from this gun will have no travel time",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "OmegaDrive",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Omega Drive",
+    "ToolTip": "Summons a pet probe that has offensive capabilities",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ScouterBag",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Treasure Bag",
+    "ToolTip": "Right click to open",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ScouterTrophy",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Scouter Trophy",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarCaller",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Star Caller",
+    "ToolTip": "'One should take proper precautions before contacting the unknown...'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Sends out a signal into outer space",
+      "Only usable high in the sky lands"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarMask",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Star Mask",
+    "ToolTip": "'Who's up for some star gazing?'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "StarTrail",
+    "Namespace": "ThoriumMod.Items.Scouter",
+    "Name": "Star Trail",
+    "ToolTip": "Releases a homing Graviton Surge on swing",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

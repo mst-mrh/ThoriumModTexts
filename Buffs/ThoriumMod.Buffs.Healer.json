@@ -1,0 +1,290 @@
+[
+  {
+    "TypeName": "AegisAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Protective Energy",
+    "Tip": "Damage reduction increased by 8%"
+  },
+  {
+    "TypeName": "AngelBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Lil' Cherub",
+    "Tip": "From your shoulder to the back line!"
+  },
+  {
+    "TypeName": "Awake",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Awake",
+    "Tip": "Cannot enter the dream..."
+  },
+  {
+    "TypeName": "BloodBoost",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Blood Boost",
+    "Tip": "An ally is augmenting your on-hit effects"
+  },
+  {
+    "TypeName": "BloomBoost",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Bloom Boost",
+    "Tip": "Your defense and life regeneration are increased"
+  },
+  {
+    "TypeName": "CelestialDamage",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Radiant Nova",
+    "Tip": "Radiant damage increased by 30%"
+  },
+  {
+    "TypeName": "CelestialHeal",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Healing Nova",
+    "Tip": "Healing spells will heal an additional 1 life"
+  },
+  {
+    "TypeName": "Cured",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Cured",
+    "Tip": "All damage inflicting debuffs have been dispelled"
+  },
+  {
+    "TypeName": "DevilBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Lil' Devil",
+    "Tip": "From your shoulder to the front line!"
+  },
+  {
+    "TypeName": "DistortedTime",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Distorted Reality",
+    "Tip": "The flow of time is being heavily influenced"
+  },
+  {
+    "TypeName": "DistortedTimeBoost",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Distorted Time",
+    "Tip": "The flow of time is being heavily influenced"
+  },
+  {
+    "TypeName": "DistortedTimeEnemy",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Distorted Time",
+    "Tip": "Time is slowing this enemy down"
+  },
+  {
+    "TypeName": "DragonHeart",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Dragon Heart",
+    "Tip": "Damage increased by 15%"
+  },
+  {
+    "TypeName": "DreamBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Dreaming",
+    "Tip": "Immune to all threats"
+  },
+  {
+    "TypeName": "DreamCatcherBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Dream Catcher",
+    "Tip": "Taking fatal damage will instead return you to max life"
+  },
+  {
+    "TypeName": "DreamCatcherDebuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Dream Caught",
+    "Tip": "You cannot be revived from the dream"
+  },
+  {
+    "TypeName": "GraniteAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Granite Energy",
+    "Tip": "An ally is augmenting your damage and on-hit effects"
+  },
+  {
+    "TypeName": "HealerDamageAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Damage",
+    "Tip": "Your ally is increasing your damage by 12%"
+  },
+  {
+    "TypeName": "HealerDefenseAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Defense",
+    "Tip": "Your ally is increasing your damage reduction by 12%"
+  },
+  {
+    "TypeName": "HealerManaAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Mana Regeneration",
+    "Tip": "Your ally is increasing your mana regeneration"
+  },
+  {
+    "TypeName": "HealerRegenAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Life Regeneration",
+    "Tip": "Your ally is increasing your life regeneration by 8"
+  },
+  {
+    "TypeName": "HealerSpeedAura",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Frenzy",
+    "Tip": "Your ally is increasing your melee, firing, casting, throwing and movement speed"
+  },
+  {
+    "TypeName": "HealingLoss",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Out of Touch",
+    "Tip": "Your bonus healing is nullified"
+  },
+  {
+    "TypeName": "HealingMastery",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Healing Mastery",
+    "Tip": "Mana regeneration, healing bonus and movement speed increased"
+  },
+  {
+    "TypeName": "HolyAuraTired",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Holy Aura",
+    "Tip": "A protective aura surrounds your cursor"
+  },
+  {
+    "TypeName": "HolyBonus",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Holy Power",
+    "Tip": "Healing spells will heal an additional 1 life"
+  },
+  {
+    "TypeName": "HolyDefense",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Holy Defense",
+    "Tip": "Your defense has been increased by 20"
+  },
+  {
+    "TypeName": "HolyGlare",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Holy Glare",
+    "Tip": "Holy light purges the unclean!"
+  },
+  {
+    "TypeName": "HolyGlareD",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Dark Glare",
+    "Tip": "Dark light purges the unworthy!"
+  },
+  {
+    "TypeName": "HolyShine",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Aura : Holy Shine",
+    "Tip": "Your offensive and defensive attributes are increased greatly"
+  },
+  {
+    "TypeName": "LifeEssence",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Life Essence",
+    "Tip": "Life energy surrounds your cursor"
+  },
+  {
+    "TypeName": "LifeSpiritBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Life Spirit",
+    "Tip": "Its too bright to look at directly"
+  },
+  {
+    "TypeName": "MartyrLoss",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Martyr",
+    "Tip": "Your sacrifice wont be in vain..."
+  },
+  {
+    "TypeName": "MistBulwark",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Mist Fuelled Bulwark",
+    "Tip": "Your maximum life has been increased by 50"
+  },
+  {
+    "TypeName": "NullZoneBuff",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Null-Zone",
+    "Tip": "Projectile damage taken reduced by 30%"
+  },
+  {
+    "TypeName": "Ointment",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Ointment",
+    "Tip": "No longer poisoned or engulfed in flames"
+  },
+  {
+    "TypeName": "PurifiedRegen",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Purified Regeneration",
+    "Tip": "An ally has increased your life regeneration"
+  },
+  {
+    "TypeName": "RadiantBoost",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Illustrious Energy",
+    "Tip": "Radiant damage increased by 12%"
+  },
+  {
+    "TypeName": "Rebirth",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Rebirth",
+    "Tip": "Taking fatal damage will instead return you to 150 life"
+  },
+  {
+    "TypeName": "RebirthTired",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Ancient Exhaustion",
+    "Tip": "Attempting to cast revival wont do much..."
+  },
+  {
+    "TypeName": "Rebound",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Rebound",
+    "Tip": "Time is attempting to catch up with itself"
+  },
+  {
+    "TypeName": "Savior",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Liberated",
+    "Tip": "Your speed is enhanced and you cant take damage"
+  },
+  {
+    "TypeName": "SpeedBurst",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Speed Burst",
+    "Tip": "Healing an ally has increased your movement speed significantly"
+  },
+  {
+    "TypeName": "SpiritualConnection",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Spiritual Connection",
+    "Tip": "Your healing spells will heal additional life"
+  },
+  {
+    "TypeName": "Stabilized",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Stabilized",
+    "Tip": "The molecular stabilizer's beam wont bounce to you"
+  },
+  {
+    "TypeName": "TangyHeal",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Tangy Heal",
+    "Tip": "Life regeneration rate increased"
+  },
+  {
+    "TypeName": "TheDream",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "The Dream",
+    "Tip": "The world is a lucid reality..."
+  },
+  {
+    "TypeName": "TwilightBoost",
+    "Namespace": "ThoriumMod.Buffs.Healer",
+    "Name": "Twilight Boost",
+    "Tip": "An ally is augmenting your on-hit effects"
+  }
+]

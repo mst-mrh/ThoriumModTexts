@@ -1,0 +1,458 @@
+[
+  {
+    "TypeName": "AccuracyPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Accuracy Potion",
+    "ToolTip": "Increases critical strike chance slightly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ApplePie",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Apple Pie",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Home-made and just asking to be eaten!'",
+      "Will increase life regeneration for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BloodPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Blood Potion",
+    "ToolTip": "Increases melee, mining and movement speed",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BloodRootGoop",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Blood Root Goop",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Note: Does not actually contain root goop'",
+      "Will increase danger detection for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CalciumShake",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Calcium Shake",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Not very tasty, but is effective!'",
+      "Will increase defense for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CarrotSalad",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Carrot Salad",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Fresh vegetables and some nice dressing!'",
+      "Will increase vision for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "CombatPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Combat Potion",
+    "ToolTip": "Increases some melee capabilities",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ConflagrationPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Conflagration Potion",
+    "ToolTip": "You are set ablaze, but damage is increased moderately",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ExplosiveCoatingItem",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Explosive Coating",
+    "ToolTip": "Throwing attacks will have a chance to detonate, hitting nearby enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostCoatingItem",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Deep Freeze Coating",
+    "ToolTip": "Throwing attacks will have a chance to significantly hinder the hit enemies movement",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostHeartPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Frost-Heart Elixir",
+    "ToolTip": "Freezes you in place, but massively increases health regeneration and defense",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FruitSalad",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Blueberry Salad",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Made with fresh lettuce and locally picked blueberries!'",
+      "Will increase mana regeneration for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GlowingSouffle",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Glowing Souffle",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Even after eating them, their glow doesn't go away'",
+      "Will increase light emission for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GorganCoatingItem",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Gorgan Coating",
+    "ToolTip": "Throwing attacks will have a chance to petrify enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "GustyLeaf",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Gusty Leaf",
+    "ToolTip": "Increases jump height and negates fall damage",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Hamburger",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Hamburger",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Grilled to perfection!'",
+      "Will increase knockback for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "HolyPotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Holy Potion",
+    "ToolTip": "-Healer Class-",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [
+      "Increases the potency of healing spells"
+    ],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceCream",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Ice Cream",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'A nice cold, sweet treat!'",
+      "Will increase magic damage for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Jelly",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Jelly",
+    "ToolTip": "'Should you really eat this stuff?'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Heals some additional health afterwards"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LesserLifeWater",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Lesser Life Water",
+    "ToolTip": "'Fuelled with life giving properties'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Grants bonus life regeneration and maximum life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeFruitPlatter",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Life Fruit Platter",
+    "ToolTip": "Heals 100 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'One of the few actually edible things in Terraria...'",
+      "Will increase maximum life for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeLeechCoatingItem",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Life Leech Coating",
+    "ToolTip": "Throwing attacks will have a chance to heal you",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "LifeWater",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Life Water",
+    "ToolTip": "'Fuelled with intense life giving properties'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Grants bonus life regeneration and maximum life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManaBerry",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Mana Berry",
+    "ToolTip": "The cook might be interested in this",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ManaDelight",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Mana Delight",
+    "ToolTip": "Heals 125 mana",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'You can taste the energy in every bite'",
+      "Does not inflict mana sickness",
+      "Eating the Cook's food will make you full for 20 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MeanGreenStew",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Mean n' Green Stew",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Multiple green things in a bowl, how can you go wrong?'",
+      "Will increase critical strike chance for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "MistakeStew",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "The Mistake",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The dish itself is not a mistake, eating it however...'",
+      "Will increase enemy spawn rates for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "PricklyJam",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Prickly Jam",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'When prepared correctly, the pink pear wont induce hallucinations!'",
+      "Will increase attack speed for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "QuestionableRack",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Questionable Rib Rack",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'How the cook made this edible is beyond you'",
+      "Will increase enemy spawn rates for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SauteedShroom",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Sauteed Shroom",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Just a little heat and a little fat can go a long way'",
+      "Will increase minion capacity for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SeaSpaghetti",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Sea Spaghetti",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Kelp is about as close to noodles as you're gonna get here'",
+      "Will increase water movement for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SilverTonguePotion",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Silver Tongue Potion",
+    "ToolTip": "With a silver tongue, bought items will be cheaper",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SkyBloomCocktail",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Sky Bloom Cocktail",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'The bright blue flower serves as a perfect umbrella for the drink!'",
+      "Will decrease fall speed for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SliceofCake",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Slice of Cake",
+    "ToolTip": "Heals 65 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Sweet frosting with a cherry on top!'",
+      "Will increase movement speed for a time if eaten directly",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SunnyLemonade",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Sunny Day Lemonade",
+    "ToolTip": "Heals 85 life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Nothing beats an ice cold glass of lemonade'",
+      "Will increase your happiness for a time",
+      "Grants minor improvements to all stats",
+      "Eating the Cook's food will make you full for 45 seconds"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ToxicCoatingItem",
+    "Namespace": "ThoriumMod.Items.Consumable",
+    "Name": "Toxic Coating",
+    "ToolTip": "Throwing attacks will have a chance to poison enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

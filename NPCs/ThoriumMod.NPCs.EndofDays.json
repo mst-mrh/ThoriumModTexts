@@ -1,0 +1,114 @@
+[
+  {
+    "TypeName": "AngerSpirit",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "AngerSpirit",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Aquaius",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "Aquaius",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Aquaius2",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "Aquaius",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AquaiusBubble",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "AquaiusBubble",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AquaiusBubblePrime",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "AquaiusBubble",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "AquaTitan",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "AquaTitan",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DeathTitan",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "DeathTitan",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DespairSpirit",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "DespairSpirit",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "DreadSpirit",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "DreadSpirit",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "Omnicide",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "Omnicide",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "RagSkyChanger",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "RealityBreaker",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "RealityBreaker",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SlagFury",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "SlagFury",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "SlagTitan",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Name": "SlagTitan",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

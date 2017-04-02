@@ -1,0 +1,175 @@
+[
+  {
+    "TypeName": "IllumiteBarrage",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Barrager",
+    "ToolTip": "Launches a barrage of rockets",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Rockets shot from this launcher will temporarily illuminate hit enemies"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteBlade",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Blade",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Releases a close range illumination beam on swing",
+      "Hit enemies will be illuminated"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteBlaster",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Blaster",
+    "ToolTip": "Bullets shot from this gun will temporarily illuminate hit enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteBow",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Longbow",
+    "ToolTip": "Arrows shot from this bow will temporarily illuminate hit enemies",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteChainsaw",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Chainsaw",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteChestplate",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Chestplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased ranged damage",
+      "18% increased firing speed",
+      "20% chance to not consume ammo"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteChunk",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Chunk",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Plantera's defeat served to unleash this strange mineral upon the world'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteDrill",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Drill",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteGreaves",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "6% increased ranged critical strike chance",
+      "15% increased ranged damage",
+      "15% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteHamaxe",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteIngot",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Ingot",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Glows a soft pink and barely weighs anything...'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteJackhammer",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Jackhammer",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteMask",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Mask",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "12% increased ranged critical strike chance",
+      "10% increased ranged damage"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumitePick",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IllumiteSpear",
+    "Namespace": "ThoriumMod.Items.Illumite",
+    "Name": "Illumite Spear",
+    "ToolTip": "Sends out a volatile after image",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "The after image will rapidly blast nearby enemies with light beams",
+      "Hit enemies will be illuminated"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

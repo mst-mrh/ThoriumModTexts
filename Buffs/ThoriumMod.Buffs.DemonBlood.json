@@ -1,0 +1,32 @@
+[
+  {
+    "TypeName": "DemonBloodExhaust",
+    "Namespace": "ThoriumMod.Buffs.DemonBlood",
+    "Name": "Blood Harvested",
+    "Tip": "Cannot currently build blood charges"
+  },
+  {
+    "TypeName": "DemonBloodI",
+    "Namespace": "ThoriumMod.Buffs.DemonBlood",
+    "Name": "Blood Charge",
+    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+  },
+  {
+    "TypeName": "DemonBloodII",
+    "Namespace": "ThoriumMod.Buffs.DemonBlood",
+    "Name": "Blood Charge",
+    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+  },
+  {
+    "TypeName": "DemonBloodIII",
+    "Namespace": "ThoriumMod.Buffs.DemonBlood",
+    "Name": "Blood Charge",
+    "Tip": "Your fifth consecutive attack will deal bonus damage and heal you"
+  },
+  {
+    "TypeName": "DemonBloodIV",
+    "Namespace": "ThoriumMod.Buffs.DemonBlood",
+    "Name": "Blood Fuelled",
+    "Tip": "Your next attack will deal bonus damage and steal life"
+  }
+]

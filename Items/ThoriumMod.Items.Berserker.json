@@ -1,0 +1,122 @@
+[
+  {
+    "TypeName": "BersekerShard",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Shard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Just holding this thing makes you angry'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkBlade",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Blade",
+    "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Right Click - Swings the sword slower, but for stronger damage and knockback"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkBow",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Bow",
+    "ToolTip": "Turns wooden arrows into 'Berserker Arrows'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Berserker Arrows' make consecutive hits cause additional damage based on the enemies missing life"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkBreaker",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Breaker",
+    "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkerBreastplate",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Breastplate",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Damage taken reduced by 4%",
+      "Life regeneration increased by 2",
+      "10% increased attack speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkerGreaves",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Damage taken reduced by 3%",
+      "Life regeneration increased by 1",
+      "15% increased movement speed"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkerHamaxe",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Hamaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkerMask",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Mask",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Damage taken reduced by 3%",
+      "Life regeneration increased by 1",
+      "16% increased critical strike chance"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkPickaxe",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserker Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "BerserkSoulStaff",
+    "Namespace": "ThoriumMod.Items.Berserker",
+    "Name": "Berserk Soul Staff",
+    "ToolTip": "Enemies hit by this bolt, will be cursed with 'Berserker Soul'",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Enemies who die with 'Berserker Soul' have a chance to return as an aggressive spirit for a short time"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]

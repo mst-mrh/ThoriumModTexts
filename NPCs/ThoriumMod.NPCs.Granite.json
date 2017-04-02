@@ -1,0 +1,42 @@
+[
+  {
+    "TypeName": "EncroachingEnergy",
+    "Namespace": "ThoriumMod.NPCs.Granite",
+    "Name": "EncroachingEnergy",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EnergyBarrier",
+    "Namespace": "ThoriumMod.NPCs.Granite",
+    "Name": "EnergyBarrier",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "EnergyCanduit",
+    "Namespace": "ThoriumMod.NPCs.Granite",
+    "Name": "EnergyCanduit",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraniteEnergy",
+    "Namespace": "ThoriumMod.NPCs.Granite",
+    "Name": "GraniteEnergy",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  },
+  {
+    "TypeName": "GraniteEnergyStorm",
+    "Namespace": "ThoriumMod.NPCs.Granite",
+    "Name": "GraniteEnergyStorm",
+    "ShopButton1": "",
+    "ShopButton2": "",
+    "ChatTexts": []
+  }
+]

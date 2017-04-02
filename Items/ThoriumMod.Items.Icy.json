@@ -1,0 +1,182 @@
+[
+  {
+    "TypeName": "Blizzard",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Spell Book: Blizzard",
+    "ToolTip": "'Unleash a flurry of ice!'",
+    "ToolTip2": "Attacks might frostburn the target briefly",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "ColdFront",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Cold Front",
+    "ToolTip": "Attacks might frostburn the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostFireKatana",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Frost Fire Katana",
+    "ToolTip": "Attacks might frostburn the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostFury",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Frost Fury",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "FrostPelter",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Frost Pelter",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceBall",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Ice Ball",
+    "ToolTip": "Functions as a bullet",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Might frostburn the hit target briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceCube",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Ice Cube",
+    "ToolTip": "Sends out a cube ice that slides on tiles",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "Ice cubes frostburn the target briefly"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IceShard",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Ice Lance",
+    "ToolTip": "Attacks might frostburn the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyArrow",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Arrow",
+    "ToolTip": "Has a chance to significantly hinder the hit enemies movement",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyAxe",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Axe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyBandana",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Bandana",
+    "ToolTip": "'Gives your hair some frosty tips too'",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyGreaves",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Greaves",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Chilled to the core'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyMail",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Mail",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Chilled to the core'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyPickaxe",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Pickaxe",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "IcyShard",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Icy Shard",
+    "ToolTip": "",
+    "ToolTip2": "",
+    "AddToolTip": [
+      "'Cold to the touch'"
+    ],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "Slicicle",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "Slicicle",
+    "ToolTip": "Attacks might frostburn the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
+    "TypeName": "SnowBall",
+    "Namespace": "ThoriumMod.Items.Icy",
+    "Name": "The Snowball",
+    "ToolTip": "Attacks might frostburn the target briefly",
+    "ToolTip2": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  }
+]
