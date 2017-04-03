@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "RagFinish",
+    "Namespace": "ThoriumMod.Projectiles.Boss",
+    "Method": "Kill",
+    "Contents": [
+      "Reality gracefully resumes its tranquil state... The Ragnarok has been stopped..."
+    ]
+  }
+]

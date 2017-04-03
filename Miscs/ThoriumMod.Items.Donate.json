@@ -1,0 +1,20 @@
+[
+  {
+    "TypeName": "HalloweenSpirit",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Method": "UseItem",
+    "Contents": [
+      "Its time for Halloween!",
+      "Halloween has been... cancelled!"
+    ]
+  },
+  {
+    "TypeName": "HolidayGreeting",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Method": "UseItem",
+    "Contents": [
+      "It's time for Christmas!",
+      "Christmas has been... cancelled!"
+    ]
+  }
+]

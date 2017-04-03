@@ -1,0 +1,18 @@
+[
+  {
+    "TypeName": "BoreanStrider",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Method": "AI",
+    "Contents": [
+      "An eight legged menace is prowling the tundra..."
+    ]
+  },
+  {
+    "TypeName": "BoreanStriderPopped",
+    "Namespace": "ThoriumMod.NPCs.Blizzard",
+    "Method": "NPCLoot",
+    "Contents": [
+      "A Borean Strider has been defeated!"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "PatchWerk",
+    "Namespace": "ThoriumMod.NPCs.BloodMoon",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The dreaded Patchwerk has been removed from the world!"
+    ]
+  }
+]

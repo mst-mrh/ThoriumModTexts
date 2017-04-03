@@ -1,0 +1,72 @@
+[
+  {
+    "TypeName": "Aquaius",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "CheckDead",
+    "Contents": [
+      "Aquaius can't take the trauma. Its form ripples and disperses!"
+    ]
+  },
+  {
+    "TypeName": "Aquaius2",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "CheckDead",
+    "Contents": [
+      "Aquaius' infinite despair cannot be contained!"
+    ]
+  },
+  {
+    "TypeName": "Aquaius2",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The very fabric of reality is tearing at the seams!",
+      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
+      "Aquaius fades out of existence..."
+    ]
+  },
+  {
+    "TypeName": "AquaiusBubblePrime",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "NPCLoot",
+    "Contents": [
+      "Aquaius amalgamates, resuming its attacks!"
+    ]
+  },
+  {
+    "TypeName": "Omnicide",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "CheckDead",
+    "Contents": [
+      "Omnicide's infinite dread cannot be contained!"
+    ]
+  },
+  {
+    "TypeName": "Omnicide",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The very fabric of reality is tearing at the seams!",
+      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
+      "Omnicide fades out of existence..."
+    ]
+  },
+  {
+    "TypeName": "SlagFury",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "CheckDead",
+    "Contents": [
+      "Slag Fury's infinite rage cannot be contained!"
+    ]
+  },
+  {
+    "TypeName": "SlagFury",
+    "Namespace": "ThoriumMod.NPCs.EndofDays",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The very fabric of reality is tearing at the seams!",
+      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
+      "Slag Fury fades out of existence..."
+    ]
+  }
+]
