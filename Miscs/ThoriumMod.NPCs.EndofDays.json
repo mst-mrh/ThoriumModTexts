@@ -4,7 +4,7 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "CheckDead",
     "Contents": [
-      "Aquaius can't take the trauma. Its form ripples and disperses!"
+      "海啸之灵无法承受此等重创，在涟漪之中分裂了"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "CheckDead",
     "Contents": [
-      "Aquaius' infinite despair cannot be contained!"
+      "海啸之灵的无尽绝望无法被容纳"
     ]
   },
   {
@@ -20,9 +20,9 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "NPCLoot",
     "Contents": [
-      "The very fabric of reality is tearing at the seams!",
-      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
-      "Aquaius fades out of existence..."
+      "现实正在被撕裂肢解",
+      "你的力量太过渺小了，勇士...你所有那些斗争都会在无尽的深渊之中失败",
+      "海啸之灵的存在逐渐淡化"
     ]
   },
   {
@@ -30,7 +30,7 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "NPCLoot",
     "Contents": [
-      "Aquaius amalgamates, resuming its attacks!"
+      "海啸之灵重新聚拢，继续了他的攻击"
     ]
   },
   {
@@ -38,7 +38,7 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "CheckDead",
     "Contents": [
-      "Omnicide's infinite dread cannot be contained!"
+      "枯萎之灵的无尽恐惧无法被容纳"
     ]
   },
   {
@@ -46,9 +46,9 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "NPCLoot",
     "Contents": [
-      "The very fabric of reality is tearing at the seams!",
-      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
-      "Omnicide fades out of existence..."
+      "现实正在被撕裂肢解",
+      "你的力量太过渺小了，勇士...你所有那些斗争都会在无尽的深渊之中失败",
+      "枯萎之灵的存在逐渐淡化"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "CheckDead",
     "Contents": [
-      "Slag Fury's infinite rage cannot be contained!"
+      "熔岩之灵的无尽怒火无法被容纳"
     ]
   },
   {
@@ -64,9 +64,9 @@
     "Namespace": "ThoriumMod.NPCs.EndofDays",
     "Method": "NPCLoot",
     "Contents": [
-      "The very fabric of reality is tearing at the seams!",
-      "You are powerless, hero... All that you have fought for will be lost in the infinite abyss!",
-      "Slag Fury fades out of existence..."
+      "现实正在被撕裂肢解",
+      "你的力量太过渺小了，勇士...你所有那些斗争都会在无尽的深渊之中失败",
+      "熔岩之灵的存在逐渐淡化"
     ]
   }
 ]

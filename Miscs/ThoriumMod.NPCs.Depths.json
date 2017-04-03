@@ -4,7 +4,7 @@
     "Namespace": "ThoriumMod.NPCs.Depths",
     "Method": "PreNPCLoot",
     "Contents": [
-      "Abyssion's shell violently cracks!"
+      "深渊之主的甲壳被狂暴的击碎了"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "Namespace": "ThoriumMod.NPCs.Depths",
     "Method": "PreNPCLoot",
     "Contents": [
-      "Abyssion breaks free of its ancient prison!"
+      "深渊之主从这远古的牢笼中挣脱出来！"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "Namespace": "ThoriumMod.NPCs.Depths",
     "Method": "NPCLoot",
     "Contents": [
-      "The toxic haze of the depths has been lifted..."
+      "深渊中毒气弥漫.."
     ]
   },
   {
@@ -28,7 +28,7 @@
     "Namespace": "ThoriumMod.NPCs.Depths",
     "Method": "NPCLoot",
     "Contents": [
-      "The toxic haze of the depths has been lifted..."
+      "深渊中毒气弥漫.."
     ]
   }
 ]

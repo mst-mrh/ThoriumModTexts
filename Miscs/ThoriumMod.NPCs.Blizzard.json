@@ -4,7 +4,7 @@
     "Namespace": "ThoriumMod.NPCs.Blizzard",
     "Method": "AI",
     "Contents": [
-      "An eight legged menace is prowling the tundra..."
+      "一只八足巨兽在冻土深处觅食..."
     ]
   },
   {
@@ -12,7 +12,7 @@
     "Namespace": "ThoriumMod.NPCs.Blizzard",
     "Method": "NPCLoot",
     "Contents": [
-      "A Borean Strider has been defeated!"
+      "极地行者被击败了"
     ]
   }
 ]
