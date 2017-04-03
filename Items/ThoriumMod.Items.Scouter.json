@@ -5,6 +5,7 @@
     "Name": "危机",
     "ToolTip": "召唤一只用激光攻击敌人的UFO",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "影炎飞刀",
     "ToolTip": "掷出无数由能量体构成的短剑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -28,6 +30,7 @@
     "Name": "粒子鞭打",
     "ToolTip": "射出一道会在一群敌人中不断反弹的激光",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -38,6 +41,7 @@
     "Name": "冲锋激光抢",
     "ToolTip": "从这把枪里射出的子弹没有飞行时间",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "奥米茄驱动器",
     "ToolTip": "召唤一只具有攻击能力的探测器宠物",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,6 +63,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +74,7 @@
     "Name": "星际监察者荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -78,6 +85,7 @@
     "Name": "星空召唤器",
     "ToolTip": "'人在接触未知的事物前应该做好充分的准备...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "向外太空发射一个信号",
       "只能在空岛上使用"
@@ -91,6 +99,7 @@
     "Name": "幽浮面具",
     "ToolTip": "'谁准备好迎接天外来客了？'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +110,7 @@
     "Name": "星轨剑",
     "ToolTip": "挥动时释放一道回旋的引力波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "深海行者靴",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "深海行者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "深海行者兜帽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Detecting nearby valuables",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "史前琥珀法杖",
     "ToolTip": "'生命找到了归宿'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤恐龙或愤怒翼手龙攻击你的敌人"
     ],
@@ -47,6 +51,7 @@
     "Name": "低音冲击波",
     "ToolTip": "放出两道“猥琐”的声波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "玫瑰伞刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "三次成功打击后，你可以右键释放一道强力的龙卷风",
       "大幅降低下落速度"
@@ -70,6 +76,7 @@
     "Name": "生化囊",
     "ToolTip": "召唤一个奇怪的外形生物",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,6 +87,7 @@
     "Name": "爆炸盾",
     "ToolTip": "-最终之盾-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "伤害减免15%",
@@ -96,6 +104,7 @@
     "Name": "食肉者之尾",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'被兽皮所覆盖'"
     ],
@@ -108,6 +117,7 @@
     "Name": "星体耀斑",
     "ToolTip": "-作弊武器-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'使用如此武器让现实流泪'",
@@ -125,6 +135,7 @@
     "Name": "天星破",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗友军10生命",
@@ -142,6 +153,7 @@
     "Name": "侵蚀体法杖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤一个剧毒凝胶腐蚀周围敌人"
     ],
@@ -154,6 +166,7 @@
     "Name": "冰法腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%魔法伤害",
       "提升15%移速"
@@ -167,6 +180,7 @@
     "Name": "冰法魂星",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Magic damage will duplicate itself for 33% of the original damage and slow the hit target",
     "AddToolTip": [
       "增加10%魔法伤害",
       "减少15%蓝耗",
@@ -181,6 +195,7 @@
     "Name": "冰法战袍",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%魔法伤害",
       "增加10%魔法暴击",
@@ -190,11 +205,23 @@
     "ModifyTooltips": []
   },
   {
+    "TypeName": "DelectableNut",
+    "Namespace": "ThoriumMod.Items.Donate",
+    "Name": "Delectable Nut",
+    "ToolTip": "'Kupo! Kupo!'",
+    "ToolTip2": "Summons a little winged friend",
+    "SetBonus": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
     "TypeName": "DragonkinStaff",
     "Namespace": "ThoriumMod.Items.Donate",
     "Name": "熔岩龙法杖",
     "ToolTip": "召唤熔岩龙为你作战",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -205,6 +232,7 @@
     "Name": "能量催化器",
     "ToolTip": "提供无尽的能量箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -215,6 +243,7 @@
     "Name": "炎华剑",
     "ToolTip": "每次挥舞都会释放致命的火焰（我内心充满了火焰，甚至还想讲话）",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -225,6 +254,7 @@
     "Name": "兽皮胸甲",
     "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加6%近战暴击",
       "提升10%召唤击退"
@@ -238,6 +268,7 @@
     "Name": "兽皮头套",
     "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
+    "SetBonus": "Getting struck in combat will grant you 'Alpha's Roar' and release fangs all around you",
     "AddToolTip": [
       "增加5%近战暴击",
       "增加2召唤物"
@@ -251,6 +282,7 @@
     "Name": "兽皮腿甲",
     "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加5%近战暴击",
       "提升10%召唤伤害"
@@ -264,6 +296,7 @@
     "Name": "Folv的古老帽子",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Projects a mystical barrier around you\nWhile above 50% life, every seventh magic cast will unleash damaging mana bolts\nWhile below 50% life, your defensive capabilities are increased",
     "AddToolTip": [
       "法力消耗降低8%",
       "最大魔法值增加了50",
@@ -278,6 +311,7 @@
     "Name": "Folv的古老护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%的魔法伤害",
       "提升15%的移动速度"
@@ -291,6 +325,7 @@
     "Name": "Folv的古老长袍",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加15%的魔法伤害",
       "魔法爆击几率提高5%"
@@ -304,6 +339,7 @@
     "Name": "惊魂电锯：冰川",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "快速的发射冻结锯刃",
       "8%不消耗弹药"
@@ -317,6 +353,7 @@
     "Name": "恐惧硬壳",
     "ToolTip": "-灵魂容器-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'你完全掌控了你的灵魂...'",
@@ -332,6 +369,7 @@
     "Name": "恐惧皮衣",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -342,6 +380,7 @@
     "Name": "恐惧兜帽",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -352,6 +391,7 @@
     "Name": "恐惧护腿",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -362,6 +402,7 @@
     "Name": "波魂箭",
     "ToolTip": "飞行时攻击附近敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -372,6 +413,7 @@
     "Name": "豪华瑟银护胸",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -382,6 +424,7 @@
     "Name": "豪华瑟银护腿",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -392,6 +435,7 @@
     "Name": "豪华瑟银头盔",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -402,6 +446,7 @@
     "Name": "灰色“D”",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -412,6 +457,7 @@
     "Name": "贪婪帽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -422,6 +468,7 @@
     "Name": "贪婪磁铁",
     "ToolTip": "聚集屏幕上所有散开的物品",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -432,6 +479,7 @@
     "Name": "贪婪裤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -442,6 +490,7 @@
     "Name": "贪婪衣",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -452,6 +501,7 @@
     "Name": "冷酷劫掠者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有几率吸血"
     ],
@@ -464,6 +514,7 @@
     "Name": "万圣之魂",
     "ToolTip": "开启或取消万圣节节日效果",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "激活后会取消其他的节日"
     ],
@@ -476,6 +527,7 @@
     "Name": "节日问候",
     "ToolTip": "开启或取消圣诞节节日效果",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "激活后会取消其他的节日"
     ],
@@ -488,6 +540,7 @@
     "Name": "欢乐之家印记",
     "ToolTip": "放置一个看不见的,镶嵌在墙上的印章",
     "ToolTip2": "代替桌子、椅子和光源",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -498,6 +551,7 @@
     "Name": "回旋冰斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "每第七次投掷会释放极寒冰斧"
     ],
@@ -510,6 +564,7 @@
     "Name": "珠宝商人的墙壁旅行",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -520,6 +575,7 @@
     "Name": "遗物",
     "ToolTip": "快速召唤腐朽骷髅",
     "ToolTip2": "用带有传染性的魔法折磨敌人",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -530,6 +586,7 @@
     "Name": "生命结晶砍刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "打击敌人后恢复3血量"
@@ -545,6 +602,7 @@
     "Name": "惊魂电锯",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -555,6 +613,7 @@
     "Name": "惊魂电锯：诅咒",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "狠毒地射出腐化锯刃",
       "8%不消耗弹药"
@@ -568,6 +627,7 @@
     "Name": "惊魂电锯：溶解",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "可怕地射出感染锯刃",
       "8%不消耗弹药"
@@ -581,6 +641,7 @@
     "Name": "惊魂电锯：闪光",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "着魔地射出附魔锯刃",
       "8%不消耗弹药"
@@ -594,6 +655,7 @@
     "Name": "守护者斗篷",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'荣耀，人性和决心...这些才是真正的盾'",
       "增加5防御",
@@ -610,6 +672,7 @@
     "Name": "大法师的图书馆",
     "ToolTip": "随机召唤一本魔法书向敌人砸法术",
     "ToolTip2": "这些法术造成的是召唤伤害",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -620,6 +683,7 @@
     "Name": "惊魂电锯：岩浆",
     "ToolTip": "以锯刃为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "强力地射出灼热锯刃",
       "8%不消耗弹药"
@@ -633,6 +697,7 @@
     "Name": "夜魔杖",
     "ToolTip": "发射一团黑暗能量",
     "ToolTip2": "造成伤害后，额外的能量团会被释放",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -643,6 +708,7 @@
     "Name": "新星来福枪",
     "ToolTip": "自动让你进入些许隐形的状态",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -653,6 +719,7 @@
     "Name": "原子之怒",
     "ToolTip": "释放原核新星",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -663,6 +730,7 @@
     "Name": "华丽吉普赛裹腰",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -673,6 +741,7 @@
     "Name": "女性华丽吉普赛裹腰",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -683,6 +752,7 @@
     "Name": "华丽吉普赛长袍",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -693,6 +763,7 @@
     "Name": "无声羽翼",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -703,6 +774,7 @@
     "Name": "粉色淤泥",
     "ToolTip": "召唤一个飞着的小史莱姆",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -713,6 +785,7 @@
     "Name": "元素喷雾",
     "ToolTip": "喷发一束元素能量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键在4中元素中转化"
     ],
@@ -725,6 +798,7 @@
     "Name": "真实粉碎者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%魔法伤害",
       "增加16%魔法暴击",
@@ -739,6 +813,7 @@
     "Name": "真实粉碎者之凝视",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Your magic damage has a 33% chance to unleash bolts of bouncing energy",
     "AddToolTip": [
       "增加10%魔法伤害",
       "增加3生命恢复量",
@@ -753,6 +828,7 @@
     "Name": "真实粉碎者腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%魔法伤害",
       "增加10%的移动速度"
@@ -766,6 +842,7 @@
     "Name": "向导的最后礼物",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "相当于所有原版工作台合成"
     ],
@@ -778,6 +855,7 @@
     "Name": "野蛮护胸",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -788,6 +866,7 @@
     "Name": "野蛮护腿",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -798,6 +877,7 @@
     "Name": "野蛮面具",
     "ToolTip": "'扮演瑟银MOD开发者!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -808,6 +888,7 @@
     "Name": "Saba",
     "ToolTip": "挥舞时释放双子射线",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -818,6 +899,7 @@
     "Name": "神圣之心",
     "ToolTip": "受到攻击后加快移动速度",
     "ToolTip2": "延长受伤后的无敌时间",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -828,6 +910,7 @@
     "Name": "锯刃",
     "ToolTip": "可以穿透数次，遇到物块会弹跳",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -838,6 +921,7 @@
     "Name": "影束炎弓",
     "ToolTip": "将箭转化为会反弹的暗影射线",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -848,6 +932,7 @@
     "Name": "遗忘者怒焰",
     "ToolTip": "将木箭转化成遗忘者之箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "遗忘者箭矢会在打击后形成小型沙暴"
     ],
@@ -860,6 +945,7 @@
     "Name": "银之牙",
     "ToolTip": "攻击敌人有20%的几率召唤一个熔岩守护者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -870,6 +956,7 @@
     "Name": "扫把",
     "ToolTip": "召唤小女仆清洁",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -880,6 +967,7 @@
     "Name": "蛇毒长枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击可以叠加剧毒"
     ],
@@ -892,6 +980,7 @@
     "Name": "奇异头骨",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -902,6 +991,7 @@
     "Name": "蒂莫之指引",
     "ToolTip": "召唤一只带有生命与魔法回复光环的灯笼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -912,6 +1002,7 @@
     "Name": "甜蜜的复仇",
     "ToolTip": "受到攻击后移动速度加快",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "延长受伤后的无敌时间",
       "受伤后降下落星",
@@ -926,6 +1017,7 @@
     "Name": "终末之刃",
     "ToolTip": "-作弊武器-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "左键 - 释放血腥风暴",
@@ -939,6 +1031,7 @@
     "Name": "真·银之牙",
     "ToolTip": "挥动时释放爆炎",
     "ToolTip2": "攻击敌人有25%几率召唤一个熔炎守卫",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -949,6 +1042,7 @@
     "Name": "虫洞之镜",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Null"
     ],
@@ -961,6 +1055,7 @@
     "Name": "屠龙者",
     "ToolTip": "'作为剑来说它实在太大了些，倒不如说是一堆铁块'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "左键 - 释放震荡波",
       "右键 - 用巨大的力量将剑刺出去"
@@ -974,6 +1069,7 @@
     "Name": "云玛垂饰",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加2召唤物",
       "提升15%召唤物伤害",

@@ -5,6 +5,7 @@
     "Name": "巨石监察者法杖",
     "ToolTip": "召唤大量花岗岩能量攻击你的指针位置",
     "ToolTip2": "右键提前取消探针",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "流能风暴面具",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "能源投影仪",
     "ToolTip": "组建一道能量壁障保护你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "流能喷发器",
     "ToolTip": "快速发射能量弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "风暴三叉戟",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "若该武器在一次攻击中造成2次以上伤害的话，释放一次能量爆破"
     ],
@@ -57,6 +62,7 @@
     "Name": "花岗岩流能风暴荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "风暴之眼",
     "ToolTip": "装备后，能量会不断溢出并攻击周围敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "能源操纵器",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "一个结界将会在指针处展开12秒",
@@ -101,6 +110,7 @@
     "Name": "不稳定晶核",
     "ToolTip": "召唤危险的能量风暴",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "只在地底深处可用"
     ],

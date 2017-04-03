@@ -5,6 +5,7 @@
     "Name": "海洋精华",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'永不停歇的潮汐之光'"
     ],
@@ -17,6 +18,7 @@
     "Name": "海之审判",
     "ToolTip": "快速释放浸满海洋之力的并会降下不稳定能量的锤子",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "七海破碎者",
     "ToolTip": "释放出充满可思议的海洋之力海洋球",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "海潮波",
     "ToolTip": "扔出停滞在半空并释放出潮汐的海洋手里剑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "深渊引潮者护甲",
     "ToolTip": "'掌控战斗的浪潮!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加15%近战和投掷伤害",
       "提升16%的近战与抛掷物暴击概率"
@@ -60,6 +65,7 @@
     "Name": "深渊引潮者足具",
     "ToolTip": "'掌控战斗的浪潮!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%近战和投掷伤害",
       "增加25%近战和投掷速度",
@@ -74,6 +80,7 @@
     "Name": "深渊引潮者头盔",
     "ToolTip": "'变得像潮汐那样无可阻挡...'",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will trigger Ocean's Buffer, turning all damage taken into healing",
     "AddToolTip": [
       "增加12%近战伤害",
       "伤害减免15%",
@@ -88,6 +95,7 @@
     "Name": "深渊引潮者王冠",
     "ToolTip": "“让深渊的怒火降临到你的敌人身上”",
     "ToolTip2": "",
+    "SetBonus": "Throwing damage has a 33% chance to unleash aquatic homing daggers all around you",
     "AddToolTip": [
       "增加40%投掷伤害",
       "50%几率不消耗投掷物",
@@ -102,6 +110,7 @@
     "Name": "神之三叉戟",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "快速的投掷能释放海洋匕首围绕敌人的海神三叉戟"
     ],

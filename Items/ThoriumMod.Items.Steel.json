@@ -5,6 +5,7 @@
     "Name": "耐钢箭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "耐钢刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -27,6 +29,7 @@
     "Name": "耐钢链锯",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -39,6 +42,7 @@
     "Name": "耐钢胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'",
       "增加8%的伤害"
@@ -52,6 +56,7 @@
     "Name": "耐钢钻",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -64,6 +69,7 @@
     "Name": "耐钢护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'",
       "增加8%移速"
@@ -77,6 +83,7 @@
     "Name": "耐钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage taken reduced by 12%",
     "AddToolTip": [
       "'大师锻铸'",
       "增加5%暴击概率"
@@ -90,6 +97,7 @@
     "Name": "耐钢钻锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -102,6 +110,7 @@
     "Name": "耐钢标枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -114,6 +123,7 @@
     "Name": "耐钢连弩",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'大师锻铸'"
     ],
@@ -126,6 +136,7 @@
     "Name": "钢箭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +147,7 @@
     "Name": "钢斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -148,6 +160,7 @@
     "Name": "钢掷斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -160,6 +173,7 @@
     "Name": "钢刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -172,6 +186,7 @@
     "Name": "钢弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -184,6 +199,7 @@
     "Name": "钢胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -196,6 +212,7 @@
     "Name": "钢护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -208,6 +225,7 @@
     "Name": "钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage taken reduced by 10%",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -220,6 +238,7 @@
     "Name": "钢锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],
@@ -232,6 +251,7 @@
     "Name": "钢镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'匠师锻铸'"
     ],

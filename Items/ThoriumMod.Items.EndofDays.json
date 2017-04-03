@@ -5,6 +5,7 @@
     "Name": "海潮面具",
     "ToolTip": "'代表警惕的面具...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "休眠之锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'在这把锤子的中间好像有个孔，和家传项链挺契合的...'"
     ],
@@ -27,6 +29,7 @@
     "Name": "雷神之锤",
     "ToolTip": "极速投掷出传说中的雷神之锤的镜像",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人会激发连锁的能量闪电风暴"
     ],
@@ -42,6 +45,7 @@
     "Name": "死亡面具",
     "ToolTip": "'代表混乱的面具...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,6 +56,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -62,6 +67,7 @@
     "Name": "末日币章",
     "ToolTip": "释放出灾难之灵...",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,6 +78,7 @@
     "Name": "灾难之灵荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -82,6 +89,7 @@
     "Name": "异界符文",
     "ToolTip": "'无尽的能量于空间中回响'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤天启战车"
     ],
@@ -94,6 +102,7 @@
     "Name": "燃炎面具",
     "ToolTip": "'代表激进的面具...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

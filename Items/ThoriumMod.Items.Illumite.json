@@ -5,6 +5,7 @@
     "Name": "光雨炮",
     "ToolTip": "发射一片火箭雨",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "通过这个发射器发射的火箭会短暂的点亮击中的敌人"
     ],
@@ -17,6 +18,7 @@
     "Name": "荧光刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "挥动时释放近距离的荧光射线",
       "被击中的敌人会被点亮"
@@ -30,6 +32,7 @@
     "Name": "荧光破",
     "ToolTip": "从这把枪上射出的子弹会给敌人施加‘荧光’debuff",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -40,6 +43,7 @@
     "Name": "荧光长弓",
     "ToolTip": "从这把弓上射出的箭会给敌人施加‘荧光’debuff",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -50,6 +54,7 @@
     "Name": "荧光链锯",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "荧光胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升12%远程伤害",
       "提升18%发射速度",
@@ -74,6 +80,7 @@
     "Name": "荧光石",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'击败世界之花可以释放这种奇怪的矿物到这个世界上'"
     ],
@@ -86,6 +93,7 @@
     "Name": "荧光钻",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -96,6 +104,7 @@
     "Name": "荧光护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升6%远程暴击率",
       "提升15%远程伤害",
@@ -110,6 +119,7 @@
     "Name": "荧光锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -120,6 +130,7 @@
     "Name": "荧光锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'散发着粉红色并且几乎没有任何重量...'"
     ],
@@ -132,6 +143,7 @@
     "Name": "荧光钻锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -142,6 +154,7 @@
     "Name": "荧光面罩",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Most of your ranged weapons take on special properties \nEvery 5 bullets fired will unleash a multi-hit illumite bullet \nEvery 4 arrows fired will unleash a barrage of illumite energy \nEvery 3 rockets fired will unleash an illumite missile",
     "AddToolTip": [
       "提升12%远程暴击率",
       "提升10%远程伤害"
@@ -155,6 +168,7 @@
     "Name": "荧光稿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -165,6 +179,7 @@
     "Name": "荧光矛",
     "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "残影会用激光爆破附近敌人",
       "被击中的敌人会被点亮"

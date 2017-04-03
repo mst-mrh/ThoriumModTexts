@@ -5,6 +5,7 @@
     "Name": "先兆之刃",
     "ToolTip": "有几率释放一道降低敌人防御的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "先兆弓",
     "ToolTip": "能将任何箭转换成'先兆箭'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "先兆箭持续波动反射的能量并降低任何碰到的敌人的防御"
     ],
@@ -27,6 +29,7 @@
     "Name": "先兆石",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'只有那些拥有无边的法力之人可以掌控此物'"
     ],
@@ -39,6 +42,7 @@
     "Name": "先知护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加魔法恢复量",
       "提升10%魔法伤害",
@@ -53,6 +57,7 @@
     "Name": "先知护胫",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加魔法恢复量",
       "提升5%魔法伤害",
@@ -67,6 +72,7 @@
     "Name": "先兆锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +83,7 @@
     "Name": "先知头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Maximum mana set to 300\nIf usable mana ever exceeds 200, you will become 'Unstable'",
     "AddToolTip": [
       "增加魔法恢复量",
       "提升5%魔法伤害",
@@ -91,6 +98,7 @@
     "Name": "先兆镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +109,7 @@
     "Name": "先兆长矛",
     "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "残影会降低护甲"
     ],
@@ -113,6 +122,7 @@
     "Name": "先兆波涌杖",
     "ToolTip": "射出一个能降低敌人防御的魔法定时炸弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "3秒之后，或者击中3个敌人，或者跟物块碰撞，该球体都会猛烈爆炸"
     ],
@@ -125,6 +135,7 @@
     "Name": "先兆之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

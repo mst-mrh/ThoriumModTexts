@@ -5,6 +5,7 @@
     "Name": "上古之剑",
     "ToolTip": "召唤一位古代英灵",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "只在地底深处可用"
     ],
@@ -17,6 +18,7 @@
     "Name": "英雄风拂剑",
     "ToolTip": "释放一个大型的浮动风刃",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "英雄爆裂法杖",
     "ToolTip": "杀死一个怪物回复30魔力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "英雄头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "反击之盾",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "提升2防御",
@@ -62,6 +67,7 @@
     "Name": "圣雄之手",
     "ToolTip": "投掷出数道雷击",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -75,6 +81,7 @@
     "Name": "英灵遗骸荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "英雄之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "三元弓",
     "ToolTip": "你的箭矢拥有着不断波动的元素能量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

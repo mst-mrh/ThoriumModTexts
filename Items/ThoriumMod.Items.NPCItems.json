@@ -5,6 +5,7 @@
     "Name": "外星人科技",
     "ToolTip": "'你根本不懂这复杂的仪器'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "祭坛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "古希腊银币",
     "ToolTip": "召唤一个好奇的古代钱币袋",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "穿甲炎枪",
     "ToolTip": "将普通子弹转换成毁灭弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "毁灭弹会在击中的敌人身上造成非常短暂的火焰与腐脓效果"
     ],
@@ -47,6 +51,7 @@
     "Name": "外星甲虫壳",
     "ToolTip": "减少10%所受到的伤害",
     "ToolTip2": "最大生命值增加 20",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "背刺",
     "ToolTip": "攻击敌人的背部会一直暴击",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "链球",
     "ToolTip": "'这东西真沉'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加6防御",
       "减少移速和跳跃噶偏低"
@@ -80,6 +87,7 @@
     "Name": "驱虫剂：蝙蝠",
     "ToolTip": "大多数蝙蝠将无法伤害你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能启用一个驱虫剂"
     ],
@@ -92,6 +100,7 @@
     "Name": "破碎战斗号角",
     "ToolTip": "召唤一只可骑乘的恐狼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当骑乘时，增加5%造成的伤害"
     ],
@@ -104,6 +113,7 @@
     "Name": "僵尸曲臂",
     "ToolTip": "'那只马虎的僵尸最喜欢的手臂...然而他弄丢了'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -114,6 +124,7 @@
     "Name": "乌檀耳",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -124,6 +135,7 @@
     "Name": "黑色重锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -134,6 +146,7 @@
     "Name": "铁匠围裙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'铸造能力增加15%! ...大概'"
     ],
@@ -146,6 +159,7 @@
     "Name": "泡泡虫饲育袋",
     "ToolTip": "召唤一个恶心的泡泡虫跟随着你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -156,6 +170,7 @@
     "Name": "血",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'谁知道你怎样握住它的呢?'"
     ],
@@ -168,6 +183,7 @@
     "Name": "血之契约",
     "ToolTip": "取消与武器大师的契约",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "如果一个新的武器大师在场，没有事情会发生"
     ],
@@ -180,6 +196,7 @@
     "Name": "劫掠者之尾",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -190,6 +207,7 @@
     "Name": "破碎黑骑士头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它已遭到过分破坏以致不能提供任何防护...'"
     ],
@@ -202,6 +220,7 @@
     "Name": "飞弹风暴",
     "ToolTip": "快速射出并不精准的子弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -212,6 +231,7 @@
     "Name": "仙人掌果",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'如果没有刺的话，还是挺好吃的...'",
       "免疫状态异常debuff",
@@ -226,6 +246,7 @@
     "Name": "厨师帽",
     "ToolTip": "'然而你并没有厨师那么好的厨艺'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -236,6 +257,7 @@
     "Name": "鲨鱼饵",
     "ToolTip": "'这个鱼饵一定会引来某些贪吃的海洋生物'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -246,6 +268,7 @@
     "Name": "厨师围裙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'然而你并没有厨师那么好的厨艺'"
     ],
@@ -258,6 +281,7 @@
     "Name": "巨蟹爪",
     "ToolTip": "召唤一只可以骑乘的螃蟹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当骑乘时，你可以在水上行走"
     ],
@@ -270,6 +294,7 @@
     "Name": "放血匕首",
     "ToolTip": "攻击有小概率掉落‘血’，一种合成材料",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,6 +305,7 @@
     "Name": "死亡凝视之镜",
     "ToolTip": "'总是注视着死亡的人很快就会疯掉...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "传送至你最后一次死亡的地点",
       "你的死亡地点只有在获得这件物品后才会被保存",
@@ -294,6 +320,7 @@
     "Name": "污痕之心",
     "ToolTip": "召唤一只可骑乘的饥饿野兽",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当骑乘时，暴击会有几率偷取生命"
     ],
@@ -306,6 +333,7 @@
     "Name": "沙尘咒符",
     "ToolTip": "放在背包里时，投掷伤害和投掷速度会增加",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -316,6 +344,7 @@
     "Name": "UFO分解射线",
     "ToolTip": "射出一道强大的能量波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -326,6 +355,7 @@
     "Name": "潜水裤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'探索海洋最佳搭档'"
     ],
@@ -338,6 +368,7 @@
     "Name": "潜水服",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'探索海洋最佳搭档'"
     ],
@@ -350,6 +381,7 @@
     "Name": "黑檀尾",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使目标中毒"
     ],
@@ -362,6 +394,7 @@
     "Name": "电鳗法杖",
     "ToolTip": "射出一束电火花，有几率短暂地麻痹敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],
@@ -374,6 +407,7 @@
     "Name": "蝗虫群",
     "ToolTip": "释放一群蝗虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -384,6 +418,7 @@
     "Name": "紧急空气瓶",
     "ToolTip": "在紧急关头能够供你呼吸",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -394,6 +429,7 @@
     "Name": "空氧气瓶",
     "ToolTip": "'潜水员一定会乐意帮你再次填满的'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -404,6 +440,7 @@
     "Name": "掏心爪",
     "ToolTip": "在攻击时有几率回复生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -414,6 +451,7 @@
     "Name": "刽子手",
     "ToolTip": "攻击可获得‘行刑’buff，增加近战伤害和暴击率",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "叠到最大时，攻击会破甲"
     ],
@@ -426,6 +464,7 @@
     "Name": "放逐者腰带",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -436,6 +475,7 @@
     "Name": "放逐者头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'当他们抛弃泰拉瑞亚时, 他也抛弃了他们...'",
       "减少10%所受伤害",
@@ -452,6 +492,7 @@
     "Name": "驱虫剂：鱼",
     "ToolTip": "大多数鱼类将无法伤害你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能启用一个驱虫剂"
     ],
@@ -464,6 +505,7 @@
     "Name": "玄铁",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'铁匠的秘密杰作'"
     ],
@@ -476,6 +518,7 @@
     "Name": "餐叉",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -486,6 +529,7 @@
     "Name": "冰毒法杖",
     "ToolTip": "射出一片剧毒霜冻魔法的弹幕",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -496,6 +540,7 @@
     "Name": "幽灵之握",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -506,6 +551,7 @@
     "Name": "掘墓手",
     "ToolTip": "制造一片亡灵之手形成的波浪",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -516,6 +562,7 @@
     "Name": "冰雹爆破者",
     "ToolTip": "召唤一个神风敢死队雪人把敌人炸上天",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -526,6 +573,7 @@
     "Name": "诅咒法杖",
     "ToolTip": "感受膜法的力量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -539,6 +587,7 @@
     "Name": "虫群之心",
     "ToolTip": "暂时提升刚召唤的召唤物的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -549,6 +598,7 @@
     "Name": "熔岩罐子",
     "ToolTip": "快速掷出泄露的岩浆瓶",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -562,6 +612,7 @@
     "Name": "爆破钻头",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键：释放破坏砖块的钻头"
     ],
@@ -574,6 +625,7 @@
     "Name": "水母玩偶",
     "ToolTip": "召唤一个生活在泡泡中的水母跟着你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -584,6 +636,7 @@
     "Name": "动能刀",
     "ToolTip": "施放一道可以控制的斩击",
     "ToolTip2": "对已经被切碎（来回斩击）的敌人造成额外伤害",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -594,6 +647,7 @@
     "Name": "菜刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -604,6 +658,7 @@
     "Name": "苦无",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -614,6 +669,7 @@
     "Name": "军团手雷",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -624,6 +680,7 @@
     "Name": "小鱼雷",
     "ToolTip": "配合鱼雷发射器使用",
     "ToolTip2": "撞击敌人时爆炸",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -634,6 +691,7 @@
     "Name": "磁场链球",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -644,6 +702,7 @@
     "Name": "海洋钓竿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -654,6 +713,7 @@
     "Name": "鱼雷发射器",
     "ToolTip": "使用小鱼雷作为弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -664,6 +724,7 @@
     "Name": "肉球法杖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤一个瘆人的邪恶肉球"
     ],
@@ -676,6 +737,7 @@
     "Name": "牛头人头骨",
     "ToolTip": "'一些地牢死灵法师的能量渗进了这个头骨'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加1召唤栏",
       "提升5%召唤物伤害",
@@ -690,6 +752,7 @@
     "Name": "熔岩项圈",
     "ToolTip": "召唤地狱犬",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当被骑乘时，你免疫灼热伤害"
     ],
@@ -702,6 +765,7 @@
     "Name": "死灵法师之心",
     "ToolTip": "提升12%召唤物的击退",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -712,6 +776,7 @@
     "Name": "影缀花",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加12%对中毒的敌人造成的伤害"
     ],
@@ -724,6 +789,7 @@
     "Name": "灵气",
     "ToolTip": "'更加快乐的明天正在等着这个小伙子'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤一个可以骑的小白龙"
     ],
@@ -736,6 +802,7 @@
     "Name": "忍者武器架",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -746,6 +813,7 @@
     "Name": "填充手套",
     "ToolTip": "-投掷手套-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加8%抛掷攻击速度"
@@ -758,6 +826,7 @@
     "Name": "企鹅头",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -768,6 +837,7 @@
     "Name": "企鹅杖",
     "ToolTip": "'能使月之领主都跪地臣服...（然而并没有膝盖）'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使用时 某些巨大的变动会发生...吧"
     ],
@@ -780,6 +850,7 @@
     "Name": "强效海洛因",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'别嗑药啊孩子'"
     ],
@@ -792,6 +863,7 @@
     "Name": "护林人兜帽",
     "ToolTip": "'现在你变得很有型'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -802,6 +874,7 @@
     "Name": "护林人上衣",
     "ToolTip": "'现在你变得很有型'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -812,6 +885,7 @@
     "Name": "细剑",
     "ToolTip": "攻击将会给你施加‘格挡’buff，减少你所受的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -822,6 +896,7 @@
     "Name": "击剑徽章",
     "ToolTip": "受到伤害将有几率短暂提升近战速度，伤害和暴击率",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -832,6 +907,7 @@
     "Name": "锈剑",
     "ToolTip": "攻击有几率使敌人中毒",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -842,6 +918,7 @@
     "Name": "祭灵短匕",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击将会给你施加‘格挡’buff，减少你所受的伤害"
     ],
@@ -854,6 +931,7 @@
     "Name": "回力刀",
     "ToolTip": "挥动时释放一把回旋短剑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -864,6 +942,7 @@
     "Name": "鬼蝎",
     "ToolTip": "能使目标短暂的中毒",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -874,6 +953,7 @@
     "Name": "破海链锤",
     "ToolTip": "'挥舞一根绑着地雷的铁链简直就是疯子'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "在猛烈爆炸之前可以对至多4个敌人造成伤害"
     ],
@@ -886,6 +966,7 @@
     "Name": "鬼手",
     "ToolTip": "'看来你应该不会缺武器了'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -896,6 +977,7 @@
     "Name": "暗影护符",
     "ToolTip": "每使用7次魔法，下一次使用将不消耗魔力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -906,6 +988,7 @@
     "Name": "驱虫剂：骷髅",
     "ToolTip": "大多数骷髅将无法伤害你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能启用一个驱虫剂"
     ],
@@ -918,6 +1001,7 @@
     "Name": "巫师之镜",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "将你传送到一个随机地点",
       "使用后30秒内使你的身体变得不稳定"
@@ -931,6 +1015,7 @@
     "Name": "咒书：牙",
     "ToolTip": "射出一排吸血的獠牙",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -941,6 +1026,7 @@
     "Name": "尖钉雷",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -951,6 +1037,7 @@
     "Name": "血魂枪",
     "ToolTip": "将普通子弹转换成致命血珠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "血肉之球能永久穿透，但是移动很慢"
     ],
@@ -963,6 +1050,7 @@
     "Name": "勺子",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -973,6 +1061,7 @@
     "Name": "土豆",
     "ToolTip": "击中敌人或者物块的时候会变成土豆泥",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -983,6 +1072,7 @@
     "Name": "土豆雷",
     "ToolTip": "'厨师的制作功夫真棒啊'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "用土豆当做弹药"
     ],
@@ -995,6 +1085,7 @@
     "Name": "大盗匕首",
     "ToolTip": "杀死敌人将会掉落更多金币",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1005,6 +1096,7 @@
     "Name": "瑟银方块",
     "ToolTip": "'把这种矿塞在脸上看起来真酷...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1015,6 +1107,7 @@
     "Name": "投手大师指导：卷一",
     "ToolTip": "-投掷指导-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "投掷物会额外造成1/5的伤害"
@@ -1027,6 +1120,7 @@
     "Name": "投手大师指导：卷二",
     "ToolTip": "-投掷指导-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "投掷物会额外造成1/4的伤害"
@@ -1039,6 +1133,7 @@
     "Name": "投手大师指导：卷三",
     "ToolTip": "-投掷指导-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "投掷物会额外造成1/3的伤害"
@@ -1051,6 +1146,7 @@
     "Name": "螺丝旋杆抢",
     "ToolTip": "将子弹转化成高爆弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1061,6 +1157,7 @@
     "Name": "奇异通讯器",
     "ToolTip": "召唤一个天外来客",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1071,6 +1168,7 @@
     "Name": "织女星激光枪",
     "ToolTip": "有几率过载,释放一道不稳定的射线",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1081,6 +1179,7 @@
     "Name": "瓶装血",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'那是相当可怕'"
     ],
@@ -1093,6 +1192,7 @@
     "Name": "裂毒法杖",
     "ToolTip": "射出一片剧毒的水珠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1103,6 +1203,7 @@
     "Name": "虚空之心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这个奇怪的物品似乎是从堕落注视者所处领域中而来'"
     ],
@@ -1115,6 +1216,7 @@
     "Name": "翘曲碎刃",
     "ToolTip": "挥动时放出一道能量波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1125,6 +1227,7 @@
     "Name": "没用的淤泥",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'泥人的真正攻击; 占满你的物品空间!'"
     ],
@@ -1137,6 +1240,7 @@
     "Name": "如何与鲸鱼对话:传记",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤一只可骑乘的鲸鱼"
     ],
@@ -1149,6 +1253,7 @@
     "Name": "涡流短剑",
     "ToolTip": "'由潮汐之力锻造而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "挥动时释放出高击退的持续波动",
       "这个脉冲可以穿墙"
@@ -1162,6 +1267,7 @@
     "Name": "驱虫剂：僵尸",
     "ToolTip": "大多数僵尸将无法伤害你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能启用一个驱虫剂"
     ],

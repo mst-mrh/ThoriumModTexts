@@ -5,6 +5,7 @@
     "Name": "精准药剂",
     "ToolTip": "轻微增加暴击率",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "苹果派",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'美味家常菜'",
       "食用后提升生命恢复量",
@@ -29,6 +31,7 @@
     "Name": "嗜血药剂",
     "ToolTip": "增加近战，挖掘以及移动速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "血液根汁",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'注意：不包含粘性根茎'",
       "一分钟危险感知",
@@ -54,6 +58,7 @@
     "Name": "摇摇钙",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'不是很好吃，但很有效'",
       "铁皮一分钟",
@@ -68,6 +73,7 @@
     "Name": "萝卜沙拉",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'新鲜的蔬菜和美味的调料'",
       "夜视buff一分钟",
@@ -82,6 +88,7 @@
     "Name": "近战药剂",
     "ToolTip": "提升些许近战能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -92,6 +99,7 @@
     "Name": "燃炎药剂",
     "ToolTip": "你会被点燃，但是伤害会适当增加",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -102,6 +110,7 @@
     "Name": "爆炸涂层",
     "ToolTip": "投掷攻击有几率爆炸，波及附近敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -112,6 +121,7 @@
     "Name": "深寒涂层",
     "ToolTip": "投掷攻击有几率显著降低敌人的速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -122,6 +132,7 @@
     "Name": "霜心神药",
     "ToolTip": "将你冻在原地，但是能大幅增加生命回复速度和防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +143,7 @@
     "Name": "蓝莓沙拉",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'由新鲜生菜和土产蓝莓制成'",
       "生命再生1分钟",
@@ -147,6 +159,7 @@
     "Name": "莹光蛋奶酥",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'即便吃了他们，发出的荧光仍未消失'",
       "闪光一分钟",
@@ -162,6 +175,7 @@
     "Name": "戈尔丹涂层",
     "ToolTip": "投掷攻击将有几率石化敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,6 +186,7 @@
     "Name": "随风拂叶",
     "ToolTip": "增加跳跃高度并减少摔落伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -182,6 +197,7 @@
     "Name": "汉堡",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'烤制恰到好处'",
       "泰坦一分钟",
@@ -196,6 +212,7 @@
     "Name": "圣洁药剂",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加治疗法术的潜能"
@@ -208,6 +225,7 @@
     "Name": "冰激凌",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'一个美味的冰激凌'",
       "魔法力量30秒",
@@ -222,6 +240,7 @@
     "Name": "果酱",
     "ToolTip": "你真的要吃掉这坨东西嘛？",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "食用后获得额外治疗"
     ],
@@ -234,6 +253,7 @@
     "Name": "小杯生命之水",
     "ToolTip": "'生命质量的保障！'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "获得额外生命恢复量和最大生命值"
     ],
@@ -246,6 +266,7 @@
     "Name": "大盘生命果",
     "ToolTip": "回复100生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'泰拉瑞亚大陆里仅有的可食用的东西'",
       "短时间增加最大生命值",
@@ -261,6 +282,7 @@
     "Name": "汲血涂层",
     "ToolTip": "投掷攻击将有几率治愈你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -271,6 +293,7 @@
     "Name": "生命之水",
     "ToolTip": "'由庞大的生命之力驱动'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "获得额外生命恢复量和最大生命值"
     ],
@@ -283,6 +306,7 @@
     "Name": "魔力浆果",
     "ToolTip": "厨师可能对这个感兴趣",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -293,6 +317,7 @@
     "Name": "魔力的喜悦",
     "ToolTip": "回复125点法力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'每一口都能品尝到能量'",
       "不会受到魔力病的影响",
@@ -307,6 +332,7 @@
     "Name": "绿色健康蔬菜",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'在碗里混合了各种绿色蔬菜，还有什么可担心的？'",
       "短期增加暴击率",
@@ -322,6 +348,7 @@
     "Name": "黑暗料理大锅饭",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这道菜看起来没啥问题，但是吃掉它...'",
       "短期增加刷怪率",
@@ -337,6 +364,7 @@
     "Name": "多刺果酱",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'只要有正确的准备，这粉梨应该不会给你幻觉'",
       "短期增加攻击速度",
@@ -352,6 +380,7 @@
     "Name": "可疑的肋排",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'厨师如何制作这道菜已经让你尽收眼底'",
       "短期增加刷怪率",
@@ -367,6 +396,7 @@
     "Name": "快炒蘑菇",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'仅需一些热量和脂肪就能持续很久'",
       "短期增加召唤量",
@@ -382,6 +412,7 @@
     "Name": "海鲜意大利面",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'海藻在熬煮前好像跟面条差不多'",
       "短期增加水中移速",
@@ -397,6 +428,7 @@
     "Name": "银舌药剂",
     "ToolTip": "有一条三寸不烂之舌就能疯狂砍价（并释放内心的火焰）",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -407,6 +439,7 @@
     "Name": "天绽鸡尾酒",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这朵蓝花放在饮料上当小雨伞棒极了'",
       "短期减少降落速度",
@@ -422,6 +455,7 @@
     "Name": "一片蛋糕",
     "ToolTip": "回复65生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'美味的樱桃冰沙'",
       "短期增加移动速度",
@@ -436,6 +470,7 @@
     "Name": "晴空柠檬汁",
     "ToolTip": "回复85点生命",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'内有饮料能比得过这杯冰冻柠檬了'",
       "一段时间内变得更快乐了",
@@ -451,6 +486,7 @@
     "Name": "剧毒涂层",
     "ToolTip": "投掷攻击将有几率使敌人中毒",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

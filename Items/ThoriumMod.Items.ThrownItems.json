@@ -5,6 +5,7 @@
     "Name": "暗影手里剑",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人之后，你获得'暗影之舞'能力"
     ],
@@ -17,6 +18,7 @@
     "Name": "蔚蓝菇",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'古老的灵魂使得这些蘑菇疯狂地生长'"
     ],
@@ -29,6 +31,7 @@
     "Name": "燃烧瓶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "撞到物块或敌人会释放爆炎",
       "屏幕中如果有瓦斯，那么会发生爆炸反应"
@@ -42,6 +45,7 @@
     "Name": "腐蚀瓶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "撞到物块或敌人会爆炸成一团毒云",
       "屏幕中如果有瓦斯，那么会发生强烈的腐蚀反应"
@@ -55,6 +59,7 @@
     "Name": "暗黑物质",
     "ToolTip": "'黑暗中一团狂暴的物质'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +70,7 @@
     "Name": "真菌掷匕",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "扔出一个不稳定的，在攻击到敌人后碎裂的蘑菇",
       "受伤的敌人将会被真菌寄生"
@@ -78,6 +84,7 @@
     "Name": "真菌护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加14%投掷伤害",
       "增加12%投掷速度"
@@ -91,6 +98,7 @@
     "Name": "真菌帽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage done against mycelium infected enemies is increased by 10%\nDealing damage to enemies infected with mycelium briefly increases throwing speed by 10%",
     "AddToolTip": [
       "增加10%投掷伤害",
       "33%的概率不消耗投掷物"
@@ -104,6 +112,7 @@
     "Name": "真菌腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加12%投掷伤害",
       "增加10%投掷暴击"
@@ -117,6 +126,7 @@
     "Name": "瓦斯瓶",
     "ToolTip": "-多人游戏不可用-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "撞到物块或敌人会释放毒气",
@@ -130,6 +140,7 @@
     "Name": "蜥蜴飞刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -140,6 +151,7 @@
     "Name": "熔岩飞刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "点燃被击中敌人"
     ],
@@ -152,6 +164,7 @@
     "Name": "蘑菇手雷",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "爆炸时释放一团荧光孢子",
       "受伤的敌人将会被真菌寄生"
@@ -165,6 +178,7 @@
     "Name": "液氮瓶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "撞到物块或敌人会爆炸成一团极冰之云",
       "如果屏幕中有瓦斯，那么会发生短暂的冰冻效果"
@@ -178,6 +192,7 @@
     "Name": "瘟疫医生外衣",
     "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加14%投掷伤害",
       "提升20%的投掷物速度"
@@ -191,6 +206,7 @@
     "Name": "瘟疫医生裤子",
     "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加14%投掷伤害",
       "增加10%投掷暴击"
@@ -204,6 +220,7 @@
     "Name": "瘟疫面具",
     "ToolTip": "'你能都酿出什么恶心的药剂呢？'",
     "ToolTip2": "",
+    "SetBonus": "Plague doctor vials have a 33% chance to become retrievable",
     "AddToolTip": [
       "增加12%投掷伤害",
       "33%的概率不消耗投掷物"
@@ -217,6 +234,7 @@
     "Name": "火箭拳",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'能完美将敌人击飞几英里开外'"
     ],
@@ -232,6 +250,7 @@
     "Name": "豌豆炸弹",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "碰撞时释放一团毒云"
     ],
@@ -244,6 +263,7 @@
     "Name": "暗影匕首",
     "ToolTip": "击中一个敌人会获得'燃烧'和'暗影之舞'buff",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -254,6 +274,7 @@
     "Name": "暗影苦无",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人之后，你获得'暗影之舞'能力"
     ],
@@ -266,6 +287,7 @@
     "Name": "暗影链锤刀",
     "ToolTip": "甩出一把镰刀，打晕你的敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人之后，你获得'暗影之舞'能力"
     ],
@@ -278,6 +300,7 @@
     "Name": "暗影大师服装",
     "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加30%投掷伤害",
       "提升30%的投掷物速度"
@@ -291,6 +314,7 @@
     "Name": "暗影大师面具",
     "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
+    "SetBonus": "Striking an enemy with any throwing weapon will trigger 'Shadow Dance'",
     "AddToolTip": [
       "提升25%投掷伤害",
       "33%的概率不消耗投掷物"
@@ -304,6 +328,7 @@
     "Name": "暗影大师足具",
     "ToolTip": "'在黑暗中潜行，并给予敌人致命一击'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加20%投掷伤害",
       "增加30%投掷暴击",
@@ -318,6 +343,7 @@
     "Name": "碎魂飞刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人之后，飞刀会增加速度，伤害，并且忽视物块"
     ],
@@ -330,6 +356,7 @@
     "Name": "石矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -340,6 +367,7 @@
     "Name": "剧毒苦无",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "能使目标短暂的中毒"
     ],
@@ -352,6 +380,7 @@
     "Name": "伏特掷斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次可能激活两个",
       "能短暂麻痹目标"
@@ -368,6 +397,7 @@
     "Name": "白矮星护胫",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升15%投掷伤害",
       "增加30%投掷暴击",
@@ -382,6 +412,7 @@
     "Name": "白矮星护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加20%投掷伤害",
       "增加15%投掷速度",
@@ -396,6 +427,7 @@
     "Name": "白矮星苦无",
     "ToolTip": "投掷一团蕴含着星体能量的匕首",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10%不消耗投掷物"
     ],
@@ -408,6 +440,7 @@
     "Name": "白矮星面具",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Critical strikes will unleash ivory flares from the cosmos\nIvory flares deal 0.10% of the hit targets maximum life as damage",
     "AddToolTip": [
       "增加20%投掷伤害",
       "33%的概率不消耗投掷物"

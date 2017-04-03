@@ -5,6 +5,7 @@
     "Name": "远古庇护",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "附近友军受到的伤害减少8%"
@@ -17,6 +18,7 @@
     "Name": "复活古书",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "赋予第一个接触你指针的队友'重生'buff",
@@ -31,6 +33,7 @@
     "Name": "小天使之杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "回复队友相当于你的额外治疗，最大2",
@@ -45,6 +48,7 @@
     "Name": "药剂师红瓶",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "嗑了治疗药剂之后，所以的友军都会恢复25点生命"
@@ -57,6 +61,7 @@
     "Name": "药剂师蓝瓶",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "嗑了治疗药剂之后，所以的友军都会恢复40点魔法"
@@ -69,6 +74,7 @@
     "Name": "深海",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄由水流构成的镰刀"
@@ -84,6 +90,7 @@
     "Name": "奥术纹章",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "最大生命值增加 20",
@@ -99,6 +106,7 @@
     "Name": "圣天使之心",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "最大生命值增加 20",
@@ -115,6 +123,7 @@
     "Name": "飞升雕像",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "受到致命伤会释放你的圣魂",
@@ -129,6 +138,7 @@
     "Name": "速度符咒腰带",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友将显著增加你的移动速度"
@@ -141,6 +151,7 @@
     "Name": "汲血",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄镰刀制造饥渴之血",
@@ -157,6 +168,7 @@
     "Name": "咒书：输血",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "造成的伤害会返还一个生命血团给你"
@@ -172,6 +184,7 @@
     "Name": "鲜花守护",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "召唤一个花苞，周期性释放增幅孢子",
@@ -185,6 +198,7 @@
     "Name": "骨龙棒",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成快速旋转的骨棒"
@@ -200,6 +214,7 @@
     "Name": "骨镰",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成快速旋转的魔法镰刀"
@@ -215,6 +230,7 @@
     "Name": "丰饶",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成快速旋转的能再生的镰刀"
@@ -230,6 +246,7 @@
     "Name": "大天使光环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will summon an incredibly powerful aura around your cursor \nCreating this aura costs 150 mana",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -247,6 +264,7 @@
     "Name": "天界碎片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'和谐的能量蕴含在这发着微光的碎片中'"
     ],
@@ -259,6 +277,7 @@
     "Name": "大天使腿甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -276,6 +295,7 @@
     "Name": "大天使战袍",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少25%非光辉伤害",
@@ -292,6 +312,7 @@
     "Name": "气魂灯",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴2点生命",
@@ -306,6 +327,7 @@
     "Name": "圣诞祝福",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转圣诞之魂",
@@ -323,6 +345,7 @@
     "Name": "救赎纹章",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加12%光辉伤害",
@@ -336,6 +359,7 @@
     "Name": "血腥镰刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成快速旋转的血镰刀"
@@ -351,6 +375,7 @@
     "Name": "蜂蜜水晶",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'这种奇怪的蜂蜜很难精炼'",
@@ -366,6 +391,7 @@
     "Name": "咒术：治疗",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治愈你光标下的友军所有会造成伤害的debuff"
@@ -378,6 +404,7 @@
     "Name": "激进光环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -392,6 +419,7 @@
     "Name": "黑暗意旨",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "污染你的光辉力量",
@@ -406,6 +434,7 @@
     "Name": "黑镰",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成快速旋转的黑暗镰刀"
@@ -421,6 +450,7 @@
     "Name": "护卫权杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -435,6 +465,7 @@
     "Name": "小恶魔之杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "召唤一个小恶魔来攻击敌人",
@@ -451,6 +482,7 @@
     "Name": "生命束缚者胸甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少25%非光辉伤害",
@@ -467,6 +499,7 @@
     "Name": "生命束缚者腿甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -483,6 +516,7 @@
     "Name": "生命束缚者面具",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Healing spells will shortly increase the healed players maximum life by 50",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -500,6 +534,7 @@
     "Name": "圣神之光",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友16点生命",
@@ -513,6 +548,7 @@
     "Name": "巨龙之心法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "召唤一个充斥着愤怒魔法的领域",
@@ -527,6 +563,7 @@
     "Name": "堕落圣骑士胸甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少30%非光辉伤害",
@@ -543,6 +580,7 @@
     "Name": "堕落圣骑士面甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Taking damage heals nearby allies equal to 10% of the damage taken\nOnly one player may have this effect at once",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -558,6 +596,7 @@
     "Name": "堕落圣骑士膝甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少25%非光辉伤害",
@@ -574,6 +613,7 @@
     "Name": "黄昏",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄纯黑之镰",
@@ -590,6 +630,7 @@
     "Name": "巨大针管",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'不推荐胆小的人使用'",
@@ -604,6 +645,7 @@
     "Name": "好人书",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴3点生命",
@@ -617,6 +659,7 @@
     "Name": "纱布",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴8点生命",
@@ -630,6 +673,7 @@
     "Name": "圣神祝福",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "发出一道光波，给敌人赋予'圣神之光'效果",
@@ -646,6 +690,7 @@
     "Name": "圣骑士胸甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -661,6 +706,7 @@
     "Name": "圣骑士头盔",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Healing spells will heal an additional 5 life",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -676,6 +722,7 @@
     "Name": "圣骑士腿甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -691,6 +738,7 @@
     "Name": "神圣镰刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成一个快速旋转的神圣镰刀"
@@ -706,6 +754,7 @@
     "Name": "天堂之云权杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗量的生命值",
@@ -723,6 +772,7 @@
     "Name": "异教毁灭者",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗",
@@ -739,6 +789,7 @@
     "Name": "圣骑士合金",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'他们无声的走过地牢的通道'"
     ],
@@ -751,6 +802,7 @@
     "Name": "神圣法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "回复同伴5点生命",
@@ -765,6 +817,7 @@
     "Name": "闪耀权杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗",
@@ -782,6 +835,7 @@
     "Name": "驱散",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "清除指针位置的队友几乎所有debuff",
@@ -795,6 +849,7 @@
     "Name": "生与死",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'这条界线在泰拉瑞亚中非常细小'",
@@ -812,6 +867,7 @@
     "Name": "生命能源晶核",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'没有这些，那些强大的机械生物只不过是一些螺母跟螺钉...'"
     ],
@@ -824,6 +880,7 @@
     "Name": "生命扩散",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗",
@@ -840,6 +897,7 @@
     "Name": "生命波动法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗友军10生命",
@@ -853,6 +911,7 @@
     "Name": "生命晶核",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗,最大5",
@@ -868,6 +927,7 @@
     "Name": "生命晶核",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它随着你的心脏跳动而脉动..'"
     ],
@@ -880,6 +940,7 @@
     "Name": "无瑕生命晶核宝石",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "最大生命值提升10",
@@ -894,6 +955,7 @@
     "Name": "生命之赐",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴2点生命",
@@ -907,6 +969,7 @@
     "Name": "生命激流",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴5点生命",
@@ -921,6 +984,7 @@
     "Name": "生命编织者长袍",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少25%非光辉伤害",
@@ -937,6 +1001,7 @@
     "Name": "生命编织者兜帽",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Potent life energy emanates from you, periodically healing nearby hurt allies \nHeals ally life equal to your bonus healing",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -953,6 +1018,7 @@
     "Name": "生命编织者腿甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -969,6 +1035,7 @@
     "Name": "魔能光环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -983,6 +1050,7 @@
     "Name": "殉道者的圣杯",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴100点生命",
@@ -997,6 +1065,7 @@
     "Name": "药物包",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴8点生命",
@@ -1011,6 +1080,7 @@
     "Name": "不能停的药",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1021,6 +1091,7 @@
     "Name": "治疗之雾",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴5点生命",
@@ -1034,6 +1105,7 @@
     "Name": "分子稳定器",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴15点生命",
@@ -1047,6 +1119,7 @@
     "Name": "熔岩镰刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成一个快速旋转的火焰镰刀"
@@ -1062,6 +1135,7 @@
     "Name": "晨露",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗",
@@ -1079,6 +1153,7 @@
     "Name": "死灵法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友3%的生命",
@@ -1095,6 +1170,7 @@
     "Name": "牧师学徒头巾",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Successfully healing an ally with non-radiant healing spells will recover 2 life",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1110,6 +1186,7 @@
     "Name": "牧师学徒裤",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1125,6 +1202,7 @@
     "Name": "牧师学徒战袍",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1140,6 +1218,7 @@
     "Name": "坚石结界",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在指针位置召唤一个沉默领域",
@@ -1154,6 +1233,7 @@
     "Name": "生命归还",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴6点生命",
@@ -1168,6 +1248,7 @@
     "Name": "净化之水",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "造成的伤害会增加附近友军的生命回复速度"
@@ -1183,6 +1264,7 @@
     "Name": "净化碎片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'超度一切邪恶！'"
     ],
@@ -1195,6 +1277,7 @@
     "Name": "再生法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -1209,6 +1292,7 @@
     "Name": "咒书：再生",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'治愈些许小伤口'",
@@ -1223,6 +1307,7 @@
     "Name": "哨兵魔杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗附近所有npc"
@@ -1235,6 +1320,7 @@
     "Name": "天使玩偶",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加18%治疗速度"
@@ -1247,6 +1333,7 @@
     "Name": "午夜魔杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -1263,6 +1350,7 @@
     "Name": "南瓜提灯",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "召唤一个短暂存在的魔法南瓜，5秒后爆炸",
@@ -1276,6 +1364,7 @@
     "Name": "太阳环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴20点生命",
@@ -1289,6 +1378,7 @@
     "Name": "狂怒法杖",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你的指针位置展开一个结界15秒",
@@ -1303,6 +1393,7 @@
     "Name": "魂之水袋",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴8点生命",
@@ -1317,6 +1408,7 @@
     "Name": "灵魂扭曲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "吸取的生命等同于你的额外治疗量",
@@ -1333,6 +1425,7 @@
     "Name": "支援腰带",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友将显著增加你的移动速度",
@@ -1346,6 +1439,7 @@
     "Name": "注射器",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗同伴5点生命",
@@ -1359,6 +1453,7 @@
     "Name": "圣殿骑士头环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "If an ally is below half health, you will gain increased healing abilities",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1373,6 +1468,7 @@
     "Name": "圣殿骑士腿甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1388,6 +1484,7 @@
     "Name": "圣殿骑士战袍",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -1403,6 +1500,7 @@
     "Name": "泰拉镰刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄由泰拉瑞亚本体意志驱动的镰刀",
@@ -1419,6 +1517,7 @@
     "Name": "特斯拉除颤器",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'它是活的!'",
@@ -1434,6 +1533,7 @@
     "Name": "药丸",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "扔出一个弹射的枣药丸",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -1447,6 +1547,7 @@
     "Name": "安详七弦琴",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "治疗队友相当于你的额外治疗",
@@ -1463,6 +1564,7 @@
     "Name": "真·汲血",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄鲜血之镰",
@@ -1480,6 +1582,7 @@
     "Name": "真·黄昏",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄虚无之镰",
@@ -1497,6 +1600,7 @@
     "Name": "真·神圣镰刀",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "在你周围形成一个快速旋转的附魔镰刀"
@@ -1512,6 +1616,7 @@
     "Name": "闪星",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "召唤一个由遥远的星光组成的灵魂",
@@ -1526,6 +1631,7 @@
     "Name": "不洁碎晶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它的黑暗力量似乎只有在血月才会释放出来...'"
     ],
@@ -1538,6 +1644,7 @@
     "Name": "翠绿项链",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加8%回复速度",
@@ -1551,6 +1658,7 @@
     "Name": "祝福之盾",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "免疫击退",

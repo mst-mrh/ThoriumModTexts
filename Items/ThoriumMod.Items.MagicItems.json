@@ -5,6 +5,7 @@
     "Name": "精金法杖",
     "ToolTip": "召唤一个精金炮塔向你的鼠标位置发射攻击",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "黑洞",
     "ToolTip": "射出一道能量召唤大挤压区中的一个奇点",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "同一时间只有1个奇点能被激发"
     ],
@@ -27,6 +29,7 @@
     "Name": "血沸",
     "ToolTip": "令在你鼠标附近的敌人血液慢慢沸腾",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "叶绿法杖",
     "ToolTip": "快速射出能爆炸形成毒雾的能量波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "钴蓝法杖",
     "ToolTip": "射出两团可反弹的能量波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "暗流",
     "ToolTip": "射出一弯黑暗能量，能短暂地侵蚀敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "附魔长刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "攻击将会回复魔力并能轻微增强魔法力量",
     "ToolTip": "攻击将会回复魔力并能轻微增强魔法力量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "神圣护符",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它带着舒爽的能量闪着光芒'"
     ],
@@ -99,6 +108,7 @@
     "Name": "神圣法杖",
     "ToolTip": "在鼠标位置召唤一个剑阵",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "激流",
     "ToolTip": "射出一颗水珠，撞到物体时会产生几片水波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "狱火",
     "ToolTip": "射出一团会变成火墙的火焰",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "丛林之怒",
     "ToolTip": "发射会爆炸并令敌人中毒的孢子云",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +152,7 @@
     "Name": "夜之哀伤",
     "ToolTip": "召唤一个有着纯净星空之力的星星",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当这颗星星撞到物块时，会引发流星雨",
       "一次只能激发一个光浪"
@@ -152,6 +166,7 @@
     "Name": "秘银法杖",
     "ToolTip": "发出三道跟踪敌人的闪电",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -162,6 +177,7 @@
     "Name": "奥刚法杖",
     "ToolTip": "快速射出由强大的花瓣组成的弹幕",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,6 +188,7 @@
     "Name": "钯金法杖",
     "ToolTip": "射出一个会分裂成许多碎片的能量弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -182,6 +199,7 @@
     "Name": "魂刃",
     "ToolTip": "攻击将会回复魔力并能大量增强魔法力量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -192,6 +210,7 @@
     "Name": "咒书:真菌寄生",
     "ToolTip": "发射真菌束并寄生在敌人身上",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "敌人死后，更多的孢子荚会被释放"
     ],
@@ -204,6 +223,7 @@
     "Name": "咒书：炎笋",
     "ToolTip": "释放一排灼烧着的石笋",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -214,6 +234,7 @@
     "Name": "泰拉魔杖",
     "ToolTip": "召唤一个能够朝敌人发射元素光线的传送门",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能存在一个传送门"
     ],
@@ -226,6 +247,7 @@
     "Name": "咒书：时间门",
     "ToolTip": "在一个较大区域中召唤一个减缓时间流速的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "敌人的攻击性投掷物在时间领域内会减速"
     ],
@@ -238,6 +260,7 @@
     "Name": "钛金法杖",
     "ToolTip": "召唤一个能够朝敌人发射旋刃的传送门",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能存在一个传送门"
     ],
@@ -250,6 +273,7 @@
     "Name": "真·血沸",
     "ToolTip": "在你的鼠标附近的敌人的血液将会距离沸腾，并有几率使敌人大量失血",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -260,6 +284,7 @@
     "Name": "真·附魔长刃",
     "ToolTip": "攻击将会回复魔力并能适当增强魔法力量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -270,6 +295,7 @@
     "Name": "真·神圣法杖",
     "ToolTip": "在鼠标位置召唤神圣剑阵",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,6 +306,7 @@
     "Name": "真·夜之哀伤",
     "ToolTip": "召唤一颗被邪恶之力驱使的星星",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "当星星与物块相撞时，邪恶能量会爆发影响该区域"
     ],
@@ -292,6 +319,7 @@
     "Name": "动脉破裂",
     "ToolTip": "释放距离较短的血雾",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -302,6 +330,7 @@
     "Name": "白骑士腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%魔法伤害"
     ],
@@ -316,6 +345,7 @@
     "Name": "白骑士面罩",
     "ToolTip": "提升8%的魔法伤害",
     "ToolTip2": "",
+    "SetBonus": "Magical attacks have a 33% chance to recover some mana",
     "AddToolTip": [
       "提升5%的魔法伤害"
     ],
@@ -328,6 +358,7 @@
     "Name": "白骑士战袍",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加12%魔法伤害"
     ],

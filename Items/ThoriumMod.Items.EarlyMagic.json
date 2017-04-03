@@ -5,6 +5,7 @@
     "Name": "奥术粉尘",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它据有十分强大的魔法潜能'"
     ],
@@ -17,6 +18,7 @@
     "Name": "迷惑",
     "ToolTip": "制造一束混乱魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "溶解",
     "ToolTip": "制造一束熔穿护甲的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "冻结",
     "ToolTip": "制造一束冻结敌人的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "点燃",
     "ToolTip": "制造一束剧烈燃烧的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "梅吉克法杖",
     "ToolTip": "召唤一团波动的元素",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "元素灵法杖",
     "ToolTip": "召唤一团波动的元素",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "魔力球",
     "ToolTip": "'一颗魔力凝聚成的宝珠'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "最大生命值提升10"
     ],
@@ -89,6 +97,7 @@
     "Name": "穿透",
     "ToolTip": "制造一束沉重且具有穿透性的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "剧毒",
     "ToolTip": "制造一束剧毒的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "丝绸帽子",
     "ToolTip": "提升2%的魔法暴击率",
     "ToolTip2": "最大魔法上限增加 20",
+    "SetBonus": "Magic Damage increased by 7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "丝绸帽子",
     "ToolTip": "提升2%的魔法暴击率",
     "ToolTip2": "魔法伤害增加 2",
+    "SetBonus": "Magic Damage increased by 7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "丝绸腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升2%的魔法暴击率"
     ],
@@ -141,6 +154,7 @@
     "Name": "丝绸战袍",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升2%的魔法暴击率"
     ],
@@ -153,6 +167,7 @@
     "Name": "丝绸缠巾",
     "ToolTip": "提升5%召唤物的击退",
     "ToolTip2": "召唤伤害增加 2",
+    "SetBonus": "Increases your max number of minions by 1",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -163,6 +178,7 @@
     "Name": "虹吸",
     "ToolTip": "制造一束吸取生命的魔法",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

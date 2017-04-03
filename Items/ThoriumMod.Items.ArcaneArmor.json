@@ -5,6 +5,7 @@
     "Name": "舞空",
     "ToolTip": "附近有敌人时释放锋锐羽毛",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "注魔盔甲锻铸台",
     "ToolTip": "让你能够制造一些独特的武器和铠甲",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "鸟软骨",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'蕴藏了流体动力学的秘密'"
     ],
@@ -37,6 +40,7 @@
     "Name": "绽花之刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "花瓣胸甲",
     "ToolTip": "",
     "ToolTip2": "增加 10% 投掷速度",
+    "SetBonus": "",
     "AddToolTip": [
       "最大生命值提升10"
     ],
@@ -59,6 +64,7 @@
     "Name": "花瓣兜帽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Magic damage might puff hit enemies with a poisonous spore cloud",
     "AddToolTip": [
       "最大生命值提升5",
       "最大生命值提升10",
@@ -73,6 +79,7 @@
     "Name": "花瓣腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "最大生命值提升5",
       "最大生命值提升10",
@@ -87,6 +94,7 @@
     "Name": "致危匕首",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,6 +105,7 @@
     "Name": "致危长刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -107,6 +116,7 @@
     "Name": "致危毁灭者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -117,6 +127,7 @@
     "Name": "致危厄运回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次可能激活两个"
     ],
@@ -129,6 +140,7 @@
     "Name": "致危钻头",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +151,7 @@
     "Name": "致危双发弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -149,6 +162,7 @@
     "Name": "致危护腿",
     "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升6%速度"
     ],
@@ -161,6 +175,7 @@
     "Name": "致危头盔",
     "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
+    "SetBonus": "You are immune to most damage-inflicting debuffs",
     "AddToolTip": [
       "受到伤害会增加些许近战能力"
     ],
@@ -173,6 +188,7 @@
     "Name": "致危盔甲",
     "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加8%近战速度"
     ],
@@ -185,6 +201,7 @@
     "Name": "危机碎片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'有着反魔法的性质'"
     ],
@@ -197,6 +214,7 @@
     "Name": "落羽弓",
     "ToolTip": "无视重力，以直线快速飞行",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -207,6 +225,7 @@
     "Name": "飞羽魔杖",
     "ToolTip": "召唤一个短暂存在的羽之屏障保护你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,6 +236,7 @@
     "Name": "飞羽弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -227,6 +247,7 @@
     "Name": "飞羽鞋",
     "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%的移动速度"
     ],
@@ -239,6 +260,7 @@
     "Name": "飞羽盔甲",
     "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "你不会摔伤"
     ],
@@ -251,6 +273,7 @@
     "Name": "飞羽帽",
     "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
+    "SetBonus": "Your flight time is moderately increased",
     "AddToolTip": [
       "增加跳跃高度"
     ],
@@ -263,6 +286,7 @@
     "Name": "飞羽之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -273,6 +297,7 @@
     "Name": "哥布林战盾",
     "ToolTip": "在站着不动的时候，防御会增加4点并且免疫击退",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -283,6 +308,7 @@
     "Name": "哥布林战矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "有几率在敌人身上凿出一个窟窿，造成额外伤害"
     ],
@@ -295,6 +321,7 @@
     "Name": "鸟妖冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -305,6 +332,7 @@
     "Name": "鸟妖之爪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -315,6 +343,7 @@
     "Name": "花瓣",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'散发出惊人而浓郁的香气'"
     ],
@@ -327,6 +356,7 @@
     "Name": "绽花回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -337,6 +367,7 @@
     "Name": "花之盾",
     "ToolTip": "提升3点防御",
     "ToolTip2": "不受攻击时，生命回复提升至3",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -347,6 +378,7 @@
     "Name": "花瓣魔杖",
     "ToolTip": "射出一片极速飞行的花瓣",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -357,6 +389,7 @@
     "Name": "暗影炎魔杖",
     "ToolTip": "射出一个缓慢移动的暗影之炎魔球",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -367,6 +400,7 @@
     "Name": "紫衫木燧发枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -377,6 +411,7 @@
     "Name": "紫衫木",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这奇特的木头来自一个遥远的大陆'"
     ],
@@ -389,6 +424,7 @@
     "Name": "紫衫木头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "After four consecutive non-critical strikes, your next\nranged attack will mini-crit for 150% damage",
     "AddToolTip": [
       "增加4%远程伤害"
     ],
@@ -401,6 +437,7 @@
     "Name": "紫衫木弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -411,6 +448,7 @@
     "Name": "紫衫木护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加2%远程伤害",
       "增加15%射击速度"
@@ -424,6 +462,7 @@
     "Name": "紫衫木腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加2%远程伤害",
       "增加5%移速"

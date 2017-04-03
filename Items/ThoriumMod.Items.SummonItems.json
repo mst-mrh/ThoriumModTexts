@@ -5,6 +5,7 @@
     "Name": "集合令旗",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤物在短时间内会额外造成6点伤害"
     ],
@@ -17,6 +18,7 @@
     "Name": "生命之心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一团扭动的叶绿素"
     ],
@@ -29,6 +31,7 @@
     "Name": "血腥僵尸法杖",
     "ToolTip": "召唤一直嗜血的血腥僵尸",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "斗旗",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "基于你的最大召唤栏增加伤害减免"
     ],
@@ -51,6 +55,7 @@
     "Name": "迷你噬魂者法杖",
     "ToolTip": "召唤一只小吞噬者攻击你的敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -61,6 +66,7 @@
     "Name": "血猎犬法杖",
     "ToolTip": "召唤一只又粘又奇怪血腥猎犬",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -71,6 +77,7 @@
     "Name": "注魔屏障",
     "ToolTip": "制造一道能伤害并击退敌人的防御屏障",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "占据一个召唤物格位"
     ],
@@ -83,6 +90,7 @@
     "Name": "激进战旗",
     "ToolTip": "蜂蜜剑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "挥击时丢出一窝蜜蜂"
     ],
@@ -95,6 +103,7 @@
     "Name": "更快",
     "ToolTip": "树人腿甲",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加你的召唤物上限",
       "增加8%的召唤物伤害",
@@ -109,6 +118,7 @@
     "Name": "'和自然融为一体'",
     "ToolTip": "树人腿甲",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加你的召唤物上限",
       "增加10%召唤伤害",
@@ -123,6 +133,7 @@
     "Name": "'和自然融为一体'",
     "ToolTip": "树人腿甲",
     "ToolTip2": "",
+    "SetBonus": "Minion attacks have a 33% chance to heal you lightly",
     "AddToolTip": [
       "增加你的召唤物上限",
       "增加8%的召唤物伤害"
@@ -136,6 +147,7 @@
     "Name": "陨星面具",
     "ToolTip": "提升12%的召唤伤害",
     "ToolTip2": "",
+    "SetBonus": "Minion attacks have a chance to unleash plasma on hit",
     "AddToolTip": [
       "增加你的召唤物上限"
     ],
@@ -148,6 +160,7 @@
     "Name": "陨石头法杖",
     "ToolTip": "召唤一个友好的陨石怪去撞击你的敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,6 +171,7 @@
     "Name": "士气战旗",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤物低几率治疗你"
     ],
@@ -170,6 +184,7 @@
     "Name": "炮龟法杖",
     "ToolTip": "在目标位置的下方召唤一座小型火山",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -180,6 +195,7 @@
     "Name": "虚空之触",
     "ToolTip": "释放一团虚空能量体，制造一个跨维度的传送门",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次只能存在一个裂缝"
     ],

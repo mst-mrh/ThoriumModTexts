@@ -5,6 +5,7 @@
     "Name": "饮血",
     "ToolTip": "'由腐化的元素制作而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "毁灭之火",
     "ToolTip": "撞到敌人后爆炸",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "梦魇",
     "ToolTip": "在击中敌人之后有几率射出回旋的黑暗之光",
     "ToolTip2": "这个悠悠球可以永久空转",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "血色之护",
     "ToolTip": "在击中敌人之后有几率射出回旋的生命之光",
     "ToolTip2": "这个悠悠球可以永久空转",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "灼烧之刃",
     "ToolTip": "'这把由大师铸造的剑的剑刃能够将敌人焚烧殆尽...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "真·饮血",
     "ToolTip": "每次挥动都能射出血红剑气",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "古龙胸甲",
     "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升8%非近战伤害",
       "增加10%的近战伤害"
@@ -18,6 +19,7 @@
     "Name": "古龙腿甲",
     "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加12%移速"
     ],
@@ -30,6 +32,7 @@
     "Name": "古龙面具",
     "ToolTip": "'由古龙的鳞片制作而成'",
     "ToolTip2": "",
+    "SetBonus": "Your attacks have a chance to unleash an explosion of Dragon's Flame",
     "AddToolTip": [
       "增加7%暴击"
     ],
@@ -42,6 +45,7 @@
     "Name": "古龙鳞",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'年代久远的材料'",
       "能使巨龙护甲在视觉上转变成远古巨龙护甲"
@@ -55,6 +59,7 @@
     "Name": "古代黑曜盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Immune to intense heat and enemy knockback, but your movement is slowed down greatly",
     "AddToolTip": [
       "'比任何自然的物质都要坚硬'"
     ],
@@ -67,6 +72,7 @@
     "Name": "古代黑曜甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'比任何自然的物质都要坚硬'"
     ],
@@ -79,6 +85,7 @@
     "Name": "古代黑曜腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'比任何自然的物质都要坚硬'"
     ],
@@ -91,6 +98,7 @@
     "Name": "黑曜石精华",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'年代久远的材料'",
       "能使花岗岩护甲在视觉上转变成黑曜石护甲"

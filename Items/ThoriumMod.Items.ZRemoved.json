@@ -5,6 +5,7 @@
     "Name": "Thorium Material Item",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "For testing purposes"
     ],
@@ -17,6 +18,7 @@
     "Name": "Basic Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

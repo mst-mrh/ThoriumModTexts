@@ -5,6 +5,7 @@
     "Name": "熔岩斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "熔岩剑",
     "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "熔岩护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'爆发巨大的热能'",
       "增加5%的近战伤害"
@@ -38,6 +41,7 @@
     "Name": "熔岩石板",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'触摸之后它就会融化'"
     ],
@@ -50,6 +54,7 @@
     "Name": "熔岩链锤",
     "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "熔岩腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'爆发巨大的热能'",
       "增加4%的近战伤害"
@@ -73,6 +79,7 @@
     "Name": "熔岩锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -83,6 +90,7 @@
     "Name": "熔岩头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Fire surrounds your armour and melee weapons\nDamage done against burning and singed enemies is increased by 5%",
     "AddToolTip": [
       "'爆发巨大的热能'",
       "增加3%的近战伤害"
@@ -96,6 +104,7 @@
     "Name": "熔岩矿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它好热'"
     ],
@@ -108,6 +117,7 @@
     "Name": "熔岩镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,6 +128,7 @@
     "Name": "熔岩长戟",
     "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -128,6 +139,7 @@
     "Name": "熔岩匕",
     "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -138,6 +150,7 @@
     "Name": "熔岩弹射",
     "ToolTip": "攻击有几率烧伤敌人，造成额外的伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

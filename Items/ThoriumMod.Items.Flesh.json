@@ -5,6 +5,7 @@
     "Name": "血肉喷染器",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "血肉斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "血肉之躯",
     "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加5%伤害",
       "增加2点生命回复速度"
@@ -38,6 +41,7 @@
     "Name": "血肉弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "血肉链锯",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,6 +63,7 @@
     "Name": "血肉钻",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +74,7 @@
     "Name": "血肉锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -78,6 +85,7 @@
     "Name": "血肉钻锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,6 +96,7 @@
     "Name": "血肉之腿",
     "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升6%速度"
     ],
@@ -100,6 +109,7 @@
     "Name": "血牙链锤",
     "ToolTip": "攻击有可能吸取生命，但是会停止生命回复",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -110,6 +120,7 @@
     "Name": "血肉面具",
     "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
+    "SetBonus": "Consecutive attacks against enemies might drop flesh, which grants bonus life and damage",
     "AddToolTip": [
       "提升6%的移动速度"
     ],
@@ -122,6 +133,7 @@
     "Name": "血肉镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +144,7 @@
     "Name": "血肉串叉",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有可能吸取生命，但是会停止生命回复"
     ],
@@ -144,6 +157,7 @@
     "Name": "血肉之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -154,6 +168,7 @@
     "Name": "速食肉",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -164,6 +179,7 @@
     "Name": "凝血法杖",
     "ToolTip": "射出一道会破碎成血滴的血肉冲击波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有可能吸取生命，但是同时会暂时令生命回复量消失"
     ],
@@ -176,6 +192,7 @@
     "Name": "肉食者之牙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有可能吸取生命，但是会停止生命回复",
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
@@ -189,6 +206,7 @@
     "Name": "不明肉块",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它翻滚摆动着，并试图纠缠上你'"
     ],
@@ -201,6 +219,7 @@
     "Name": "静脉破坏者",
     "ToolTip": "可以充当弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有可能吸取生命，但是同时会暂时令生命回复量消失"
     ],

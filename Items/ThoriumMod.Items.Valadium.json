@@ -5,6 +5,7 @@
     "Name": "虚金斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "虚金战斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使用交叉空间能量的攻击令敌人爆炸"
     ],
@@ -27,6 +29,7 @@
     "Name": "虚金弓",
     "ToolTip": "从这把枪里射出的子弹会用高维能量打击敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "虚金胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升2%远程暴击率",
       "提升10%远程伤害",
@@ -51,6 +55,7 @@
     "Name": "虚金矿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'来自二次元'"
     ],
@@ -63,6 +68,7 @@
     "Name": "虚金破敌枪",
     "ToolTip": "从这把枪里射出的子弹会用高维能量打击敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -73,6 +79,7 @@
     "Name": "虚金腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升2%远程暴击率",
       "增加5%的远程伤害",
@@ -87,6 +94,7 @@
     "Name": "虚金锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,6 +105,7 @@
     "Name": "虚金头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Reverse gravity by pressing UP. While reversed, ranged damage is increased by 12%!",
     "AddToolTip": [
       "提升6%远程暴击率",
       "增加5%的远程伤害"
@@ -110,6 +119,7 @@
     "Name": "虚金锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'掌握着重力的力量'"
     ],
@@ -122,6 +132,7 @@
     "Name": "虚金镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +143,7 @@
     "Name": "虚金切割者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使用交叉空间能量的攻击令敌人爆炸",
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
@@ -145,6 +157,7 @@
     "Name": "虚金长矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使用交叉空间能量的攻击令敌人爆炸"
     ],
@@ -157,6 +170,7 @@
     "Name": "虚金法杖",
     "ToolTip": "在周围释放一个会吸收物质的缓慢移动的镜像",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "使用交叉空间能量的攻击能使敌人爆炸"
     ],

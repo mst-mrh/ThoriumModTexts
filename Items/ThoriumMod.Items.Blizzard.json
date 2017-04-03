@@ -5,6 +5,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "极地行者荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "极寒之牙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击中敌人或碰到砖块后造成冰爆",
       "攻击可能会大幅降低敌人移速",
@@ -42,6 +45,7 @@
     "Name": "霜冻射线",
     "ToolTip": "将普通子弹转换成寒冰射线",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "冰冻射线几率大幅降低敌人速度",
       "boss不受此影响"
@@ -55,6 +59,7 @@
     "Name": "霜火之舌",
     "ToolTip": "'那些在暴风雪中迷失的人们将迎来可怕的命运...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "大幅降低受伤敌人速度",
       "boss不受此影响"
@@ -71,6 +76,7 @@
     "Name": "极牙法杖",
     "ToolTip": "快速射出有几率能使敌人速度显著降低的寒冰蛛牙",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],
@@ -83,6 +89,7 @@
     "Name": "冰蛰",
     "ToolTip": "将木箭转换成冰川箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "冰川箭几率大幅降低敌人速度",
       "boss不受此影响"
@@ -96,6 +103,7 @@
     "Name": "冰冻者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击几率大幅降低敌人速度",
       "boss不受此影响"
@@ -109,6 +117,7 @@
     "Name": "冰隐行者之契约",
     "ToolTip": "'很少有生物能在泰拉瑞亚暴风雪中心生存下来'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "对减速的敌人造成额外15%伤害",
       "对减速的敌人造成伤害有几率治疗自己"
@@ -122,6 +131,7 @@
     "Name": "霜冻精灵法杖",
     "ToolTip": "召唤一个冰精灵冰封你的敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +142,7 @@
     "Name": "失落之信",
     "ToolTip": "召唤一个雪鸮监督你",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -142,6 +153,7 @@
     "Name": "行者之泪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'你所捧过最寒冷的东西...'",
       "大幅增加极地行者出现几率",
@@ -156,6 +168,7 @@
     "Name": "冻原之主的破碎王冠",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "深海角质鳞",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'在比深海还要深邃黑暗的环境形成'"
     ],
@@ -17,6 +18,7 @@
     "Name": "安格诺尔的碗",
     "ToolTip": "'这只小琵琶鱼非常讨厌黑暗...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'照亮你面前黑暗的深海'"
     ],
@@ -29,6 +31,7 @@
     "Name": "海洋结晶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'原始海洋的精华'"
     ],
@@ -41,6 +44,7 @@
     "Name": "海洋锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'紧紧浓缩在了锭中'"
     ],
@@ -53,6 +57,7 @@
     "Name": "潜水药剂",
     "ToolTip": "在水中无拘无束地移动",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -63,6 +68,7 @@
     "Name": "咸泥块",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "可以放入精炼机中"
     ],
@@ -75,6 +81,7 @@
     "Name": "卡特里奇捕鱼者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "深渊宝箱",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "深渊潜游者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'变成自私的保卫者'",
       "周围友军增加8%伤害"
@@ -108,6 +117,7 @@
     "Name": "深渊潜游者护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'变成自私的保卫者'",
       "周围有军增加10%移速"
@@ -121,6 +131,7 @@
     "Name": "深渊潜游者头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "You gain each of your emanating effects as well",
     "AddToolTip": [
       "'变成自私的保卫者'",
       "增加6%暴击",
@@ -135,6 +146,7 @@
     "Name": "深海鳞片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'进化法则设计了这一深海生物...'"
     ],
@@ -147,6 +159,7 @@
     "Name": "音乐盒（深海）",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -157,6 +170,7 @@
     "Name": "浸水短剑",
     "ToolTip": "用前端的椎体疯狂突刺",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -167,6 +181,7 @@
     "Name": "狂怒药剂",
     "ToolTip": "提升8%的近战，开枪，施法，投掷和生命回复速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -177,6 +192,7 @@
     "Name": "间歇泉法杖",
     "ToolTip": "射出一道流动的水柱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -187,6 +203,7 @@
     "Name": "荧光药剂",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加12%光辉伤害"
@@ -199,6 +216,7 @@
     "Name": "波纹水斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -209,6 +227,7 @@
     "Name": "高压水炮",
     "ToolTip": "快速射出高压水炮",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -219,6 +238,7 @@
     "Name": "波纹碎锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -229,6 +249,7 @@
     "Name": "波纹海镐",
     "ToolTip": "在水中时候工具挥舞速度速度会加快",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -239,6 +260,7 @@
     "Name": "辉煌",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -249,6 +271,7 @@
     "Name": "光耀护腿",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加10%光辉伤害",
@@ -262,6 +285,7 @@
     "Name": "光耀头盔",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "Your radiant heals have a 10% chance to critically strike",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加16%光辉伤害"
@@ -274,6 +298,7 @@
     "Name": "光耀盔甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加12%光辉伤害",
@@ -287,6 +312,7 @@
     "Name": "利维坦钩抓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -297,6 +323,7 @@
     "Name": "魔法海螺",
     "ToolTip": "制造一片由能升起敌人的泡泡组成的弹幕",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -307,6 +334,7 @@
     "Name": "海藻",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -317,6 +345,7 @@
     "Name": "海藻种子",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "在多苔海洋石上生长"
     ],
@@ -329,6 +358,7 @@
     "Name": "海洋石",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -339,6 +369,7 @@
     "Name": "多苔海洋石",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -349,6 +380,7 @@
     "Name": "娜迦面具",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Every 75 mana spent will dramatically increase your magic damage and casting speed briefly",
     "AddToolTip": [
       "'与原始的海洋法师交流'",
       "增加60魔法值",
@@ -363,6 +395,7 @@
     "Name": "娜迦服",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'与原始的海洋法师交流'",
       "增加10%魔法伤害",
@@ -377,6 +410,7 @@
     "Name": "娜迦尾",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'与原始的海洋法师交流'",
       "增加8%魔法伤害",
@@ -391,6 +425,7 @@
     "Name": "海洋反射",
     "ToolTip": "-生命守护-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "提升3点防御",
@@ -407,6 +442,7 @@
     "Name": "珍珠",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'光滑，明亮，好看'"
     ],
@@ -419,6 +455,7 @@
     "Name": "珍珠长矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "成功击中敌人会增加你的移速"
     ],
@@ -431,6 +468,7 @@
     "Name": "雨石",
     "ToolTip": "'据说这个神奇的石头是一个能控制海洋能量的东西分离出的碎片...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "激活或取消：暴风雨"
     ],
@@ -443,6 +481,7 @@
     "Name": "海龟秘盾",
     "ToolTip": "-生命守护-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "提升2防御",
@@ -457,6 +496,7 @@
     "Name": "鲨鱼风暴",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "35%不消耗弹药"
     ],
@@ -469,6 +509,7 @@
     "Name": "多刺贝壳",
     "ToolTip": "你受到的45%的伤害会反弹给敌人",
     "ToolTip2": "直接攻击你的敌人将会中毒且带毒",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -479,6 +520,7 @@
     "Name": "春水",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -489,6 +531,7 @@
     "Name": "海忍者手里星",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "扎入地表"
     ],
@@ -501,6 +544,7 @@
     "Name": "猎潮者帽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Ranged critical strikes bring forth vile tentacles to attack hit enemies",
     "AddToolTip": [
       "'不只是为了捕鱼'",
       "提升4%远程暴击",
@@ -515,6 +559,7 @@
     "Name": "捕潮者胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'不只是为了捕鱼'",
       "提升10%远程伤害"
@@ -528,6 +573,7 @@
     "Name": "捕潮者腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'不只是为了捕鱼'",
       "提升10%远程暴击"

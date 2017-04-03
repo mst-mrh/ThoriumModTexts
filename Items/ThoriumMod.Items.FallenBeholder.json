@@ -5,6 +5,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "注视者面具",
     "ToolTip": "向深渊凝视'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "注视者权杖",
     "ToolTip": "召唤一只注视者向你的敌人倾泻虚空中的能量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "小注视者占用2个召唤栏位",
       "注视者会提供你附近敌人的位置"
@@ -38,6 +41,7 @@
     "Name": "堕落注视者荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "虚空凝视者战车之书",
     "ToolTip": "'成为窥视虚空的先知'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤一个可骑乘的注视者"
     ],
@@ -60,6 +65,7 @@
     "Name": "魔炎爆破法杖",
     "ToolTip": "快速射出岩浆爆弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,6 +76,7 @@
     "Name": "邪恶甲壳",
     "ToolTip": "-灵魂容器-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'注入了超乎想象的邪恶力量'",
@@ -85,6 +92,7 @@
     "Name": "注视者之眼",
     "ToolTip": "装备上时，这只眼睛将会照亮鼠标所在的位置",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "抹除者",
     "ToolTip": "发射的子弹会多次打击敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "热炎刺",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "左键 - 挥动剑刃，点燃敌人",
       "右键 - 刺出剑刃，灼烧击中的敌人"
@@ -118,6 +128,7 @@
     "Name": "虚空透镜",
     "ToolTip": "召唤一个来自其他位面的生物",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "只能在地狱使用"
     ],

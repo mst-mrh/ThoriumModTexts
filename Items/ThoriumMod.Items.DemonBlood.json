@@ -5,6 +5,7 @@
     "Name": "魔血弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "由这把弓发射出的箭可能会暂时给你鲜血充能buff",
       "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
@@ -18,6 +19,7 @@
     "Name": "魔血胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'感受污染之血的鼓舞吧'",
       "10%几率中和即将到来的伤害",
@@ -32,6 +34,7 @@
     "Name": "魔血链锯",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -42,6 +45,7 @@
     "Name": "魔血弩",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "由这把弓发射出的箭可能会暂时给你鲜血充能buff",
       "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
@@ -55,6 +59,7 @@
     "Name": "魔血钻",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +70,7 @@
     "Name": "魔血护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'感受污染之血的鼓舞吧'",
       "提升15%移速",
@@ -79,6 +85,7 @@
     "Name": "魔血锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +96,7 @@
     "Name": "魔血头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Maximum life increased by 70, enemies are more likely to \ntarget you and damage reduction increased by 15%",
     "AddToolTip": [
       "'感受污染之血的鼓舞吧'",
       "增加10%暴击",
@@ -103,6 +111,7 @@
     "Name": "魔血冲击锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -113,6 +122,7 @@
     "Name": "魔血镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,6 +133,7 @@
     "Name": "魔血晶",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'血与黑暗的复杂混合物'"
     ],
@@ -135,6 +146,7 @@
     "Name": "魔血长矛",
     "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "造成伤害后获得鲜血充能buff",
       "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
@@ -148,6 +160,7 @@
     "Name": "魔血法杖",
     "ToolTip": "释放一滴高密度的血团，能攻击同一个敌人数次",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "造成伤害后获得鲜血充能buff",
       "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
@@ -161,6 +174,7 @@
     "Name": "魔血剑",
     "ToolTip": "挥动时释放一道血波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "造成伤害后获得鲜血充能buff",
       "在充能完毕时，你的下一次攻击会长成双倍伤害并把伤害的15%转化为治疗"
@@ -174,6 +188,7 @@
     "Name": "恶魔血翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -184,6 +199,7 @@
     "Name": "魔血徽章",
     "ToolTip": "受到伤害的时候会暂时提高防御能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

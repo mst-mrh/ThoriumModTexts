@@ -5,6 +5,7 @@
     "Name": "骑士合金",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'地牢堕落骑士用品'"
     ],
@@ -17,6 +18,7 @@
     "Name": "暗金镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "暗金斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "暗金核心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'蕴藏着制作黑铁骑士的关键物质'"
     ],
@@ -49,6 +53,7 @@
     "Name": "暗金锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -59,6 +64,7 @@
     "Name": "暗金宽剑",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -69,6 +75,7 @@
     "Name": "暗金狼牙锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -79,6 +86,7 @@
     "Name": "生命汲取",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击会将伤害转化为血量"
     ],
@@ -91,6 +99,7 @@
     "Name": "灵魂虹吸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击会将伤害转化为魔法"
     ],
@@ -103,6 +112,7 @@
     "Name": "暗金长弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -113,6 +123,7 @@
     "Name": "暗金弩",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,6 +134,7 @@
     "Name": "暗金骑士护面",
     "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
+    "SetBonus": "Nothing will stop your movement! Double tap to dash!",
     "AddToolTip": [
       "增加10%的移动速度",
       "增加3破甲"
@@ -136,6 +148,7 @@
     "Name": "暗金骑士胸甲",
     "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加12%移速",
       "增加4破甲"
@@ -149,6 +162,7 @@
     "Name": "暗金骑士护腿",
     "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加10%的移动速度",
       "增加3破甲"
@@ -162,6 +176,7 @@
     "Name": "光滑的煤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'可能会很有用'"
     ],

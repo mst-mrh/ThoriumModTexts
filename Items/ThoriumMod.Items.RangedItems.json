@@ -5,6 +5,7 @@
     "Name": "精金卡宾枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "铅弹",
     "ToolTip": "可以充当弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "灰烬",
     "ToolTip": "将木箭转换成爆炎",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "钴蓝手枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "流星十字火",
     "ToolTip": "此弓可暴击，释放强大的弓箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "永夜",
     "ToolTip": "不需要弹药",
     "ToolTip2": "射出吞噬敌人的永夜箭矢",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "荆棘",
     "ToolTip": "将木箭转换成翡翠箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "翡翠箭有几率使击中的敌人中毒"
     ],
@@ -77,6 +84,7 @@
     "Name": "血溢",
     "ToolTip": "不需要弹药",
     "ToolTip2": "射出击中敌人后可恢复生命的染血箭矢",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "真菌加特林",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10%的概率不消耗弹药"
     ],
@@ -99,6 +108,7 @@
     "Name": "秘银冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "奥刚冲锋枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "钯金机关枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "爆破发射器",
     "ToolTip": "发射一个额外多重打击的火箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +152,7 @@
     "Name": "轨道枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "杀死敌人有几率使你的枪超频",
       "15%的概率不消耗弹药"
@@ -152,6 +166,7 @@
     "Name": "重炮枪",
     "ToolTip": "射出一簇子弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "有着极强的后坐力，会使你后退"
     ],
@@ -164,6 +179,7 @@
     "Name": "激流",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -174,6 +190,7 @@
     "Name": "泰拉弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -184,6 +201,7 @@
     "Name": "钛金来福枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -194,6 +212,7 @@
     "Name": "圣发条枪",
     "ToolTip": "'发射一团子弹'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一次射出三发子弹",
       "25%的概率不消耗弹药"
@@ -207,6 +226,7 @@
     "Name": "真·永夜",
     "ToolTip": "射出一簇箭矢，中间那支将会变成永夜之箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,6 +237,7 @@
     "Name": "真·圣弩",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -227,6 +248,7 @@
     "Name": "真·血溢",
     "ToolTip": "射出一簇箭矢，中间那支将会变成鲜血之箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -237,6 +259,7 @@
     "Name": "电束枪",
     "ToolTip": "射出一道无限穿透的短程脉冲电流",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

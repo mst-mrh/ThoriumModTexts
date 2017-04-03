@@ -5,6 +5,7 @@
     "Name": "珊瑚锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'它发出的光像太阳照在水面一样'"
     ],
@@ -17,6 +18,7 @@
     "Name": "海洋鳞片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'非常闪亮'"
     ],
@@ -29,6 +31,7 @@
     "Name": "海水箭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "粗糙的珊瑚之刃有几率对击中的敌人造成凿击，造成额外伤害"
     ],
@@ -41,6 +44,7 @@
     "Name": "海洋护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "湿身之后减少15%的伤害"
     ],
@@ -53,6 +57,7 @@
     "Name": "珊瑚十字",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -63,6 +68,7 @@
     "Name": "海洋护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "拥有游泳的能力"
     ],
@@ -75,6 +81,7 @@
     "Name": "珊瑚锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "海洋头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Allows you to breathe underwater",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "珊瑚镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "珊瑚三叉戟",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "粗糙的珊瑚之刃有几率对击中的敌人造成凿击，造成额外伤害"
     ],
@@ -117,6 +127,7 @@
     "Name": "珊瑚刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "粗糙的珊瑚之刃有几率对击中的敌人造成凿击，造成额外伤害"
     ],
@@ -129,6 +140,7 @@
     "Name": "珊瑚掷斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "粗糙的珊瑚之刃有几率对击中的敌人造成凿击，造成额外伤害"
     ],
@@ -141,6 +153,7 @@
     "Name": "海星杖",
     "ToolTip": "召唤会撕裂你敌人的海星",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "灼热弹",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "毁灭怒焰",
     "ToolTip": "不需要弹药",
     "ToolTip2": "快速射出激光箭",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "恶魔匕首",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "杀死敌人之后会短暂的提升你的魔法伤害"
     ],
@@ -37,6 +40,7 @@
     "Name": "恶魔之触",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "毁灭者之眼",
     "ToolTip": "朝附近的敌人发射激光",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "真菌钩抓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "真菌喷射器",
     "ToolTip": "将普通子弹转换为孢子",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "孢子可能会寄生敌人"
     ],
@@ -79,6 +86,7 @@
     "Name": "手炮",
     "ToolTip": "能够发射灼热弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "有着极强的后坐力，会使你后退"
     ],
@@ -91,6 +99,7 @@
     "Name": "水耀石",
     "ToolTip": "创造一个充满深渊能量并会攻击周围敌人的球",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +110,7 @@
     "Name": "熔岩钥匙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'注入了火焰之精华'"
     ],
@@ -113,6 +123,7 @@
     "Name": "真菌钥匙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'注入了孢子之精华'"
     ],
@@ -125,6 +136,7 @@
     "Name": "波涛钥匙",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'注入了洋流之精华'"
     ],
@@ -137,6 +149,7 @@
     "Name": "小松露法杖",
     "ToolTip": "召唤一只投掷标枪的蘑菇人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "长矛几率让真菌寄生于被击中的敌人"
     ],
@@ -149,6 +162,7 @@
     "Name": "真菌鞭锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "伤害几率让真菌寄生于被击中的敌人"
     ],
@@ -161,6 +175,7 @@
     "Name": "海神之握",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -171,6 +186,7 @@
     "Name": "海神三叉戟",
     "ToolTip": "右键可以释放一列泡泡",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -181,6 +197,7 @@
     "Name": "至尊之怒",
     "ToolTip": "有几率释放出一道三倍伤害的能量波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -191,6 +208,7 @@
     "Name": "狱火熔炼",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击会造成叠加的燃烧效果"
     ],
@@ -203,6 +221,7 @@
     "Name": "散火者",
     "ToolTip": "释放一束有三束能量聚集的风暴弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -213,6 +232,7 @@
     "Name": "S.S破坏者",
     "ToolTip": "有时候会射出额外火箭弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -223,6 +243,7 @@
     "Name": "电火花枪",
     "ToolTip": "投掷出静电弧短剑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -236,6 +257,7 @@
     "Name": "奇异金属",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'似乎是从强大的远古机械发明身上所掉落'"
     ],
@@ -248,6 +270,7 @@
     "Name": "碾压链锤",
     "ToolTip": "在击中敌人之后锁链将会断开，使铁球四处冲撞",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -258,6 +281,7 @@
     "Name": "魔眼之怒",
     "ToolTip": "释放一道充能魔法弹，能够对同一目标造成数次伤害",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

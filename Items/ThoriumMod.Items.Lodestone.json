@@ -5,6 +5,7 @@
     "Name": "大地壁垒",
     "ToolTip": "提升8点防御",
     "ToolTip2": "敌人对你更具有攻击性",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "磁极长弓",
     "ToolTip": "从这把弓上射出的箭矢能够降低被攻击敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "磁极护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加2%近战暴击率",
       "增加6%近战伤害",
@@ -39,6 +42,7 @@
     "Name": "磁石",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'被你的泰拉瑞亚世界之核心所实行'"
     ],
@@ -51,6 +55,7 @@
     "Name": "磁极长刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果",
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
@@ -64,6 +69,7 @@
     "Name": "磁极护盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "As health decreases, damage reduction increases",
     "AddToolTip": [
       "增加2%近战暴击率",
       "增加4%近战伤害",
@@ -78,6 +84,7 @@
     "Name": "磁极巨斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,6 +95,7 @@
     "Name": "磁极锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -98,6 +106,7 @@
     "Name": "磁极锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'放马过来，这件物品是牢不可破的!'"
     ],
@@ -110,6 +119,7 @@
     "Name": "磁极破魔锤",
     "ToolTip": "攻击将会极大地降低敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -120,6 +130,7 @@
     "Name": "磁极镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -130,6 +141,7 @@
     "Name": "磁极冲钻",
     "ToolTip": "从这把枪里射出的子弹能够降低被攻击敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -140,6 +152,7 @@
     "Name": "磁极护胫",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加2%近战暴击率",
       "增加5%近战伤害",
@@ -154,6 +167,7 @@
     "Name": "地磁法杖",
     "ToolTip": "释放一道带有大地之力的能量并引发泥石流",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],

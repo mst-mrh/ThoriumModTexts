@@ -5,6 +5,7 @@
     "Name": "晶钻护符",
     "ToolTip": "提升15%的挖掘速度",
     "ToolTip2": "镐和钻头使用范围 +1",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "相位晶炮",
     "ToolTip": "射出一个能反射和穿透的魔晶",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "缭乱箭",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "晶体簇",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'锯齿状的碎片似乎存有未知的力量'"
     ],
@@ -47,6 +51,7 @@
     "Name": "晶体斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "晶体回旋镖",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "晶体胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'由最昂贵的材料制成'",
       "增加25%的挖矿速度"
@@ -80,6 +87,7 @@
     "Name": "晶体护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'由最昂贵的材料制成'",
       "增加8%移速"
@@ -93,6 +101,7 @@
     "Name": "晶体头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "You can detect ore, chests and other treasures",
     "AddToolTip": [
       "'由最昂贵的材料制成'",
       "你点亮了在你周围的区域"
@@ -106,6 +115,7 @@
     "Name": "晶体长弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -116,6 +126,7 @@
     "Name": "晶体锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -126,6 +137,7 @@
     "Name": "晶体镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +148,7 @@
     "Name": "晶体长剑",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键 - 较慢的挥舞宝剑，但是有更高的伤害，击退，以及击中后的效果"
     ],
@@ -148,6 +161,7 @@
     "Name": "晶体破坏者",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,6 +172,7 @@
     "Name": "晶体长矛",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

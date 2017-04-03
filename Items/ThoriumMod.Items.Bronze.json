@@ -5,6 +5,7 @@
     "Name": "青铜胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'神明们在注视着你'",
       "增加8%投掷和近战伤害"
@@ -18,6 +19,7 @@
     "Name": "青铜合金碎片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这惊人的质量将延续很长时间'"
     ],
@@ -30,6 +32,7 @@
     "Name": "青铜短剑",
     "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],
@@ -42,6 +45,7 @@
     "Name": "青铜腿甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'神明们在注视着你'",
       "增加5%投掷和近战速度",
@@ -56,6 +60,7 @@
     "Name": "青铜头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Zeus might assist your throwing damage & Hades might assist your close quarter melee damage",
     "AddToolTip": [
       "'神明们在注视着你'",
       "增加5%投掷和近战暴击率"
@@ -69,6 +74,7 @@
     "Name": "青铜锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -79,6 +85,7 @@
     "Name": "青铜斧镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +96,7 @@
     "Name": "青铜长矛",
     "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],
@@ -101,6 +109,7 @@
     "Name": "青铜掷斧",
     "ToolTip": "攻击有几率石化敌人，让它们停下来",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],
@@ -113,6 +122,7 @@
     "Name": "戈尔干的凝视",
     "ToolTip": "试试用你的鼠标去石化敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

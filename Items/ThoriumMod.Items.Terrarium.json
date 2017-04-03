@@ -5,6 +5,7 @@
     "Name": "乾坤一掷",
     "ToolTip": "用元素之力摧毁敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "元素雷发射器",
     "ToolTip": "快速击发会产生大爆炸的密集火箭弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "只应配合火箭1号弹药使用..."
     ],
@@ -27,6 +29,7 @@
     "Name": "元素粒子加速鞋",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提供在水，冰，灼热方块和岩浆上行走的能力",
       "能够飞行",
@@ -42,6 +45,7 @@
     "Name": "元素之灵护胸",
     "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "最大生命值增加 20",
       "增加3生命恢复量",
@@ -58,6 +62,7 @@
     "Name": "元素解离者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +73,7 @@
     "Name": "元素核心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'里面息居着不可想象的力量...'"
     ],
@@ -80,6 +86,7 @@
     "Name": "元素守护者",
     "ToolTip": "-最终之盾-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "免疫大多数debuff",
@@ -98,6 +105,7 @@
     "Name": "元灵捕鲸者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -108,6 +116,7 @@
     "Name": "元素之灵腿甲",
     "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加15点最大生命",
       "增加生命恢复量2",
@@ -124,6 +133,7 @@
     "Name": "元素之灵头盔",
     "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
+    "SetBonus": "The energy of Terraria seeks to protect you",
     "AddToolTip": [
       "增加15点最大生命",
       "增加生命恢复量1",
@@ -140,6 +150,7 @@
     "Name": "元素圣镰",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "快速旋转一柄七彩之镰",
@@ -156,6 +167,7 @@
     "Name": "元素飞盘",
     "ToolTip": "'拥有压倒性的力量'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -166,6 +178,7 @@
     "Name": "元素波纹飞刀",
     "ToolTip": "掷出无数灌输了元素之力的小刀",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -176,9 +189,16 @@
   {
     "TypeName": "TerrariumLongbow",
     "Namespace": "ThoriumMod.Items.Terrarium",
+<<<<<<< HEAD
     "Name": "元素长弓",
     "ToolTip": "不消耗燃烧箭",
     "ToolTip2": "额外射出两支元素之箭",
+=======
+    "Name": "Terrarium Longbow",
+    "ToolTip": "Does not consume fired arrows",
+    "ToolTip2": "Fires two additional terrarium arrows",
+    "SetBonus": "",
+>>>>>>> english
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -189,6 +209,7 @@
     "Name": "元素冲锋来福枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15%的概率不消耗弹药"
     ],
@@ -201,6 +222,7 @@
     "Name": "元素誓约之剑",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -211,6 +233,7 @@
     "Name": "大元素圣使法杖",
     "ToolTip": "释放海啸般的能量波涛",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -221,6 +244,7 @@
     "Name": "元素脉冲弹",
     "ToolTip": "集合元素之力切断敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -231,6 +255,7 @@
     "Name": "元素长矛",
     "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -241,6 +266,7 @@
     "Name": "谜团法杖",
     "ToolTip": "制造一道空间裂缝，召唤出一只 谜团",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -251,6 +277,7 @@
     "Name": "元素大地熔炼者",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -261,6 +288,7 @@
     "Name": "元素之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加跳跃高度",
       "你释放出彩虹般的鲜艳色彩"

@@ -5,6 +5,7 @@
     "Name": "绝望日历",
     "ToolTip": "快速释放燃烧着灼炎的颅骨",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "邪炎爪",
     "ToolTip": "对你的指针位置进行无尽灼烧",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "灰烬法杖",
     "ToolTip": "召唤运用熔岩之力毁灭敌人的熔岩之灵的余烬",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "一个灰烬会占据2个召唤物位"
     ],
@@ -37,6 +40,7 @@
     "Name": "地狱精华",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'太初火焰的碎片'"
     ],
@@ -49,6 +53,7 @@
     "Name": "熔岩令旗",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "召唤物的伤害有50%的概率2倍暴击"
     ],
@@ -61,6 +66,7 @@
     "Name": "炎法头巾",
     "ToolTip": "'你那熔岩般的怒视能够震慑一切...'",
     "ToolTip2": "",
+    "SetBonus": "Your magic damage will heavily burn and damage all enemies on screen",
     "AddToolTip": [
       "增加20%魔法伤害",
       "增加60法力并大幅提高魔法回复速度",
@@ -75,6 +81,7 @@
     "Name": "炎法腿甲",
     "ToolTip": "'你已经彻底征服了熔岩'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升14%魔法和召唤伤害",
       "最大魔法上限增加 20",
@@ -89,6 +96,7 @@
     "Name": "炎法战袍",
     "ToolTip": "'你已经彻底征服了熔岩'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升18%魔法和召唤伤害",
       "最大魔法上限增加 20",
@@ -104,6 +112,7 @@
     "Name": "熔岩占卜者面具",
     "ToolTip": "'能够轻易地掌控火元素的力量...'",
     "ToolTip2": "",
+    "SetBonus": "Minion damage applies napalm to enemies, which deals massive damage over time",
     "AddToolTip": [
       "增加38%召唤伤害",
       "增加6最大召唤物数量",

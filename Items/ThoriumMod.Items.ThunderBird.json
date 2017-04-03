@@ -5,6 +5,7 @@
     "Name": "雷鸟面具",
     "ToolTip": "'凝聚风暴的怒火!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "小雷鸟法杖",
     "ToolTip": "召唤一只小雷鸟把你的敌人电成灰烬",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "风暴信号弹",
     "ToolTip": "当它被雷霆信号枪射出的时候，会发生可怕的事情",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "辉耀枪",
     "ToolTip": "'瞄准天空！",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "需要风暴信号弹",
       "召唤雷鸟，但是只能在白天使用"
@@ -48,6 +52,7 @@
     "Name": "猛禽破",
     "ToolTip": "'由羽毛和雷霆组装而成'",
     "ToolTip2": "风暴之箭飞得极快且能攻击同一个目标两次",
+    "SetBonus": "",
     "AddToolTip": [
       "将木箭转换成'风暴之箭'"
     ],
@@ -60,6 +65,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,6 +76,7 @@
     "Name": "雷鸟荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,6 +87,7 @@
     "Name": "雷爪",
     "ToolTip": "有几率在挥动时释放电火花",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -90,6 +98,7 @@
     "Name": "疾风羽",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升15%移速"
     ],

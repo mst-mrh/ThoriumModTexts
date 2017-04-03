@@ -5,6 +5,7 @@
     "Name": "砂石镐",
     "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "砂石斧",
     "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "砂石锤",
     "ToolTip": "周期性地赋予你‘风速’buff，增加你使用工具的速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "砂石弯刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "砂石弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "砂石矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "砂石飞刀",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "砂石头盔",
     "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
+    "SetBonus": "Desert winds will augment your boots, giving you a double jump",
     "AddToolTip": [
       "增加2%移速",
       "增加5%投掷伤害"
@@ -88,6 +96,7 @@
     "Name": "砂石盔甲",
     "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加5%移速",
       "增加5%投掷伤害"
@@ -101,6 +110,7 @@
     "Name": "砂石护腿",
     "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "增加3%移速",
       "增加5%投掷伤害"
@@ -114,6 +124,7 @@
     "Name": "砂石核心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'免受潮湿并且非常保暖'"
     ],
@@ -126,6 +137,7 @@
     "Name": "沙暴重剑",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +148,7 @@
     "Name": "咒书：沙旋风",
     "ToolTip": "'解放强大的风之力量'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

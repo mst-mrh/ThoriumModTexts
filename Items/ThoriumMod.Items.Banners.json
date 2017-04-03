@@ -5,6 +5,7 @@
     "Name": "憎恶旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：憎恶",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "古弓箭手旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：古弓箭手",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "古突击者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：古突击者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "古盾兵旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：古盾兵",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "军蚁旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：军蚁",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "太空甲虫旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：太空甲虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "梭鱼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：梭鱼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "咬噬者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：咬噬者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +93,7 @@
     "Name": "泡泡虫母体旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：泡泡虫母体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +104,7 @@
     "Name": "暴雪蝙蝠旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：暴雪蝙蝠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +115,7 @@
     "Name": "骷髅劫掠者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：骷髅劫掠者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -115,6 +126,7 @@
     "Name": "冰霜炮龟旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰霜炮龟",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -125,6 +137,7 @@
     "Name": "冰雪蚀雨者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰雪蚀雨者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -135,6 +148,7 @@
     "Name": "硬币袋旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：硬币袋",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -145,6 +159,7 @@
     "Name": "冰冻棘虫旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰冻棘虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -155,6 +170,7 @@
     "Name": "冰冻飞虫旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰冻飞虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -165,6 +181,7 @@
     "Name": "鲜血蠕虫旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：鲜血蠕虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -175,6 +192,7 @@
     "Name": "铁海棠旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：铁海棠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -185,6 +203,7 @@
     "Name": "黑铁骑士旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：黑铁骑士",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -195,6 +214,7 @@
     "Name": "龙蜂旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：龙蜂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -205,6 +225,7 @@
     "Name": "大地蝙蝠旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：大地蝙蝠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -215,6 +236,7 @@
     "Name": "大地魔像旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：大地魔像",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -225,6 +247,7 @@
     "Name": "狂暴牛头人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：狂暴牛头人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -235,6 +258,7 @@
     "Name": "饥饿怒鱼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：饥饿怒鱼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -245,6 +269,7 @@
     "Name": "腐化行者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：腐化行者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -255,6 +280,7 @@
     "Name": "鲜红马蜂旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：鲜红马蜂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -265,6 +291,7 @@
     "Name": "丛林之眼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：丛林之眼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -275,6 +302,7 @@
     "Name": "冰冻噬魂者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰冻噬魂者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -285,6 +313,7 @@
     "Name": "冰焰行者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰焰行者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -295,6 +324,7 @@
     "Name": "冰冻腐虫旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰冻腐虫",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -305,6 +335,7 @@
     "Name": "极寒幽魂旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：极寒幽魂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -315,6 +346,7 @@
     "Name": "冰冻巨脸怪旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰冻巨脸怪",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -325,6 +357,7 @@
     "Name": "浮冰幽魂旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：浮冰幽魂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -335,6 +368,7 @@
     "Name": "凝胶方块旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：凝胶方块",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -345,6 +379,7 @@
     "Name": "巨蛤旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：巨蛤",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -355,6 +390,7 @@
     "Name": "闪光魔像旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：闪光魔像",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -365,6 +401,7 @@
     "Name": "哥布林陷阱师旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：哥布林陷阱师",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -375,6 +412,7 @@
     "Name": "光辉蝙蝠旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：光辉蝙蝠",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -385,6 +423,7 @@
     "Name": "光辉史莱姆旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：光辉史莱姆",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -395,6 +434,7 @@
     "Name": "光辉狼人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：光辉狼人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -405,6 +445,7 @@
     "Name": "戈尔干之脑旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：戈尔干之脑",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -415,6 +456,7 @@
     "Name": "暴食之眼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：暴食之眼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -425,6 +467,7 @@
     "Name": "花岗岩毁灭者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：花岗岩毁灭者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -435,6 +478,7 @@
     "Name": "花岗岩史莱姆旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：花岗岩史莱姆",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -445,6 +489,7 @@
     "Name": "花岗岩震荡者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：花岗岩震荡者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -455,6 +500,7 @@
     "Name": "墓穴残肢旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：墓穴残肢",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -465,6 +511,7 @@
     "Name": "神秘旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：???",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -475,6 +522,7 @@
     "Name": "双髻鲨旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：双髻鲨",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -485,6 +533,7 @@
     "Name": "跳行蜘蛛旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：跳行蜘蛛",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -495,6 +544,7 @@
     "Name": "恐怖突袭者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：恐怖突袭者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -505,6 +555,7 @@
     "Name": "被刺穿的僵尸旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：被刺穿的僵尸",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -515,6 +566,7 @@
     "Name": "地狱犬旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：地狱犬",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -525,6 +577,7 @@
     "Name": "入侵者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：入侵者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -535,6 +588,7 @@
     "Name": "巨神海妖旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：巨神海妖",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -545,6 +599,7 @@
     "Name": "神庙宝箱怪旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：神庙宝箱怪",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -555,6 +610,7 @@
     "Name": "神庙罐子旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：神庙罐子",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -565,6 +621,7 @@
     "Name": "血翼史莱姆旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：血翼史莱姆",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -575,6 +632,7 @@
     "Name": "迷失探测器旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：迷失探测器",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -585,6 +643,7 @@
     "Name": "红木树人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：红木树人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -595,6 +654,7 @@
     "Name": "僧帽水母旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：僧帽水母",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -605,6 +665,7 @@
     "Name": "狱炎炮龟旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：狱炎炮龟",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -615,6 +676,7 @@
     "Name": "海鳗旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：海鳗",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -625,6 +687,7 @@
     "Name": "泥人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：泥人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -635,6 +698,7 @@
     "Name": "死灵魂罐旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：死灵魂罐",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -645,6 +709,7 @@
     "Name": "死灵染魂者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：死灵染魂者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -655,6 +720,7 @@
     "Name": "空鸟旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：空鸟",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -665,6 +731,7 @@
     "Name": "章鱼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：章鱼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -675,6 +742,7 @@
     "Name": "蹒跚者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：蹒跚者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -685,6 +753,7 @@
     "Name": "利牙鱼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：利牙鱼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -695,6 +764,7 @@
     "Name": "雪球怪旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：雪球怪",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -705,6 +775,7 @@
     "Name": "冰雪吞噬者旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：冰雪吞噬者",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -715,6 +786,7 @@
     "Name": "雪鸮旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：雪鸮",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -725,6 +797,7 @@
     "Name": "太阳祭司旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：太阳祭司",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -735,6 +808,7 @@
     "Name": "太空史莱姆旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：太空史莱姆",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -745,6 +819,7 @@
     "Name": "饿鬼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：饿鬼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -755,6 +830,7 @@
     "Name": "奇怪花苞旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：奇怪的花苞",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -765,6 +841,7 @@
     "Name": "污魂怪",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：污魂怪",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -775,6 +852,7 @@
     "Name": "U.F.O.旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：U.F.O",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -785,6 +863,7 @@
     "Name": "狱炎罐旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：狱炎罐",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -795,6 +874,7 @@
     "Name": "不稳雪人旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：不稳雪人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -805,6 +885,7 @@
     "Name": "邪恶浮灵旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：邪恶浮灵",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -815,6 +896,7 @@
     "Name": "电鳗旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：电鳗",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -825,6 +907,7 @@
     "Name": "恐狼旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：恐狼",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -835,6 +918,7 @@
     "Name": "风之元素旗帜",
     "ToolTip": "旗帜附近玩家在对抗以下怪物时获得属性加成：风之元素",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

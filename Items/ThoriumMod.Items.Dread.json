@@ -5,6 +5,7 @@
     "Name": "恐惧链锯",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "恐惧胸甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'被可恶的恶灵附着了'",
       "增加20%近战伤害",
@@ -29,6 +31,7 @@
     "Name": "恐惧钻头",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "恐惧灵眼",
     "ToolTip": "能让你看见附近的敌人和危机",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -49,6 +53,7 @@
     "Name": "恐惧之叉",
     "ToolTip": "射出武器的一个镜像体",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "残影会点燃被击中目标"
     ],
@@ -61,6 +66,7 @@
     "Name": "恐惧护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'被可恶的恶灵附着了'",
       "增加18%移速",
@@ -75,6 +81,7 @@
     "Name": "恐惧锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "恐惧钻锤",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "恐惧发射器",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "恐惧之镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -115,6 +125,7 @@
     "Name": "恐惧之锋",
     "ToolTip": "挥动时有几率释放一个诅咒之魂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "被诅咒的灵魂会腐蚀被击中的目标"
     ],
@@ -127,6 +138,7 @@
     "Name": "恐惧颅骨",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Your boots vibrate at an unreal frequency \nMelee damage and critical strike chance increased while near full speed",
     "AddToolTip": [
       "'被可恶的恶灵附着了'",
       "增加10%近战暴击率",
@@ -141,6 +153,7 @@
     "Name": "恐惧之灵",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这个世界与异世间的缝隙'"
     ],
@@ -153,6 +166,7 @@
     "Name": "恐惧锥刺",
     "ToolTip": "挥动时释放诅咒之魂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "被诅咒的灵魂会腐蚀被击中的目标"
     ],
@@ -165,6 +179,7 @@
     "Name": "恐惧灵杖",
     "ToolTip": "释放一团克多次打击敌人的高密度火焰波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "每次击中都会召唤一个可怖的魂质以造成额外伤害"
     ],
@@ -177,6 +192,7 @@
     "Name": "恐惧之翼",
     "ToolTip": "提供飞行和缓慢降落的能力",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

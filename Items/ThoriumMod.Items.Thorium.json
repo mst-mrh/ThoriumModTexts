@@ -5,6 +5,7 @@
     "Name": "大恢复戒指",
     "ToolTip": "增加生命和魔力回复速度",
     "ToolTip2": "攻击超过三次将会恢复一些血量和魔力",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "浓缩瑟银",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'远比一个普通的金属锭强大'"
     ],
@@ -27,6 +29,7 @@
     "Name": "精准项链",
     "ToolTip": "提升5%的暴击率",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "重铸瑟银斧镐",
     "ToolTip": "能够挖掘狱岩石",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "索尔魔锤",
     "ToolTip": "右键单击以激活至近战模式",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "索尔战锤",
     "ToolTip": "右键单击以激活至射手模式",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "挖掘护符",
     "ToolTip": "提升10%的挖掘速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "能量诱饵",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'鱼儿喜欢这震动'"
     ],
@@ -89,6 +97,7 @@
     "Name": "咒书：净化",
     "ToolTip": "'净化腐化和血腥物块'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "索尔飞锤",
     "ToolTip": "右键单击以切换至魔法模式",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "奇特板条箱",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键单击以打开"
     ],
@@ -121,6 +132,7 @@
     "Name": "瑟银砧",
     "ToolTip": "使你能够制作与雷电有关的物品",
     "ToolTip2": "和普通的铁砧一样",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -131,6 +143,7 @@
     "Name": "潜能包",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'里面有什么呢?'",
       "可以放入精炼机中"
@@ -144,6 +157,7 @@
     "Name": "瑟银锭",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'有能量在其上涌动'"
     ],
@@ -156,6 +170,7 @@
     "Name": "瑟银长刃",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -166,6 +181,7 @@
     "Name": "瑟银回力镖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -176,6 +192,7 @@
     "Name": "瑟银弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -186,6 +203,7 @@
     "Name": "瑟银匕",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -196,6 +214,7 @@
     "Name": "瑟银护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'有能量在其上涌动'"
     ],
@@ -210,6 +229,7 @@
     "Name": "瑟银头盔",
     "ToolTip": "'有能量在其上涌动'",
     "ToolTip2": "增加 4% 暴击率",
+    "SetBonus": "Damage done increased by 10%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -220,6 +240,7 @@
     "Name": "瑟银盔甲",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'有能量在其上涌动'"
     ],
@@ -234,6 +255,7 @@
     "Name": "瑟银矿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这真的是非自然的矿石'"
     ],
@@ -246,6 +268,7 @@
     "Name": "瑟银斧镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -256,6 +279,7 @@
     "Name": "瑟银手枪",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -266,6 +290,7 @@
     "Name": "瑟银盾",
     "ToolTip": "-金属盾-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "提升3点防御",
@@ -279,6 +304,7 @@
     "Name": "瑟银长矛",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -289,6 +315,7 @@
     "Name": "瑟银法杖",
     "ToolTip": "射出一团球形闪电，击中敌人后会分裂",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

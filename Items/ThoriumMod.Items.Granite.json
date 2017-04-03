@@ -5,6 +5,7 @@
     "Name": "花岗岩护胸",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'防御充能'"
     ],
@@ -17,6 +18,7 @@
     "Name": "花岗岩弩",
     "ToolTip": "将木箭转换成花岗岩能量箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "花岗岩能量箭可能会使敌人能量溢出，并且造成伤害，降低防御"
     ],
@@ -29,6 +31,7 @@
     "Name": "花岗岩能源核心",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'这个奇怪的，刻有符文的核心赐予了矿物感情'"
     ],
@@ -41,6 +44,7 @@
     "Name": "花岗岩护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'防御充能'"
     ],
@@ -53,6 +57,7 @@
     "Name": "花岗岩锤斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -63,6 +68,7 @@
     "Name": "花岗岩头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Immune to intense heat and enemy knockback, but your movement speed is slowed down greatly",
     "AddToolTip": [
       "'防御充能'"
     ],
@@ -75,6 +81,7 @@
     "Name": "花岗岩镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "花岗岩回力标",
     "ToolTip": "攻击中蕴含的可怕能量可能会溢出，造成伤害并破坏敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "花岗岩长剑",
     "ToolTip": "攻击中蕴含的可怕能量可能会溢出，造成伤害并破坏敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "花岗岩掷斧",
     "ToolTip": "攻击中蕴含的可怕能量可能会溢出，造成伤害并破坏敌人的防御",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

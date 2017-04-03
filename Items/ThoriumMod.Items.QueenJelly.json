@@ -5,6 +5,7 @@
     "Name": "海盗喇叭枪",
     "ToolTip": "射出一排子弹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "巨力回旋镖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "扔出去能提供照明",
       "攻击有几率使敌人短暂的麻痹",
@@ -29,6 +31,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "水母帽",
     "ToolTip": "'那些水母不会怀疑你的...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -49,6 +53,7 @@
     "Name": "水母共振器",
     "ToolTip": "召唤水母皇后",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "只能用于白天的沙滩之上"
     ],
@@ -61,6 +66,7 @@
     "Name": "水母群法杖",
     "ToolTip": "发射一团能够吸引一群水母攻击的水之能量",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -71,6 +77,7 @@
     "Name": "水母皇后荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -81,6 +88,7 @@
     "Name": "皇后荧光棒",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "制造无数的荧光棒"
     ],
@@ -93,6 +101,7 @@
     "Name": "海洋通行证",
     "ToolTip": "'带着它，你将无惧深渊...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "获得水下呼吸",
       "拥有游泳的能力",
@@ -107,6 +116,7 @@
     "Name": "电花链锤",
     "ToolTip": "攻击有几率使敌人短暂的麻痹",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "boss不受此影响"
     ],

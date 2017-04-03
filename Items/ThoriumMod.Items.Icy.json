@@ -5,6 +5,7 @@
     "Name": "咒书：暴风雪",
     "ToolTip": "'释放冰雪!'",
     "ToolTip2": "攻击有机率短暂地冻住敌人",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "冷锋",
     "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "霜火刃",
     "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "霜怒",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "碎冰",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "冰球",
     "ToolTip": "可以充当弹药",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "攻击有几率冻伤敌人"
     ],
@@ -67,6 +73,7 @@
     "Name": "冰块",
     "ToolTip": "射出一块能滑动的冰块",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "冰块可能冻伤目标"
     ],
@@ -79,6 +86,7 @@
     "Name": "冰矛",
     "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +97,7 @@
     "Name": "冰箭",
     "ToolTip": "有几率大幅降低敌人的移动速度",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "冰斧",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "碎冰头盔",
     "ToolTip": "'让你的头发美丽'冻'人'",
     "ToolTip2": "",
+    "SetBonus": "An icy aura surrounds you, which attempts to slow down approaching enemies",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "碎冰护腿",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'核心散发寒意'"
     ],
@@ -131,6 +143,7 @@
     "Name": "碎冰头盔",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'核心散发寒意'"
     ],
@@ -143,6 +156,7 @@
     "Name": "冰镐",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -153,6 +167,7 @@
     "Name": "冰碎片",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'冰冷的触摸'"
     ],
@@ -165,6 +180,7 @@
     "Name": "碎冰刃",
     "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -175,6 +191,7 @@
     "Name": "雪锤",
     "ToolTip": "攻击有机率短暂地冻住敌人",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

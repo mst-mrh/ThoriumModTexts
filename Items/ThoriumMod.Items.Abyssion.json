@@ -5,6 +5,7 @@
     "Name": "深海暗影",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "深渊贝壳",
     "ToolTip": "按下‘深渊守护’按钮将会使你进入一个固若金汤的贝壳中",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "缩进贝壳中时，你无法使用物品，生命恢复大大降低，伤害趋近于零"
     ],
@@ -30,6 +32,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -40,6 +43,7 @@
     "Name": "深渊之主面具",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -50,6 +54,7 @@
     "Name": "深渊之主荣耀之证",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "皮皮虾之拳",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "击破音障"
     ],
@@ -72,6 +78,7 @@
     "Name": "旧神之握",
     "ToolTip": "释放一团吞噬敌人的远古魔能",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -82,6 +89,7 @@
     "Name": "蟹卵孵化器",
     "ToolTip": "召唤一个腐化深渊蟹的蛋",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -92,6 +100,7 @@
     "Name": "裂渠",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "上古灼炎",
     "ToolTip": "召唤数条灼热射线",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "寒古冰封",
     "ToolTip": "释放一道寒冰魔法波",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "远古之光",
     "ToolTip": "发射几团远古的光辉",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "冥古雷星",
     "ToolTip": "召唤数团球形闪电",
     "ToolTip2": "暴击攻击会暂时麻痹敌人",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "宝物袋",
     "ToolTip": "右键单击以打开",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "月教至尊兜帽",
     "ToolTip": "'贯彻了真正的狂热信徒的信念'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "月教至尊裤子",
     "ToolTip": "'贯彻了真正的狂热信徒的信念'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "月教至尊长袍",
     "ToolTip": "'贯彻了真正的狂热信徒的信念'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

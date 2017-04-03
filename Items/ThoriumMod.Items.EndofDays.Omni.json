@@ -5,6 +5,7 @@
     "Name": "死亡精华",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'来世之尘埃'"
     ],
@@ -17,6 +18,7 @@
     "Name": "弓弩大师兜帽",
     "ToolTip": "'日月无光...'",
     "ToolTip2": "",
+    "SetBonus": "Your damage has a 25% chance to completely duplicate itself",
     "AddToolTip": [
       "提升24%箭矢伤害",
       "25%几率不消耗弹药",
@@ -31,6 +33,7 @@
     "Name": "刺客盔甲",
     "ToolTip": "'当你选定一个目标的时候，他就已经死了...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升16%远程伤害",
       "提升20%开火速度",
@@ -45,6 +48,7 @@
     "Name": "枯萎之弓",
     "ToolTip": "释放出一排死亡箭矢",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +59,7 @@
     "Name": "枯萎加农",
     "ToolTip": "左键：发射三束死亡射波动",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "右键-释放一团强力的，高击退的能量爆破"
     ],
@@ -67,6 +72,7 @@
     "Name": "刺客行足",
     "ToolTip": "'当你选定一个目标的时候，他就已经死了...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "提升15%远程伤害",
       "增加20%移动速度"
@@ -80,6 +86,7 @@
     "Name": "神枪手套装",
     "ToolTip": "'生命将被剔除...'",
     "ToolTip2": "",
+    "SetBonus": "Your ranged damage has a 2% chance to completely eradicate the hit target\nThis effect can only occur on enemies with less than 7500 current life",
     "AddToolTip": [
       "提升24%子弹和火箭伤害",
       "25%几率不消耗弹药",
@@ -94,6 +101,7 @@
     "Name": "投标者",
     "ToolTip": "额外发射一个代表死亡的火箭",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -104,6 +112,7 @@
     "Name": "屠龙者",
     "ToolTip": "将箭转化为不断弹射的龙息波动",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

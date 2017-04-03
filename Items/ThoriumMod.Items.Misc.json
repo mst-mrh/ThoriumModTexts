@@ -5,6 +5,7 @@
     "Name": "血月魔牌",
     "ToolTip": "在夜晚使用将会带来血月",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "英雄烂弓",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "英雄断镰",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "英雄破杖",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "逃生火箭",
     "ToolTip": "点燃一发火箭直接送你上天",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "家传项链",
     "ToolTip": "'这串项链由你的家族世代相传至今'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "小虹鳉",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "冒险者燃灯",
     "ToolTip": "手持时会轻微照亮你鼠标处的方块",
     "ToolTip2": "点击会释放一小团火星",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -88,6 +96,7 @@
     "Name": "光魂粉尘",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'没有灵魂那么有效力，但是至少能将这工作完成'"
     ],
@@ -100,6 +109,7 @@
     "Name": "熔岩残渣",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'暗处的黑暗魂灵正在向外蔓延废墟...'"
     ],
@@ -112,6 +122,7 @@
     "Name": "暗魂粉尘",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'没有灵魂那么有效力，但是至少能将这工作完成'"
     ],
@@ -124,6 +135,7 @@
     "Name": "芳香花苞",
     "ToolTip": "召唤世纪之花",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -134,6 +146,7 @@
     "Name": "时间扭曲",
     "ToolTip": "逆转时间",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
