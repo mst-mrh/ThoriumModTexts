@@ -5,6 +5,7 @@
     "Name": "Spell Book: Blizzard",
     "ToolTip": "'Unleash a flurry of ice!'",
     "ToolTip2": "Attacks might frostburn the target briefly",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Cold Front",
     "ToolTip": "Attacks might frostburn the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Frost Fire Katana",
     "ToolTip": "Attacks might frostburn the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Frost Fury",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Frost Pelter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "Ice Ball",
     "ToolTip": "Functions as a bullet",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Might frostburn the hit target briefly"
     ],
@@ -67,6 +73,7 @@
     "Name": "Ice Cube",
     "ToolTip": "Sends out a cube ice that slides on tiles",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Ice cubes frostburn the target briefly"
     ],
@@ -79,6 +86,7 @@
     "Name": "Ice Lance",
     "ToolTip": "Attacks might frostburn the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +97,7 @@
     "Name": "Icy Arrow",
     "ToolTip": "Has a chance to significantly hinder the hit enemies movement",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "Icy Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "Icy Bandana",
     "ToolTip": "'Gives your hair some frosty tips too'",
     "ToolTip2": "",
+    "SetBonus": "An icy aura surrounds you, which attempts to slow down approaching enemies",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "Icy Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Chilled to the core'"
     ],
@@ -131,6 +143,7 @@
     "Name": "Icy Mail",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Chilled to the core'"
     ],
@@ -143,6 +156,7 @@
     "Name": "Icy Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -153,6 +167,7 @@
     "Name": "Icy Shard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Cold to the touch'"
     ],
@@ -165,6 +180,7 @@
     "Name": "Slicicle",
     "ToolTip": "Attacks might frostburn the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -175,6 +191,7 @@
     "Name": "The Snowball",
     "ToolTip": "Attacks might frostburn the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

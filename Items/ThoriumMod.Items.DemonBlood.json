@@ -5,6 +5,7 @@
     "Name": "Demon Blood Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
       "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
@@ -18,6 +19,7 @@
     "Name": "Demon Blood Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with Corrupt Blood'",
       "10% chance to neutralize incoming, non-lethal damage",
@@ -32,6 +34,7 @@
     "Name": "Demon Blood Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -42,6 +45,7 @@
     "Name": "Demon Blood Crossbow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Arrows shot from this bow will temporarily grant you 'Blood Charges'",
       "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
@@ -55,6 +59,7 @@
     "Name": "Demon Blood Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +70,7 @@
     "Name": "Demon Blood Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with Corrupt Blood'",
       "15% increased movement speed",
@@ -79,6 +85,7 @@
     "Name": "Demon Blood Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +96,7 @@
     "Name": "Demon Blood Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Maximum life increased by 70, enemies are more likely to \ntarget you and damage reduction increased by 15%",
     "AddToolTip": [
       "'Infused with Corrupt Blood'",
       "10% increased critical strike chance",
@@ -103,6 +111,7 @@
     "Name": "Demon Blood Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -113,6 +122,7 @@
     "Name": "Demon Blood Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,6 +133,7 @@
     "Name": "Demon Blood Shard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Complex amalgam of life blood and darkness'"
     ],
@@ -135,6 +146,7 @@
     "Name": "Demon Blood Spear",
     "ToolTip": "Sends out a volatile after image",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Dealing damage will grant you a 'Blood Charge'",
       "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
@@ -148,6 +160,7 @@
     "Name": "Demon Blood Staff",
     "ToolTip": "Unleashes a highly concentrated globule of blood, that can hit the same enemy multiple times",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Dealing damage will grant you a 'Blood Charge'",
       "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
@@ -161,6 +174,7 @@
     "Name": "Demon Blood Sword",
     "ToolTip": "Unleashes a blood bolt on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Dealing damage will grant you a 'Blood Charge'",
       "At maximum charges, your next attack will deal 2x damage and heal you for 15% of the damage dealt"
@@ -174,6 +188,7 @@
     "Name": "Demon Blood Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -184,6 +199,7 @@
     "Name": "Demon Blood Badge",
     "ToolTip": "Taking damage will increase defensive abilities briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "Durasteel Arrow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Durasteel Blade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -27,6 +29,7 @@
     "Name": "Durasteel Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -39,6 +42,7 @@
     "Name": "Durasteel Chestplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'",
       "8% increased damage"
@@ -52,6 +56,7 @@
     "Name": "Durasteel Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -64,6 +69,7 @@
     "Name": "Durasteel Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'",
       "8% increased movement speed"
@@ -77,6 +83,7 @@
     "Name": "Durasteel Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage taken reduced by 12%",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'",
       "5% increased critical strike chance"
@@ -90,6 +97,7 @@
     "Name": "Durasteel Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -102,6 +110,7 @@
     "Name": "Durasteel Javelin",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -114,6 +123,7 @@
     "Name": "Durasteel Repeater",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Masterfully forged by the Blacksmith'"
     ],
@@ -126,6 +136,7 @@
     "Name": "Steel Arrow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +147,7 @@
     "Name": "Steel Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -148,6 +160,7 @@
     "Name": "Steel Battleaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -160,6 +173,7 @@
     "Name": "Steel Blade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -172,6 +186,7 @@
     "Name": "Steel Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -184,6 +199,7 @@
     "Name": "Steel Chestplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -196,6 +212,7 @@
     "Name": "Steel Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -208,6 +225,7 @@
     "Name": "Steel Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage taken reduced by 10%",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -220,6 +238,7 @@
     "Name": "Steel Mallet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],
@@ -232,6 +251,7 @@
     "Name": "Steel Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Expertly forged by the Blacksmith'"
     ],

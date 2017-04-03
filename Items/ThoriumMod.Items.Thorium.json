@@ -5,6 +5,7 @@
     "Name": "Band of Replenishment",
     "ToolTip": "Increased Health and Mana regeneration",
     "ToolTip2": "Taking more than three damage will replenish some Health and Mana",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Concentrated Thorium",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Far more powerful than a simple bar'"
     ],
@@ -27,6 +29,7 @@
     "Name": "Crietz",
     "ToolTip": "5% Increased critical strike chance",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Enforced Thorium Pax",
     "ToolTip": "Can mine hellstone",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Thor's Hammer: Magic",
     "ToolTip": "Right clicking will activate Melee Mode",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Thor's Hammer: Melee",
     "ToolTip": "Right clicking will activate Ranged Mode",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Mining Charm",
     "ToolTip": "10% Increased pickaxe mining speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "Pulse Lure",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Fish love a good pulse'"
     ],
@@ -89,6 +97,7 @@
     "Name": "Spell Book: Purify",
     "ToolTip": "'Purifies corruption and crimson blocks'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "Thor's Hammer: Ranged",
     "ToolTip": "Right clicking will activate Magic Mode",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "Strange Crate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right click to open"
     ],
@@ -121,6 +132,7 @@
     "Name": "Thorium Anvil",
     "ToolTip": "Allows you to craft Thorium items",
     "ToolTip2": "Operates like a regular Anvil",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -131,6 +143,7 @@
     "Name": "Bag of Potential",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'What could be inside?'",
       "Can be used at the Extractinator"
@@ -144,6 +157,7 @@
     "Name": "Thorium Bar",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It pulses with energy'"
     ],
@@ -156,6 +170,7 @@
     "Name": "Thorium Blade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -166,6 +181,7 @@
     "Name": "Thorium Boomerang",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -176,6 +192,7 @@
     "Name": "Thorium Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -186,6 +203,7 @@
     "Name": "Thorium Dagger",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -196,6 +214,7 @@
     "Name": "Thorium Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It pulses with energy'"
     ],
@@ -210,6 +229,7 @@
     "Name": "Thorium Helmet",
     "ToolTip": "'It pulses with energy'",
     "ToolTip2": "4% increased critical strike chance",
+    "SetBonus": "Damage done increased by 10%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -220,6 +240,7 @@
     "Name": "Thorium Mail",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It pulses with energy'"
     ],
@@ -234,6 +255,7 @@
     "Name": "Thorium Ore",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'This is truly an unnatural ore'"
     ],
@@ -246,6 +268,7 @@
     "Name": "Thorium Pax",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -256,6 +279,7 @@
     "Name": "Thorium Revolver",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -266,6 +290,7 @@
     "Name": "Thorium Shield",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 3",
@@ -279,6 +304,7 @@
     "Name": "Thorium Spear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -289,6 +315,7 @@
     "Name": "Thorium Staff",
     "ToolTip": "Fires out a bolt of magic, that will send out additional sparks at nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "Abomination Banner",
     "ToolTip": "Nearby players get a bonus against: Abomination",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Ancient Archer Banner",
     "ToolTip": "Nearby players get a bonus against: Ancient Archer",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Ancient Charger Banner",
     "ToolTip": "Nearby players get a bonus against: Ancient Charger",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Ancient Phalanx Banner",
     "ToolTip": "Nearby players get a bonus against: Ancient Phalanx",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Army Ant Banner",
     "ToolTip": "Nearby players get a bonus against: Army Ant",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "Astro Beetle Banner",
     "ToolTip": "Nearby players get a bonus against: Astro Beetle",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "Barracuda Banner",
     "ToolTip": "Nearby players get a bonus against: Barracuda",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "Biter Banner",
     "ToolTip": "Nearby players get a bonus against: Biter",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +93,7 @@
     "Name": "Blister Pod Banner",
     "ToolTip": "Nearby players get a bonus against: Blister Pod",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +104,7 @@
     "Name": "Blizzard Bat Banner",
     "ToolTip": "Nearby players get a bonus against: Blizzard Bat",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +115,7 @@
     "Name": "Bone Flayer Banner",
     "ToolTip": "Nearby players get a bonus against: Bone Flayer",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -115,6 +126,7 @@
     "Name": "Chilled Cannon Banner",
     "ToolTip": "Nearby players get a bonus against: Chilled Cannon",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -125,6 +137,7 @@
     "Name": "Chilled Spitter Banner",
     "ToolTip": "Nearby players get a bonus against: Chilled Spitter",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -135,6 +148,7 @@
     "Name": "Coin Bag Banner",
     "ToolTip": "Nearby players get a bonus against: Coin Bags",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -145,6 +159,7 @@
     "Name": "Coldling Banner",
     "ToolTip": "Nearby players get a bonus against: Coldling",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -155,6 +170,7 @@
     "Name": "Coolmera Banner",
     "ToolTip": "Nearby players get a bonus against: Coolmera",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -165,6 +181,7 @@
     "Name": "Crimipede Banner",
     "ToolTip": "Nearby players get a bonus against: Crimipede",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -175,6 +192,7 @@
     "Name": "Crown of Thorns Banner",
     "ToolTip": "Nearby players get a bonus against: Crown of Thorns",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -185,6 +203,7 @@
     "Name": "Darksteel Knight Banner",
     "ToolTip": "Nearby players get a bonus against: Darksteel Knight",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -195,6 +214,7 @@
     "Name": "Dragon Hornet Banner",
     "ToolTip": "Nearby players get a bonus against: Dragon Hornet",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -205,6 +225,7 @@
     "Name": "Earthen Bat Banner",
     "ToolTip": "Nearby players get a bonus against: Earthen Bat",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -215,6 +236,7 @@
     "Name": "Earthen Golem Banner",
     "ToolTip": "Nearby players get a bonus against: Earthen Golem",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -225,6 +247,7 @@
     "Name": "Raging Minotaur Banner",
     "ToolTip": "Nearby players get a bonus against: Raging Minotaur",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -235,6 +258,7 @@
     "Name": "Feeding Frenzy Banner",
     "ToolTip": "Nearby players get a bonus against: Feeding Frenzy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -245,6 +269,7 @@
     "Name": "Festering Walker Banner",
     "ToolTip": "Nearby players get a bonus against: Festering Walker",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -255,6 +280,7 @@
     "Name": "Fleshy Hornet Banner",
     "ToolTip": "Nearby players get a bonus against: Fleshy Hornet",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -265,6 +291,7 @@
     "Name": "Flying Bio-Mass Banner",
     "ToolTip": "Nearby players get a bonus against: Flying Bio-Mass",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -275,6 +302,7 @@
     "Name": "Freezer Banner",
     "ToolTip": "Nearby players get a bonus against: Freezer",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -285,6 +313,7 @@
     "Name": "Frost Burnt Banner",
     "ToolTip": "Nearby players get a bonus against: Frost Burnt",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -295,6 +324,7 @@
     "Name": "Frost Wurm Banner",
     "ToolTip": "Nearby players get a bonus against: Frost Wurm",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -305,6 +335,7 @@
     "Name": "Chilling Wisp Banner",
     "ToolTip": "Nearby players get a bonus against: Chilling Wisp",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -315,6 +346,7 @@
     "Name": "Frozen Face Banner",
     "ToolTip": "Nearby players get a bonus against: Frozen Face",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -325,6 +357,7 @@
     "Name": "Frozen Gross Banner",
     "ToolTip": "Nearby players get a bonus against: Frozen Gross",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -335,6 +368,7 @@
     "Name": "Gelatinous Cube Banner",
     "ToolTip": "Nearby players get a bonus against: Gelatinous Cube",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -345,6 +379,7 @@
     "Name": "Giga Clam Banner",
     "ToolTip": "Nearby players get a bonus against: Giga Clam",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -355,6 +390,7 @@
     "Name": "Glittering Golem Banner",
     "ToolTip": "Nearby players get a bonus against: Glittering Golem",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -365,6 +401,7 @@
     "Name": "Goblin Trapper Banner",
     "ToolTip": "Nearby players get a bonus against: Goblin Trapper",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -375,6 +412,7 @@
     "Name": "Radiant Bat Banner",
     "ToolTip": "Nearby players get a bonus against: Radiant Bat",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -385,6 +423,7 @@
     "Name": "Radiant Slime Banner",
     "ToolTip": "Nearby players get a bonus against: Radiant Slime",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -395,6 +434,7 @@
     "Name": "Golden Worg Banner",
     "ToolTip": "Nearby players get a bonus against: Gold Worg",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -405,6 +445,7 @@
     "Name": "Gorgon Head Banner",
     "ToolTip": "Nearby players get a bonus against: Gorgon Head",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -415,6 +456,7 @@
     "Name": "Gorged Eye Banner",
     "ToolTip": "Nearby players get a bonus against: Gorged Eye",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -425,6 +467,7 @@
     "Name": "Granite Eradicator Banner",
     "ToolTip": "Nearby players get a bonus against: Granite Eradicator",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -435,6 +478,7 @@
     "Name": "Granite-Fused Slime Banner",
     "ToolTip": "Nearby players get a bonus against: Granite-Fused Slime",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -445,6 +489,7 @@
     "Name": "Granite Surge Banner",
     "ToolTip": "Nearby players get a bonus against: Granite Surge",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -455,6 +500,7 @@
     "Name": "Grave Limb Banner",
     "ToolTip": "Nearby players get a bonus against: Grave Limb",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -465,6 +511,7 @@
     "Name": "Mysterious Banner",
     "ToolTip": "Nearby players get a bonus against: ???",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -475,6 +522,7 @@
     "Name": "Hammerhead Banner",
     "ToolTip": "Nearby players get a bonus against: Hammerhead",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -485,6 +533,7 @@
     "Name": "Hopping Spider Banner",
     "ToolTip": "Nearby players get a bonus against: Hopping Spider",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -495,6 +544,7 @@
     "Name": "Horrific Charger Banner",
     "ToolTip": "Nearby players get a bonus against: Horrific Charger",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -505,6 +555,7 @@
     "Name": "Impaled Zombie Banner",
     "ToolTip": "Nearby players get a bonus against: Impaled Zombie",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -515,6 +566,7 @@
     "Name": "Infernal Hound Banner",
     "ToolTip": "Nearby players get a bonus against: Infernal Hound",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -525,6 +577,7 @@
     "Name": "Hostile Invader Banner",
     "ToolTip": "Nearby players get a bonus against: Hostile Invader",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -535,6 +588,7 @@
     "Name": "Kraken Banner",
     "ToolTip": "Nearby players get a bonus against: Kraken",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -545,6 +599,7 @@
     "Name": "Lihzard Mimic Banner",
     "ToolTip": "Nearby players get a bonus against: Lihzard Mimic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -555,6 +610,7 @@
     "Name": "Lihzard Pot Banner",
     "ToolTip": "Nearby players get a bonus against: Lihzard Pot",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -565,6 +621,7 @@
     "Name": "Living Hemorrhage Banner",
     "ToolTip": "Nearby players get a bonus against: Living Hemorrhage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -575,6 +632,7 @@
     "Name": "Lost Probe Banner",
     "ToolTip": "Nearby players get a bonus against: Lost Probe",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -585,6 +643,7 @@
     "Name": "Mahogany Ent Banner",
     "ToolTip": "Nearby players get a bonus against: Mahogany Ent",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -595,6 +654,7 @@
     "Name": "Man o' War Banner",
     "ToolTip": "Nearby players get a bonus against: Man o' War",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -605,6 +665,7 @@
     "Name": "Molten Mortar Banner",
     "ToolTip": "Nearby players get a bonus against: Molten Mortar",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -615,6 +676,7 @@
     "Name": "Moray Banner",
     "ToolTip": "Nearby players get a bonus against: Moray",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -625,6 +687,7 @@
     "Name": "Mud Man Banner",
     "ToolTip": "Nearby players get a bonus against: Mud Man",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -635,6 +698,7 @@
     "Name": "Necro Pot Banner",
     "ToolTip": "Nearby players get a bonus against: Necro Pot",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -645,6 +709,7 @@
     "Name": "Necrotic Imbuer Banner",
     "ToolTip": "Nearby players get a bonus against: Necrotic Imbuer",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -655,6 +720,7 @@
     "Name": "Nestling Banner",
     "ToolTip": "Nearby players get a bonus against: Nestling",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -665,6 +731,7 @@
     "Name": "Octopus Banner",
     "ToolTip": "Nearby players get a bonus against: Octopus",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -675,6 +742,7 @@
     "Name": "Shambler Banner",
     "ToolTip": "Nearby players get a bonus against: Shambler",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -685,6 +753,7 @@
     "Name": "Sharp Tooth Banner",
     "ToolTip": "Nearby players get a bonus against: Sharp Tooth",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -695,6 +764,7 @@
     "Name": "Snow Ball Banner",
     "ToolTip": "Nearby players get a bonus against: Snow Ball",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -705,6 +775,7 @@
     "Name": "Snow Eater Banner",
     "ToolTip": "Nearby players get a bonus against: Snow Eater",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -715,6 +786,7 @@
     "Name": "Snowy Owl Banner",
     "ToolTip": "Nearby players get a bonus against: Snowy Owl",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -725,6 +797,7 @@
     "Name": "Sol Priestess Banner",
     "ToolTip": "Nearby players get a bonus against: Sol Priestess",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -735,6 +808,7 @@
     "Name": "Space Slime Banner",
     "ToolTip": "Nearby players get a bonus against: Space Slime",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -745,6 +819,7 @@
     "Name": "The Starved Banner",
     "ToolTip": "Nearby players get a bonus against: The Starved",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -755,6 +830,7 @@
     "Name": "Strange Bulb Banner",
     "ToolTip": "Nearby players get a bonus against: Strange Bulb",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -765,6 +841,7 @@
     "Name": "The Innocent Banner",
     "ToolTip": "Nearby players get a bonus against: The Innocent",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -775,6 +852,7 @@
     "Name": "U.F.O. Banner",
     "ToolTip": "Nearby players get a bonus against: U.F.O",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -785,6 +863,7 @@
     "Name": "Underworld Pot Banner",
     "ToolTip": "Nearby players get a bonus against: Underworld Pot",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -795,6 +874,7 @@
     "Name": "Unstable Ice Anomaly Banner",
     "ToolTip": "Nearby players get a bonus against: Unstable Ice Anomaly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -805,6 +885,7 @@
     "Name": "Vile Floater Banner",
     "ToolTip": "Nearby players get a bonus against: Vile Floater",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -815,6 +896,7 @@
     "Name": "Volt Eel Banner",
     "ToolTip": "Nearby players get a bonus against: Volt Eel",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -825,6 +907,7 @@
     "Name": "Warg Banner",
     "ToolTip": "Nearby players get a bonus against: Blood Hungry Warg",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -835,6 +918,7 @@
     "Name": "Wind Elemental Banner",
     "ToolTip": "Nearby players get a bonus against: Wind Elemental",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

@@ -5,6 +5,7 @@
     "Name": "Dream Catcher",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a dream catcher at the cursor's location",
@@ -19,6 +20,7 @@
     "Name": "Dream Weaver's Helmet",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will spend 200 mana and bend the very fabric of reality\nEnemies will be heavily slowed and take 15% more damage from all sources\nAllies will receive greatly increased movement and attack speed",
     "AddToolTip": [],
     "AddToolTip2": [
       "Corrupts your radiant powers",
@@ -35,6 +37,7 @@
     "Name": "Dream Weaver's Hood",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will spend 200 mana and place you within the Dream\nWhile in the Dream, healed allies will become briefly invulnerable and be cured of all debuffs",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -51,6 +54,7 @@
     "Name": "Dream Weaver's Tabard",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -67,6 +71,7 @@
     "Name": "Dream Weaver's Treads",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -84,6 +89,7 @@
     "Name": "Lucidity",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Releases a crescent tear in reality"
@@ -99,6 +105,7 @@
     "Name": "Reality Slasher",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a reality slicing scythe all around you",
@@ -115,6 +122,7 @@
     "Name": "Unbound Fantasy",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 5% of their maximum life per empower level",

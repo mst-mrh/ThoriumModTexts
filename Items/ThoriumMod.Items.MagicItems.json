@@ -5,6 +5,7 @@
     "Name": "Adamantite Staff",
     "ToolTip": "Summons an adamantite entity to shoot three pulses at your cursors location",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Blackhole Cannon",
     "ToolTip": "Shoots a pulse of energy that summons a singularity at the impact zone",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one singularity can be active at once"
     ],
@@ -27,6 +29,7 @@
     "Name": "Bloodboil",
     "ToolTip": "Slowly boils the blood of enemies around your cursor",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Chlorophyte Staff",
     "ToolTip": "Rapidly shoots poison energy that explodes into spore clouds",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Cobalt Staff",
     "ToolTip": "Shoots out two bouncy, reflective bolts of energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Dark Wave",
     "ToolTip": "Sends out a wave of dark energy, that eats away at enemies it hits briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Dynasty War Fan",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "Enchanter's Sword",
     "ToolTip": "Attacks replenish Mana and increase magical abilities slightly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "Hallowed Charm",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It glimmers with comforting power'"
     ],
@@ -99,6 +108,7 @@
     "Name": "Hallowed Staff",
     "ToolTip": "Summons a barrage of enchanted swords at the mouse cursors location",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "High Tide",
     "ToolTip": "Sends out a droplet of water that will create small tidal waves on impact",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "Inferno Staff",
     "ToolTip": "Sends out a molten flare that will plume into a vertical surge of fire",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "Jungle's Wrath",
     "ToolTip": "Fires out a seed pod that explodes into poisonous spore clouds",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +152,7 @@
     "Name": "Light's Lament",
     "ToolTip": "Summons a star fuelled by pure twilight",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "When the star collides with a tile, it will unleash a star surge",
       "Only one star surge may be active at once"
@@ -152,6 +166,7 @@
     "Name": "Mythril Staff",
     "ToolTip": "Shoots out three bolts that will attempt to home in on enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -162,6 +177,7 @@
     "Name": "Orichalcum Staff",
     "ToolTip": "Rapidly releases a barrage of powerful petals",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,6 +188,7 @@
     "Name": "Palladium Staff",
     "ToolTip": "Shoots out energy that shatters into multiple shards",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -182,6 +199,7 @@
     "Name": "Spectral Blade",
     "ToolTip": "Attacks replenish Mana and increase magical abilities greatly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -192,6 +210,7 @@
     "Name": "Spell Book: Spores",
     "ToolTip": "Shoots out a homing spore pod that will infect enemies with 'The Glow'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Should the enemy die, more spore pods will be released"
     ],
@@ -204,6 +223,7 @@
     "Name": "Spell Book: Stalagmite",
     "ToolTip": "Creates a wave of heating stalagmites",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -214,6 +234,7 @@
     "Name": "Terra Staff",
     "ToolTip": "Summons a portal at the target location that constantly unleashes an array of devastating attacks",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one portal can exist at a time"
     ],
@@ -226,6 +247,7 @@
     "Name": "Spell Book: Time Gate",
     "ToolTip": "Channels a large field of time slowing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Enemies and hostile projectiles within the field are slowed"
     ],
@@ -238,6 +260,7 @@
     "Name": "Titanium Staff",
     "ToolTip": "Summons a portal at the target location that constantly shoots razor blades at nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one portal can exist at a time"
     ],
@@ -250,6 +273,7 @@
     "Name": "True Bloodboil",
     "ToolTip": "Violently boils the blood of enemies around your cursor and has a chance to hemorrhage the enemy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -260,6 +284,7 @@
     "Name": "True Enchanter's Sword",
     "ToolTip": "Attacks replenish Mana and increase magical abilities moderately",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -270,6 +295,7 @@
     "Name": "True Hallowed Staff",
     "ToolTip": "Summons a barrage of hallowed blades at the mouse cursors location",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,6 +306,7 @@
     "Name": "True Light's Lament",
     "ToolTip": "Summons a star fuelled by pure evil",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "When the star collides with a tile, evil energies will barrage the impact zone"
     ],
@@ -292,6 +319,7 @@
     "Name": "Vessel Buster",
     "ToolTip": "Sends out a short range splash of blood",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -302,6 +330,7 @@
     "Name": "White Knight Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased magic damage"
     ],
@@ -316,6 +345,7 @@
     "Name": "White Knight Mask",
     "ToolTip": "8% increased magic damage",
     "ToolTip2": "",
+    "SetBonus": "Magical attacks have a 33% chance to recover some mana",
     "AddToolTip": [
       "5% increased magic critical strike chance"
     ],
@@ -328,6 +358,7 @@
     "Name": "White Knight Tabard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased magic damage"
     ],

@@ -5,6 +5,7 @@
     "Name": "The Sick Throw",
     "ToolTip": "Attacks blast enemies with elemental energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Terrarium Bomber",
     "ToolTip": "Rapidly fires compact rockets that explode violently",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Should only be used with Rocket I ammunition..."
     ],
@@ -27,6 +29,7 @@
     "Name": "Terrarium Particle Sprinters",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Provides the enhanced ability to walk on water, ice, fire blocks and lava",
       "Allows flight",
@@ -42,6 +45,7 @@
     "Name": "Terrarium Breastplate",
     "ToolTip": "'All will fall before your might...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum life increased by 20",
       "Life regeneration increased by 3",
@@ -58,6 +62,7 @@
     "Name": "Terrarium Canyon Splitter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +73,7 @@
     "Name": "Terrarium Core",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Unimaginable power rests within...'"
     ],
@@ -80,6 +86,7 @@
     "Name": "Terrarium Defender",
     "ToolTip": "-Omni Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Grants immunity to most debuffs",
@@ -98,6 +105,7 @@
     "Name": "Terrarium Whale Catcher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -108,6 +116,7 @@
     "Name": "Terrarium Greaves",
     "ToolTip": "'All will fall before your might...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum life increased by 15",
       "Life regeneration increased by 2",
@@ -124,6 +133,7 @@
     "Name": "Terrarium Helmet",
     "ToolTip": "'All will fall before your might...'",
     "ToolTip2": "",
+    "SetBonus": "The energy of Terraria seeks to protect you",
     "AddToolTip": [
       "Maximum life increased by 15",
       "Life regeneration increased by 1",
@@ -140,6 +150,7 @@
     "Name": "Terrarium Holy Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a prismatic scythe all around you",
@@ -156,6 +167,7 @@
     "Name": "Terrarium Hyper Disc",
     "ToolTip": "'Holds devastating power'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -166,6 +178,7 @@
     "Name": "Terrarium Ripple Knife",
     "ToolTip": "Throws a limitless supply of elementally infused energy knives",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -179,6 +192,7 @@
     "Name": "Terrarium Longbow",
     "ToolTip": "Does not consume fired arrows",
     "ToolTip2": "Fires two additional terrarium arrows",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -189,6 +203,7 @@
     "Name": "Terrarium Pulse Rifle",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% chance to not consume ammo"
     ],
@@ -201,6 +216,7 @@
     "Name": "Terrarium Saber",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -211,6 +227,7 @@
     "Name": "Terrarium Sage Staff",
     "ToolTip": "Fires an unstable globule of chromatic energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -221,6 +238,7 @@
     "Name": "Terrarium Pulser Shot",
     "ToolTip": "Hit enemies are sundered by elemental energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -231,6 +249,7 @@
     "Name": "Terrarium Spear",
     "ToolTip": "Sends out a volatile after image",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -241,6 +260,7 @@
     "Name": "Enigma Rift Staff",
     "ToolTip": "Tears a rift into reality, bringing forth a volatile Enigma",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -251,6 +271,7 @@
     "Name": "Terrarium Terrarformer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -261,6 +282,7 @@
     "Name": "Terrarium Wings",
     "ToolTip": "Allows heightened flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases jump height",
       "You give off a rainbow glow"

@@ -5,6 +5,7 @@
     "Name": "Bronze Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Deities watch over you...'",
       "8% increased melee and thrown damage"
@@ -18,6 +19,7 @@
     "Name": "Bronze Alloy Fragments",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Its amazing quality has not been lost to time'"
     ],
@@ -30,6 +32,7 @@
     "Name": "Bronze Gladius",
     "ToolTip": "Attacks might petrify the enemy, stopping them in place",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],
@@ -42,6 +45,7 @@
     "Name": "Bronze Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Deities watch over you...'",
       "5% increased melee & throwing speed",
@@ -56,6 +60,7 @@
     "Name": "Bronze Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Zeus might assist your throwing damage & Hades might assist your close quarter melee damage",
     "AddToolTip": [
       "'Deities watch over you...'",
       "5% increased melee and thrown critical strike chance"
@@ -69,6 +74,7 @@
     "Name": "Bronze Mallet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -79,6 +85,7 @@
     "Name": "Bronze Pax",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +96,7 @@
     "Name": "Bronze Spear",
     "ToolTip": "Attacks might petrify the enemy, stopping them in place",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],
@@ -101,6 +109,7 @@
     "Name": "Bronze Throwing Axe",
     "ToolTip": "Attacks might petrify the enemy, stopping them in place",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],
@@ -113,6 +122,7 @@
     "Name": "Gorgan Gaze Staff",
     "ToolTip": "Attempts to petrify an enemy under your cursor",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

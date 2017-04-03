@@ -5,6 +5,7 @@
     "Name": "Magma Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Magma Blade",
     "ToolTip": "Attacks might singe the target, causing extra damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Magma Chestguard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Bursting with heat'",
       "5% increased melee damage"
@@ -38,6 +41,7 @@
     "Name": "Magma Slab",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It's molten to the touch'"
     ],
@@ -50,6 +54,7 @@
     "Name": "Magma Flail",
     "ToolTip": "Attacks might singe the target, causing extra damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "Magma Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Bursting with heat'",
       "4% increased melee damage"
@@ -73,6 +79,7 @@
     "Name": "Magma Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -83,6 +90,7 @@
     "Name": "Magma Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Fire surrounds your armour and melee weapons\nDamage done against burning and singed enemies is increased by 5%",
     "AddToolTip": [
       "'Bursting with heat'",
       "3% increased melee damage"
@@ -96,6 +104,7 @@
     "Name": "Magma Ore",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It's rather hot'"
     ],
@@ -108,6 +117,7 @@
     "Name": "Magma Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,6 +128,7 @@
     "Name": "Magma Polearm",
     "ToolTip": "Attacks might singe the target, causing extra damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -128,6 +139,7 @@
     "Name": "Magma Shiv",
     "ToolTip": "Attacks might singe the target, causing extra damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -138,6 +150,7 @@
     "Name": "Magmatic Ricochet",
     "ToolTip": "Attacks might singe the target, causing extra damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

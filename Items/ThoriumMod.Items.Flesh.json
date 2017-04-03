@@ -5,6 +5,7 @@
     "Name": "Blood Belcher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Flesh Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Flesh Body",
     "ToolTip": "'Symbiotically attached to your body'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased damage",
       "Increases life regeneration by 2"
@@ -38,6 +41,7 @@
     "Name": "Flesh Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "Flesh Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,6 +63,7 @@
     "Name": "Flesh Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +74,7 @@
     "Name": "Flesh Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -78,6 +85,7 @@
     "Name": "Flesh Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,6 +96,7 @@
     "Name": "Flesh Legs",
     "ToolTip": "'Symbiotically attached to your body'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "6% increased movement speed"
     ],
@@ -100,6 +109,7 @@
     "Name": "Flesh Mace",
     "ToolTip": "Attacks might steal life, but nullify life regeneration for a moment",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -110,6 +120,7 @@
     "Name": "Flesh Mask",
     "ToolTip": "'Symbiotically attached to your body'",
     "ToolTip2": "",
+    "SetBonus": "Consecutive attacks against enemies might drop flesh, which grants bonus life and damage",
     "AddToolTip": [
       "6% increased critical strike chance"
     ],
@@ -122,6 +133,7 @@
     "Name": "Flesh Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +144,7 @@
     "Name": "Flesh Skewer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks might steal life, but nullify life regeneration for a moment"
     ],
@@ -144,6 +157,7 @@
     "Name": "Flesh Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -154,6 +168,7 @@
     "Name": "Suitable Flesh",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -164,6 +179,7 @@
     "Name": "Blood Clot Staff",
     "ToolTip": "Sends out a flesh bolt that splashes into blood droplets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The resulting blood droplets might steal life, but will nullify life regeneration for a moment"
     ],
@@ -176,6 +192,7 @@
     "Name": "Tooth of The Consumer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks might steal life, but nullify life regeneration for a moment",
       "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
@@ -189,6 +206,7 @@
     "Name": "Unfathomable Flesh",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It writhes and wiggles, attempting to latch onto you'"
     ],
@@ -201,6 +219,7 @@
     "Name": "Vein Buster",
     "ToolTip": "Functions as a bullet",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Shots will rarely steal life, but nullify life regeneration for a moment"
     ],

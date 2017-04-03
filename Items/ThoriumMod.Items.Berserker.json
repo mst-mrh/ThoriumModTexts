@@ -5,6 +5,7 @@
     "Name": "Berserker Shard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Just holding this thing makes you angry'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Berserker Blade",
     "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right Click - Swings the sword slower, but for stronger damage and knockback"
     ],
@@ -29,6 +31,7 @@
     "Name": "Berserker Bow",
     "ToolTip": "Turns wooden arrows into 'Berserker Arrows'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Berserker Arrows' make consecutive hits cause additional damage based on the enemies missing life"
     ],
@@ -41,6 +44,7 @@
     "Name": "Berserker Breaker",
     "ToolTip": "After hitting an enemy, consecutive hits will cause additional damage based on the enemies missing life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -51,6 +55,7 @@
     "Name": "Berserker Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Damage taken reduced by 4%",
       "Life regeneration increased by 2",
@@ -65,6 +70,7 @@
     "Name": "Berserker Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Damage taken reduced by 3%",
       "Life regeneration increased by 1",
@@ -79,6 +85,7 @@
     "Name": "Berserker Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -89,6 +96,7 @@
     "Name": "Berserker Mask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage is increased based on missing life",
     "AddToolTip": [
       "Damage taken reduced by 3%",
       "Life regeneration increased by 1",
@@ -103,6 +111,7 @@
     "Name": "Berserker Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -113,6 +122,7 @@
     "Name": "Berserk Soul Staff",
     "ToolTip": "Enemies hit by this bolt, will be cursed with 'Berserker Soul'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Enemies who die with 'Berserker Soul' have a chance to return as an aggressive spirit for a short time"
     ],

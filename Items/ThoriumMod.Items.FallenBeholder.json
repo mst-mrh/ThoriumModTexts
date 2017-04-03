@@ -5,6 +5,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Beholder Mask",
     "ToolTip": "'Peer into the abyss'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Beholder Staff",
     "ToolTip": "Summons a beholder to lay waste to your foes",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Beholders occupy 2 minion slots",
       "Beholders will grant you sight of nearby enemies"
@@ -38,6 +41,7 @@
     "Name": "Fallen Beholder Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "Tome of the Void Gazer's Chariot",
     "ToolTip": "'Become the harbinger of the void'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a mountable Beholder"
     ],
@@ -60,6 +65,7 @@
     "Name": "Demon Fire Blast-Wand",
     "ToolTip": "Rapidly fires molten explosions",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,6 +76,7 @@
     "Name": "Devil's Carapace",
     "ToolTip": "-Soul Storage-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Infused with evil forces beyond your comprehension'",
@@ -85,6 +92,7 @@
     "Name": "Eye of the Beholder",
     "ToolTip": "While equipped, the eye will give vision of your cursors current position",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "Obliterator",
     "ToolTip": "The fired bullet will multi-hit enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "Thermogenic Impaler",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Left Click - Swings the blade, igniting hit enemies",
       "Right Click - Thrusts the blade, singing hit enemies"
@@ -118,6 +128,7 @@
     "Name": "Void Lens",
     "ToolTip": "Summons an entity from another dimension",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only usable within the underworld"
     ],

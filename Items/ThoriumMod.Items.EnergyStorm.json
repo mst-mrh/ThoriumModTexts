@@ -5,6 +5,7 @@
     "Name": "Boulder Probe Staff",
     "ToolTip": "Summons a floating mass of granite energy that continually zaps your cursors position",
     "ToolTip2": "Right click to unsummon the probe early",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Energy Storm Mask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Energy Projector",
     "ToolTip": "Projects a magical barrier of energy around you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Energy Storm Bolter",
     "ToolTip": "Rapidly shoots homing energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Energy Storm Partisan",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Dealing damage two times in one use of this weapon will unleash an energized explosion"
     ],
@@ -57,6 +62,7 @@
     "Name": "Energy Storm Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Eye of the Storm",
     "ToolTip": "While equipped, energy will slowly seep out and attack nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "Energy Manipulator",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 12 seconds",
@@ -101,6 +110,7 @@
     "Name": "Unstable Core",
     "ToolTip": "Summons a storm of dangerous energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only usable deep underground"
     ],

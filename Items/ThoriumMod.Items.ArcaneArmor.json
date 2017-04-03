@@ -5,6 +5,7 @@
     "Name": "Aerial",
     "ToolTip": "Releases damaging feathers when nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Arcane Armor Fabricator",
     "ToolTip": "Allows you to craft unique weapons and armor",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Avian Cartilage",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Incredibly aerodynamic'"
     ],
@@ -37,6 +40,7 @@
     "Name": "Blooming Blade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Bulb Chestpiece",
     "ToolTip": "",
     "ToolTip2": "10% increased casting speed",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum life increased by 10"
     ],
@@ -59,6 +64,7 @@
     "Name": "Bulb Hood",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Magic damage might puff hit enemies with a poisonous spore cloud",
     "AddToolTip": [
       "Maximum life increased by 5",
       "Maximum mana increased by 10",
@@ -73,6 +79,7 @@
     "Name": "Bulb Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum life increased by 5",
       "Maximum mana increased by 10",
@@ -87,6 +94,7 @@
     "Name": "Danger Dagger",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,6 +105,7 @@
     "Name": "Danger Daikatana",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -107,6 +116,7 @@
     "Name": "Danger Devastator",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -117,6 +127,7 @@
     "Name": "Danger Doomerang",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Two may be active at once"
     ],
@@ -129,6 +140,7 @@
     "Name": "Danger Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +151,7 @@
     "Name": "Danger Dual-shot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -149,6 +162,7 @@
     "Name": "Danger Greaves",
     "ToolTip": "'Let's get dangerous...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "6% increased movement speed"
     ],
@@ -161,6 +175,7 @@
     "Name": "Danger Helmet",
     "ToolTip": "'Let's get dangerous...'",
     "ToolTip2": "",
+    "SetBonus": "You are immune to most damage-inflicting debuffs",
     "AddToolTip": [
       "Taking damage increases melee abilities briefly"
     ],
@@ -173,6 +188,7 @@
     "Name": "Danger Mail",
     "ToolTip": "'Let's get dangerous...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "8% increased melee speed"
     ],
@@ -185,6 +201,7 @@
     "Name": "Danger Shard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Holds anti-magical properties'"
     ],
@@ -197,6 +214,7 @@
     "Name": "Feather Arrow",
     "ToolTip": "Drifts in a straight line, ignoring gravity",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -207,6 +225,7 @@
     "Name": "Feather Barrier Rod",
     "ToolTip": "Surrounds you in a short lived barrier of feathers",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,6 +236,7 @@
     "Name": "Feather Foe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -227,6 +247,7 @@
     "Name": "Flight Boots",
     "ToolTip": "'The sky is your playing field'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased movement speed"
     ],
@@ -239,6 +260,7 @@
     "Name": "Flight Mail",
     "ToolTip": "'The sky is your playing field'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "You suffer no fall damage"
     ],
@@ -251,6 +273,7 @@
     "Name": "Flight Hat",
     "ToolTip": "'The sky is your playing field'",
     "ToolTip2": "",
+    "SetBonus": "Your flight time is moderately increased",
     "AddToolTip": [
       "Increases jump height"
     ],
@@ -263,6 +286,7 @@
     "Name": "Flight Wings",
     "ToolTip": "Allows minor flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -273,6 +297,7 @@
     "Name": "Goblin War Shield",
     "ToolTip": "While standing still, defense is increased by 4 and you are immune to enemy knockback",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -283,6 +308,7 @@
     "Name": "Goblin War Spear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Has a chance to gouge the hit enemy, causing additional damage"
     ],
@@ -295,6 +321,7 @@
     "Name": "Harpy Pelter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -305,6 +332,7 @@
     "Name": "Harpy Talon",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -315,6 +343,7 @@
     "Name": "Petal",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Has a surprisingly sweet aroma'"
     ],
@@ -327,6 +356,7 @@
     "Name": "Petal Bloom",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -337,6 +367,7 @@
     "Name": "Petal Shield",
     "ToolTip": "Defense increased by 3",
     "ToolTip2": "While not taking damage, life regeneration will increase up to 3",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -347,6 +378,7 @@
     "Name": "Petal Wand",
     "ToolTip": "Shoots a volley of quick petals",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -357,6 +389,7 @@
     "Name": "Shadowflame Wand",
     "ToolTip": "Shoots a slow moving orb of shadowflame magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -367,6 +400,7 @@
     "Name": "Yew-Handled Flintlock",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -377,6 +411,7 @@
     "Name": "Yew Wood",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'This strange wood comes from a far away land'"
     ],
@@ -389,6 +424,7 @@
     "Name": "Yew-Wood Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "After four consecutive non-critical strikes, your next\nranged attack will mini-crit for 150% damage",
     "AddToolTip": [
       "4% increased ranged damage"
     ],
@@ -401,6 +437,7 @@
     "Name": "Yew-Wood Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -411,6 +448,7 @@
     "Name": "Yew-Wood Breastguard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% increased ranged damage",
       "15% increased firing speed"
@@ -424,6 +462,7 @@
     "Name": "Yew-Wood Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% increased ranged damage",
       "5% increased movement speed"

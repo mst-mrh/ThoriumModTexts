@@ -5,6 +5,7 @@
     "Name": "Crystalline Charm",
     "ToolTip": "15% Increased pickaxe mining speed",
     "ToolTip2": "Pickaxes and Drills will have 1 additional range",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Crystal Phaser",
     "ToolTip": "Shoots out a reflecting, piercing crystal shard",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Dazzle Arrow",
     "ToolTip": "Might confuse the hit target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Geode",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The jagged shards hold an unknown power'"
     ],
@@ -47,6 +51,7 @@
     "Name": "Geode Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Geode Boomerang",
     "ToolTip": "Attacks might confuse the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Geode Chestplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Made from the most luxurious materials'",
       "25% increased mining speed"
@@ -80,6 +87,7 @@
     "Name": "Geode Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Made from the most luxurious materials'",
       "8% increased movement speed"
@@ -93,6 +101,7 @@
     "Name": "Geode Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "You can detect ore, chests and other treasures",
     "AddToolTip": [
       "'Made from the most luxurious materials'",
       "You brighten the area around you"
@@ -106,6 +115,7 @@
     "Name": "Geode Longbow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -116,6 +126,7 @@
     "Name": "Geode Mallet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -126,6 +137,7 @@
     "Name": "Geode Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +148,7 @@
     "Name": "Geode Saber",
     "ToolTip": "Attacks might confuse the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
     ],
@@ -148,6 +161,7 @@
     "Name": "Geode Smasher",
     "ToolTip": "Attacks might confuse the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -158,6 +172,7 @@
     "Name": "Geode Spear",
     "ToolTip": "Attacks might confuse the target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

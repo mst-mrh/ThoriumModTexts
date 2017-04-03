@@ -5,6 +5,7 @@
     "Name": "Bird Mask",
     "ToolTip": "'Imitate the fury of the storm!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Hatchling Staff",
     "ToolTip": "Summons a hatchling to zap your foes into dust",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Storm Flare",
     "ToolTip": "When used with the grand flare gun, something might happen",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Grand Flare Gun",
     "ToolTip": "'Aim to the skies!",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Requires 'Storm Flares' to function",
       "Summons the Grand Thunder Bird, but only during the day"
@@ -48,6 +52,7 @@
     "Name": "Talon Burst",
     "ToolTip": "'Fabricated from feathers and lightning'",
     "ToolTip2": "Storm Bolts fly incredibly fast and can hit the same target twice",
+    "SetBonus": "",
     "AddToolTip": [
       "Turns wooden arrows into 'Storm Bolts'"
     ],
@@ -60,6 +65,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -70,6 +76,7 @@
     "Name": "Thunder Bird Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,6 +87,7 @@
     "Name": "Thunder Talon",
     "ToolTip": "Has a chance to release a spark of electricity on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -90,6 +98,7 @@
     "Name": "Zephyr",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased movement speed"
     ],

@@ -5,6 +5,7 @@
     "Name": "Knight's Alloy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Material used by the fallen knights of the dungeon'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Darksteel Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "Darksteel Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Darksteel Core",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Holds the necessary properties to make Darksteel equipment'"
     ],
@@ -49,6 +53,7 @@
     "Name": "Darksteel Mallet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -59,6 +64,7 @@
     "Name": "Darksteel Broadsword",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -69,6 +75,7 @@
     "Name": "Darksteel Mace",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -79,6 +86,7 @@
     "Name": "Life Leech",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Strikes will turn damage into life"
     ],
@@ -91,6 +99,7 @@
     "Name": "Soul Siphon",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Strikes will turn damage into Mana"
     ],
@@ -103,6 +112,7 @@
     "Name": "Darksteel Longbow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -113,6 +123,7 @@
     "Name": "Darksteel Crossbow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,6 +134,7 @@
     "Name": "Darksteel Faceguard",
     "ToolTip": "'Light yet durable'",
     "ToolTip2": "",
+    "SetBonus": "Nothing will stop your movement! Double tap to dash!",
     "AddToolTip": [
       "10% increased movement speed",
       "Armor penetration increased by 3"
@@ -136,6 +148,7 @@
     "Name": "Darksteel Breastplate",
     "ToolTip": "'Light yet durable'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased movement speed",
       "Armor penetration increased by 4"
@@ -149,6 +162,7 @@
     "Name": "Darksteel Greaves",
     "ToolTip": "'Light yet durable'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased movement speed",
       "Armor penetration increased by 3"
@@ -162,6 +176,7 @@
     "Name": "Smooth Coal",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Might be useful'"
     ],

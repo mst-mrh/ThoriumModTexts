@@ -5,6 +5,7 @@
     "Name": "Seething Charge",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Destroyer's Rage",
     "ToolTip": "Does not require ammunition",
     "ToolTip2": "Rapidly fires lazer arrows",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Devil Dagger",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Killing enemies will boost your magic damage briefly"
     ],
@@ -37,6 +40,7 @@
     "Name": "Devil's Reach",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Eye of the Destroyer",
     "ToolTip": "Unleashes laser beams at nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Fungal Hook",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Funggat",
     "ToolTip": "Turns musket balls into Spores",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Spores have a chance to infect the hit target with mycelium"
     ],
@@ -79,6 +86,7 @@
     "Name": "Hand Cannon",
     "ToolTip": "Allows you to unleash Seething Charges",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Has an incredibly high recoil, which sends you backwards"
     ],
@@ -91,6 +99,7 @@
     "Name": "Hydromancer's Catalyst",
     "ToolTip": "Creates a channeled orb of aquatic energy that targets nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +110,7 @@
     "Name": "Key of Fire",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Charged with the essence of many flames'"
     ],
@@ -113,6 +123,7 @@
     "Name": "Key of Fungus",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Charged with the essence of many spores'"
     ],
@@ -125,6 +136,7 @@
     "Name": "Key of Tides",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Charged with the essence of the oceans current'"
     ],
@@ -137,6 +149,7 @@
     "Name": "Mushymen Staff",
     "ToolTip": "Summons a spear throwing mush-man",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Spears has a chance to infect the hit target with mycelium"
     ],
@@ -149,6 +162,7 @@
     "Name": "Mycelium Whip",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Damage has a chance to infect the hit target with mycelium"
     ],
@@ -161,6 +175,7 @@
     "Name": "Neptune's Grasp",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -171,6 +186,7 @@
     "Name": "Poseidon's Charge",
     "ToolTip": "Right Clicking will release a line of bubbles",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -181,6 +197,7 @@
     "Name": "Prime's Fury",
     "ToolTip": "Has a chance to discharge an energy wave on swing that deals nearly triple damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -191,6 +208,7 @@
     "Name": "Schmelze",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks apply a stacking burn"
     ],
@@ -203,6 +221,7 @@
     "Name": "Scorn",
     "ToolTip": "Releases three bullet storms",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -213,6 +232,7 @@
     "Name": "S. S. Devastator",
     "ToolTip": "Occasionally fires off homing rockets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -223,6 +243,7 @@
     "Name": "Spark Taser",
     "ToolTip": "Throws a static-arcing dagger of electricity",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -236,6 +257,7 @@
     "Name": "Strange Plating",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Seems to have fallen off of one of the grand mechanical creations'"
     ],
@@ -248,6 +270,7 @@
     "Name": "The Juggernaut",
     "ToolTip": "After hitting an enemy, the chain will snap, sending the ball randomly crashing around",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -258,6 +281,7 @@
     "Name": "Twin's Ire",
     "ToolTip": "Fires a charged blast of magic that can hit the same target multiple times",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

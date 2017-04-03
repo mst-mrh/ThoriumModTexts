@@ -5,6 +5,7 @@
     "Name": "Sandstone Pickaxe",
     "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Sandstone Axe",
     "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Sandstone Hammer",
     "ToolTip": "Periodically granted 'Wind Burst', increasing your tool speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Sandstone Scimitar",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Sandstone Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "Sandstone Spear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "Sandstone Throwing Knife",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -75,6 +82,7 @@
     "Name": "Sandstone Helmet",
     "ToolTip": "'Enveloped by desert winds'",
     "ToolTip2": "",
+    "SetBonus": "Desert winds will augment your boots, giving you a double jump",
     "AddToolTip": [
       "2% increased movement speed",
       "5% increased thrown damage"
@@ -88,6 +96,7 @@
     "Name": "Sandstone Mail",
     "ToolTip": "'Enveloped by desert winds'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "5% increased thrown damage"
@@ -101,6 +110,7 @@
     "Name": "Sandstone Greaves",
     "ToolTip": "'Enveloped by desert winds'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "3% increased movement speed",
       "5% increased thrown damage"
@@ -114,6 +124,7 @@
     "Name": "Sandstone Ingot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Free of all moisture and very warm'"
     ],
@@ -126,6 +137,7 @@
     "Name": "Sand Storm Claymore",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -136,6 +148,7 @@
     "Name": "Spell Book: Wind Gust",
     "ToolTip": "'Unleashes a forceful burst of wind'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

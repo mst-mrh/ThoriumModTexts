@@ -5,6 +5,7 @@
     "Name": "Arcane Dust",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It shimmers with magical capabilities'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Confuse",
     "ToolTip": "Creates a bolt of confusing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "Dissolve",
     "ToolTip": "Creates a bolt of defense melting magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Freeze",
     "ToolTip": "Creates a bolt of deep-freezing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Ignite",
     "ToolTip": "Creates a bolt of fiery magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Magik Staff",
     "ToolTip": "Creates a bolt of fluctuating elements",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Amber-Augmented Magik Staff",
     "ToolTip": "Creates a bolt of fluctuating elements",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +84,7 @@
     "Name": "Mana Bauble",
     "ToolTip": "'An orb of coalesced magical energy'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum mana increased by 10"
     ],
@@ -89,6 +97,7 @@
     "Name": "Pierce",
     "ToolTip": "Creates a bolt of heavy, piercing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -99,6 +108,7 @@
     "Name": "Poison",
     "ToolTip": "Creates a bolt of poisonous magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "Silk Cap",
     "ToolTip": "Magical critical strike chance increased by 2%",
     "ToolTip2": "Maximum mana increased by 20",
+    "SetBonus": "Magic Damage increased by 7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "Silk Hat",
     "ToolTip": "Magical critical strike chance increased by 2%",
     "ToolTip2": "Magic damage increased by 2",
+    "SetBonus": "Magic Damage increased by 7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "Silk Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Magical critical strike chance increased by 2%"
     ],
@@ -141,6 +154,7 @@
     "Name": "Silk Tabard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Magical critical strike chance increased by 2%"
     ],
@@ -153,6 +167,7 @@
     "Name": "Silk Turban",
     "ToolTip": "5% increased minion knockback",
     "ToolTip2": "Summon damage increased by 2",
+    "SetBonus": "Increases your max number of minions by 1",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -163,6 +178,7 @@
     "Name": "Siphon",
     "ToolTip": "Creates a bolt of life-force stealing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

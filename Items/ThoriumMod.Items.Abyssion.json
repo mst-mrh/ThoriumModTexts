@@ -5,6 +5,7 @@
     "Name": "Abyssal Shadow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Abyssal Shell",
     "ToolTip": "Clicking the 'Abyssal Guard' key will place you in an impenetrable shell",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While encased, you cant use items, life regeneration is heavily reduced and damage is nearly nullified"
     ],
@@ -30,6 +32,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -40,6 +43,7 @@
     "Name": "Abyssion Mask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -50,6 +54,7 @@
     "Name": "Abyssion Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "Mantis Shrimp Punch",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Breaks the sound barrier"
     ],
@@ -72,6 +78,7 @@
     "Name": "Old God's Grasp",
     "ToolTip": "Unleashes a hungering surge of ancient magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -82,6 +89,7 @@
     "Name": "The Incubator",
     "ToolTip": "Releases an abyssal crab egg",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -92,6 +100,7 @@
     "Name": "Trench Spitter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

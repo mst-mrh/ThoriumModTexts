@@ -5,6 +5,7 @@
     "Name": "Ocean Essence",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Spark of the ever moving tides'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Ocean's Judgement",
     "ToolTip": "Rapidly unleash hammers of condensed water that rain volatile droplets from the sky",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "Seven Seas Devastator",
     "ToolTip": "Unleashes an incredibly powerful aquatic ball of water",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Tidal Wave",
     "ToolTip": "Throws out aquatic shurikens that stagnate mid-air, then unleash tidal waves",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Tide Turner's Depth-Guard",
     "ToolTip": "'Turn the tide of battle!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased melee & throwing damage",
       "16% increased melee & throwing critical strike chance"
@@ -60,6 +65,7 @@
     "Name": "Tide Turner's Depth-Walkers",
     "ToolTip": "'Turn the tide of battle!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased melee & throwing damage",
       "25% increased melee speed & throwing velocity",
@@ -74,6 +80,7 @@
     "Name": "Tide Turner's Depth-Helmet",
     "ToolTip": "'Become as unstoppable as the tides...'",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will trigger Ocean's Buffer, turning all damage taken into healing",
     "AddToolTip": [
       "12% increased melee damage",
       "Damage taken reduced by 15%",
@@ -88,6 +95,7 @@
     "Name": "Tide Turner's Depth-Crown",
     "ToolTip": "'Unleash aquatic wrath upon your foes...'",
     "ToolTip2": "",
+    "SetBonus": "Throwing damage has a 33% chance to unleash aquatic homing daggers all around you",
     "AddToolTip": [
       "40% increased throwing damage",
       "50% chance not to consume thrown items",
@@ -102,6 +110,7 @@
     "Name": "Deity's Trefork",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Rapidly throws aquatic tridents that release water daggers all around them"
     ],

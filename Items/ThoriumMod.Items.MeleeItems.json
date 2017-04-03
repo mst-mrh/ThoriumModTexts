@@ -5,6 +5,7 @@
     "Name": "Blood Thirster",
     "ToolTip": "'Made from the corrupted elements'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Doom Fire Axe",
     "ToolTip": "Releases an explosion on enemy impact",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Nocturnal",
     "ToolTip": "Upon hitting an enemy, homing 'black light' might be released",
     "ToolTip2": "This yo-yo can be held mid-air forever",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Sanguine",
     "ToolTip": "Upon hitting an enemy, homing 'life light' might be released",
     "ToolTip2": "This yo-yo can be held mid-air forever",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Searing Blade",
     "ToolTip": "'The blade of this masterly forged sword will burn the hit enemy for the rest of their days...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "True Blood Thirster",
     "ToolTip": "Unleashes blood energy on every swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

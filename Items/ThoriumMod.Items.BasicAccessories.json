@@ -5,6 +5,7 @@
     "Name": "Amber Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Minion damage increased by 2"
@@ -17,6 +18,7 @@
     "Name": "Amethyst Ring",
     "ToolTip": "Damage taken is reduced by 2",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -27,6 +29,7 @@
     "Name": "High-tech Sonar Device",
     "ToolTip": "Allows you to see what's biting your hook",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Azure Gauntlet",
     "ToolTip": "7% increased magic damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -47,6 +51,7 @@
     "Name": "Band",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Looks like a simple ring'"
     ],
@@ -59,6 +64,7 @@
     "Name": "Bone Grip",
     "ToolTip": "-Throwing Grip-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing speed increased by 15%"
@@ -71,6 +77,7 @@
     "Name": "Boomerang Bonus",
     "ToolTip": "You may throw one additional boomerang",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -81,6 +88,7 @@
     "Name": "Traveler's Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "Your dash will reach its peak faster"
@@ -94,6 +102,7 @@
     "Name": "Copper Buckler",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 1",
@@ -107,6 +116,7 @@
     "Name": "Crash Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "8% increased movement speed",
       "Landing on the ground releases a powerful shockwave",
@@ -121,6 +131,7 @@
     "Name": "Crimson Gauntlet",
     "ToolTip": "7% increased melee damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -131,6 +142,7 @@
     "Name": "Crystal Arcanite",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Maximum life increased by 20",
@@ -145,6 +157,7 @@
     "Name": "Mask of the Crystal Eye",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "16% Increased critical strike chance",
       "Critical strikes deal 15% more damage"
@@ -158,6 +171,7 @@
     "Name": "Crystal Spear Tip",
     "ToolTip": "-Spear Tip-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Spear weapons will release a shattering spear tip"
@@ -170,6 +184,7 @@
     "Name": "Cursed Flail-Core",
     "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit that apply cursed flames to damaged enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -180,6 +195,7 @@
     "Name": "Diamond Ring",
     "ToolTip": "2% Increased critical strike chance",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -190,6 +206,7 @@
     "Name": "Emerald Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Ranged damage increased by 2"
@@ -202,6 +219,7 @@
     "Name": "Enchanted Amber Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Minion damage increased by 4"
@@ -214,6 +232,7 @@
     "Name": "Enchanted Amethyst Ring",
     "ToolTip": "Damage taken is reduced by 5",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -224,6 +243,7 @@
     "Name": "Enchanted Diamond Ring",
     "ToolTip": "3% Increased critical strike chance",
     "ToolTip2": "4% increased critical strike damage",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -234,6 +254,7 @@
     "Name": "Enchanted Emerald Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Ranged damage increased by 4"
@@ -246,6 +267,7 @@
     "Name": "Enchanted Ruby Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Melee damage increased by 4"
@@ -258,6 +280,7 @@
     "Name": "Enchanted Sapphire Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Magic damage increased by 4"
@@ -270,6 +293,7 @@
     "Name": "Enchanted Shield",
     "ToolTip": "While above 20 mana, Defense is increased by 6",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Grants immunity to knockback",
       "Mana is sapped when struck in combat"
@@ -283,6 +307,7 @@
     "Name": "Enchanted Topaz Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing damage increased by 4"
@@ -295,6 +320,7 @@
     "Name": "Fear Monger",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% reduced damage taken",
       "Enemies are less likely to target you"
@@ -308,6 +334,7 @@
     "Name": "Firestorm Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Provides the enhanced ability to walk on water, ice, Fire blocks and lava",
       "Allows flight & the wearer can run incredibly fast"
@@ -321,6 +348,7 @@
     "Name": "Forgotten Cross Necklace",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Reminds you of an old friend...'",
@@ -335,6 +363,7 @@
     "Name": "Gold Aegis",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 2",
@@ -348,6 +377,7 @@
     "Name": "Healthy Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "While running, your life regeneration is increased"
@@ -361,6 +391,7 @@
     "Name": "Holy Aegis",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Maximum life increased by 20",
       "Increases length of invincibility after taking damage",
@@ -375,6 +406,7 @@
     "Name": "Hover Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "6% increased movement speed",
       "Allows you to briefly hover after walking off a tile"
@@ -388,6 +420,7 @@
     "Name": "Iron Flail-Core",
     "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -398,6 +431,7 @@
     "Name": "Iron Shield",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 1",
@@ -411,6 +445,7 @@
     "Name": "Jade Gauntlet",
     "ToolTip": "7% increased ranged damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -421,6 +456,7 @@
     "Name": "Lead Shield",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 1",
@@ -434,6 +470,7 @@
     "Name": "Leather Gauntlet",
     "ToolTip": "'Fits nice and snug'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -444,6 +481,7 @@
     "Name": "Mana-Charged Rocketeers",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Allows flight at the cost of mana",
       "Increases mana regeneration"
@@ -457,6 +495,7 @@
     "Name": "Meteor Hand",
     "ToolTip": "15% increased melee speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -467,6 +506,7 @@
     "Name": "Molten Scale",
     "ToolTip": "Defense increased by 4",
     "ToolTip2": "Enemies that directly attack you will be burned",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -477,6 +517,7 @@
     "Name": "Molten Spear Tip",
     "ToolTip": "-Spear Tip-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Spear weapons will release a flaming spear tip"
@@ -489,6 +530,7 @@
     "Name": "Necromancer's Soul",
     "ToolTip": "'Great evil has been committed to create this...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased minion damage",
       "10% increased minion knockback"
@@ -502,6 +544,7 @@
     "Name": "Ninja Emblem",
     "ToolTip": "15% increased throwing damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -512,6 +555,7 @@
     "Name": "Obsidian Scale",
     "ToolTip": "Defense increased by 3",
     "ToolTip2": "Enemies that directly attack you will be burned",
+    "SetBonus": "",
     "AddToolTip": [
       "Grants immunity to knockback",
       "Grants immunity to fire blocks "
@@ -525,6 +569,7 @@
     "Name": "Phylactery",
     "ToolTip": "'An artifact fit for a true necromancer...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases your max number of minions by 1",
       "10% increased minion damage",
@@ -541,6 +586,7 @@
     "Name": "Platinum Aegis",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 2",
@@ -554,6 +600,7 @@
     "Name": "Ruby Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Melee damage increased by 2"
@@ -566,6 +613,7 @@
     "Name": "Sapphire Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Magic damage increased by 2"
@@ -578,6 +626,7 @@
     "Name": "Silver Bulwark",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 2",
@@ -591,6 +640,7 @@
     "Name": "Silver Spear Tip",
     "ToolTip": "-Spear Tip-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Spear weapons will release a damaging spear tip"
@@ -603,6 +653,7 @@
     "Name": "Slag Stompers",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased movement speed",
       "Damaging slag drops from below your boots"
@@ -616,6 +667,7 @@
     "Name": "Drift Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "Slows your descent while falling"
@@ -629,6 +681,7 @@
     "Name": "Soul Stone",
     "ToolTip": "'A part of your soul is stored within'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "8% increased minion damage",
       "Maximum life decreased by 20"
@@ -642,6 +695,7 @@
     "Name": "Spiked Bracer",
     "ToolTip": "25% of the damage you take is returned back to the enemy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -652,6 +706,7 @@
     "Name": "Spiked Stompers",
     "ToolTip": "10% increased movement speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "35% of the damage you take is returned back to the enemy"
     ],
@@ -664,6 +719,7 @@
     "Name": "Steel Toed Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "Falling speed increased moderately"
@@ -677,6 +733,7 @@
     "Name": "The Complete Set",
     "ToolTip": "-Throwing Guide-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Knowledge is power'",
@@ -690,6 +747,7 @@
     "Name": "The Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Damage increased by 4",
@@ -705,6 +763,7 @@
     "Name": "Tin Buckler",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 1",
@@ -718,6 +777,7 @@
     "Name": "Bright Gauntlet",
     "ToolTip": "7% increased thrown damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -728,6 +788,7 @@
     "Name": "Topaz Ring",
     "ToolTip": "-Bonus is not listed, but is in effect-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing damage increased by 2"
@@ -740,6 +801,7 @@
     "Name": "Tungsten Bulwark",
     "ToolTip": "-Metallurgy Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Defense increased by 2",
@@ -753,6 +815,7 @@
     "Name": "Turbo Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased movement speed",
       "Increases jump height greatly"
@@ -766,6 +829,7 @@
     "Name": "Turn Undead",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "You and nearby allies will take 8% reduced damage",
@@ -779,6 +843,7 @@
     "Name": "Vile Flail-Core",
     "ToolTip": "Flail weapons have a chance to release rolling spike balls on hit that apply ichor to damaged enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -789,6 +854,7 @@
     "Name": "The Warp Core",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases movement speed beyond comprehension"
     ],

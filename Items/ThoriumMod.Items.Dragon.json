@@ -5,6 +5,7 @@
     "Name": "Dragon Breastplate",
     "ToolTip": "'Made from mythical scales'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "8% increased non-melee damage",
       "10% increased melee damage"
@@ -18,6 +19,7 @@
     "Name": "Dragon Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -28,6 +30,7 @@
     "Name": "Dragon Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -38,6 +41,7 @@
     "Name": "Dragon Greaves",
     "ToolTip": "'Made from mythical scales'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased movement speed"
     ],
@@ -50,6 +54,7 @@
     "Name": "Dragon Mask",
     "ToolTip": "'Made from mythical scales'",
     "ToolTip2": "",
+    "SetBonus": "Your attacks have a chance to unleash an explosion of Dragon's Flame",
     "AddToolTip": [
       "7% increased critical strike chance"
     ],
@@ -62,6 +67,7 @@
     "Name": "Dragon's Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,6 +78,7 @@
     "Name": "Dragon's Breath",
     "ToolTip": "Unleash a torrent of dragon's breath upon your foes",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The breath will burn the hit enemy with green fire"
     ],
@@ -84,6 +91,7 @@
     "Name": "Dragon's Canine",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will burn the hit enemy with green fire briefly"
     ],
@@ -96,6 +104,7 @@
     "Name": "Dragon's Gaze",
     "ToolTip": "Turns musket balls into 'Dragon Eyes'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Dragon Eyes will burn the hit enemy with green fire"
     ],
@@ -108,6 +117,7 @@
     "Name": "Dragon's Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -118,6 +128,7 @@
     "Name": "Dragon's Mallet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -128,6 +139,7 @@
     "Name": "Dragon's Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -138,6 +150,7 @@
     "Name": "Dragon's Talon",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will burn the hit enemy with green fire"
     ],
@@ -150,6 +163,7 @@
     "Name": "Dragon Talon Necklace",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases armor penetration by 15"
     ],
@@ -162,6 +176,7 @@
     "Name": "Dragon's Tooth",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will burn the hit enemy with green fire",
       "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
@@ -175,6 +190,7 @@
     "Name": "Dragon Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -185,6 +201,7 @@
     "Name": "Green Dragon Scale",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Just a fragment of an ancient dragon's power'"
     ],

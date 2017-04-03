@@ -5,6 +5,7 @@
     "Name": "Granite Chestguard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Defensively energized'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Granite Crossbow",
     "ToolTip": "Turns wooden arrows into 'Granite Arrows'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Granite Arrows might overflow the enemy with energy, causing damage and lowering defense"
     ],
@@ -29,6 +31,7 @@
     "Name": "Granite Energy Core",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'This strange, rune etched core gave the minerals sentience'"
     ],
@@ -41,6 +44,7 @@
     "Name": "Granite Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Defensively energized'"
     ],
@@ -53,6 +57,7 @@
     "Name": "Granite Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -63,6 +68,7 @@
     "Name": "Granite Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Immune to intense heat and enemy knockback, but your movement speed is slowed down greatly",
     "AddToolTip": [
       "'Defensively energized'"
     ],
@@ -75,6 +81,7 @@
     "Name": "Granite Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "Granite Reflector",
     "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "Granite Saber",
     "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "Granite Throwing Axe",
     "ToolTip": "Attacks might overflow the enemy with energy, causing damage and lowering defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

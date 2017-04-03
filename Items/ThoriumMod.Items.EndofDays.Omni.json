@@ -5,6 +5,7 @@
     "Name": "Death Essence",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Mote of the next life'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Master Arbalest Hood",
     "ToolTip": "'Block out the sky...'",
     "ToolTip2": "",
+    "SetBonus": "Your damage has a 25% chance to completely duplicate itself",
     "AddToolTip": [
       "24% increased arrow damage",
       "Decreases chance to consume ammo by 25%",
@@ -31,6 +33,7 @@
     "Name": "Assassin's Guard",
     "ToolTip": "'Once you've picked a target, they don't survive...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "16% increased ranged damage",
       "20% increased firing speed",
@@ -45,6 +48,7 @@
     "Name": "Omni-Bow",
     "ToolTip": "Unleashes a barrage of death arrows",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +59,7 @@
     "Name": "Omni-Cannon",
     "ToolTip": "Left Click - Shoots three high speed energy pulses",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right Click - Unleashes a powerful, high knockback, burst of energy"
     ],
@@ -67,6 +72,7 @@
     "Name": "Assassin's Walkers",
     "ToolTip": "'Once you've picked a target, they don't survive...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased ranged damage",
       "20% increased movement speed"
@@ -80,6 +86,7 @@
     "Name": "Master Marksman's Scouter Set",
     "ToolTip": "'The living should be culled...'",
     "ToolTip2": "",
+    "SetBonus": "Your ranged damage has a 2% chance to completely eradicate the hit target\nThis effect can only occur on enemies with less than 7500 current life",
     "AddToolTip": [
       "24% increased bullet and rocket damage",
       "Decreases chance to consume ammo by 25%",
@@ -94,6 +101,7 @@
     "Name": "The Javelin",
     "ToolTip": "Launches an additional homing rocket fuelled by death itself",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -104,6 +112,7 @@
     "Name": "Wyrm Decimator",
     "ToolTip": "Turns arrows into pulses of ricocheting Wyrm breath",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

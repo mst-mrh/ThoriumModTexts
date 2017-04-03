@@ -5,6 +5,7 @@
     "Name": "Earthen Bulwark",
     "ToolTip": "Defense increased by 8",
     "ToolTip2": "Enemies are more likely to attack you",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Lodestone Bow",
     "ToolTip": "Arrows shot from this bow will temporarily sunder the hit enemies defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Lodestone Chest Guard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% Increased Melee Critical strike chance",
       "6% Increased Melee Damage",
@@ -39,6 +42,7 @@
     "Name": "Lodestone Chunk",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Enforced by the core of your Terrarian world'"
     ],
@@ -51,6 +55,7 @@
     "Name": "Lodestone Claymore",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will sunder the enemies defense",
       "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
@@ -64,6 +69,7 @@
     "Name": "Lodestone Face Guard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "As health decreases, damage reduction increases",
     "AddToolTip": [
       "2% Increased Melee Critical strike chance",
       "4% Increased Melee Damage",
@@ -78,6 +84,7 @@
     "Name": "Lodestone Great Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -88,6 +95,7 @@
     "Name": "Lodestone Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -98,6 +106,7 @@
     "Name": "Lodestone Ingot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Try as you might, this stuff has become unbreakable!'"
     ],
@@ -110,6 +119,7 @@
     "Name": "Lodestone Breaker",
     "ToolTip": "Attacks will sunder the enemies defense immensely",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -120,6 +130,7 @@
     "Name": "Lodestone Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -130,6 +141,7 @@
     "Name": "Lodestone Quick Draw",
     "ToolTip": "Bullets shot from this gun will temporarily sunder the hit enemies defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -140,6 +152,7 @@
     "Name": "Lodestone Shin Guards",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% Increased Melee Critical strike chance",
       "5% Increased Melee Damage",
@@ -154,6 +167,7 @@
     "Name": "Lodestone Staff",
     "ToolTip": "Unleashes a bolt of earthen magic that will cause a cascade of earth",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will sunder the enemies defense"
     ],

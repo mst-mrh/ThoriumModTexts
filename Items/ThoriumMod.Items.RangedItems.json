@@ -5,6 +5,7 @@
     "Name": "Adamantite Carbine",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Buckshot",
     "ToolTip": "Functions as a bullet",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Cinder String",
     "ToolTip": "Turns wooden arrows into a blast of flames",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Cobalt Popper",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -45,6 +49,7 @@
     "Name": "Comet Crossfire",
     "ToolTip": "The bow itself can critically strike, unleashing a powerful arrow",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -55,6 +60,7 @@
     "Name": "Eternal Night",
     "ToolTip": "Does not require ammunition",
     "ToolTip2": "Shoots night arrows, which eats away at enemies it hits",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +71,7 @@
     "Name": "Bramble Shot",
     "ToolTip": "Turns wooden arrows into 'Verdant Arrows'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Verdant Arrows have a chance to poison the hit enemy"
     ],
@@ -77,6 +84,7 @@
     "Name": "Hemorrhage",
     "ToolTip": "Does not require ammunition",
     "ToolTip2": "Shoots blood arrows, which heal you when they impact an enemy",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -87,6 +95,7 @@
     "Name": "Mycelium Gattling Gun",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% chance to not consume ammo"
     ],
@@ -99,6 +108,7 @@
     "Name": "Mythril Pelter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -109,6 +119,7 @@
     "Name": "Orichalcum Pelter",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -119,6 +130,7 @@
     "Name": "Palladium Sub-machine Gun",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -129,6 +141,7 @@
     "Name": "Burst Launcher",
     "ToolTip": "Shoots an additional multi-hit rocket",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -139,6 +152,7 @@
     "Name": "Rail Gun",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Killing enemies has a chance to set your gun into overdrive",
       "15% chance to not consume ammo"
@@ -152,6 +166,7 @@
     "Name": "Slugger",
     "ToolTip": "Unleashes a burst of bullets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Has an incredibly high recoil, which sends you backwards"
     ],
@@ -164,6 +179,7 @@
     "Name": "Stream Sting",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -174,6 +190,7 @@
     "Name": "Terra Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -184,6 +201,7 @@
     "Name": "Titanium Rifle",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -194,6 +212,7 @@
     "Name": "Trigun",
     "ToolTip": "'Unleash the stampede'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Shoots in three round bursts",
       "25% chance to not consume ammo"
@@ -207,6 +226,7 @@
     "Name": "True Eternal Night",
     "ToolTip": "Shoots a burst of arrows, with the central one being a night arrow",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -217,6 +237,7 @@
     "Name": "True Hallowed Repeater",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -227,6 +248,7 @@
     "Name": "True Hemorrhage",
     "ToolTip": "Shoots a burst of arrows, with the central one being a blood arrow",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -237,6 +259,7 @@
     "Name": "The Zapper",
     "ToolTip": "Shoots a short ranged pulse of lightning that can pierce infinitely",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

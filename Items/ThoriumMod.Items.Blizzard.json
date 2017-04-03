@@ -5,6 +5,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Borean Strider Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "The Cryo-Fang",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Causes an icy burst upon hitting an enemy or tile",
       "Attacks might significantly hinder the hit enemies movement",
@@ -42,6 +45,7 @@
     "Name": "Freeze Ray",
     "ToolTip": "Turns musket balls into beams of frost",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Frost Beams might significantly hinder the hit enemies movement",
       "Boss monsters cannot suffer from this effect"
@@ -55,6 +59,7 @@
     "Name": "Frost Burnt Tongue",
     "ToolTip": "'Those lost within the blizzard suffer a gruesome fate...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Significantly hinders the hit enemies movement",
       "Boss monsters cannot suffer from this effect"
@@ -71,6 +76,7 @@
     "Name": "Borean Fang Staff",
     "ToolTip": "Rapidly shoots frozen spider teeth that might significantly hinder the enemies movement",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],
@@ -83,6 +89,7 @@
     "Name": "Glacial Sting",
     "ToolTip": "Turns wooden arrows into 'Glacial Arrows'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Glacial Arrows might significantly hinder the hit enemies movement",
       "Boss monsters cannot suffer from this effect"
@@ -96,6 +103,7 @@
     "Name": "Glacier",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks have a chance to significantly hinder the enemies movement",
       "Boss monsters cannot suffer from this effect"
@@ -109,6 +117,7 @@
     "Name": "Ice Bound Strider Hide",
     "ToolTip": "'Few things can survive the heart of a Terrarian Blizzard'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Damage done against slowed targets is increased by 15%",
       "Damage done against slowed targets has a chance to heal you lightly"
@@ -122,6 +131,7 @@
     "Name": "Ice Fairy Staff",
     "ToolTip": "Summons an icy fairy to freeze your foes",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +142,7 @@
     "Name": "Forgotten Letter",
     "ToolTip": "Summons a Snowy Owl to watch over you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -142,6 +153,7 @@
     "Name": "Strider's Tear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'One of the coldest things you've ever held...'",
       "Greatly increases the chance that a Borean Strider will appear",
@@ -156,6 +168,7 @@
     "Name": "Tundra Lord's Crash Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

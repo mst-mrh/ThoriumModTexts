@@ -5,6 +5,7 @@
     "Name": "Ancient Dragon Breastplate",
     "ToolTip": "'Made from ancient dragon scales'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "8% increased non-melee damage",
       "10% increased melee damage"
@@ -18,6 +19,7 @@
     "Name": "Ancient Dragon Greaves",
     "ToolTip": "'Made from ancient dragon scales'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased movement speed"
     ],
@@ -30,6 +32,7 @@
     "Name": "Ancient Dragon Mask",
     "ToolTip": "'Made from ancient dragon scales'",
     "ToolTip2": "",
+    "SetBonus": "Your attacks have a chance to unleash an explosion of Dragon's Flame",
     "AddToolTip": [
       "7% increased critical strike chance"
     ],
@@ -42,6 +45,7 @@
     "Name": "Ancient Dragon Scale",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'A material of an age long passed'",
       "Allows you to visually transmute Dragon Armor into Ancient Dragon Armor"
@@ -55,6 +59,7 @@
     "Name": "Ancient Obsidian Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Immune to intense heat and enemy knockback, but your movement is slowed down greatly",
     "AddToolTip": [
       "'Tougher than any natural material'"
     ],
@@ -67,6 +72,7 @@
     "Name": "Ancient Obsidian Chestguard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Tougher than any natural material'"
     ],
@@ -79,6 +85,7 @@
     "Name": "Ancient Obsidian Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Tougher than any natural material'"
     ],
@@ -91,6 +98,7 @@
     "Name": "Obsidian Ingot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'A material of an age long passed'",
       "Allows you to visually transmute Granite Armor into Obsidian Armor"

@@ -5,6 +5,7 @@
     "Name": "Titanic Bar",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Energy of days past, lies within'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Titan Boomerang",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Critical strikes will deal additional damage",
       "Three boomerangs may be out at once"
@@ -30,6 +32,7 @@
     "Name": "Titan Bow",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Critical strikes will deal additional damage"
     ],
@@ -42,6 +45,7 @@
     "Name": "Titan Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with primordial energy'"
     ],
@@ -56,6 +60,7 @@
     "Name": "Titan Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with primordial energy'"
     ],
@@ -70,6 +75,7 @@
     "Name": "Titan Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,6 +86,7 @@
     "Name": "Titan Headgear",
     "ToolTip": "'Infused with primordial energy'",
     "ToolTip2": "",
+    "SetBonus": "Damage done increased by 18%!",
     "AddToolTip": [
       "Increases maximum mana by 80",
       "15% reduced mana usage",
@@ -94,6 +101,7 @@
     "Name": "Titan Helmet",
     "ToolTip": "'Infused with primordial energy'",
     "ToolTip2": "",
+    "SetBonus": "Damage done increased by 18%!",
     "AddToolTip": [
       "12% increased melee speed",
       "Increases length of invincibility after taking damage",
@@ -108,6 +116,7 @@
     "Name": "Titan Javelin",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Critical strikes will deal additional damage"
     ],
@@ -120,6 +129,7 @@
     "Name": "Titan Mask",
     "ToolTip": "'Infused with primordial energy'",
     "ToolTip2": "",
+    "SetBonus": "Damage done increased by 18%!",
     "AddToolTip": [
       "Your ranged attacks are enchanted",
       "Decreases chance to consume ammo by 25%",
@@ -134,6 +144,7 @@
     "Name": "Titan Pax",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -144,6 +155,7 @@
     "Name": "Titan Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a titanic scythe all around you",
@@ -160,6 +172,7 @@
     "Name": "Titan Sword",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Releases a pulse of titanic energy on use",
       "Critical strikes will deal additional damage"
@@ -173,6 +186,7 @@
     "Name": "Titan Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

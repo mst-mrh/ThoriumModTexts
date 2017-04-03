@@ -5,6 +5,7 @@
     "Name": "Buccaneer's Blunderbuss",
     "ToolTip": "Unleashes a torrent of bullets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Giant Glowstick",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Provides a lot of light when thrown",
       "Attacks have a chance to paralyze the hit enemy very briefly",
@@ -29,6 +31,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "Jellyfish Hat",
     "ToolTip": "'Those jellyfish wont suspect a thing...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -49,6 +53,7 @@
     "Name": "Jellyfish Resonator",
     "ToolTip": "Summons The Queen Jellyfish",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only usable on the beach during the day"
     ],
@@ -61,6 +66,7 @@
     "Name": "Jelly Pond Wand",
     "ToolTip": "Sends out a ball of aquatic energy that will summon a swarm of Jellyfish to attack the impact area",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -71,6 +77,7 @@
     "Name": "Queen Jellyfish Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -81,6 +88,7 @@
     "Name": "Queen's Glowstick",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Creates an endless amount of glowsticks"
     ],
@@ -93,6 +101,7 @@
     "Name": "Sea Breeze Pendant",
     "ToolTip": "'Wearers of this pendant shall not fear the aquatic depths...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Grants underwater breathing",
       "Grants the ability to swim",
@@ -107,6 +116,7 @@
     "Name": "Sparking Jelly Ball",
     "ToolTip": "Attacks have a chance to paralyze the hit enemy very briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],

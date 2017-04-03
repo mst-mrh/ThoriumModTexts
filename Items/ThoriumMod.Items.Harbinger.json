@@ -5,6 +5,7 @@
     "Name": "Harbinger Blade",
     "ToolTip": "Has a chance to unleash a surge of defense decreasing magic",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Harbinger Bow",
     "ToolTip": "Turns any arrow into a 'Harbinger Arrow'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Harbinger arrows leaves a constant echo of energy that will lower the defense of enemies that touch it"
     ],
@@ -27,6 +29,7 @@
     "Name": "Harbinger Catalyst",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Only someone with incredible magical control can utilize this'"
     ],
@@ -39,6 +42,7 @@
     "Name": "Harbinger Chestguard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increased mana regeneration",
       "10% Increased magic damage",
@@ -53,6 +57,7 @@
     "Name": "Harbinger Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increased mana regeneration",
       "5% Increased magic damage",
@@ -67,6 +72,7 @@
     "Name": "Harbinger Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -77,6 +83,7 @@
     "Name": "Harbinger Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Maximum mana set to 300\nIf usable mana ever exceeds 200, you will become 'Unstable'",
     "AddToolTip": [
       "Increased mana regeneration",
       "5% Increased magic damage",
@@ -91,6 +98,7 @@
     "Name": "Harbinger Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +109,7 @@
     "Name": "Harbinger Spear",
     "ToolTip": "Sends out a volatile after image",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The after image will decrease armor"
     ],
@@ -113,6 +122,7 @@
     "Name": "Harbinger Surge Wand",
     "ToolTip": "Shoots out a defense decreasing magical time bomb",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "After 3 seconds, hitting three enemies, or colliding with a tile, the orb will explode violently"
     ],
@@ -125,6 +135,7 @@
     "Name": "Harbinger Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

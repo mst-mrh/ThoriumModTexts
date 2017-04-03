@@ -5,6 +5,7 @@
     "Name": "Abyssal Walker's Boots",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Abyssal Walker's Cuirass",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Abyssal Walker's Hood",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Detecting nearby valuables",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Prehistoric Amber Staff",
     "ToolTip": "'Life finds a way'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a T-rex or angry Pterodactyl to attack your foes"
     ],
@@ -47,6 +51,7 @@
     "Name": "Bass Booster",
     "ToolTip": "Unleashes obscenely loud pulses of sound",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Bellerose",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "After three successful attacks, you can right click to unleash a powerful tornado",
       "Slows your descent greatly while falling"
@@ -70,6 +76,7 @@
     "Name": "Bio-Pod",
     "ToolTip": "Releases a strange alien creature",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -80,6 +87,7 @@
     "Name": "Blast Shield",
     "ToolTip": "-Omni Shield-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Damage taken reduced by 15%",
@@ -96,6 +104,7 @@
     "Name": "Carnivore Tail",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Covered in feral fur'"
     ],
@@ -108,6 +117,7 @@
     "Name": "Quasar's Flare",
     "ToolTip": "-Cheat Weapon-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Reality weeps at the use of such a weapon...'",
@@ -125,6 +135,7 @@
     "Name": "Celestial Burst Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 10",
@@ -142,6 +153,7 @@
     "Name": "Corrodling Staff",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a toxic sludge that corrodes hit enemies"
     ],
@@ -154,6 +166,7 @@
     "Name": "Cryo-Magus' Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased magic damage",
       "15% increased movement speed"
@@ -167,6 +180,7 @@
     "Name": "Cryo-Magus' Spark",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Magic damage will duplicate itself for 33% of the original damage and slow the hit target",
     "AddToolTip": [
       "10% increased magic damage",
       "15% reduced mana cost",
@@ -181,6 +195,7 @@
     "Name": "Cryo-Magus' Tabard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased magic damage",
       "10% increased magic critical strike chance",
@@ -195,6 +210,7 @@
     "Name": "Delectable Nut",
     "ToolTip": "'Kupo! Kupo!'",
     "ToolTip2": "Summons a little winged friend",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -205,6 +221,7 @@
     "Name": "Draconic Magma Staff",
     "ToolTip": "Summons a chained molten dragon skull to melt your foes",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -215,6 +232,7 @@
     "Name": "Energy Catalyst",
     "ToolTip": "Supplies an endless amount of energy arrows",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -225,6 +243,7 @@
     "Name": "Essence of Flame",
     "ToolTip": "Releases intense flames on every swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -235,6 +254,7 @@
     "Name": "Feral-Fur Chest",
     "ToolTip": "'Let your inner animal out'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "6% increased melee critical strike chance",
       "10% increased minion knockback"
@@ -248,6 +268,7 @@
     "Name": "Feral-Fur Head",
     "ToolTip": "'Let your inner animal out'",
     "ToolTip2": "",
+    "SetBonus": "Getting struck in combat will grant you 'Alpha's Roar' and release fangs all around you",
     "AddToolTip": [
       "5% increased melee critical strike chance",
       "Increases your max number of minions by 2"
@@ -261,6 +282,7 @@
     "Name": "Feral-Fur Legs",
     "ToolTip": "'Let your inner animal out'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "5% increased melee critical strike chance",
       "10% increased minion damage"
@@ -274,6 +296,7 @@
     "Name": "Folv's Ancient Hat",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Projects a mystical barrier around you\nWhile above 50% life, every seventh magic cast will unleash damaging mana bolts\nWhile below 50% life, your defensive capabilities are increased",
     "AddToolTip": [
       "8% reduced mana cost",
       "Maximum mana increased by 50",
@@ -288,6 +311,7 @@
     "Name": "Folv's Ancient Legging",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased magic damage",
       "15% increased movement speed"
@@ -301,6 +325,7 @@
     "Name": "Folv's Ancient Robe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased magic damage",
       "5% increased magic critical strike chance"
@@ -314,6 +339,7 @@
     "Name": "Man Hacker : Glacier",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Flash freezes shot sawblades",
       "8% chance to not consume ammo"
@@ -327,6 +353,7 @@
     "Name": "Ghastly Carapace",
     "ToolTip": "-Soul Storage-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'You're in full control of your spirit...'",
@@ -342,6 +369,7 @@
     "Name": "Ghastly Garment",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -352,6 +380,7 @@
     "Name": "Ghastly Hood",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -362,6 +391,7 @@
     "Name": "Ghastly Leggings",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -372,6 +402,7 @@
     "Name": "Ghost Pulse Arrow",
     "ToolTip": "Damages nearby enemies while in flight",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -382,6 +413,7 @@
     "Name": "Grand Thorium Breastplate",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -392,6 +424,7 @@
     "Name": "Grand Thorium Greaves",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -402,6 +435,7 @@
     "Name": "Grand Thorium Helmet",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -412,6 +446,7 @@
     "Name": "Gray 'D' Painting",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -422,6 +457,7 @@
     "Name": "Greedy Hat",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -432,6 +468,7 @@
     "Name": "Greedy Magnet",
     "ToolTip": "Magnetizes all loose items on the screen",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -442,6 +479,7 @@
     "Name": "Greedy Pants",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -452,6 +490,7 @@
     "Name": "Greedy Shirt",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -462,6 +501,7 @@
     "Name": "Grim Flayer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks have a chance to steal life"
     ],
@@ -474,6 +514,7 @@
     "Name": "Halloween Spirit",
     "ToolTip": "Activates or cancels: Halloween",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Will cancel other holidays on activation"
     ],
@@ -486,6 +527,7 @@
     "Name": "Holiday's Greeting",
     "ToolTip": "Activates or cancels: Christmas",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Will cancel other holidays on activation"
     ],
@@ -498,6 +540,7 @@
     "Name": "Happy Home Token",
     "ToolTip": "Places an invisible, wall mounted token",
     "ToolTip2": "Counts as a chair, table and light source",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -508,6 +551,7 @@
     "Name": "Climber's Ice Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Every seventh throw will release a super chilled axe"
     ],
@@ -520,6 +564,7 @@
     "Name": "Jeweller's Wall Grip",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -530,6 +575,7 @@
     "Name": "Legacy",
     "ToolTip": "Rapidly summons decaying skulls",
     "ToolTip2": "Hit enemies are plagued by a contagious magic",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -540,6 +586,7 @@
     "Name": "Life Quartz Claymore",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Striking an enemy will recover 3 life"
@@ -555,6 +602,7 @@
     "Name": "Man Hacker",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -565,6 +613,7 @@
     "Name": "Man Hacker : Accursed",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Malevolently corrupts shot sawblades",
       "8% chance to not consume ammo"
@@ -578,6 +627,7 @@
     "Name": "Man Hacker : Dissolve",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Demoniacally infuses shot sawblades",
       "8% chance to not consume ammo"
@@ -591,6 +641,7 @@
     "Name": "Man Hacker : Dazzle",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Magically enchants shot sawblades",
       "8% chance to not consume ammo"
@@ -604,6 +655,7 @@
     "Name": "Mantle of the Protector",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Honor, Humility, and Will... Those are the true shields'",
       "Increases defense by 5",
@@ -620,6 +672,7 @@
     "Name": "Master's Libram",
     "ToolTip": "Summons a random spell book that flings spells at enemies",
     "ToolTip2": "Flung spells will deal summon damage",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -630,6 +683,7 @@
     "Name": "Man Hacker : Magma",
     "ToolTip": "Uses Sawblades as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Super heats shot sawblades",
       "8% chance to not consume ammo"
@@ -643,6 +697,7 @@
     "Name": "Night Staff",
     "ToolTip": "Fires a surge of dark energy",
     "ToolTip2": "Upon dealing damage, additional homing surges will be released",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -653,6 +708,7 @@
     "Name": "Nova Rifle",
     "ToolTip": "Automatically sets you into a lesser stealth mode",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -663,6 +719,7 @@
     "Name": "Nuclear Fury",
     "ToolTip": "Unleashes a nova of homing cosmic energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -673,6 +730,7 @@
     "Name": "Ornate Gypsy Loincloth",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -683,6 +741,7 @@
     "Name": "Feminine Ornate Gypsy Loincloth",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -693,6 +752,7 @@
     "Name": "Ornate Gypsy Robe",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -703,6 +763,7 @@
     "Name": "Phonic Wings",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -713,6 +774,7 @@
     "Name": "Pink Sludge",
     "ToolTip": "Summons a bright little flying slime",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -723,6 +785,7 @@
     "Name": "Prismatic Spray",
     "ToolTip": "Unleashes a splash of elemental energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right Click to switch between four elements"
     ],
@@ -735,6 +798,7 @@
     "Name": "Reality Breaker's Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased magic damage",
       "10% increased magic critical strike chance",
@@ -749,6 +813,7 @@
     "Name": "Reality Breaker's Gazer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Your magic damage has a 33% chance to unleash bolts of bouncing energy",
     "AddToolTip": [
       "8% increased magic damage",
       "Life regeneration increased by 2",
@@ -763,6 +828,7 @@
     "Name": "Reality Breaker's Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% increased magic damage",
       "8% increased movement speed"
@@ -776,6 +842,7 @@
     "Name": "Guide's Final Gift",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Functions as almost every vanilla crafting station"
     ],
@@ -788,6 +855,7 @@
     "Name": "Brutal Chestguard",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -798,6 +866,7 @@
     "Name": "Brutal Greaves",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -808,6 +877,7 @@
     "Name": "Brutal Mask",
     "ToolTip": "'Great for impersonating Thorium Devs!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -818,6 +888,7 @@
     "Name": "Saba",
     "ToolTip": "On swing, fires twin eye beams",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -828,6 +899,7 @@
     "Name": "Sacred Heart",
     "ToolTip": "Increases movement speed after being struck",
     "ToolTip2": "Increases length of invincibility after taking damage",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -838,6 +910,7 @@
     "Name": "Sawblade",
     "ToolTip": "Pierces through multiple enemies and bounces against tiles",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -848,6 +921,7 @@
     "Name": "Shadow Flare Bow",
     "ToolTip": "Turns arrows into ricocheting shadow beams",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -858,6 +932,7 @@
     "Name": "Shu's Wrath",
     "ToolTip": "Turns wooden arrows into 'Forbidden Arrows'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Forbidden Arrows turn into miniature sandstorms after impact"
     ],
@@ -870,6 +945,7 @@
     "Name": "Silver's Fang",
     "ToolTip": "Attacks against enemies have a 20% chance to summon a molten protector",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -880,6 +956,7 @@
     "Name": "Simple Broom",
     "ToolTip": "Summons a cute lil' maid to clean",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -890,6 +967,7 @@
     "Name": "Spearmint",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks apply a stacking poison"
     ],
@@ -902,6 +980,7 @@
     "Name": "Strange Skull",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -912,6 +991,7 @@
     "Name": "Demo's Guidance",
     "ToolTip": "Summons a magic lantern, that releases a constant aura of regeneration",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -922,6 +1002,7 @@
     "Name": "Sweet Vengeance",
     "ToolTip": "Increases movement speed after being damaged",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases length of invincibility after taking damage",
       "Causes stars to fall when damaged",
@@ -936,6 +1017,7 @@
     "Name": "Terrarian's Last Knife",
     "ToolTip": "-Cheat Weapon-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Left Click - Releases a torrent of blood",
@@ -949,6 +1031,7 @@
     "Name": "True Silver's Fang",
     "ToolTip": "Releases a flaming burst on swing",
     "ToolTip2": "Attacks against enemies have a 25% chance to summon a molten protector",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -959,6 +1042,7 @@
     "Name": "Wormhole Mirror",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Null"
     ],
@@ -971,6 +1055,7 @@
     "Name": "Wyvern Slayer",
     "ToolTip": "'It's too big to be a sword, it's more like a heap of iron'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Left Click - Releases a barrage of empowered shockwaves",
       "Right Click - Thrusts the sword with immense force"
@@ -984,6 +1069,7 @@
     "Name": "Yuma's Pendant",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases your max number of minions by 2",
       "15% increased minion damage",

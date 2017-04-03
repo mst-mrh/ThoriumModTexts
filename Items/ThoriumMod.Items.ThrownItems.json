@@ -5,6 +5,7 @@
     "Name": "Bugenkai Shuriken",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Upon striking an enemy, you will be granted 'Shadow Dance'"
     ],
@@ -17,6 +18,7 @@
     "Name": "Cerulean Morel",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The ancient spirits have caused a rampant growth in these mushrooms'"
     ],
@@ -29,6 +31,7 @@
     "Name": "Combustion Flask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Bursts into flame upon impacting an enemy or tile",
       "If gas is present anywhere on screen, an explosive reaction will occur"
@@ -42,6 +45,7 @@
     "Name": "Corrosive Beaker",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Bursts into a toxic cloud upon impacting an enemy or tile",
       "If gas is present anywhere on screen, a highly corrosive reaction will occur"
@@ -55,6 +59,7 @@
     "Name": "Dark Matter",
     "ToolTip": "'A raging core of darkness'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -65,6 +70,7 @@
     "Name": "Fungal Popper",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Throws a fragile mushroom, that breaks apart after hitting an enemy",
       "Damage infects the hit target with mycelium"
@@ -78,6 +84,7 @@
     "Name": "Fungus Guard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "14% increased throwing damage",
       "12% increased throwing speed"
@@ -91,6 +98,7 @@
     "Name": "Fungus Hat",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Damage done against mycelium infected enemies is increased by 10%\nDealing damage to enemies infected with mycelium briefly increases throwing speed by 10%",
     "AddToolTip": [
       "10% increased throwing damage",
       "33% chance not to consume thrown items"
@@ -104,6 +112,7 @@
     "Name": "Fungus Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased throwing damage",
       "10% increased throwing critical strike chance"
@@ -117,6 +126,7 @@
     "Name": "Gas Container",
     "ToolTip": "-Not for multiplayer use-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Expels noxious gas upon impacting an enemy or tile",
@@ -130,6 +140,7 @@
     "Name": "Lihzahrd Kukri",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -140,6 +151,7 @@
     "Name": "Molten Knife",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Burns the hit target"
     ],
@@ -152,6 +164,7 @@
     "Name": "Morel Grenade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Releases a burst of glowing spores on collision",
       "Damage infects the hit target with mycelium"
@@ -165,6 +178,7 @@
     "Name": "Nitrogen Vial",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Bursts into a deep-freezing cloud upon impacting an enemy or tile",
       "If gas is present anywhere on screen, a flash freeze will occur"
@@ -178,6 +192,7 @@
     "Name": "Plague Doctor's Garb",
     "ToolTip": "'What nasty concoction could you be brewing?'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "14% increased throwing damage",
       "20% increased throwing velocity"
@@ -191,6 +206,7 @@
     "Name": "Plague Doctor's Leggings",
     "ToolTip": "'What nasty concoction could you be brewing?'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "14% increased throwing damage",
       "10% increased throwing critical strike chance"
@@ -204,6 +220,7 @@
     "Name": "Plague Doctor's Mask",
     "ToolTip": "'What nasty concoction could you be brewing?'",
     "ToolTip2": "",
+    "SetBonus": "Plague doctor vials have a 33% chance to become retrievable",
     "AddToolTip": [
       "12% increased throwing damage",
       "33% chance not to consume thrown items"
@@ -217,6 +234,7 @@
     "Name": "Rocket Fist",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Perfect for knocking someone out a mile away'"
     ],
@@ -232,6 +250,7 @@
     "Name": "Pod Bomb",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Releases a burst of poison on collision"
     ],
@@ -244,6 +263,7 @@
     "Name": "Shade Dagger",
     "ToolTip": "Striking an enemy will grant you 'Eviscerate' as well as 'Shadow Dance'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -254,6 +274,7 @@
     "Name": "Shade Kunai",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Upon striking an enemy, you will be granted 'Shadow Dance'"
     ],
@@ -266,6 +287,7 @@
     "Name": "Shade Kusarigama",
     "ToolTip": "Throws out a Scythe, that will stun hit foes",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Upon striking an enemy, you will be granted 'Shadow Dance'"
     ],
@@ -278,6 +300,7 @@
     "Name": "Shade Master's Garb",
     "ToolTip": "'Live in the shadows, and strike with precision'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "30% increased throwing damage",
       "30% increased throwing velocity"
@@ -291,6 +314,7 @@
     "Name": "Shade Master's Mask",
     "ToolTip": "'Live in the shadows, and strike with precision'",
     "ToolTip2": "",
+    "SetBonus": "Striking an enemy with any throwing weapon will trigger 'Shadow Dance'",
     "AddToolTip": [
       "25% increased throwing damage",
       "33% chance not to consume thrown items"
@@ -304,6 +328,7 @@
     "Name": "Shade Master's Treads",
     "ToolTip": "'Live in the shadows, and strike with precision'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "20% increased throwing damage",
       "20% increased throwing critical strike chance",
@@ -318,6 +343,7 @@
     "Name": "Soulslasher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Upon hitting an enemy, the knife will increase in speed, damage, size and ignore tiles"
     ],
@@ -330,6 +356,7 @@
     "Name": "Stone Throwing Spear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -340,6 +367,7 @@
     "Name": "Venom Kunai",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Envenoms the hit target briefly"
     ],
@@ -352,6 +380,7 @@
     "Name": "Volt Tomahawk",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Two may be active at once",
       "Has a chance to briefly paralyze hit enemies"
@@ -368,6 +397,7 @@
     "Name": "White Dwarf Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased throwing damage",
       "20% increased throwing critical strike chance",
@@ -382,6 +412,7 @@
     "Name": "White Dwarf Guard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "20% increased throwing damage",
       "15% increased throwing speed",
@@ -396,6 +427,7 @@
     "Name": "White Dwarf Kunai",
     "ToolTip": "Throws a volley of celestially charged daggers",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "10% chance to not be consumed on throw"
     ],
@@ -408,6 +440,7 @@
     "Name": "White Dwarf Mask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Critical strikes will unleash ivory flares from the cosmos\nIvory flares deal 0.10% of the hit targets maximum life as damage",
     "AddToolTip": [
       "20% increased throwing damage",
       "33% chance not to consume thrown items"

@@ -5,6 +5,7 @@
     "Name": "Phantom Wand",
     "ToolTip": "Summons a pack of volatile phantoms, that unleash powerful beams at your cursor",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Cursed Cloth",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The amount of dark energy within this simple piece of cloth is unimaginable...'"
     ],
@@ -27,6 +29,7 @@
     "Name": "Death Grip",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Uses 'Soul Bombs' as ammunition"
     ],
@@ -42,6 +45,7 @@
     "Name": "Soul Bomb",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,6 +56,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -62,6 +67,7 @@
     "Name": "Liches Carapace",
     "ToolTip": "'Embrace death...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "25% increased throwing damage",
       "30% increased throwing velocity"
@@ -75,6 +81,7 @@
     "Name": "Grim Harvest Sigil",
     "ToolTip": "Summons The Lich",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only usable at night"
     ],
@@ -87,6 +94,7 @@
     "Name": "Liches Cowl",
     "ToolTip": "'Embrace death...'",
     "ToolTip2": "",
+    "SetBonus": "Throwing damage will decrease enemy defense",
     "AddToolTip": [
       "15% increased throwing damage",
       "33% chance not to consume thrown items"
@@ -100,6 +108,7 @@
     "Name": "Liches Gaze",
     "ToolTip": "'Nothing can hide from death'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Pressing the 'Special Ability' key will trigger True Strikes",
       "Needs to recharge for 2 minutes after being activated"
@@ -113,6 +122,7 @@
     "Name": "Liches Grim Hood",
     "ToolTip": "'Marginally more scary than a cowl'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -123,6 +133,7 @@
     "Name": "Liches Talons",
     "ToolTip": "'Embrace death...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "15% increased throwing damage",
       "15% increased throwing critical strike chance"
@@ -136,6 +147,7 @@
     "Name": "Liches Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -146,6 +158,7 @@
     "Name": "Soul Cleaver",
     "ToolTip": "Rapidly throws piercing daggers",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Killing enemies has a chance to release a soul fragment",
       "Picking these fragments up will grant you 'Soul Harvest'"
@@ -162,6 +175,7 @@
     "Name": "Loose Soul Fragment",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,6 +186,7 @@
     "Name": "Soul Render",
     "ToolTip": "Swings summon volatile soul blades",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "This weapon has a very long range"
     ],
@@ -184,6 +199,7 @@
     "Name": "Spirit Band",
     "ToolTip": "'Your body has become incorporeal...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While active, damage taken cannot exceed 150",
       "This effect can only occur once every 10 seconds"
@@ -197,6 +213,7 @@
     "Name": "The Lost Cross",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Reminds you of an old friend...'",
@@ -210,6 +227,7 @@
     "Name": "Wither Staff",
     "ToolTip": "Rapidly unleashes globules of death energy which apply 'Wither'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Wither' quickly decays the flesh of enemies"
     ],

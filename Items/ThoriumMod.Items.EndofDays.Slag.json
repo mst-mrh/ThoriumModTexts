@@ -5,6 +5,7 @@
     "Name": "Almanac of Despair",
     "ToolTip": "Rapidly unleashes flaming, homing skulls",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Devils Claw",
     "ToolTip": "Unleashes infinite heat at your cursors position",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Ember Staff",
     "ToolTip": "Summons an ember of Slag Fury, which unleashes molten destruction upon your enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "An ember will occupy 2 minion slots"
     ],
@@ -37,6 +40,7 @@
     "Name": "Inferno Essence",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Fragment of the first flame'"
     ],
@@ -49,6 +53,7 @@
     "Name": "Molten Banner",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summoned minions will have a 50% chance to duplicate their damage"
     ],
@@ -61,6 +66,7 @@
     "Name": "Pyromancer's Cowl",
     "ToolTip": "'Your molten gaze should be feared...'",
     "ToolTip2": "",
+    "SetBonus": "Your magic damage will heavily burn and damage all enemies on screen",
     "AddToolTip": [
       "20% increased magic damage",
       "Maximum mana increased by 60 & Greatly increased mana regeneration",
@@ -75,6 +81,7 @@
     "Name": "Pyromancer's Leggings",
     "ToolTip": "'You're overcome with molten fury'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "14% increased magic & Summon damage",
       "Maximum mana increased by 20",
@@ -89,6 +96,7 @@
     "Name": "Pyromancer's Tabard",
     "ToolTip": "'You're overcome with molten fury'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "18% increased magic & Summon damage",
       "Maximum mana increased by 20",
@@ -104,6 +112,7 @@
     "Name": "Magma Seer's Mask",
     "ToolTip": "'Easily command the elements of heat...'",
     "ToolTip2": "",
+    "SetBonus": "Minion damage applies napalm to enemies, which deals massive damage over time",
     "AddToolTip": [
       "38% increased Summon damage",
       "Increases your max number of minions by 6",

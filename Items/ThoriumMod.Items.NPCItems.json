@@ -5,6 +5,7 @@
     "Name": "Strange Alien Tech",
     "ToolTip": "'You barely understand this complicated machinery'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Altar",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -25,6 +27,7 @@
     "Name": "Ancient Drachma",
     "ToolTip": "Summons a curious bag of ancient coins",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -35,6 +38,7 @@
     "Name": "Armor Bane",
     "ToolTip": "Turns musket balls into 'Bane Bolters'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Bane Bolters will apply fire and ichor to hit enemies very briefly"
     ],
@@ -47,6 +51,7 @@
     "Name": "Astro-Beetle Husk",
     "ToolTip": "Damage taken reduced by 10%",
     "ToolTip2": "Maximum life increased by 20",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -57,6 +62,7 @@
     "Name": "Back Stabber",
     "ToolTip": "Damaging the back of an enemy will always critically strike",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -67,6 +73,7 @@
     "Name": "Ball n' Chain",
     "ToolTip": "'This thing is pretty heavy'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Defense increased by 6",
       "Movement speed and jump height decreased"
@@ -80,6 +87,7 @@
     "Name": "Bat Repellent",
     "ToolTip": "Will keep most bats from damaging you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one repellent may be active at once"
     ],
@@ -92,6 +100,7 @@
     "Name": "Cracked Battle Horn",
     "ToolTip": "Calls forth a ridable Warg",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While mounted, damage done is increased by 5%"
     ],
@@ -104,6 +113,7 @@
     "Name": "Bent Zombie Arm",
     "ToolTip": "'The confused zombie's favorite arm... His left one'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -114,6 +124,7 @@
     "Name": "Ebony Ears",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -124,6 +135,7 @@
     "Name": "The Black Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -134,6 +146,7 @@
     "Name": "Blacksmith's Apron",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Forging power increased by 15%! ...Not really'"
     ],
@@ -146,6 +159,7 @@
     "Name": "Blister Sack",
     "ToolTip": "Summons an annoying blister to follow you around",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -156,6 +170,7 @@
     "Name": "Blood",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Who knows how you're holding it?'"
     ],
@@ -168,6 +183,7 @@
     "Name": "Blood Pact",
     "ToolTip": "Frees the Weapon Master of his contract",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "If a new weapon master is present, nothing will occur"
     ],
@@ -180,6 +196,7 @@
     "Name": "Bone Flayer Tail",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -190,6 +207,7 @@
     "Name": "Broken Darksteel Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Its too damaged to offer any real protection...'"
     ],
@@ -202,6 +220,7 @@
     "Name": "Bullet Storm",
     "ToolTip": "Rapidly fires inaccurate bullets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -212,6 +231,7 @@
     "Name": "Cactus Fruit",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Despite the spikes, it looks kinda tasty...'",
       "Grants immunity to status effect debuffs upon consumption",
@@ -226,6 +246,7 @@
     "Name": "Cook's Hat",
     "ToolTip": "'The iron chef has nothing on you'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -236,6 +257,7 @@
     "Name": "Chum",
     "ToolTip": "'This chum will surely attract some hungry sea life'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -246,6 +268,7 @@
     "Name": "Cook's Apron",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The iron chef has nothing on you'"
     ],
@@ -258,6 +281,7 @@
     "Name": "Massive Crab Claw",
     "ToolTip": "Hitch a ride on a gigantic crab",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While mounted, you can walk on liquids"
     ],
@@ -270,6 +294,7 @@
     "Name": "Blood Drenched Dagger",
     "ToolTip": "Attacks will have a low chance to drop 'Blood', a crafting material",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -280,6 +305,7 @@
     "Name": "Death Gazer's Glass",
     "ToolTip": "'Those that often gaze upon their death quickly turn mad...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Teleports you to your last death location",
       "Your death location is only stored after obtaining this item",
@@ -294,6 +320,7 @@
     "Name": "Desecrated Heart",
     "ToolTip": "Calls forth a ridable Starved",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While mounted, critical strikes will have a chance to steal life"
     ],
@@ -306,6 +333,7 @@
     "Name": "Desert Wind Rune",
     "ToolTip": "While in your inventory, throwing damage & velocity will be increased",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -316,6 +344,7 @@
     "Name": "Detached U.F.O. Blaster",
     "ToolTip": "Fires a potent pulse of energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -326,6 +355,7 @@
     "Name": "Diver's Leggings",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Perfect for exploring the ocean'"
     ],
@@ -338,6 +368,7 @@
     "Name": "Diver's Suit",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Perfect for exploring the ocean'"
     ],
@@ -350,6 +381,7 @@
     "Name": "Ebony Tail",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Envenoms the hit target"
     ],
@@ -362,6 +394,7 @@
     "Name": "Eel-rod",
     "ToolTip": "Releases a burst of electric sparks that have a chance to paralyze the hit enemy very briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Boss monsters cannot suffer from this effect"
     ],
@@ -374,6 +407,7 @@
     "Name": "Eighth Plague Staff",
     "ToolTip": "Releases a swarm of locusts",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -384,6 +418,7 @@
     "Name": "Emergency Air Tank",
     "ToolTip": "Will instantly refill your breath at critical levels",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -394,6 +429,7 @@
     "Name": "Empty Air Tank",
     "ToolTip": "'The diver would surely be willing to refill this'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -404,6 +440,7 @@
     "Name": "Eviscerating Claw",
     "ToolTip": "Has a chance to steal life on hit",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -414,6 +451,7 @@
     "Name": "Executioner",
     "ToolTip": "Attacks grant stacks of 'Execution', increasing melee damage and critical strike chance",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "At maximum stacks, attacks will decrease armor"
     ],
@@ -426,6 +464,7 @@
     "Name": "Exile's Garb",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -436,6 +475,7 @@
     "Name": "Exile's Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'When they turned their back on Terraria, he turned his back on them...'",
       "10% reduced damage taken",
@@ -452,6 +492,7 @@
     "Name": "Fish Repellent",
     "ToolTip": "Will keep most fish from damaging you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one repellent may be active at once"
     ],
@@ -464,6 +505,7 @@
     "Name": "Folded Metal",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The blacksmith's secret masterpiece'"
     ],
@@ -476,6 +518,7 @@
     "Name": "Fork",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -486,6 +529,7 @@
     "Name": "Frost Plague Staff",
     "ToolTip": "Shoots a barrage of poisonous and frosty magic bolts",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -496,6 +540,7 @@
     "Name": "Ghostly Grapple",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -506,6 +551,7 @@
     "Name": "Grave Buster",
     "ToolTip": "Creates a wave of grasping bones",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -516,6 +562,7 @@
     "Name": "Hail Bomber",
     "ToolTip": "Summons kamikaze snowmen that blow up upon hitting enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -526,6 +573,7 @@
     "Name": "Hex Wand",
     "ToolTip": "Turns the hit target into a frog",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -539,6 +587,7 @@
     "Name": "Hive Mind",
     "ToolTip": "Temporarily increases minion damage for newly summoned minions",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -549,6 +598,7 @@
     "Name": "Hot Pot",
     "ToolTip": "Rapidly throws a leaky bottle of lava",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -562,6 +612,7 @@
     "Name": "Impact Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Right clicking will fire tile breaking drill heads"
     ],
@@ -574,6 +625,7 @@
     "Name": "Jellyfish Idol",
     "ToolTip": "Summons a Jellyfish in a Bubble to follow you around",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -584,6 +636,7 @@
     "Name": "Kinetic Knife",
     "ToolTip": "Casts a controllable knife slash",
     "ToolTip2": "Deals additional damage if actively being slashed across enemies",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -594,6 +647,7 @@
     "Name": "Kitchen Knife",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -604,6 +658,7 @@
     "Name": "Kunai",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -614,6 +669,7 @@
     "Name": "Legion Ornament",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -624,6 +680,7 @@
     "Name": "Lil' Torpedo",
     "ToolTip": "Used with the Marine Launcher",
     "ToolTip2": "Explodes upon impacting an enemy",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -634,6 +691,7 @@
     "Name": "Livewire Crasher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -644,6 +702,7 @@
     "Name": "Marine Catcher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -654,6 +713,7 @@
     "Name": "Marine Launcher",
     "ToolTip": "Uses Lil' Torpedoes as ammunition",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -664,6 +724,7 @@
     "Name": "Meat Ball Staff",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a chilled ball of nefarious meat"
     ],
@@ -676,6 +737,7 @@
     "Name": "Minotaur Skull",
     "ToolTip": "'Some of the dungeon's necromantic power has seeped into the skull'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Increases your max number of minions by 1",
       "Increases minion damage by 5%",
@@ -690,6 +752,7 @@
     "Name": "Molten Collar",
     "ToolTip": "Calls forth a ridable infernal hound",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "While mounted, you are immune to extreme heat"
     ],
@@ -702,6 +765,7 @@
     "Name": "Necromancer's Heart",
     "ToolTip": "12% increased minion knockback",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -712,6 +776,7 @@
     "Name": "Night Shade Petal",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Damage done against poisoned enemies is increased by 12%"
     ],
@@ -724,6 +789,7 @@
     "Name": "Nimbus",
     "ToolTip": "'Happier days are on the horizon with this little fella'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a mountable Wyvern"
     ],
@@ -736,6 +802,7 @@
     "Name": "Ninja Rack",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -746,6 +813,7 @@
     "Name": "Padded Grip",
     "ToolTip": "-Throwing Grip-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing speed increased by 8%"
@@ -758,6 +826,7 @@
     "Name": "Penguin Head",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -768,6 +837,7 @@
     "Name": "Penguin Wand",
     "ToolTip": "'Could bring the Moon Lord to his knees...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Does something cataclysmic on use"
     ],
@@ -780,6 +850,7 @@
     "Name": "Potent Extract",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Dont do drugs kids'"
     ],
@@ -792,6 +863,7 @@
     "Name": "Ranger's Cowl",
     "ToolTip": "'Now you can brood in style'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -802,6 +874,7 @@
     "Name": "Ranger's Tunic",
     "ToolTip": "'Now you can brood in style'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -812,6 +885,7 @@
     "Name": "Rapier",
     "ToolTip": "Attacks grant 'parry stance', reducing damage taken briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -822,6 +896,7 @@
     "Name": "Rapier Badge",
     "ToolTip": "Taking damage will massively increase melee speed, damage, and critical strike chance briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -832,6 +907,7 @@
     "Name": "Rusty Sword",
     "ToolTip": "Attacks might poison the hit enemy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -842,6 +918,7 @@
     "Name": "Sacrificial Dagger",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks against enemies have a chance to rip out part of their soul"
     ],
@@ -854,6 +931,7 @@
     "Name": "Scalper",
     "ToolTip": "Releases a returning dagger on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -864,6 +942,7 @@
     "Name": "Scorpain",
     "ToolTip": "Envenoms the hit target briefly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -874,6 +953,7 @@
     "Name": "The Sea Mine",
     "ToolTip": "'You've gotta be a lunatic to wield an explosive device on a chain'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Can damage up to 4 enemies before violently exploding"
     ],
@@ -886,6 +966,7 @@
     "Name": "Severed Hand",
     "ToolTip": "'You've gotta be resourceful'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -896,6 +977,7 @@
     "Name": "Shade Band",
     "ToolTip": "Every eighth magic cast costs no mana",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -906,6 +988,7 @@
     "Name": "Skeleton Repellent",
     "ToolTip": "Will keep most skeletons from damaging you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one repellent may be active at once"
     ],
@@ -918,6 +1001,7 @@
     "Name": "Sorcerer's Mirror",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Teleports you to a random location",
       "Destabilizes your body for 10 seconds after use"
@@ -931,6 +1015,7 @@
     "Name": "Spell Book: Teeth",
     "ToolTip": "Sends out life stealing teeth",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -941,6 +1026,7 @@
     "Name": "Spike Bomb",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -951,6 +1037,7 @@
     "Name": "Spine Buster",
     "ToolTip": "Turns musket balls into 'Blood Globules'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Blood Globules can penetrate infinitely, but move slowly"
     ],
@@ -963,6 +1050,7 @@
     "Name": "Spoon",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -973,6 +1061,7 @@
     "Name": "Spud",
     "ToolTip": "Becomes 'mashed' when it hits an enemy or tile",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -983,6 +1072,7 @@
     "Name": "Spud Bomber",
     "ToolTip": "'I suppose the Cook is quite the craftsman'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Uses spuds as ammunition"
     ],
@@ -995,6 +1085,7 @@
     "Name": "Thief's Dagger",
     "ToolTip": "Attacks will make the hit enemy drop more gold on death",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1005,6 +1096,7 @@
     "Name": "Thorium Cube",
     "ToolTip": "'Jam this mineral onto your face, and play it cool...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1015,6 +1107,7 @@
     "Name": "Guide to Expert Throwing",
     "ToolTip": "-Throwing Guide-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing damage will duplicate itself for 1/5 of the damage"
@@ -1027,6 +1120,7 @@
     "Name": "Guide to Expert Throwing : Volume II",
     "ToolTip": "-Throwing Guide-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing damage will duplicate itself for 1/4 of the damage"
@@ -1039,6 +1133,7 @@
     "Name": "Guide to Expert Throwing : Volume III",
     "ToolTip": "-Throwing Guide-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Throwing damage will duplicate itself for 1/3 of the damage"
@@ -1051,6 +1146,7 @@
     "Name": "Tommy Gun",
     "ToolTip": "Turns musket balls into high velocity rounds",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1061,6 +1157,7 @@
     "Name": "Strange Communicator",
     "ToolTip": "Summons a planetary visitor",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1071,6 +1168,7 @@
     "Name": "Vega Phaser",
     "ToolTip": "Has a chance to overcharge, releasing an unstable beam",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1081,6 +1179,7 @@
     "Name": "Vial of Blood",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Quite gruesome'"
     ],
@@ -1093,6 +1192,7 @@
     "Name": "Vile Spitter",
     "ToolTip": "Shoots a volley of poison globules",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1103,6 +1203,7 @@
     "Name": "The Void Heart",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'This strange object seems to have originated from the Fallen Beholder's home dimension'"
     ],
@@ -1115,6 +1216,7 @@
     "Name": "Warp Slicer",
     "ToolTip": "Sends out an energy wave on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1125,6 +1227,7 @@
     "Name": "Annoying Mud",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The Mudmen's true attack; Ruining your inventory space!'"
     ],
@@ -1137,6 +1240,7 @@
     "Name": "How to speak Whale: A Biography",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons a mountable Whale"
     ],
@@ -1149,6 +1253,7 @@
     "Name": "Whirlpool Saber",
     "ToolTip": "'Forged from the tides'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Swings unleash a torrential pulse with high knockback",
       "The pulse can phase through walls"
@@ -1162,6 +1267,7 @@
     "Name": "Zombie Repellent",
     "ToolTip": "Will keep most zombies from damaging you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Only one repellent may be active at once"
     ],

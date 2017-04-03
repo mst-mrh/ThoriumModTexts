@@ -5,6 +5,7 @@
     "Name": "Distress Caller",
     "ToolTip": "Summons a stationary U.F.O. to blast enemies below it with lasers",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Gauss Flinger",
     "ToolTip": "Throws a limitless supply of energy daggers",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -28,6 +30,7 @@
     "Name": "Particle Whip",
     "ToolTip": "Shoots a burst of lighting that will bounce to additional enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -38,6 +41,7 @@
     "Name": "Hit Scanner",
     "ToolTip": "Musket balls shot from this gun will have no travel time",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -48,6 +52,7 @@
     "Name": "Omega Drive",
     "ToolTip": "Summons a pet probe that has offensive capabilities",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -58,6 +63,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -68,6 +74,7 @@
     "Name": "Scouter Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -78,6 +85,7 @@
     "Name": "Star Caller",
     "ToolTip": "'One should take proper precautions before contacting the unknown...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Sends out a signal into outer space",
       "Only usable high in the sky lands"
@@ -91,6 +99,7 @@
     "Name": "Star Mask",
     "ToolTip": "'Who's up for some star gazing?'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -101,6 +110,7 @@
     "Name": "Star Trail",
     "ToolTip": "Releases a homing Graviton Surge on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

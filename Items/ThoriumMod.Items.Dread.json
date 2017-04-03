@@ -5,6 +5,7 @@
     "Name": "Dread Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Dread Chestplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with the souls of the damned'",
       "20% increased melee damage",
@@ -29,6 +31,7 @@
     "Name": "Dread Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "Dread Eye",
     "ToolTip": "Allows you to detect enemies and hazards around you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -49,6 +53,7 @@
     "Name": "Dread Fork",
     "ToolTip": "Sends out a volatile after image",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The after image will burn the hit target"
     ],
@@ -61,6 +66,7 @@
     "Name": "Dread Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Infused with the souls of the damned'",
       "18% increased movement speed",
@@ -75,6 +81,7 @@
     "Name": "Dread Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -85,6 +92,7 @@
     "Name": "Dread Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -95,6 +103,7 @@
     "Name": "Dread Launcher",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -105,6 +114,7 @@
     "Name": "Dread Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -115,6 +125,7 @@
     "Name": "Dread Razor",
     "ToolTip": "Has a chance to unleash a Cursed Soul on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The Cursed Soul corrupts the hit target"
     ],
@@ -127,6 +138,7 @@
     "Name": "Dread Skull",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Your boots vibrate at an unreal frequency \nMelee damage and critical strike chance increased while near full speed",
     "AddToolTip": [
       "'Infused with the souls of the damned'",
       "10% increased melee critical strike chance",
@@ -141,6 +153,7 @@
     "Name": "Dread Soul",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'A Coalesced rift between this world, and the next'"
     ],
@@ -153,6 +166,7 @@
     "Name": "Dread Stabber",
     "ToolTip": "Unleashes a Cursed Soul on swing",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The Cursed Soul corrupts the hit target"
     ],
@@ -165,6 +179,7 @@
     "Name": "Dread Staff",
     "ToolTip": "Unleashes a highly concentrated pulse of flame, that can hit the same enemy multiple times",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Each hit will summon a dread particle to cause extra damage"
     ],
@@ -177,6 +192,7 @@
     "Name": "Dread Wings",
     "ToolTip": "Allows flight and slow fall",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

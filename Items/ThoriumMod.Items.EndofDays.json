@@ -5,6 +5,7 @@
     "Name": "Mask of Tides",
     "ToolTip": "'Wear a visage of Vigilance...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Dormant Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'There appears to be an empty socket in the middle of the hammer's head...'"
     ],
@@ -27,6 +29,7 @@
     "Name": "Mjölnir",
     "ToolTip": "Rapidly throws an image of the legendary Mjölnir",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Hitting an enemy causes a storm of energized chain lightning"
     ],
@@ -42,6 +45,7 @@
     "Name": "Mask of Death",
     "ToolTip": "'Wear a visage of Chaos...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -52,6 +56,7 @@
     "Name": "Treasure Bag",
     "ToolTip": "Right click to open",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -62,6 +67,7 @@
     "Name": "Doom Sayer's Coin",
     "ToolTip": "Unleashes the Ragnarök...",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -72,6 +78,7 @@
     "Name": "Ragnarok Trophy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -82,6 +89,7 @@
     "Name": "Otherworldly Rune",
     "ToolTip": "'Unintelligible voices echo Zerath! Milogop! Tz'rok!'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Summons an apocalyptic chariot"
     ],
@@ -94,6 +102,7 @@
     "Name": "Mask of Flame",
     "ToolTip": "'Wear a visage of Aggression...'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

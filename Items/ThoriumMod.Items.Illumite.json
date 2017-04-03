@@ -5,6 +5,7 @@
     "Name": "Illumite Barrager",
     "ToolTip": "Launches a barrage of rockets",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Rockets shot from this launcher will temporarily illuminate hit enemies"
     ],
@@ -17,6 +18,7 @@
     "Name": "Illumite Blade",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Releases a close range illumination beam on swing",
       "Hit enemies will be illuminated"
@@ -30,6 +32,7 @@
     "Name": "Illumite Blaster",
     "ToolTip": "Bullets shot from this gun will temporarily illuminate hit enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -40,6 +43,7 @@
     "Name": "Illumite Longbow",
     "ToolTip": "Arrows shot from this bow will temporarily illuminate hit enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -50,6 +54,7 @@
     "Name": "Illumite Chainsaw",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -60,6 +65,7 @@
     "Name": "Illumite Chestplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "12% increased ranged damage",
       "18% increased firing speed",
@@ -74,6 +80,7 @@
     "Name": "Illumite Chunk",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Plantera's defeat served to unleash this strange mineral upon the world'"
     ],
@@ -86,6 +93,7 @@
     "Name": "Illumite Drill",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -96,6 +104,7 @@
     "Name": "Illumite Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "6% increased ranged critical strike chance",
       "15% increased ranged damage",
@@ -110,6 +119,7 @@
     "Name": "Illumite Hamaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -120,6 +130,7 @@
     "Name": "Illumite Ingot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Glows a soft pink and barely weighs anything...'"
     ],
@@ -132,6 +143,7 @@
     "Name": "Illumite Jackhammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -142,6 +154,7 @@
     "Name": "Illumite Mask",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Most of your ranged weapons take on special properties \nEvery 5 bullets fired will unleash a multi-hit illumite bullet \nEvery 4 arrows fired will unleash a barrage of illumite energy \nEvery 3 rockets fired will unleash an illumite missile",
     "AddToolTip": [
       "12% increased ranged critical strike chance",
       "10% increased ranged damage"
@@ -155,6 +168,7 @@
     "Name": "Illumite Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -165,6 +179,7 @@
     "Name": "Illumite Spear",
     "ToolTip": "Sends out a volatile after image",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "The after image will rapidly blast nearby enemies with light beams",
       "Hit enemies will be illuminated"

@@ -5,6 +5,7 @@
     "Name": "Ancient Aegis",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Nearby allies will take 8% reduced damage"
@@ -17,6 +18,7 @@
     "Name": "Ancient Tome of Revival",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Imbues the first ally touched by your cursor with 'Rebirth'",
@@ -31,6 +33,7 @@
     "Name": "Lil' Cherub's Wand",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing, to a maximum of 2",
@@ -45,6 +48,7 @@
     "Name": "Apothecary's Scarlet Vial",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Upon drinking a healing potion, all allies will recover 25 life"
@@ -57,6 +61,7 @@
     "Name": "Apothecary's Cyan Vial",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Upon drinking a healing potion, all allies will recover 40 mana"
@@ -69,6 +74,7 @@
     "Name": "Aquaite Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins an aquatic scythe all around you"
@@ -84,6 +90,7 @@
     "Name": "Arcanite Emblem",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Maximum life increased by 20",
@@ -99,6 +106,7 @@
     "Name": "Archangel's Heart",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Maximum life increased by 20",
@@ -115,6 +123,7 @@
     "Name": "Ascension Statuette",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Taking fatal damage unleashes your inner spirit",
@@ -129,6 +138,7 @@
     "Name": "Belt of the Quick Response",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Healing an ally will significantly increase your movement speed"
@@ -141,6 +151,7 @@
     "Name": "Blood Harvest",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a scythe made of hungering blood all around you",
@@ -157,6 +168,7 @@
     "Name": "Spell Book: Blood Transfusion",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Damage dealt will return a life giving blood globule to you"
@@ -172,6 +184,7 @@
     "Name": "Bloom Guard",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a bloom bulb, that periodically generates booster spores",
@@ -185,6 +198,7 @@
     "Name": "Bone Baton",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a baton made of bone all around you"
@@ -200,6 +214,7 @@
     "Name": "Bone Reaper",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a magical scythe all around you"
@@ -215,6 +230,7 @@
     "Name": "Bountiful Harvest",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a fertile scythe all around you"
@@ -230,6 +246,7 @@
     "Name": "Celestial Crown",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Pressing the 'Special Ability' key will summon an incredibly powerful aura around your cursor \nCreating this aura costs 150 mana",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -247,6 +264,7 @@
     "Name": "Celestial Fragment",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Harmonious energy embraces this glowing fragment'"
     ],
@@ -259,6 +277,7 @@
     "Name": "Celestial Leggings",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -276,6 +295,7 @@
     "Name": "Celestial Vestment",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -292,6 +312,7 @@
     "Name": "Chi Lantern",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 2",
@@ -306,6 +327,7 @@
     "Name": "Christmas Cheer",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins the spirit of Christmas all around you",
@@ -323,6 +345,7 @@
     "Name": "Cleric Emblem",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "12% increased radiant damage",
@@ -336,6 +359,7 @@
     "Name": "Crimson Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a bloody scythe all around you"
@@ -351,6 +375,7 @@
     "Name": "Crystal Honey",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'The strange properties of honey are not easily extracted'",
@@ -366,6 +391,7 @@
     "Name": "Spell Book: Cure",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Cures all damage-inflicting debuffs off of the target ally under your cursor"
@@ -378,6 +404,7 @@
     "Name": "Aggression Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -392,6 +419,7 @@
     "Name": "Dark Intent",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Corrupts your radiant powers",
@@ -406,6 +434,7 @@
     "Name": "Dark Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a dark scythe all around you"
@@ -421,6 +450,7 @@
     "Name": "Protection Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -435,6 +465,7 @@
     "Name": "Lil' Devil's Wand",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a lil' devil to attack enemies",
@@ -451,6 +482,7 @@
     "Name": "Life Binder's Breastplate",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -467,6 +499,7 @@
     "Name": "Life Binder's Greaves",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -483,6 +516,7 @@
     "Name": "Life Binder's Mask",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Healing spells will shortly increase the healed players maximum life by 50",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -500,6 +534,7 @@
     "Name": "Divine Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 16",
@@ -513,6 +548,7 @@
     "Name": "Dragon Heart Wand",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a field of rage inducing magic",
@@ -527,6 +563,7 @@
     "Name": "Fallen Paladin's Cuirass",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "30% decreased non-radiant damage",
@@ -543,6 +580,7 @@
     "Name": "Fallen Paladin's Faceguard",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Taking damage heals nearby allies equal to 10% of the damage taken\nOnly one player may have this effect at once",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -558,6 +596,7 @@
     "Name": "Fallen Paladin's Greaves",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -574,6 +613,7 @@
     "Name": "Falling Twilight",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a scythe made of pure darkness all around you",
@@ -590,6 +630,7 @@
     "Name": "The Giga Needle",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Not recommended for squeamish people'",
@@ -604,6 +645,7 @@
     "Name": "The Good Book",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 3",
@@ -617,6 +659,7 @@
     "Name": "Gauze",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 8",
@@ -630,6 +673,7 @@
     "Name": "Hallowed Blessing",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Fires a pulse of light that blesses enemies with 'Holy Glare'",
@@ -646,6 +690,7 @@
     "Name": "Hallowed Paladin's Breastplate",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "20% decreased non-radiant damage",
@@ -661,6 +706,7 @@
     "Name": "Hallowed Paladin's Helmet",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Healing spells will heal an additional 5 life",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -676,6 +722,7 @@
     "Name": "Hallowed Paladin's Leggings",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -691,6 +738,7 @@
     "Name": "Hallowed Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a hallowed scythe all around you"
@@ -706,6 +754,7 @@
     "Name": "Heavenly Cloud Scepter",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals player life equal to your bonus healing",
@@ -723,6 +772,7 @@
     "Name": "Heretic Breaker",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing",
@@ -739,6 +789,7 @@
     "Name": "Holy Knight's Alloy",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Silently, they walk the dungeon halls'"
     ],
@@ -751,6 +802,7 @@
     "Name": "Holy Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally and player life by 5",
@@ -765,6 +817,7 @@
     "Name": "Iridescent Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing",
@@ -782,6 +835,7 @@
     "Name": "Liberation",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Cures nearly all debuffs off of the target ally under your cursor",
@@ -795,6 +849,7 @@
     "Name": "Life and Death",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'The line between is rather thin in Terraria'",
@@ -812,6 +867,7 @@
     "Name": "Life-Powered Energy Cell",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Without these, the grand mechanical creations are simple nuts and bolts...'"
     ],
@@ -824,6 +880,7 @@
     "Name": "Life Disperser",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing",
@@ -840,6 +897,7 @@
     "Name": "Life Essence Apparatus",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 10",
@@ -853,6 +911,7 @@
     "Name": "Life Pulse Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing, to a maximum of 5",
@@ -868,6 +927,7 @@
     "Name": "Life Quartz",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It pulses in time with your heart beat...'"
     ],
@@ -880,6 +940,7 @@
     "Name": "Immaculate Life Quartz Gem",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Maximum life increased by 10",
@@ -894,6 +955,7 @@
     "Name": "Life's Gift",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 2",
@@ -907,6 +969,7 @@
     "Name": "Life Surge Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 5",
@@ -921,6 +984,7 @@
     "Name": "Life Weaver's Garment",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "25% decreased non-radiant damage",
@@ -937,6 +1001,7 @@
     "Name": "Life Weaver's Hood",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Potent life energy emanates from you, periodically healing nearby hurt allies \nHeals ally life equal to your bonus healing",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -953,6 +1018,7 @@
     "Name": "Life Weaver's Leggings",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -969,6 +1035,7 @@
     "Name": "Energy staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -983,6 +1050,7 @@
     "Name": "Martyr's Chalice",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 100",
@@ -997,6 +1065,7 @@
     "Name": "Medical Bag",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 8",
@@ -1011,6 +1080,7 @@
     "Name": "Medicite",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -1021,6 +1091,7 @@
     "Name": "Mist Weaver",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 5",
@@ -1034,6 +1105,7 @@
     "Name": "Molecular Stabilizer",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 15",
@@ -1047,6 +1119,7 @@
     "Name": "Molten Thresher",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a flaming scythe all around you"
@@ -1062,6 +1135,7 @@
     "Name": "Morning Dew",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing",
@@ -1079,6 +1153,7 @@
     "Name": "Necrotic Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 3% of their maximum life",
@@ -1095,6 +1170,7 @@
     "Name": "Novice Cleric's Cowl",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "Successfully healing an ally with non-radiant healing spells will recover 2 life",
     "AddToolTip": [],
     "AddToolTip2": [
       "10% decreased non-radiant damage",
@@ -1110,6 +1186,7 @@
     "Name": "Novice Cleric's Pants",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "10% decreased non-radiant damage",
@@ -1125,6 +1202,7 @@
     "Name": "Novice Cleric's Tabard",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "10% decreased non-radiant damage",
@@ -1140,6 +1218,7 @@
     "Name": "Null-Zone Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a zone of negating magic at the cursors location",
@@ -1154,6 +1233,7 @@
     "Name": "Prophecy",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 6",
@@ -1168,6 +1248,7 @@
     "Name": "Purified Water",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Damage dealt increases the life regeneration of nearby hurt allies"
@@ -1183,6 +1264,7 @@
     "Name": "Purified Shard",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Cleansed of all evil'"
     ],
@@ -1195,6 +1277,7 @@
     "Name": "Renew Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -1209,6 +1292,7 @@
     "Name": "Spell Book: Renew",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'Heals minor wounds'",
@@ -1223,6 +1307,7 @@
     "Name": "Sentinel's Wand",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals all villagers around you"
@@ -1235,6 +1320,7 @@
     "Name": "Seraphim Idol",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "18% increased healing speed"
@@ -1247,6 +1333,7 @@
     "Name": "Midnight Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -1263,6 +1350,7 @@
     "Name": "Snack-o'-lantern",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a short-lived magical pumpkin, that pops after 5 seconds",
@@ -1276,6 +1364,7 @@
     "Name": "Staff of Sol",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 20",
@@ -1289,6 +1378,7 @@
     "Name": "Frenzy Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "An aura will surround your cursor for 15 seconds",
@@ -1303,6 +1393,7 @@
     "Name": "Spirit Water Pouch",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 8",
@@ -1317,6 +1408,7 @@
     "Name": "Spirit Bender's Staff",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Steals life equal to your bonus healing",
@@ -1333,6 +1425,7 @@
     "Name": "Support Sash",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Healing an ally will significantly increase your movement speed",
@@ -1346,6 +1439,7 @@
     "Name": "Syringe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life by 5",
@@ -1359,6 +1453,7 @@
     "Name": "Templar's Circlet",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "If an ally is below half health, you will gain increased healing abilities",
     "AddToolTip": [],
     "AddToolTip2": [
       "10% decreased non-radiant damage",
@@ -1373,6 +1468,7 @@
     "Name": "Templar's Leggings",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "10% decreased non-radiant damage",
@@ -1388,6 +1484,7 @@
     "Name": "Templar's Tabard",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "15% decreased non-radiant damage",
@@ -1403,6 +1500,7 @@
     "Name": "Terra Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a scythe powered by Terraria itself all around you",
@@ -1419,6 +1517,7 @@
     "Name": "Tesla Defibrillator",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "'It's alive!'",
@@ -1434,6 +1533,7 @@
     "Name": "Pill",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "Throws out a bouncing pill",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": [
@@ -1447,6 +1547,7 @@
     "Name": "Tranquil Lyre",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Heals ally life equal to your bonus healing",
@@ -1463,6 +1564,7 @@
     "Name": "True Blood Harvest",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a hemo-scythe all around you",
@@ -1480,6 +1582,7 @@
     "Name": "True Falling Twilight",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins a nega-scythe all around you",
@@ -1497,6 +1600,7 @@
     "Name": "True Hallowed Scythe",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Rapidly spins an enchanted scythe all around you"
@@ -1512,6 +1616,7 @@
     "Name": "Twinkle",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Summons a spirit composed of distant stars",
@@ -1526,6 +1631,7 @@
     "Name": "Unholy Shards",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'It's dark power seems to come out only during the blood moon...'"
     ],
@@ -1538,6 +1644,7 @@
     "Name": "Verdant Ornament",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "8% increased healing speed",
@@ -1551,6 +1658,7 @@
     "Name": "Wynebgwrthucher",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Grants immunity to knockback",

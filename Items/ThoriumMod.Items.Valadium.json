@@ -5,6 +5,7 @@
     "Name": "Valadium Axe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Valadium Battleaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will blast enemies with inter-dimensional energy"
     ],
@@ -27,6 +29,7 @@
     "Name": "Valadium Bow",
     "ToolTip": "Arrows shot from this bow will temporarily blast enemies with inter-dimensional energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -37,6 +40,7 @@
     "Name": "Valadium Breastplate",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% increased ranged critical strike chance",
       "10% increased ranged damage",
@@ -51,6 +55,7 @@
     "Name": "Valadium Chunk",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'From another plane of existence'"
     ],
@@ -63,6 +68,7 @@
     "Name": "Valadium Foe Blaster",
     "ToolTip": "Bullets shot from this gun will temporarily blast enemies with inter-dimensional energy",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -73,6 +79,7 @@
     "Name": "Valadium Greaves",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "2% increased ranged critical strike chance",
       "5% increased ranged damage",
@@ -87,6 +94,7 @@
     "Name": "Valadium Hammer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -97,6 +105,7 @@
     "Name": "Valadium Helmet",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "Reverse gravity by pressing UP. While reversed, ranged damage is increased by 12%!",
     "AddToolTip": [
       "6% increased ranged critical strike chance",
       "5% increased ranged damage"
@@ -110,6 +119,7 @@
     "Name": "Valadium Ingot",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Holds gravitational power'"
     ],
@@ -122,6 +132,7 @@
     "Name": "Valadium Pickaxe",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +143,7 @@
     "Name": "Valadium Slicer",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will blast enemies with inter-dimensional energy",
       "Right Click - Swings the sword slower, but for stronger damage, knockback and on-hit effect"
@@ -145,6 +157,7 @@
     "Name": "Valadium Spear",
     "ToolTip": "",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will blast enemies with inter-dimensional energy"
     ],
@@ -157,6 +170,7 @@
     "Name": "Valadium Staff",
     "ToolTip": "Unleashes a slowly moving singularity that absorbs matter from all around it",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Attacks will blast enemies with inter-dimensional energy briefly"
     ],

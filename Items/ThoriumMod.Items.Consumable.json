@@ -5,6 +5,7 @@
     "Name": "Accuracy Potion",
     "ToolTip": "Increases critical strike chance slightly",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -15,6 +16,7 @@
     "Name": "Apple Pie",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Home-made and just asking to be eaten!'",
       "Will increase life regeneration for a time if eaten directly",
@@ -29,6 +31,7 @@
     "Name": "Blood Potion",
     "ToolTip": "Increases melee, mining and movement speed",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -39,6 +42,7 @@
     "Name": "Blood Root Goop",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Note: Does not actually contain root goop'",
       "Will increase danger detection for a time",
@@ -54,6 +58,7 @@
     "Name": "Calcium Shake",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Not very tasty, but is effective!'",
       "Will increase defense for a time if eaten directly",
@@ -68,6 +73,7 @@
     "Name": "Carrot Salad",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Fresh vegetables and some nice dressing!'",
       "Will increase vision for a time if eaten directly",
@@ -82,6 +88,7 @@
     "Name": "Combat Potion",
     "ToolTip": "Increases some melee capabilities",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -92,6 +99,7 @@
     "Name": "Conflagration Potion",
     "ToolTip": "You are set ablaze, but damage is increased moderately",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -102,6 +110,7 @@
     "Name": "Explosive Coating",
     "ToolTip": "Throwing attacks will have a chance to detonate, hitting nearby enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -112,6 +121,7 @@
     "Name": "Deep Freeze Coating",
     "ToolTip": "Throwing attacks will have a chance to significantly hinder the hit enemies movement",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -122,6 +132,7 @@
     "Name": "Frost-Heart Elixir",
     "ToolTip": "Freezes you in place, but massively increases health regeneration and defense",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -132,6 +143,7 @@
     "Name": "Blueberry Salad",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Made with fresh lettuce and locally picked blueberries!'",
       "Will increase mana regeneration for a time",
@@ -147,6 +159,7 @@
     "Name": "Glowing Souffle",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Even after eating them, their glow doesn't go away'",
       "Will increase light emission for a time",
@@ -162,6 +175,7 @@
     "Name": "Gorgan Coating",
     "ToolTip": "Throwing attacks will have a chance to petrify enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -172,6 +186,7 @@
     "Name": "Gusty Leaf",
     "ToolTip": "Increases jump height and negates fall damage",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -182,6 +197,7 @@
     "Name": "Hamburger",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Grilled to perfection!'",
       "Will increase knockback for a time if eaten directly",
@@ -196,6 +212,7 @@
     "Name": "Holy Potion",
     "ToolTip": "-Healer Class-",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [
       "Increases the potency of healing spells"
@@ -208,6 +225,7 @@
     "Name": "Ice Cream",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'A nice cold, sweet treat!'",
       "Will increase magic damage for a time if eaten directly",
@@ -222,6 +240,7 @@
     "Name": "Jelly",
     "ToolTip": "'Should you really eat this stuff?'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Heals some additional health afterwards"
     ],
@@ -234,6 +253,7 @@
     "Name": "Lesser Life Water",
     "ToolTip": "'Fuelled with life giving properties'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Grants bonus life regeneration and maximum life"
     ],
@@ -246,6 +266,7 @@
     "Name": "Life Fruit Platter",
     "ToolTip": "Heals 100 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'One of the few actually edible things in Terraria...'",
       "Will increase maximum life for a time",
@@ -261,6 +282,7 @@
     "Name": "Life Leech Coating",
     "ToolTip": "Throwing attacks will have a chance to heal you",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -271,6 +293,7 @@
     "Name": "Life Water",
     "ToolTip": "'Fuelled with intense life giving properties'",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "Grants bonus life regeneration and maximum life"
     ],
@@ -283,6 +306,7 @@
     "Name": "Mana Berry",
     "ToolTip": "The cook might be interested in this",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -293,6 +317,7 @@
     "Name": "Mana Delight",
     "ToolTip": "Heals 125 mana",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'You can taste the energy in every bite'",
       "Does not inflict mana sickness",
@@ -307,6 +332,7 @@
     "Name": "Mean n' Green Stew",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Multiple green things in a bowl, how can you go wrong?'",
       "Will increase critical strike chance for a time",
@@ -322,6 +348,7 @@
     "Name": "The Mistake",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The dish itself is not a mistake, eating it however...'",
       "Will increase enemy spawn rates for a time",
@@ -337,6 +364,7 @@
     "Name": "Prickly Jam",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'When prepared correctly, the pink pear wont induce hallucinations!'",
       "Will increase attack speed for a time",
@@ -352,6 +380,7 @@
     "Name": "Questionable Rib Rack",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'How the cook made this edible is beyond you'",
       "Will increase enemy spawn rates for a time",
@@ -367,6 +396,7 @@
     "Name": "Sauteed Shroom",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Just a little heat and a little fat can go a long way'",
       "Will increase minion capacity for a time",
@@ -382,6 +412,7 @@
     "Name": "Sea Spaghetti",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Kelp is about as close to noodles as you're gonna get here'",
       "Will increase water movement for a time",
@@ -397,6 +428,7 @@
     "Name": "Silver Tongue Potion",
     "ToolTip": "With a silver tongue, bought items will be cheaper",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -407,6 +439,7 @@
     "Name": "Sky Bloom Cocktail",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'The bright blue flower serves as a perfect umbrella for the drink!'",
       "Will decrease fall speed for a time",
@@ -422,6 +455,7 @@
     "Name": "Slice of Cake",
     "ToolTip": "Heals 65 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Sweet frosting with a cherry on top!'",
       "Will increase movement speed for a time if eaten directly",
@@ -436,6 +470,7 @@
     "Name": "Sunny Day Lemonade",
     "ToolTip": "Heals 85 life",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [
       "'Nothing beats an ice cold glass of lemonade'",
       "Will increase your happiness for a time",
@@ -451,6 +486,7 @@
     "Name": "Toxic Coating",
     "ToolTip": "Throwing attacks will have a chance to poison enemies",
     "ToolTip2": "",
+    "SetBonus": "",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
