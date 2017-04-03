@@ -1,0 +1,34 @@
+[
+  {
+    "TypeName": "Abyssion",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Method": "PreNPCLoot",
+    "Contents": [
+      "Abyssion's shell violently cracks!"
+    ]
+  },
+  {
+    "TypeName": "AbyssionCracked",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Method": "PreNPCLoot",
+    "Contents": [
+      "Abyssion breaks free of its ancient prison!"
+    ]
+  },
+  {
+    "TypeName": "AbyssionCracked",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The toxic haze of the depths has been lifted..."
+    ]
+  },
+  {
+    "TypeName": "AbyssionReleased",
+    "Namespace": "ThoriumMod.NPCs.Depths",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The toxic haze of the depths has been lifted..."
+    ]
+  }
+]

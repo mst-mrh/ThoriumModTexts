@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "BloodMoonMedallion",
+    "Namespace": "ThoriumMod.Items.Misc",
+    "Method": "UseItem",
+    "Contents": [
+      "The night sky turns crimson..."
+    ]
+  }
+]

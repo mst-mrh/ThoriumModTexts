@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "Lich",
+    "Namespace": "ThoriumMod.NPCs.Lich",
+    "Method": "CheckDead",
+    "Contents": [
+      "All things succumb to death... You are no different, fools!"
+    ]
+  }
+]

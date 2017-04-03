@@ -1,0 +1,20 @@
+[
+  {
+    "TypeName": "ThoriumGlobalNPC",
+    "Namespace": "ThoriumMod.NPCs",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The pockets of Granite and Marble in your world tremble...",
+      "Your world has been enchanted with Valadium!",
+      "Your world has been sundered with Lodestone!",
+      "Your world has been sundered with Lodestone!",
+      "Your world has been enchanted with Valadium!",
+      "Your world has been enchanted with an abundance of Valadium!",
+      "Your world has been sundered with an abundance of Lodestone!",
+      "Your world has been sundered with an abundance of Lodestone!",
+      "Your world has been enchanted with an abundance of Valadium!",
+      "Plantera's luminescent energy brightens the earth...",
+      "Something stirs in the Aquatic Depths..."
+    ]
+  }
+]

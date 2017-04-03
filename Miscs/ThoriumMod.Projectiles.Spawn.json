@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "RagSpawn",
+    "Namespace": "ThoriumMod.Projectiles.Spawn",
+    "Method": "AI",
+    "Contents": [
+      "Terraria Trembles..."
+    ]
+  }
+]

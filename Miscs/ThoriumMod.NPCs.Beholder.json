@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "FallenDeathBeholder",
+    "Namespace": "ThoriumMod.NPCs.Beholder",
+    "Method": "PreNPCLoot",
+    "Contents": [
+      "Coznix enrages... The void hungers!"
+    ]
+  }
+]

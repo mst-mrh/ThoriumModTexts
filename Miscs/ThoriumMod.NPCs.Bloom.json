@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "CorpseBloom",
+    "Namespace": "ThoriumMod.NPCs.Bloom",
+    "Method": "NPCLoot",
+    "Contents": [
+      "The elusive Corpse Bloom withers and decays away..."
+    ]
+  }
+]

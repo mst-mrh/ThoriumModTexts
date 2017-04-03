@@ -1,0 +1,10 @@
+[
+  {
+    "TypeName": "BuriedSpawn",
+    "Namespace": "ThoriumMod.NPCs.Buried",
+    "Method": "HitEffect",
+    "Contents": [
+      "The Buried Champion has awoken!"
+    ]
+  }
+]
