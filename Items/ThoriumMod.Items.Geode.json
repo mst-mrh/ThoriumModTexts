@@ -24,7 +24,7 @@
   {
     "TypeName": "DazzleArrow",
     "Namespace": "ThoriumMod.Items.Geode",
-    "Name": "缭乱箭",
+    "Name": "眼花箭",
     "ToolTip": "攻击有几率短暂地使敌人混乱",
     "ToolTip2": "",
     "SetBonus": "",
@@ -101,7 +101,7 @@
     "Name": "晶体头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "You can detect ore, chests and other treasures",
+    "SetBonus": "你获得探矿药剂效果",
     "AddToolTip": [
       "'由最昂贵的材料制成'",
       "你点亮了在你周围的区域"

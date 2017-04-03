@@ -18,7 +18,7 @@
     "Name": "弓弩大师兜帽",
     "ToolTip": "'日月无光...'",
     "ToolTip2": "",
-    "SetBonus": "Your damage has a 25% chance to completely duplicate itself",
+    "SetBonus": "你的伤害25%几率完全复制自己造成加倍打击",
     "AddToolTip": [
       "提升24%箭矢伤害",
       "25%几率不消耗弹药",
@@ -86,7 +86,7 @@
     "Name": "神枪手套装",
     "ToolTip": "'生命将被剔除...'",
     "ToolTip2": "",
-    "SetBonus": "Your ranged damage has a 2% chance to completely eradicate the hit target\nThis effect can only occur on enemies with less than 7500 current life",
+    "SetBonus": "你的远程伤害2%直接终结敌人\n此效果只作用于7500血以下的目标",
     "AddToolTip": [
       "提升24%子弹和火箭伤害",
       "25%几率不消耗弹药",

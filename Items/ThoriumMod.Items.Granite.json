@@ -68,7 +68,7 @@
     "Name": "花岗岩头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Immune to intense heat and enemy knockback, but your movement speed is slowed down greatly",
+    "SetBonus": "免疫灼炎和敌人的击退但你的移动速度大幅下降",
     "AddToolTip": [
       "'防御充能'"
     ],

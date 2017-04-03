@@ -83,7 +83,7 @@
     "Name": "耐钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Damage taken reduced by 12%",
+    "SetBonus": "伤害减免12%",
     "AddToolTip": [
       "'大师锻铸'",
       "增加5%暴击概率"
@@ -225,7 +225,7 @@
     "Name": "钢头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Damage taken reduced by 10%",
+    "SetBonus": "减少10%所受到的伤害",
     "AddToolTip": [
       "'匠师锻铸'"
     ],

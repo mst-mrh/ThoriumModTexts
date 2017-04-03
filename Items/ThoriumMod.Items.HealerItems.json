@@ -246,7 +246,7 @@
     "Name": "大天使光环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Pressing the 'Special Ability' key will summon an incredibly powerful aura around your cursor \nCreating this aura costs 150 mana",
+    "SetBonus": "按'特殊能力'键会在鼠标处召唤一个蕴含巨大能量的光环\n制造光环消耗150蓝\n队友获得大幅度增幅",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -516,7 +516,7 @@
     "Name": "生命束缚者面具",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Healing spells will shortly increase the healed players maximum life by 50",
+    "SetBonus": "治疗法术的释放会短暂增加施法者的50最大生命",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -580,7 +580,7 @@
     "Name": "堕落圣骑士面甲",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Taking damage heals nearby allies equal to 10% of the damage taken\nOnly one player may have this effect at once",
+    "SetBonus": "收到的10%伤害会治疗友军\n每次只有一个玩家能接受此效果",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少20%非光辉伤害",
@@ -706,7 +706,7 @@
     "Name": "圣骑士头盔",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Healing spells will heal an additional 5 life",
+    "SetBonus": "治疗法术会治疗额外5点生命",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -1001,7 +1001,7 @@
     "Name": "生命编织者兜帽",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Potent life energy emanates from you, periodically healing nearby hurt allies \nHeals ally life equal to your bonus healing",
+    "SetBonus": "散发出强大的生命能源周期治疗受伤的友军\n治疗量等于你的额外治疗量",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少15%非光辉伤害",
@@ -1170,7 +1170,7 @@
     "Name": "牧师学徒头巾",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Successfully healing an ally with non-radiant healing spells will recover 2 life",
+    "SetBonus": "非光辉伤害的治疗会回复你两点血",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",
@@ -1453,7 +1453,7 @@
     "Name": "圣殿骑士头环",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "If an ally is below half health, you will gain increased healing abilities",
+    "SetBonus": "如果一个队友在半血以下，你的治疗能力会提升",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少10%非光辉伤害",

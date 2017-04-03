@@ -134,7 +134,7 @@
     "Name": "暗金骑士护面",
     "ToolTip": "'光鲜亮丽又耐用'",
     "ToolTip2": "",
-    "SetBonus": "Nothing will stop your movement! Double tap to dash!",
+    "SetBonus": "无人可阻挡你的脚步！（双击方向键冲刺）",
     "AddToolTip": [
       "增加10%的移动速度",
       "增加3破甲"

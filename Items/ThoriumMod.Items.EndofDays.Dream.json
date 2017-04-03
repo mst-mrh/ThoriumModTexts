@@ -20,7 +20,7 @@
     "Name": "织梦者头盔",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Pressing the 'Special Ability' key will spend 200 mana and bend the very fabric of reality\nEnemies will be heavily slowed and take 15% more damage from all sources\nAllies will receive greatly increased movement and attack speed",
+    "SetBonus": "按'特殊技能'键会消耗200点蓝扭曲重铸现实\n敌人会被严重减速并受到额外15%的伤害\n友军会大幅提升攻速和移速",
     "AddToolTip": [],
     "AddToolTip2": [
       "污染你的光辉力量",
@@ -37,7 +37,7 @@
     "Name": "织梦者兜帽",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Pressing the 'Special Ability' key will spend 200 mana and place you within the Dream\nWhile in the Dream, healed allies will become briefly invulnerable and be cured of all debuffs",
+    "SetBonus": "按'特殊技能'键会消耗200点蓝并令你入梦\n在梦中，友军会免疫大多伤害并治疗大多debuff",
     "AddToolTip": [],
     "AddToolTip2": [
       "减少25%非光辉伤害",

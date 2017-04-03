@@ -119,7 +119,7 @@
     "Name": "丝绸帽子",
     "ToolTip": "提升2%的魔法暴击率",
     "ToolTip2": "最大魔法上限增加 20",
-    "SetBonus": "Magic Damage increased by 7%",
+    "SetBonus": "魔法伤害增加7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -130,7 +130,7 @@
     "Name": "丝绸帽子",
     "ToolTip": "提升2%的魔法暴击率",
     "ToolTip2": "魔法伤害增加 2",
-    "SetBonus": "Magic Damage increased by 7%",
+    "SetBonus": "魔法伤害增加7%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -167,7 +167,7 @@
     "Name": "丝绸缠巾",
     "ToolTip": "提升5%召唤物的击退",
     "ToolTip2": "召唤伤害增加 2",
-    "SetBonus": "Increases your max number of minions by 1",
+    "SetBonus": "增加1召唤栏",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

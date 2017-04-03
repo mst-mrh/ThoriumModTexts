@@ -80,7 +80,7 @@
     "Name": "深渊引潮者头盔",
     "ToolTip": "'变得像潮汐那样无可阻挡...'",
     "ToolTip2": "",
-    "SetBonus": "Pressing the 'Special Ability' key will trigger Ocean's Buffer, turning all damage taken into healing",
+    "SetBonus": "按'特殊技能'键会获得海洋庇护buff，将伤害转化为治疗",
     "AddToolTip": [
       "增加12%近战伤害",
       "伤害减免15%",
@@ -95,7 +95,7 @@
     "Name": "深渊引潮者王冠",
     "ToolTip": "“让深渊的怒火降临到你的敌人身上”",
     "ToolTip2": "",
-    "SetBonus": "Throwing damage has a 33% chance to unleash aquatic homing daggers all around you",
+    "SetBonus": "投掷伤害33%释放水元素匕首围绕身周",
     "AddToolTip": [
       "增加40%投掷伤害",
       "50%几率不消耗投掷物",

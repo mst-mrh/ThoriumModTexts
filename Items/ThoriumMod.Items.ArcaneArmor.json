@@ -64,7 +64,7 @@
     "Name": "花瓣兜帽",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Magic damage might puff hit enemies with a poisonous spore cloud",
+    "SetBonus": "魔法伤害可能会喷出一团剧毒孢子云",
     "AddToolTip": [
       "最大生命值提升5",
       "最大生命值提升10",
@@ -175,7 +175,7 @@
     "Name": "致危头盔",
     "ToolTip": "'来来来，变得危险些...'",
     "ToolTip2": "",
-    "SetBonus": "You are immune to most damage-inflicting debuffs",
+    "SetBonus": "你免疫大部分造成伤害的Debuff",
     "AddToolTip": [
       "受到伤害会增加些许近战能力"
     ],
@@ -273,7 +273,7 @@
     "Name": "飞羽帽",
     "ToolTip": "'天空就是你的游乐园'",
     "ToolTip2": "",
-    "SetBonus": "Your flight time is moderately increased",
+    "SetBonus": "你的飞行时间适量增加了",
     "AddToolTip": [
       "增加跳跃高度"
     ],
@@ -424,7 +424,7 @@
     "Name": "紫衫木头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "After four consecutive non-critical strikes, your next\nranged attack will mini-crit for 150% damage",
+    "SetBonus": "如果没有暴击四次 \n你的第五次远程攻击会造成额外150%的伤害",
     "AddToolTip": [
       "增加4%远程伤害"
     ],

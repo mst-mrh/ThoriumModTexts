@@ -86,7 +86,7 @@
     "Name": "泰坦帽",
     "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
-    "SetBonus": "Damage done increased by 18%!",
+    "SetBonus": "伤害提升18%",
     "AddToolTip": [
       "增加80魔法值",
       "减少15%蓝耗",
@@ -101,7 +101,7 @@
     "Name": "泰坦头盔",
     "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
-    "SetBonus": "Damage done increased by 18%!",
+    "SetBonus": "伤害提升18%",
     "AddToolTip": [
       "提升12%的近战速度",
       "延长受伤后的无敌时间",
@@ -129,7 +129,7 @@
     "Name": "泰坦面罩",
     "ToolTip": "'灌注了原始之力'",
     "ToolTip2": "",
-    "SetBonus": "Damage done increased by 18%!",
+    "SetBonus": "伤害提升18%",
     "AddToolTip": [
       "你的远程攻击增强了",
       "25%几率不消耗弹药",

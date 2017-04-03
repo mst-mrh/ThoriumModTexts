@@ -120,7 +120,7 @@
     "Name": "血肉面具",
     "ToolTip": "'与你的身体融为了一体'",
     "ToolTip2": "",
-    "SetBonus": "Consecutive attacks against enemies might drop flesh, which grants bonus life and damage",
+    "SetBonus": "对敌人的有效打击会掉落肉块，捡起会回复血量并增加伤害",
     "AddToolTip": [
       "提升6%的移动速度"
     ],

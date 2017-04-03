@@ -133,7 +133,7 @@
     "Name": "元素之灵头盔",
     "ToolTip": "'在你的强大力量面前一切都会被击垮...'",
     "ToolTip2": "",
-    "SetBonus": "The energy of Terraria seeks to protect you",
+    "SetBonus": "泰拉瑞亚的元素之灵正在保佑着你",
     "AddToolTip": [
       "增加15点最大生命",
       "增加生命恢复量1",
@@ -189,16 +189,10 @@
   {
     "TypeName": "TerrariumLongbow",
     "Namespace": "ThoriumMod.Items.Terrarium",
-<<<<<<< HEAD
     "Name": "元素长弓",
     "ToolTip": "不消耗燃烧箭",
     "ToolTip2": "额外射出两支元素之箭",
-=======
-    "Name": "Terrarium Longbow",
-    "ToolTip": "Does not consume fired arrows",
-    "ToolTip2": "Fires two additional terrarium arrows",
     "SetBonus": "",
->>>>>>> english
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []

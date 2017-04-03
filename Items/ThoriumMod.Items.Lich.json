@@ -94,7 +94,7 @@
     "Name": "巫妖头套",
     "ToolTip": "'拥抱死亡...'",
     "ToolTip2": "",
-    "SetBonus": "Throwing damage will decrease enemy defense",
+    "SetBonus": "投掷伤害会减少敌人防御",
     "AddToolTip": [
       "提升15%投掷伤害",
       "33%的概率不消耗投掷物"

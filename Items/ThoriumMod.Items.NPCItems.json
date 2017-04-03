@@ -983,6 +983,17 @@
     "ModifyTooltips": []
   },
   {
+    "TypeName": "ShinyObject",
+    "Namespace": "ThoriumMod.Items.NPCItems",
+    "Name": "杯中灵",
+    "ToolTip": "召唤一个闪着金光的幽灵跟着你",
+    "ToolTip2": "",
+    "SetBonus": "",
+    "AddToolTip": [],
+    "AddToolTip2": [],
+    "ModifyTooltips": []
+  },
+  {
     "TypeName": "SkeletonRepellent",
     "Namespace": "ThoriumMod.Items.NPCItems",
     "Name": "驱虫剂：骷髅",

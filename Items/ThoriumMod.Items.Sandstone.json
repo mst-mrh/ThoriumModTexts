@@ -82,7 +82,7 @@
     "Name": "砂石头盔",
     "ToolTip": "'由沙暴封装而成'",
     "ToolTip2": "",
-    "SetBonus": "Desert winds will augment your boots, giving you a double jump",
+    "SetBonus": "沙尘暴会增幅你的靴子，让你进行二段跳",
     "AddToolTip": [
       "增加2%移速",
       "增加5%投掷伤害"

@@ -96,7 +96,7 @@
     "Name": "狂战士面具",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Damage is increased based on missing life",
+    "SetBonus": "伤害根据已损失血量而提升",
     "AddToolTip": [
       "伤害减免3%",
       "增加生命恢复量1",

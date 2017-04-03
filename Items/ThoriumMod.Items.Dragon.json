@@ -54,7 +54,7 @@
     "Name": "绿龙面具",
     "ToolTip": "'由神话中的鳞片制作而成'",
     "ToolTip2": "",
-    "SetBonus": "Your attacks have a chance to unleash an explosion of Dragon's Flame",
+    "SetBonus": "你的攻击有几率释放一团爆炸性的龙息",
     "AddToolTip": [
       "增加7%暴击"
     ],

@@ -96,7 +96,7 @@
     "Name": "魔血头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Maximum life increased by 70, enemies are more likely to \ntarget you and damage reduction increased by 15%",
+    "SetBonus": "最大生命上限增加70 \n增加你的嘲讽值",
     "AddToolTip": [
       "'感受污染之血的鼓舞吧'",
       "增加10%暴击",

@@ -90,7 +90,7 @@
     "Name": "熔岩头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Fire surrounds your armour and melee weapons\nDamage done against burning and singed enemies is increased by 5%",
+    "SetBonus": "火焰会缠绕在你的护甲和近战武器上\n对灼烧着的敌人造成额外5%伤害",
     "AddToolTip": [
       "'爆发巨大的热能'",
       "增加3%的近战伤害"

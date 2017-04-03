@@ -154,7 +154,7 @@
     "Name": "荧光面罩",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Most of your ranged weapons take on special properties \nEvery 5 bullets fired will unleash a multi-hit illumite bullet \nEvery 4 arrows fired will unleash a barrage of illumite energy \nEvery 3 rockets fired will unleash an illumite missile",
+    "SetBonus": "你的大多数远程武器获得特殊效果\n每发射5发子弹后会释放多重打击的荧光弹\n每射出4发箭矢后会释放一到荧光能量箭n\\每3发火箭后会释放1个荧光炮",
     "AddToolTip": [
       "提升12%远程暴击率",
       "提升10%远程伤害"

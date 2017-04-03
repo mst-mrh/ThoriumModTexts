@@ -69,7 +69,7 @@
     "Name": "磁极护盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "As health decreases, damage reduction increases",
+    "SetBonus": "血量越低，伤害减免量越高",
     "AddToolTip": [
       "增加2%近战暴击率",
       "增加4%近战伤害",

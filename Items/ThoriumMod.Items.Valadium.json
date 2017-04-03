@@ -105,7 +105,7 @@
     "Name": "虚金头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Reverse gravity by pressing UP. While reversed, ranged damage is increased by 12%!",
+    "SetBonus": "按上键扭转重力，当扭转重力时，远程伤害提升12%",
     "AddToolTip": [
       "提升6%远程暴击率",
       "增加5%的远程伤害"

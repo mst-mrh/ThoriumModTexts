@@ -131,7 +131,7 @@
     "Name": "深渊潜游者头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "You gain each of your emanating effects as well",
+    "SetBonus": "你也获得了这些光环效果",
     "AddToolTip": [
       "'变成自私的保卫者'",
       "增加6%暴击",
@@ -285,7 +285,7 @@
     "Name": "光耀头盔",
     "ToolTip": "-牧师职业-",
     "ToolTip2": "",
-    "SetBonus": "Your radiant heals have a 10% chance to critically strike",
+    "SetBonus": "你的光辉伤害10%暴击",
     "AddToolTip": [],
     "AddToolTip2": [
       "增加16%光辉伤害"
@@ -380,7 +380,7 @@
     "Name": "娜迦面具",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Every 75 mana spent will dramatically increase your magic damage and casting speed briefly",
+    "SetBonus": "每消耗75蓝都会大幅度提升你的魔法伤害和施法速度",
     "AddToolTip": [
       "'与原始的海洋法师交流'",
       "增加60魔法值",
@@ -544,7 +544,7 @@
     "Name": "猎潮者帽",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Ranged critical strikes bring forth vile tentacles to attack hit enemies",
+    "SetBonus": "远程伤害会召唤一些触手打击敌人",
     "AddToolTip": [
       "'不只是为了捕鱼'",
       "提升4%远程暴击",

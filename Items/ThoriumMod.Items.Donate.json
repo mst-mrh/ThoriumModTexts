@@ -27,7 +27,7 @@
     "Name": "深海行者兜帽",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Detecting nearby valuables",
+    "SetBonus": "探测周围有价值之物",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
@@ -180,7 +180,7 @@
     "Name": "冰法魂星",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Magic damage will duplicate itself for 33% of the original damage and slow the hit target",
+    "SetBonus": "魔法攻击会复制自己并造成原本的33%的伤害",
     "AddToolTip": [
       "增加10%魔法伤害",
       "减少15%蓝耗",
@@ -268,7 +268,7 @@
     "Name": "兽皮头套",
     "ToolTip": "'呼唤你本性的狂野吧'",
     "ToolTip2": "",
-    "SetBonus": "Getting struck in combat will grant you 'Alpha's Roar' and release fangs all around you",
+    "SetBonus": "收到打击后会为你施加'阿尔法咆哮'buff并有兽牙环绕在周身",
     "AddToolTip": [
       "增加5%近战暴击",
       "增加2召唤物"
@@ -813,7 +813,7 @@
     "Name": "真实粉碎者之凝视",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Your magic damage has a 33% chance to unleash bolts of bouncing energy",
+    "SetBonus": "魔法伤害会释放一团不断弹射的能量",
     "AddToolTip": [
       "增加10%魔法伤害",
       "增加3生命恢复量",

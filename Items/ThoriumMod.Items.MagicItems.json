@@ -345,7 +345,7 @@
     "Name": "白骑士面罩",
     "ToolTip": "提升8%的魔法伤害",
     "ToolTip2": "",
-    "SetBonus": "Magical attacks have a 33% chance to recover some mana",
+    "SetBonus": "魔法伤害有33%几率恢复一些魔法值",
     "AddToolTip": [
       "提升5%的魔法伤害"
     ],

@@ -83,7 +83,7 @@
     "Name": "先知头盔",
     "ToolTip": "",
     "ToolTip2": "",
-    "SetBonus": "Maximum mana set to 300\nIf usable mana ever exceeds 200, you will become 'Unstable'",
+    "SetBonus": "最大魔法提高到300\n如果魔法量超过200，你会变得'不稳定'",
     "AddToolTip": [
       "增加魔法恢复量",
       "提升5%魔法伤害",

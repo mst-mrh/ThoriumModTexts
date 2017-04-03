@@ -133,7 +133,7 @@
     "Name": "'和自然融为一体'",
     "ToolTip": "树人腿甲",
     "ToolTip2": "",
-    "SetBonus": "Minion attacks have a 33% chance to heal you lightly",
+    "SetBonus": "召唤物伤害33%轻微治疗你",
     "AddToolTip": [
       "增加你的召唤物上限",
       "增加8%的召唤物伤害"
@@ -147,7 +147,7 @@
     "Name": "陨星面具",
     "ToolTip": "提升12%的召唤伤害",
     "ToolTip2": "",
-    "SetBonus": "Minion attacks have a chance to unleash plasma on hit",
+    "SetBonus": "召唤物攻击几率释放相位打击",
     "AddToolTip": [
       "增加你的召唤物上限"
     ],

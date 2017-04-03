@@ -229,7 +229,7 @@
     "Name": "瑟银头盔",
     "ToolTip": "'有能量在其上涌动'",
     "ToolTip2": "增加 4% 暴击率",
-    "SetBonus": "Damage done increased by 10%",
+    "SetBonus": "伤害提升10%",
     "AddToolTip": [],
     "AddToolTip2": [],
     "ModifyTooltips": []
